@@ -6,14 +6,14 @@ def unique_function(ticker, t1, t2):
 
 
 
-mnths = 50
+t1, t2 = set_params(__file__)
 
 for item in os.listdir(os.getcwd()):
     if 'csv' in item:
         if 'combination' not in item.lower():
             os.remove(os.path.join(os.getcwd(), item))
 
-tickers = file_grab(r"C:\usr\FinancialAnalysisTool_Portfolio\Financial_Tools\dividend_aristocrats.txt")
+tickers = file_grab(os.getcwd() + "\dividend_aristocrats.txt")
 y = 0
 start = time.time()
 
@@ -27,7 +27,7 @@ print('Downloading Data...')
 
 for ticker in tickers.split(','):
     assets = []
-    x = unique_function(ticker, int(time.time() - (60*60*24*mnths*30)), int(time.time()))
+    x = unique_function(ticker, t1, t2)
 
 print('Download complete for:\n' + '\n'.join(tickers.split(',')))
 

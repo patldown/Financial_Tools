@@ -169,6 +169,29 @@ def regression_analysis_file_write():
         csvwriter.writerow(line)
     handle.close()
 
+def set_params(file_name):
+
+    print('### Portfolio Analyis ###\n')
+
+    t2 = time.time()
+    t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
+    w_capital = input('Working capital: ')
+    ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
+
+    short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
+    if short == 'N':
+        short = False
+    elif short == 'Y':
+        short = True
+        
+    handle = open('setup.info', 'w')
+    handle.write(os.path.basename(file_name).split('.')[0] + '\n')
+    handle.write(w_capital + '\n')
+    handle.write(ror + '\n')
+    handle.write(str(short) + '\n')
+    handle.close()
+    
+    return int(t1), int(t2)
 
 def reg_call():
     import subprocess
