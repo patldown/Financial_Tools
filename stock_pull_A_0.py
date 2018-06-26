@@ -70,7 +70,8 @@ class asset:
                             data = datum_string.strip('"').split('"')
 
                             self.close_prices.append(float(data[9]))
-                            self.dates.append(mdates.datestr2num(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m-%d-%Y')))
+                            #print(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
+                            self.dates.append(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
 
                         except:
                             0
