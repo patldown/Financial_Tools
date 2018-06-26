@@ -1,4 +1,6 @@
-scr_dividend_port
+scr_full_port
 50000
 .1
+False
+False
 False

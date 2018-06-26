@@ -25,6 +25,7 @@ class asset:
 
         self.link()
         self.c_returns()
+        self.create_MAs()
 
     def link(self):
 
@@ -103,6 +104,27 @@ class asset:
             self.min_return = False
             self.ret_spread = False
 
+    def create_MAs(self, MA = 100):
+        self.MA_prices = []
+        self.upper_bollinger = []
+        self.lower_bollinger = []
+        x = 0
+        while x < MA:
+            self.MA_prices.append(0)
+            self.upper_bollinger.append(0)
+            self.lower_bollinger.append(0)
+            x += 1
+
+        while x < len(self.close_prices):
+            average = sum(self.close_prices[x - MA:x])/MA
+            self.MA_prices.append(average)
+            std_dev = std_deviation(average, self.close_prices[x - MA:x])
+            self.upper_bollinger.append(average + std_dev)
+            self.lower_bollinger.append(average - std_dev)            
+            x += 1
+
+        self.MA_current = self.MA_prices[len(self.MA_prices) - 1]
+
     def write_out(self):
 
         handle = open(self.ticker + '.csv', 'w', newline = '')
@@ -110,11 +132,23 @@ class asset:
         x = len(self.close_prices) - 1
 
         while x >= 0:
-            csvwriter.writerow([self.dates[x], self.close_prices[x]])
+            csvwriter.writerow([self.dates[x], self.close_prices[x], self.MA_prices[x],
+                                self.upper_bollinger[x], self.lower_bollinger[x]])
             x -= 1
         handle.close()
-        
-        
+
+def variance(average, sample_data):        
+    var = 0
+    for item in sample_data:
+        var = var + (average - item) **2
+
+    return var
+
+def std_deviation(average, sample_data):
+    var = variance(average, sample_data)
+    std_dev = var **0.5
+    return std_dev
+
 def file_grab(file = False):
     
     if file == False:
@@ -175,6 +209,17 @@ def set_params(file_name):
 
     t2 = time.time()
     t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
+    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
+    if high_perf == 'Y':
+        high_perf = True
+        low_perf = False
+    else:
+        high_perf = False
+        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+            low_perf = True
+        else:
+            low_perf = False
+    
     w_capital = input('Working capital: ')
     ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
 
@@ -189,10 +234,40 @@ def set_params(file_name):
     handle.write(w_capital + '\n')
     handle.write(ror + '\n')
     handle.write(str(short) + '\n')
+    handle.write(str(high_perf) + '\n')
+    handle.write(str(low_perf) + '\n')
     handle.close()
     
     return int(t1), int(t2)
+       
+def write_loop(ticker, t1, t2):
+    handle = open('setup.info', 'r')
+    reader = handle.read()
+    handle.close()
 
+    high_perf = reader.split('\n')[4]
+    low_perf = reader.split('\n')[5]
+    
+    y = asset(ticker, t1, t2)
+
+    if high_perf == 'False':
+        0
+    else:
+        if y.avg_return > 0:
+            y.write_out()
+        else:
+            print(y.ticker, 'does not meet Positive criteria')
+    
+
+    if low_perf == 'False':
+        y.write_out()
+    else:
+        if y.avg_return < 0:
+            y.write_out()
+        else:
+            print(y.ticker, 'does not meet Negative criteria')
+
+                
 def reg_call():
     import subprocess
     os.system(r'start excel.exe "' + os.getcwd() + '\FORMATTING.xlsm"')

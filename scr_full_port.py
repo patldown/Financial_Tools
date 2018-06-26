@@ -7,7 +7,7 @@ for item in os.listdir(os.getcwd()):
         if 'combination' not in item.lower():
             os.remove(os.path.join(os.getcwd(), item))
 
-tickers = file_grab(os.getcwd() + "\dividend_aristocrats.txt")
+tickers = file_grab(os.path.join(os.getcwd(),"full_port.txt"))
 y = 0
 start = time.time()
 
