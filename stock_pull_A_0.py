@@ -12,6 +12,7 @@ from urllib import request
 import csv
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 import threading
+from graphics_A_0 import *
 
 class asset:
     def __init__(self, ticker, t1, t2):
@@ -239,7 +240,7 @@ def set_params(file_name):
     
     return int(t1), int(t2)
        
-def write_loop(ticker, t1, t2):
+def write_loop(ticker, t1, t2, graph = True):
     handle = open('setup.info', 'r')
     reader = handle.read()
     handle.close()
@@ -265,6 +266,19 @@ def write_loop(ticker, t1, t2):
             y.write_out()
         else:
             print(y.ticker, 'does not meet Negative criteria')
+
+    if graph == True:
+        try:
+            ### [::-1] is used to reverse numbers
+            plot_lgraph('technical_run_chart',
+                        '{}_{}-{}'.format(y.ticker, y.dates[0].replace('/', '.'),
+                                          y.dates[len(y.dates)-1]).replace('/', '.'),
+                        'Time', 'Price', y.dates, y.close_prices[::-1], 'Daily Prices',
+                        y.dates, y.upper_bollinger[::-1], 'Upper', y.dates, y.lower_bollinger[::-1],
+                        'Lower', y.dates, y.MA_prices[::-1], 'Moving Average', 'y.dates',
+                        y.returns[::-1], 'Returns')
+        except:
+            0
 
                 
 def reg_call():

@@ -1,4 +1,5 @@
 from stock_pull_A_0 import *
+import threading
 
 t1, t2 = set_params(__file__)
 
@@ -17,9 +18,9 @@ print('###############################################')
 
 print('Downloading Data...')
 
+assets = []
 for ticker in tickers.split(','):
-    assets = []
-    x = write_loop(ticker, t1, t2)
+    target = write_loop(ticker, t1, t2)
 
 print('Download complete for:\n' + '\n'.join(tickers.split(',')))
 
