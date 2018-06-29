@@ -1,34 +1,35 @@
 import os, time
-import matplotlib.pyplot
+import matplotlib.pyplot as plt
 import matplotlib.dates as dates
 
 def plot_lgraph(location, ctitle, cxlabel, cylabel, x, y, key, *args):
     
     ### Plots initial x & y
     leg_keys = []
-    matplotlib.pyplot.plot(y)
+    plt.plot(y)
     leg_keys.append(key)
 
     ### Adds overlays if included
     if 'args' in locals():
         x = 0
         while x < len(args):
-            matplotlib.pyplot.plot(args[x+1])
+            plt.plot(args[x+1])
             leg_keys.append(args[x+2])
             x += 3
 
-    matplotlib.pyplot.title(ctitle)
-    matplotlib.pyplot.xlabel(cxlabel)
-    matplotlib.pyplot.ylabel(cylabel)
-    matplotlib.pyplot.legend(leg_keys)
+    plt.title(ctitle)
+    plt.xlabel(cxlabel)
+    plt.ylabel(cylabel)
+    plt.legend(leg_keys)
 
-    #if os.path.exists(os.path.join(os.getcwd(), '_'.join(ctitle.split('_')[1:]))) != True:
-    #    os.mkdir(os.path.join(os.getcwd(), location, '_'.join(ctitle.split('_')[1:])))
+##    plt.text(0.95, 0.01, 'colored text in axes coords',
+##        verticalalignment='bottom', horizontalalignment='right',
+##        transform=ax.transAxes,
+##        color='green', fontsize=15)
     
-    #matplotlib.pyplot.savefig(os.path.join(os.getcwd(), location, '_'.join(ctitle.split('_')[1:]), ctitle + '.png'))
-    matplotlib.pyplot.savefig(os.path.join(os.getcwd(), location, ctitle + '.png'))
-    matplotlib.pyplot.clf()
-    matplotlib.pyplot.close()
+    plt.savefig(os.path.join(os.getcwd(), location, ctitle + '.png'))
+    plt.pyplot.clf()
+    plt.pyplot.close()
     
 
 if __name__ == '__main__':
