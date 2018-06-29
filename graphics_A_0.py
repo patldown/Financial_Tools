@@ -1,33 +1,29 @@
+import os
 import matplotlib.pyplot as plt
+import numpy as np
 
-if __name__ == '__main__':
-    from stock_pull_A_0 import *
+sections = {}
 
-    t1, t2 = set_params(__file__)
+ans = False
+handle = open('data.csv', 'r')
+reader = handle.readlines()
 
-    for item in os.listdir(os.getcwd()):
-        if 'csv' in item:
-            if 'combination' not in item.lower():
-                os.remove(os.path.join(os.getcwd(), item))
+for line in reader:
+    if 'Date' in line:
+        x = line.split(',')[1:]
+        ans = True
+    elif ans == True:
+        line = line.split(',')
+        sections[line[0]] = line[1:]
 
-    tickers = file_grab(os.getcwd() + "\dividend_aristocrats.txt")
-    y = 0
-    start = time.time()
 
-    print('###############################################')
-    print('--------------------STATUS---------------------')
-    print('###############################################')
 
-    print('Downloading Data...')
+subplt = 311
 
-    for ticker in tickers.split(','):
-        assets = []
-        x = write_loop(ticker, t1, t2)
+plt.subplot(subplt)
+x_nums = np.array(range(0, len(x)))
+plt.xticks(x_nums, x, rotation='45')
+plt.plot(x_nums, y)
+subplt += 1
 
-    print('Download complete for:\n' + '\n'.join(tickers.split(',')))
-
-    print(time.time() - start)
-    
-
-##handle = open('LEG.csv', 'r')
-##plt.plot()
+plt.show()

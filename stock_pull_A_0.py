@@ -75,7 +75,9 @@ class asset:
 
                         except:
                             0
-        
+            
+        self.close_prices = self.close_prices[::-1]
+        self.dates = self.dates[::-1]
                         
         ### error catcher
         if len(self.close_prices) == 0:
@@ -106,6 +108,8 @@ class asset:
             self.ret_spread = False
 
     def create_MAs(self, MA = 100):
+        import numpy
+        
         self.MA_prices = []
         self.upper_bollinger = []
         self.lower_bollinger = []
@@ -116,10 +120,10 @@ class asset:
             self.lower_bollinger.append(0)
             x += 1
 
-        while x < len(self.close_prices):
-            average = sum(self.close_prices[x - MA:x])/MA
+        while x >= MA and x < len(self.close_prices):
+            average = sum(self.close_prices[(x - MA):x])/MA
             self.MA_prices.append(average)
-            std_dev = std_deviation(average, self.close_prices[x - MA:x])
+            std_dev = numpy.std(self.close_prices[(x - MA):x])
             self.upper_bollinger.append(average + std_dev)
             self.lower_bollinger.append(average - std_dev)            
             x += 1
@@ -127,6 +131,12 @@ class asset:
         self.MA_current = self.MA_prices[len(self.MA_prices) - 1]
 
     def write_out(self):
+
+        self.dates = self.dates[::-1]
+        self.close_prices = self.close_prices[::-1]
+        self.MA_prices = self.MA_prices[::-1]
+        self.upper_bollinger = self.upper_bollinger[::-1]
+        self.lower_bollinger = self.lower_bollinger[::-1]
 
         handle = open(self.ticker + '.csv', 'w', newline = '')
         csvwriter = csv.writer(handle)
@@ -137,18 +147,6 @@ class asset:
                                 self.upper_bollinger[x], self.lower_bollinger[x]])
             x -= 1
         handle.close()
-
-def variance(average, sample_data):        
-    var = 0
-    for item in sample_data:
-        var = var + (average - item) **2
-
-    return var
-
-def std_deviation(average, sample_data):
-    var = variance(average, sample_data)
-    std_dev = var **0.5
-    return std_dev
 
 def file_grab(file = False):
     

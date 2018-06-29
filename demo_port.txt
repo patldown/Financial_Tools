@@ -1,0 +1,10 @@
+AMD
+GOOG
+AMZN
+WMT
+VZ
+UNH
+MCK
+GM
+GE
+F
