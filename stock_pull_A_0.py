@@ -69,8 +69,10 @@ class asset:
                                 datum_string += datum
                             
                             data = datum_string.strip('"').split('"')
+                            #print(data)
 
                             self.close_prices.append(float(data[9]))
+                            self.volume = int(data[10])
                             #print(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
                             self.dates.append(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
 
@@ -204,7 +206,7 @@ def regression_analysis_file_write():
     handle.close()
 
 def set_params(file_name):
-
+    ### file_name  == '__file__'
     print('### Portfolio Analyis ###\n')
 
     t2 = time.time()
@@ -238,7 +240,44 @@ def set_params(file_name):
     handle.write(str(low_perf) + '\n')
     handle.close()
     
-    return int(t1), int(t2)
+    return int(t1), int(t2), high_perf, low_perf
+
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
+    if high_perf == 'Y':
+        high_perf = True
+        low_perf = False
+    else:
+        high_perf = False
+        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+            low_perf = True
+        else:
+            low_perf = False
+    
+    w_capital = input('Working capital: ')
+    ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
+
+    short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
+    if short == 'N':
+        short = False
+    elif short == 'Y':
+        short = True
+        
+    handle = open('setup.info', 'w')
+    handle.write(os.path.basename(file_name).split('.')[0] + '\n')
+    handle.write(w_capital + '\n')
+    handle.write(ror + '\n')
+    handle.write(str(short) + '\n')
+    handle.write(str(high_perf) + '\n')
+    handle.write(str(low_perf) + '\n')
+    handle.close()
+    
+    return int(t1), int(t2), high_perf, low_perf
        
 def write_loop(ticker, t1, t2):
     handle = open('setup.info', 'r')
@@ -267,7 +306,27 @@ def write_loop(ticker, t1, t2):
         else:
             print(y.ticker, 'does not meet Negative criteria')
 
+def port_read(port_file):
+
+    assets = []
+    
+    handle = open(port_file, 'r')
+    reader = handle.readlines()
+    for line in reader:
+        line = line.strip()
+        assets.append(line)
+
+    return assets
+
+def clear_folder():
+    for item in os.listdir(os.getcwd()):
+        if 'csv' in item:
+            if 'combination' not in item.lower():
+                os.remove(os.path.join(os.getcwd(), item))
                 
 def reg_call():
     import subprocess
     os.system(r'start excel.exe "' + os.getcwd() + '\FORMATTING.xlsm"')
+
+if __name__ == '__main__':
+    asset('GOOG', (time.time()), (time.time() - (60*60*24*30*50)))

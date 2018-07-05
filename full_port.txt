@@ -1,3 +1,4 @@
+^IXIC
 AMD
 GOOG
 AMZN
