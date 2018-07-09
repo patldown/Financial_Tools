@@ -1,38 +1,7 @@
-scr_main
+gui
 50000
 .1
-<<<<<<< HEAD
 False
-False
-False
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-True
-True
-True
-1401554289
-1531154289
-=======
-False
-False
-False
->>>>>>> parent of 9035c62... Updates to GUI
-=======
-False
-False
-False
->>>>>>> parent of 9035c62... Updates to GUI
-=======
-False
-False
-False
->>>>>>> parent of 9035c62... Updates to GUI
-=======
-False
-False
-False
->>>>>>> parent of 9035c62... Updates to GUI
->>>>>>> 6491f28ae4fea591dc992365c7e2f4b546a98d83
+0
+0
+20

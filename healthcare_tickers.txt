@@ -28,11 +28,11 @@ BSX:Boston Scientific Corporation
 ESRX:Express Scripts Holding Company
 VRTX:Vertex Pharmaceuticals Incorporated
 HUM:Humana Inc.
-CI:Cigna Corporation
-ZTS:Zoetis Inc.
 ILMN:Illumina, Inc.
-REGN:Regeneron Pharmaceuticals, Inc.
+ZTS:Zoetis Inc.
+CI:Cigna Corporation
 BAX:Baxter International Inc.
+REGN:Regeneron Pharmaceuticals, Inc.
 HCA:HCA Healthcare, Inc.
 EW:Edwards Lifesciences Corporation
 FMS:Fresenius Medical Care AG &amp; Co. KGaA
@@ -51,28 +51,28 @@ SNN:Smith &amp; Nephew plc
 WAT:Waters Corporation
 RMD:ResMed Inc.
 INCY:Incyte Corporation
-DGX:Quest Diagnostics Incorporated
 MTD:Mettler-Toledo International Inc.
+DGX:Quest Diagnostics Incorporated
 TFX:Teleflex Incorporated
 DVA:DaVita Inc.
 COO:The Cooper Companies, Inc.
 WCG:WellCare Health Plans, Inc.
 HOLX:Hologic, Inc.
 SGEN:Seattle Genetics, Inc.
+VAR:Varian Medical Systems, Inc.
 JAZZ:Jazz Pharmaceuticals plc
 UHS:Universal Health Services, Inc.
-VAR:Varian Medical Systems, Inc.
 PRGO:Perrigo Company plc
 XRAY:DENTSPLY SIRONA Inc.
 ALNY:Alnylam Pharmaceuticals, Inc.
 NBIX:Neurocrine Biosciences, Inc.
 STE:STERIS plc
-BIO:Bio-Rad Laboratories, Inc.
 SRPT:Sarepta Therapeutics, Inc.
+BIO:Bio-Rad Laboratories, Inc.
 DXCM:DexCom, Inc.
 BLUE:bluebird bio, Inc.
-VRX:Valeant Pharmaceuticals International, Inc.
 PKI:PerkinElmer, Inc.
+VRX:Valeant Pharmaceuticals International, Inc.
 NKTR:Nektar Therapeutics
 WST:West Pharmaceutical Services, Inc.
 ICLR:ICON Public Limited Company
@@ -88,84 +88,84 @@ TECH:Bio-Techne Corporation
 CRL:Charles River Laboratories International, Inc.
 FGEN:FibroGen, Inc.
 IART:Integra LifeSciences Holdings Corporation
-EVHC:Envision Healthcare Corporation
 UTHR:United Therapeutics Corporation
+EVHC:Envision Healthcare Corporation
+AMRX:Amneal Pharmaceuticals, Inc.
 PODD:Insulet Corporation
 CHE:Chemed Corporation
-AMRX:Amneal Pharmaceuticals, Inc.
 MASI:Masimo Corporation
-AGIO:Agios Pharmaceuticals, Inc.
 FMI:Foundation Medicine, Inc.
 GMED:Globus Medical, Inc.
+AGIO:Agios Pharmaceuticals, Inc.
 HAE:Haemonetics Corporation
 BRKR:Bruker Corporation
 TARO:Taro Pharmaceutical Industries Ltd.
 NEOG:Neogen Corporation
 INGN:Inogen, Inc.
-MD:MEDNAX, Inc.
 RARE:Ultragenyx Pharmaceutical Inc.
+MD:MEDNAX, Inc.
 ACHC:Acadia Healthcare Company, Inc.
 THC:Tenet Healthcare Corporation
 ONCE:Spark Therapeutics, Inc.
 CBPO:China Biologic Products Holdings, Inc.
-IRWD:Ironwood Pharmaceuticals, Inc.
 AMED:Amedisys, Inc.
 OPK:OPKO Health, Inc.
+IRWD:Ironwood Pharmaceuticals, Inc.
 ASND:Ascendis Pharma A/S
 BPMC:Blueprint Medicines Corporation
+MDCO:The Medicines Company
 LHCG:LHC Group, Inc.
 HZNP:Horizon Pharma Public Limited Company
-MDCO:The Medicines Company
-USNA:USANA Health Sciences, Inc.
 ICPT:Intercept Pharmaceuticals, Inc.
-WMGI:Wright Medical Group N.V.
-MMSI:Merit Medical Systems, Inc.
+USNA:USANA Health Sciences, Inc.
 NUVA:NuVasive, Inc.
+MMSI:Merit Medical Systems, Inc.
+WMGI:Wright Medical Group N.V.
 HYH:Halyard Health, Inc.
 EBS:Emergent BioSolutions Inc.
 PTLA:Portola Pharmaceuticals, Inc.
 QDEL:Quidel Corporation
 CLVS:Clovis Oncology, Inc.
 SEM:Select Medical Holdings Corporation
+ENDP:Endo International plc
 TSRO:Tesaro, Inc.
 HALO:Halozyme Therapeutics, Inc.
-ENDP:Endo International plc
 ENTA:Enanta Pharmaceuticals, Inc.
 MGLN:Magellan Health, Inc.
-SPPI:Spectrum Pharmaceuticals, Inc.
-GBT:Global Blood Therapeutics, Inc.
-PBYI:Puma Biotechnology, Inc.
-NVRO:Nevro Corp.
 AKRX:Akorn, Inc.
+SPPI:Spectrum Pharmaceuticals, Inc.
+NVRO:Nevro Corp.
+GBT:Global Blood Therapeutics, Inc.
 ARNA:Arena Pharmaceuticals, Inc.
-RGEN:Repligen Corporation
+PBYI:Puma Biotechnology, Inc.
 CNMD:CONMED Corporation
+RGEN:Repligen Corporation
 ACAD:ACADIA Pharmaceuticals Inc.
 PBH:Prestige Brands Holdings, Inc.
 DPLO:Diplomat Pharmacy, Inc.
 ENSG:The Ensign Group, Inc.
 XON:Intrexon Corporation
-ABAX:Abaxis, Inc.
 INSM:Insmed Incorporated
+ABAX:Abaxis, Inc.
 LPNT:LifePoint Health, Inc.
 NXTM:Nxstage Medical, Inc.
-CBM:Cambrex Corporation
 BKD:Brookdale Senior Living Inc.
+CBM:Cambrex Corporation
 IMGN:ImmunoGen, Inc.
 MNTA:Momenta Pharmaceuticals, Inc.
 GHDX:Genomic Health, Inc.
-MNK:Mallinckrodt Public Limited Company
 PTCT:PTC Therapeutics, Inc.
+MNK:Mallinckrodt Public Limited Company
 MRTX:Mirati Therapeutics, Inc.
 AIMT:Aimmune Therapeutics, Inc.
 SGMO:Sangamo Therapeutics, Inc.
 BEAT:BioTelemetry, Inc.
 GKOS:Glaukos Corporation
 KANG:iKang Healthcare Group, Inc.
-ACOR:Acorda Therapeutics, Inc.
-TXMD:TherapeuticsMD, Inc.
-QURE:uniQure N.V.
 ARWR:Arrowhead Pharmaceuticals, Inc.
+TXMD:TherapeuticsMD, Inc.
+ACOR:Acorda Therapeutics, Inc.
+QURE:uniQure N.V.
 PCRX:Pacira Pharmaceuticals, Inc.
 LMNX:Luminex Corporation
 LXRX:Lexicon Pharmaceuticals, Inc.
@@ -173,28 +173,28 @@ USPH:U.S. Physical Therapy, Inc.
 BABY:Natus Medical Incorporated
 ATRI:Atrion Corporation
 CSII:Cardiovascular Systems, Inc.
-KPTI:Karyopharm Therapeutics Inc.
-NTRA:Natera, Inc.
-ITCI:Intra-Cellular Therapies, Inc.
 ECYT:Endocyte, Inc.
+KPTI:Karyopharm Therapeutics Inc.
+ITCI:Intra-Cellular Therapies, Inc.
 OFIX:Orthofix International N.V.
 CRY:CryoLife, Inc.
-CO:Global Cord Blood Corporation
+NTRA:Natera, Inc.
 OSUR:OraSure Technologies, Inc.
 PRSC:The Providence Service Corporation
-ADAP:Adaptimmune Therapeutics plc
+CO:Global Cord Blood Corporation
 ALOG:Analogic Corporation
+ADAP:Adaptimmune Therapeutics plc
 KTWO:K2M Group Holdings, Inc.
 MGNX:MacroGenics, Inc.
 EPZM:Epizyme, Inc.
-ANGO:AngioDynamics, Inc.
 CBAY:CymaBay Therapeutics, Inc.
+ANGO:AngioDynamics, Inc.
 MLAB:Mesa Laboratories, Inc.
 CDXS:Codexis, Inc.
 KND:Kindred Healthcare, Inc.
-PETS:PetMed Express, Inc.
 AMPH:Amphastar Pharmaceuticals, Inc.
 SRDX:Surmodics, Inc.
+PETS:PetMed Express, Inc.
 DRNA:Dicerna Pharmaceuticals, Inc.
 AMAG:AMAG Pharmaceuticals, Inc.
 VIVO:Meridian Bioscience, Inc.
@@ -203,29 +203,29 @@ ADUS:Addus HomeCare Corporation
 COLL:Collegium Pharmaceutical, Inc.
 PGNX:Progenics Pharmaceuticals, Inc.
 CIVI:Civitas Solutions, Inc.
-IVC:Invacare Corporation
 BCRX:BioCryst Pharmaceuticals, Inc.
+IVC:Invacare Corporation
 PRTA:Prothena Corporation plc
 FPRX:Five Prime Therapeutics, Inc.
-ADRO:Aduro BioTech, Inc.
 CUTR:Cutera, Inc.
+ADRO:Aduro BioTech, Inc.
 LCI:Lannett Company, Inc.
+DEPO:Depomed, Inc.
 NVTA:Invitae Corporation
+ANIK:Anika Therapeutics, Inc.
 CYTK:Cytokinetics, Incorporated
 ABUS:Arbutus Biopharma Corporation
-ANIK:Anika Therapeutics, Inc.
 ELGX:Endologix, Inc.
-DEPO:Depomed, Inc.
-SVA:Sinovac Biotech Ltd.
 DERM:Dermira, Inc.
+SVA:Sinovac Biotech Ltd.
 UTMD:Utah Medical Products, Inc.
-ZFGN:Zafgen, Inc.
 MCRB:Seres Therapeutics, Inc.
+ZFGN:Zafgen, Inc.
 CSU:Capital Senior Living Corporation
 VTL:Vital Therapies, Inc.
 ENZ:Enzo Biochem, Inc.
-AAC:AAC Holdings, Inc.
 FLDM:Fluidigm Corporation
+AAC:AAC Holdings, Inc.
 SPNE:SeaSpine Holdings Corporation
 JNP:Juniper Pharmaceuticals, Inc.
 CPIX:Cumberland Pharmaceuticals Inc.

@@ -10,8 +10,8 @@ GD:General Dynamics Corporation
 RTN:Raytheon Company
 NOC:Northrop Grumman Corporation
 ITW:Illinois Tool Works Inc.
-DE:Deere &amp; Company
 ABB:ABB Ltd
+DE:Deere &amp; Company
 EMR:Emerson Electric Co.
 WM:Waste Management, Inc.
 ETN:Eaton Corporation plc
@@ -29,8 +29,8 @@ SWK:Stanley Black &amp; Decker, Inc.
 WCN:Waste Connections, Inc.
 TDG:TransDigm Group Incorporated
 LEN:Lennar Corporation
-VMC:Vulcan Materials Company
 TXT:Textron Inc.
+VMC:Vulcan Materials Company
 AME:AMETEK, Inc.
 DHI:D.R. Horton, Inc.
 LLL:L3 Technologies, Inc.
@@ -52,8 +52,8 @@ LII:Lennox International Inc.
 PHM:PulteGroup, Inc.
 ZBRA:Zebra Technologies Corporation
 PNR:Pentair plc
-GGG:Graco Inc.
 NDSN:Nordson Corporation
+GGG:Graco Inc.
 JHX:James Hardie Industries plc
 OC:Owens Corning
 FLR:Fluor Corporation
@@ -63,18 +63,18 @@ HXL:Hexcel Corporation
 USG:USG Corporation
 DCI:Donaldson Company, Inc.
 LECO:Lincoln Electric Holdings, Inc.
-MIDD:The Middleby Corporation
-MDU:MDU Resources Group, Inc.
-CAE:CAE Inc.
-TOL:Toll Brothers, Inc.
 GDI:Gardner Denver Holdings, Inc.
+MIDD:The Middleby Corporation
+TOL:Toll Brothers, Inc.
+CAE:CAE Inc.
 SRCL:Stericycle, Inc.
+MDU:MDU Resources Group, Inc.
 FLS:Flowserve Corporation
 CW:Curtiss-Wright Corporation
 EXP:Eagle Materials Inc.
 PWR:Quanta Services, Inc.
-RYN:Rayonier Inc.
 AGCO:AGCO Corporation
+RYN:Rayonier Inc.
 CR:Crane Co.
 WWD:Woodward, Inc.
 ITT:ITT Inc.
@@ -87,75 +87,75 @@ KLXI:KLX Inc.
 RBC:Regal Beloit Corporation
 VMI:Valmont Industries, Inc.
 TKR:The Timken Company
+PRLB:Proto Labs, Inc.
 AWI:Armstrong World Industries, Inc.
 TEX:Terex Corporation
-PRLB:Proto Labs, Inc.
 GNRC:Generac Holdings Inc.
-DAR:Darling Ingredients Inc.
 ATI:Allegheny Technologies Incorporated
-ROLL:RBC Bearings Incorporated
+DAR:Darling Ingredients Inc.
 ENS:EnerSys
+ROLL:RBC Bearings Incorporated
+CLH:Clean Harbors, Inc.
 B:Barnes Group Inc.
 PCH:PotlatchDeltic Corporation
-CLH:Clean Harbors, Inc.
-DY:Dycom Industries, Inc.
 SUM:Summit Materials, Inc.
+DY:Dycom Industries, Inc.
 RXN:Rexnord Corporation
 HI:Hillenbrand, Inc.
-SSD:Simpson Manufacturing Co., Inc.
-KMT:Kennametal Inc.
-AMN:AMN Healthcare Services, Inc.
 JBT:John Bean Technologies Corporation
+KMT:Kennametal Inc.
+SSD:Simpson Manufacturing Co., Inc.
+AMN:AMN Healthcare Services, Inc.
 BLD:TopBuild Corp.
 BECN:Beacon Roofing Supply, Inc.
 WTS:Watts Water Technologies, Inc.
 MOG-A:Moog Inc.
-CRS:Carpenter Technology Corporation
 BDC:Belden Inc.
+CRS:Carpenter Technology Corporation
 GVA:Granite Construction Incorporated
 TPH:TRI Pointe Group, Inc.
-TMHC:Taylor Morrison Home Corporation
 KBH:KB Home
+TMHC:Taylor Morrison Home Corporation
 UFPI:Universal Forest Products, Inc.
 AJRD:Aerojet Rocketdyne Holdings, Inc.
-CVA:Covanta Holding Corporation
 ESL:Esterline Technologies Corporation
+CVA:Covanta Holding Corporation
 FELE:Franklin Electric Co., Inc.
 BLDR:Builders FirstSource, Inc.
 AIN:Albany International Corp.
-DOOR:Masonite International Corporation
 GTLS:Chart Industries, Inc.
+DOOR:Masonite International Corporation
 CVCO:Cavco Industries, Inc.
 MWA:Mueller Water Products, Inc.
-KAMN:Kaman Corporation
 FLOW:SPX FLOW, Inc.
-SKY:Skyline Champion Corporation
+KAMN:Kaman Corporation
 MTH:Meritage Homes Corporation
+SKY:Skyline Champion Corporation
 AAON:AAON, Inc.
-ATU:Actuant Corporation
-MDC:M.D.C. Holdings, Inc.
-BCC:Boise Cascade Company
 IBP:Installed Building Products, Inc.
-MLI:Mueller Industries, Inc.
+BCC:Boise Cascade Company
+MDC:M.D.C. Holdings, Inc.
 FIX:Comfort Systems USA, Inc.
+ATU:Actuant Corporation
+MLI:Mueller Industries, Inc.
 AVAV:AeroVironment, Inc.
 SNHY:Sun Hydraulics Corporation
 AIR:AAR Corp.
 SPXC:SPX Corporation
 NPO:EnPro Industries, Inc.
 CSTM:Constellium N.V.
-PATK:Patrick Industries, Inc.
 PRIM:Primoris Services Corporation
-ECOL:US Ecology, Inc.
+PATK:Patrick Industries, Inc.
 TNC:Tennant Company
+ECOL:US Ecology, Inc.
 ASTE:Astec Industries, Inc.
-RAVN:Raven Industries, Inc.
-FSS:Federal Signal Corporation
 TILE:Interface, Inc.
+RAVN:Raven Industries, Inc.
 APOG:Apogee Enterprises, Inc.
+FSS:Federal Signal Corporation
+OSIS:OSI Systems, Inc.
 NCS:NCI Building Systems, Inc.
 AZZ:AZZ Inc.
-OSIS:OSI Systems, Inc.
 TRS:TriMas Corporation
 SXI:Standex International Corporation
 HOLI:Hollysys Automation Technologies Ltd.
@@ -166,19 +166,19 @@ CWST:Casella Waste Systems, Inc.
 LNN:Lindsay Corporation
 ALG:Alamo Group Inc.
 KAI:Kadant Inc.
-CPAC:Cementos Pacasmayo S.A.A.
 ATRO:Astronics Corporation
-CMCO:Columbus McKinnon Corporation
+CPAC:Cementos Pacasmayo S.A.A.
 RGR:Sturm, Ruger &amp; Company, Inc.
+CMCO:Columbus McKinnon Corporation
 TGI:Triumph Group, Inc.
 MTW:The Manitowoc Company, Inc.
 CCS:Century Communities, Inc.
-TPC:Tutor Perini Corporation
 GRC:The Gorman-Rupp Company
+TPC:Tutor Perini Corporation
+AEGN:Aegion Corporation
+CSWI:CSW Industrials, Inc.
 NPK:National Presto Industries, Inc.
 CYD:China Yuchai International Limited
-CSWI:CSW Industrials, Inc.
-AEGN:Aegion Corporation
 BGG:Briggs &amp; Stratton Corporation
 CIR:CIRCOR International, Inc.
 THR:Thermon Group Holdings, Inc.
@@ -187,9 +187,9 @@ GFF:Griffon Corporation
 EVA:Enviva Partners, LP
 BRSS:Global Brass and Copper Holdings, Inc.
 BOOM:DMC Global Inc.
-NX:Quanex Building Products Corporation
 TWI:Titan International, Inc.
 AGX:Argan, Inc.
+NX:Quanex Building Products Corporation
 CTT:CatchMark Timber Trust, Inc.
 MYRG:MYR Group Inc.
 KRNT:Kornit Digital Ltd.
@@ -219,8 +219,9 @@ NWHM:The New Home Company Inc.
 SHLO:Shiloh Industries, Inc.
 LYTS:LSI Industries Inc.
 AP:Ampco-Pittsburgh Corporation
-XONE:The ExOne Company
 GFA:Gafisa S.A.
+XONE:The ExOne Company
+ASPN:Aspen Aerogels, Inc.
 AMSC:American Superconductor Corporation
 SCX:The L.S. Starrett Company
 HDNG:Hardinge Inc.

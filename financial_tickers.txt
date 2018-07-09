@@ -11,8 +11,8 @@ RY:Royal Bank of Canada
 PYPL:PayPal Holdings, Inc.
 LFC:China Life Insurance Company Limited
 SAN:Banco Santander, S.A.
-AXP:American Express Company
 GS:The Goldman Sachs Group, Inc.
+AXP:American Express Company
 MS:Morgan Stanley
 USB:U.S. Bancorp
 HDB:HDFC Bank Limited
@@ -24,8 +24,8 @@ ITUB:Ita\xc3\xba Unibanco Holding S.A.
 PNC:The PNC Financial Services Group, Inc.
 AMT:American Tower Corporation (REIT)
 PUK:Prudential plc
-SPG:Simon Property Group, Inc.
 CB:Chubb Limited
+SPG:Simon Property Group, Inc.
 UBS:UBS Group AG
 CME:CME Group Inc.
 SMFG:Sumitomo Mitsui Financial Group, Inc.
@@ -34,9 +34,9 @@ BMO:Bank of Montreal
 BBVA:Banco Bilbao Vizcaya Argentaria, S.A.
 AIG:American International Group, Inc.
 CIB:Bancolombia S.A.
-BBD:Banco Bradesco S.A.
-COF:Capital One Financial Corporation
 BBDO:Banco Bradesco S.A.
+COF:Capital One Financial Corporation
+BBD:Banco Bradesco S.A.
 MET:MetLife, Inc.
 BCS:Barclays PLC
 MMC:Marsh &amp; McLennan Companies, Inc.
@@ -44,14 +44,14 @@ ICE:Intercontinental Exchange, Inc.
 BX:The Blackstone Group L.P.
 BBT:BB&amp;T Corporation
 PRU:Prudential Financial, Inc.
-CM:Canadian Imperial Bank of Commerce
 BAM:Brookfield Asset Management Inc.
+CM:Canadian Imperial Bank of Commerce
 PSA:Public Storage
 CS:Credit Suisse Group AG
 MFC:Manulife Financial Corporation
 PLD:Prologis, Inc.
-PGR:The Progressive Corporation
 AON:Aon plc
+PGR:The Progressive Corporation
 STT:State Street Corporation
 TRV:The Travelers Companies, Inc.
 AFL:Aflac Incorporated
@@ -63,9 +63,9 @@ TROW:T. Rowe Price Group, Inc.
 IBN:ICICI Bank Limited
 SYF:Synchrony Financial
 IBKR:Interactive Brokers Group, Inc.
+DFS:Discover Financial Services
 MTB:M&amp;T Bank Corporation
 SLF:Sun Life Financial Inc.
-DFS:Discover Financial Services
 EQR:Equity Residential
 DLR:Digital Realty Trust, Inc.
 AVB:AvalonBay Communities, Inc.
@@ -74,19 +74,19 @@ DB:Deutsche Bank Aktiengesellschaft
 KKR:KKR &amp; Co. Inc.
 BXP:Boston Properties, Inc.
 KEY:KeyCorp
-IX:ORIX Corporation
-KB:KB Financial Group Inc.
-VTR:Ventas, Inc.
 AMP:Ameriprise Financial, Inc.
-FITB:Fifth Third Bancorp
+IX:ORIX Corporation
+VTR:Ventas, Inc.
+KB:KB Financial Group Inc.
 RF:Regions Financial Corporation
+FITB:Fifth Third Bancorp
 GGP:GGP Inc.
 SHG:Shinhan Financial Group Co., Ltd.
 HIG:The Hartford Financial Services Group, Inc.
 BAP:Credicorp Ltd.
 BEN:Franklin Resources, Inc.
-BCH:Banco de Chile
 HBAN:Huntington Bancshares Incorporated
+BCH:Banco de Chile
 FRC:First Republic Bank
 ESS:Essex Property Trust, Inc.
 ETFC:E*TRADE Financial Corporation
@@ -97,9 +97,9 @@ L:Loews Corporation
 TSS:Total System Services, Inc.
 PFG:Principal Financial Group, Inc.
 O:Realty Income Corporation
+CSGP:CoStar Group, Inc.
 MKL:Markel Corporation
 EFX:Equifax Inc.
-CSGP:CoStar Group, Inc.
 NDAQ:Nasdaq, Inc.
 VNO:Vornado Realty Trust
 BSAC:Banco Santander-Chile
@@ -107,12 +107,12 @@ XL:XL Group Ltd
 APO:Apollo Global Management, LLC
 LNC:Lincoln National Corporation
 BPY:Brookfield Property Partners L.P.
-EXR:Extra Space Storage Inc.
 ARE:Alexandria Real Estate Equities, Inc.
+EXR:Extra Space Storage Inc.
 RJF:Raymond James Financial, Inc.
 CNA:CNA Financial Corporation
-HCP:HCP, Inc.
 AJG:Arthur J. Gallagher &amp; Co.
+HCP:HCP, Inc.
 NLY:Annaly Capital Management, Inc.
 ALLY:Ally Financial Inc.
 MAA:Mid-America Apartment Communities, Inc.
@@ -121,168 +121,168 @@ CINF:Cincinnati Financial Corporation
 ACGL:Arch Capital Group Ltd.
 IVZ:Invesco Ltd.
 ZION:Zions Bancorporation
+FNF:Fidelity National Financial, Inc.
 REG:Regency Centers Corporation
 DRE:Duke Realty Corporation
-FNF:Fidelity National Financial, Inc.
 UDR:UDR, Inc.
-BSMX:Banco Santander (M\xc3\xa9xico), S.A., Instituci\xc3\xb3n de Banca M\xc3\xbaltiple, Grupo Financiero Santander
 SEIC:SEI Investments Co.
+BSMX:Banco Santander (M\xc3\xa9xico), S.A., Instituci\xc3\xb3n de Banca M\xc3\xbaltiple, Grupo Financiero Santander
 EWBC:East West Bancorp, Inc.
 AFG:American Financial Group, Inc.
-RE:Everest Re Group, Ltd.
 TMK:Torchmark Corporation
+RE:Everest Re Group, Ltd.
 SLG:SL Green Realty Corp.
 FRT:Federal Realty Investment Trust
 WU:The Western Union Company
 Y:Alleghany Corporation
 RGA:Reinsurance Group of America, Incorporated
-CPT:Camden Property Trust
 WRB:W. R. Berkley Corporation
+CPT:Camden Property Trust
 MAC:Macerich Company
-ELS:Equity LifeStyle Properties, Inc.
 UNM:Unum Group
+ELS:Equity LifeStyle Properties, Inc.
 VOYA:Voya Financial, Inc.
 AMG:Affiliated Managers Group, Inc.
-SUI:Sun Communities, Inc.
 AGNC:AGNC Investment Corp.
+SUI:Sun Communities, Inc.
 JEF:Jefferies Financial Group Inc.
-CG:The Carlyle Group L.P.
 DEI:Douglas Emmett, Inc.
-AMH:American Homes 4 Rent
 BRO:Brown &amp; Brown, Inc.
+AMH:American Homes 4 Rent
+CG:The Carlyle Group L.P.
 KRC:Kilroy Realty Corporation
 JLL:Jones Lang LaSalle Incorporated
 GLPI:Gaming and Leisure Properties, Inc.
 MKTX:MarketAxess Holdings Inc.
 WPC:W. P. Carey Inc.
-KIM:Kimco Realty Corporation
 CFR:Cullen/Frost Bankers, Inc.
-CACC:Credit Acceptance Corporation
-CBSH:Commerce Bancshares, Inc.
+KIM:Kimco Realty Corporation
 SBNY:Signature Bank
+CBSH:Commerce Bancshares, Inc.
+CACC:Credit Acceptance Corporation
 SC:Santander Consumer USA Holdings Inc.
 ARCC:Ares Capital Corporation
 AIV:Apartment Investment and Management Company
-LAMR:Lamar Advertising Company (REIT)
 NNN:National Retail Properties, Inc.
-LPT:Liberty Property Trust
+LAMR:Lamar Advertising Company (REIT)
 AIZ:Assurant, Inc.
+LPT:Liberty Property Trust
 OHI:Omega Healthcare Investors, Inc.
+SNV:Synovus Financial Corp.
 DCT:DCT Industrial Trust Inc.
 OAK:Oaktree Capital Group, LLC
-SNV:Synovus Financial Corp.
 BOKF:BOK Financial Corporation
-PACW:PacWest Bancorp
 PBCT:People&#x27;s United Financial, Inc.
+PACW:PacWest Bancorp
 WAL:Western Alliance Bancorporation
 ERIE:Erie Indemnity Company
-FCE-A:Forest City Realty Trust, Inc.
 EV:Eaton Vance Corp.
+FCE-A:Forest City Realty Trust, Inc.
 NRZ:New Residential Investment Corp.
 CIT:CIT Group Inc.
-WBS:Webster Financial Corporation
 LAZ:Lazard Ltd
+WBS:Webster Financial Corporation
 ORI:Old Republic International Corporation
 LPLA:LPL Financial Holdings Inc.
-CUBE:CubeSmart
 OZRK:Bank of the Ozarks
 HHC:The Howard Hughes Corporation
+CUBE:CubeSmart
 FHN:First Horizon National Corporation
 CONE:CyrusOne Inc.
 ACC:American Campus Communities, Inc.
 STWD:Starwood Property Trust, Inc.
 FAF:First American Financial Corporation
 NYCB:New York Community Bancorp, Inc.
-HTA:Healthcare Trust of America, Inc.
 TPL:Texas Pacific Land Trust
+HTA:Healthcare Trust of America, Inc.
 VR:Validus Holdings, Ltd.
 HPP:Hudson Pacific Properties, Inc.
 STL:Sterling Bancorp
-HIW:Highwoods Properties, Inc.
 COR:CoreSite Realty Corporation
-BMA:Banco Macro S.A.
+HIW:Highwoods Properties, Inc.
 VIRT:Virtu Financial, Inc.
 ESRT:Empire State Realty Trust, Inc.
+BMA:Banco Macro S.A.
+THG:The Hanover Insurance Group, Inc.
 BRX:Brixmor Property Group Inc.
 MPW:Medical Properties Trust, Inc.
-THG:The Hanover Insurance Group, Inc.
-UMPQ:Umpqua Holdings Corporation
 SLM:SLM Corporation
+UMPQ:Umpqua Holdings Corporation
 TCO:Taubman Centers, Inc.
 WTFC:Wintrust Financial Corporation
 RNR:RenaissanceRe Holdings Ltd.
-FCNCA:First Citizens BancShares, Inc.
 PNFP:Pinnacle Financial Partners, Inc.
-EPR:EPR Properties
+FCNCA:First Citizens BancShares, Inc.
 PB:Prosperity Bancshares, Inc.
+EPR:EPR Properties
 ASB:Associated Banc-Corp
-HPT:Hospitality Properties Trust
-BPOP:Popular, Inc.
 AXS:AXIS Capital Holdings Limited
+BPOP:Popular, Inc.
 EVR:Evercore Inc.
-ARES:Ares Management, L.P.
+HPT:Hospitality Properties Trust
 TCBI:Texas Capital Bancshares, Inc.
+ARES:Ares Management, L.P.
 SBBC:Scorpio Tankers Inc. 8.25% SR NT 19
 PRI:Primerica, Inc.
 ESGR:Enstar Group Limited
-PSB:PS Business Parks, Inc.
 GPT:Gramercy Property Trust
 BKU:BankUnited, Inc.
+PSB:PS Business Parks, Inc.
 IBKC:IBERIABANK Corporation
 FNB:F.N.B. Corporation
 TFSL:TFS Financial Corp
-SNH:Senior Housing Properties Trust
 FCFS:FirstCash, Inc.
+SNH:Senior Housing Properties Trust
 FR:First Industrial Realty Trust, Inc.
 RHP:Ryman Hospitality Properties, Inc.
-BGCP:BGC Partners, Inc.
 VLY:Valley National Bancorp
+BGCP:BGC Partners, Inc.
 AGO:Assured Guaranty Ltd.
 MTG:MGIC Investment Corporation
-CUZ:Cousins Properties Incorporated
 CHFC:Chemical Financial Corporation
 HOMB:Home Bancshares, Inc. (Conway, AR)
+CUZ:Cousins Properties Incorporated
 MBFI:MB Financial, Inc.
-SBRA:Sabra Health Care REIT, Inc.
 UBSI:United Bankshares, Inc.
 WRI:Weingarten Realty Investors
-RLJ:RLJ Lodging Trust
 GDOT:Green Dot Corporation
+SBRA:Sabra Health Care REIT, Inc.
 UMBF:UMB Financial Corporation
+RLJ:RLJ Lodging Trust
+SF:Stifel Financial Corp.
 LHO:LaSalle Hotel Properties
 SHO:Sunstone Hotel Investors, Inc.
-SF:Stifel Financial Corp.
 ISBC:Investors Bancorp, Inc.
 KMPR:Kemper Corporation
 ESNT:Essent Group Ltd.
-HR:Healthcare Realty Trust Incorporated
 RDN:Radian Group Inc.
+HR:Healthcare Realty Trust Incorporated
+PRSP:Perspecta Inc.
 BOH:Bank of Hawaii Corporation
 FFIN:First Financial Bankshares, Inc.
 NAVI:Navient Corporation
 SRC:Spirit Realty Capital, Inc.
-PRSP:Perspecta Inc.
 CIM:Chimera Investment Corporation
 BXMT:Blackstone Mortgage Trust, Inc.
 MC:Moelis &amp; Company
-CLNY:Colony Capital, Inc.
+BXS:BancorpSouth Bank
+CATY:Cathay General Bancorp
 GBCI:Glacier Bancorp, Inc.
 NEA:Nuveen AMT-Free Quality Municipal Income Fund
-CATY:Cathay General Bancorp
-BXS:BancorpSouth Bank
-EGP:EastGroup Properties, Inc.
+CLNY:Colony Capital, Inc.
 HLI:Houlihan Lokey, Inc.
-SIGI:Selective Insurance Group, Inc.
 EDR:Education Realty Trust, Inc.
+EGP:EastGroup Properties, Inc.
+SIGI:Selective Insurance Group, Inc.
 CNO:CNO Financial Group, Inc.
 ANAT:American National Insurance Company
-SSB:South State Corporation
 AEL:American Equity Investment Life Holding Company
-GEO:The GEO Group, Inc.
-BFR:BBVA Banco Franc\xc3\xa9s S.A.
-CBU:Community Bank System, Inc.
-CIGI:Colliers International Group Inc.
+SSB:South State Corporation
 KW:Kennedy-Wilson Holdings, Inc.
+GEO:The GEO Group, Inc.
+CIGI:Colliers International Group Inc.
+CBU:Community Bank System, Inc.
+BFR:BBVA Banco Franc\xc3\xa9s S.A.
 FFBC:First Financial Bancorp.
 OFC:Corporate Office Properties Trust
 DNP:DNP Select Income Fund Inc.
@@ -291,88 +291,88 @@ NHI:National Health Investors, Inc.
 MFA:MFA Financial, Inc.
 BDN:Brandywine Realty Trust
 RLI:RLI Corp.
-LM:Legg Mason, Inc.
 FULT:Fulton Financial Corporation
-DOC:Physicians Realty Trust
+LM:Legg Mason, Inc.
 RLGY:Realogy Holdings Corp.
+DOC:Physicians Realty Trust
 NVG:Nuveen AMT-Free Municipal Credit Income Fund
 IBOC:International Bancshares Corporation
 ONB:Old National Bancorp
-NOAH:Noah Holdings Limited
 WAFD:Washington Federal, Inc.
+NOAH:Noah Holdings Limited
 FCB:FCB Financial Holdings, Inc.
+AB:AllianceBernstein Holding L.P.
 FNGN:Financial Engines, Inc.
 AFSI:AmTrust Financial Services, Inc.
-AB:AllianceBernstein Holding L.P.
 WTM:White Mountains Insurance Group, Ltd.
-RPAI:Retail Properties of America, Inc.
 SFNC:Simmons First National Corporation
+RPAI:Retail Properties of America, Inc.
 TWO:Two Harbors Investment Corp.
 TREE:LendingTree, Inc.
 CXW:CoreCivic, Inc.
-STAG:STAG Industrial, Inc.
 CXP:Columbia Property Trust, Inc.
-DDR:DDR Corp.
+STAG:STAG Industrial, Inc.
 FMBI:First Midwest Bancorp, Inc.
 PEB:Pebblebrook Hotel Trust
-BOFI:BofI Holding, Inc.
-NAD:Nuveen Quality Municipal Income Fund
 UBSH:Union Bankshares Corporation
+DDR:DDR Corp.
+NAD:Nuveen Quality Municipal Income Fund
+BOFI:BofI Holding, Inc.
 XHR:Xenia Hotels &amp; Resorts, Inc.
+CSFL:CenterState Bank Corporation
 PDM:Piedmont Office Realty Trust, Inc.
 REXR:Rexford Industrial Realty, Inc.
-CSFL:CenterState Bank Corporation
 CVBF:CVB Financial Corp.
-GWB:Great Western Bancorp, Inc.
 UCBI:United Community Banks, Inc.
+GWB:Great Western Bancorp, Inc.
 DRH:DiamondRock Hospitality Company
-AAT:American Assets Trust, Inc.
-NNI:Nelnet, Inc.
 FIBK:First Interstate BancSystem, Inc.
-HAWK:Blackhawk Network Holdings, Inc.
+AAT:American Assets Trust, Inc.
 CADE:Cadence Bancorporation
 MCY:Mercury General Corporation
 FII:Federated Investors, Inc.
+HAWK:Blackhawk Network Holdings, Inc.
+NNI:Nelnet, Inc.
 AHL:Aspen Insurance Holdings Limited
 PSEC:Prospect Capital Corporation
 WRE:Washington Real Estate Investment Trust
 ROIC:Retail Opportunity Investments Corp.
 FRME:First Merchants Corporation
+TOWN:TowneBank
 QTS:QTS Realty Trust, Inc.
 APAM:Artisan Partners Asset Management Inc.
-TOWN:TowneBank
 SKT:Tanger Factory Outlet Centers, Inc.
 CWH:Camping World Holdings, Inc.
-RNST:Renasant Corporation
 SFBS:ServisFirst Bancshares, Inc.
+RNST:Renasant Corporation
 AKR:Acadia Realty Trust
 ARI:Apollo Commercial Real Estate Finance, Inc.
 TRMK:Trustmark Corporation
 MAIN:Main Street Capital Corporation
 INDB:Independent Bank Corp.
-ABCB:Ameris Bancorp
 HTH:Hilltop Holdings Inc.
 LXP:Lexington Realty Trust
+ABCB:Ameris Bancorp
 WSBC:WesBanco, Inc.
-KYN:Kayne Anderson MLP Investment Company
 IBTX:Independent Bank Group, Inc.
-CLI:Mack-Cali Realty Corporation
+KYN:Kayne Anderson MLP Investment Company
 TRNO:Terreno Realty Corporation
-SIR:Select Income REIT
-NZF:Nuveen Municipal Credit Income Fund
-BANF:BancFirst Corporation
+CLI:Mack-Cali Realty Corporation
 FBC:Flagstar Bancorp, Inc.
+NZF:Nuveen Municipal Credit Income Fund
+SIR:Select Income REIT
+BANF:BancFirst Corporation
 FFG:FBL Financial Group, Inc.
 BANR:Banner Corporation
 CSQ:Calamos Strategic Total Return Fund
-UTF:Cohen &amp; Steers Infrastructure Fund, Inc
 PRA:ProAssurance Corporation
+UTF:Cohen &amp; Steers Infrastructure Fund, Inc
 NUV:Nuveen Municipal Value Fund, Inc.
 ALX:Alexander&#x27;s, Inc.
-NAC:Nuveen California Quality Municipal Income Fund
-CHSP:Chesapeake Lodging Trust
 CNS:Cohen &amp; Steers, Inc.
+NAC:Nuveen California Quality Municipal Income Fund
 HMN:Horace Mann Educators Corporation
+CHSP:Chesapeake Lodging Trust
 GDV:The Gabelli Dividend &amp; Income Trust
 BHLB:Berkshire Hills Bancorp, Inc.
 FSIC:FS Investment Corporation
@@ -380,22 +380,22 @@ CFFN:Capitol Federal Financial, Inc.
 NWBI:Northwest Bancshares, Inc.
 ETY:Eaton Vance Tax-Managed Diversified Equity Income Fund
 PFS:Provident Financial Services, Inc.
+PPBI:Pacific Premier Bancorp, Inc.
+IVR:Invesco Mortgage Capital Inc.
 WPG:Washington Prime Group Inc.
 JPS:Nuveen Preferred Securities Income Fund
-IVR:Invesco Mortgage Capital Inc.
-PPBI:Pacific Premier Bancorp, Inc.
 ALEX:Alexander &amp; Baldwin, Inc.
 LADR:Ladder Capital Corp
-GZT:Gazit Globe Ltd
 HTLF:Heartland Financial USA, Inc.
-NSM:Nationstar Mortgage Holdings Inc.
+GZT:Gazit Globe Ltd
 WD:Walker &amp; Dunlop, Inc.
-FBP:First BanCorp.
-NAVG:The Navigators Group, Inc.
+NSM:Nationstar Mortgage Holdings Inc.
 NBTB:NBT Bancorp Inc.
+NAVG:The Navigators Group, Inc.
 WSFS:WSFS Financial Corporation
-BDJ:BlackRock Enhanced Equity Dividend Trust
+FBP:First BanCorp.
 LTC:LTC Properties, Inc.
+BDJ:BlackRock Enhanced Equity Dividend Trust
 EVT:Eaton Vance Tax-Advantaged Dividend Income Fund
 ADC:Agree Realty Corporation
 RMAX:RE/MAX Holdings, Inc.
@@ -403,18 +403,18 @@ GOV:Government Properties Income Trust
 BFS:Saul Centers, Inc.
 FCF:First Commonwealth Financial Corporation
 BUSE:First Busey Corporation
+WDR:Waddell &amp; Reed Financial, Inc.
 GAB:The Gabelli Equity Trust Inc.
 ADX:Adams Diversified Equity Fund, Inc.
-STBA:S&amp;T Bancorp, Inc.
 WABC:Westamerica Bancorporation
-WDR:Waddell &amp; Reed Financial, Inc.
+STBA:S&amp;T Bancorp, Inc.
 MMI:Marcus &amp; Millichap, Inc.
 PFSI:PennyMac Financial Services, Inc.
 IPCC:Infinity Property and Casualty Corporation
 SBCF:Seacoast Banking Corporation of Florida
 SASR:Sandy Spring Bancorp, Inc.
-INN:Summit Hotel Properties, Inc.
 BRKL:Brookline Bancorp, Inc.
+INN:Summit Hotel Properties, Inc.
 HCC:Warrior Met Coal, Inc.
 TY:Tri-Continental Corporation
 OCFC:OceanFirst Financial Corp.
@@ -427,165 +427,164 @@ TYG:Tortoise Energy Infrastructure Corporation
 UFCS:United Fire Group, Inc.
 BPFH:Boston Private Financial Holdings, Inc.
 HF:HFF, Inc.
-SAFT:Safety Insurance Group, Inc.
 EIG:Employers Holdings, Inc.
+SAFT:Safety Insurance Group, Inc.
 MNR:Monmouth Real Estate Investment Corporation
+LGIH:LGI Homes, Inc.
+RVT:Royce Value Trust Inc.
+TPRE:Third Point Reinsurance Ltd.
 RQI:Cohen\xc2\xa0&amp; Steers Quality Income Realty Fund, Inc.
 ETG:Eaton Vance Tax-Advantaged Global Dividend Income Fund
-RVT:Royce Value Trust Inc.
-LGIH:LGI Homes, Inc.
 STFC:State Auto Financial Corporation
 HYT:BlackRock Corporate High Yield Fund, Inc.
-TPRE:Third Point Reinsurance Ltd.
-EFSC:Enterprise Financial Services Corp
-BTZ:BlackRock Credit Allocation Income Trust
 LOB:Live Oak Bancshares, Inc.
+BTZ:BlackRock Credit Allocation Income Trust
+EFSC:Enterprise Financial Services Corp
 ENVA:Enova International, Inc.
 ETW:Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund
-UVE:Universal Insurance Holdings, Inc.
 LKFN:Lakeland Financial Corporation
 RWT:Redwood Trust, Inc.
-USA:Liberty All-Star Equity Fund
+UVE:Universal Insurance Holdings, Inc.
 FBNC:First Bancorp
-AINV:Apollo Investment Corporation
+USA:Liberty All-Star Equity Fund
 CHCO:City Holding Company
-HFWA:Heritage Financial Corporation
+AINV:Apollo Investment Corporation
 SBSI:Southside Bancshares, Inc.
+HFWA:Heritage Financial Corporation
 HTGC:Hercules Capital, Inc.
 BNCL:Beneficial Bancorp, Inc.
 IRS:IRSA Inversiones y Representaciones Sociedad An\xc3\xb3nima
-NBHC:National Bank Holdings Corporation
 NFJ:AllianzGI NFJ Dividend, Interest &amp; Premium Strategy Fund
 JRVR:James River Group Holdings, Ltd.
+NBHC:National Bank Holdings Corporation
+PMT:PennyMac Mortgage Investment Trust
 CYS:CYS Investments, Inc.
 TSLX:TPG Specialty Lending, Inc.
-PMT:PennyMac Mortgage Investment Trust
 JOE:The St. Joe Company
-CBL:CBL &amp; Associates Properties, Inc
 NWLI:National Western Life Group, Inc.
 GTY:Getty Realty Corp.
 TIER:TIER REIT, Inc.
 AMSF:Amerisafe, Inc.
-PHK:PIMCO High Income Fund
+CBL:CBL &amp; Associates Properties, Inc
 GBDC:Golub Capital BDC, Inc.
+PHK:PIMCO High Income Fund
 ETV:Eaton Vance Tax-Managed Buy-Write Opportunities Fund
 BIF:Boulder Growth &amp; Income Fund, Inc.
-RPT:Ramco-Gershenson Properties Trust
 TBK:Triumph Bancorp, Inc.
+RPT:Ramco-Gershenson Properties Trust
 OPB:Opus Bank
 JQC:Nuveen Credit Strategies Income Fund
 NRK:Nuveen New York AMT-Free Quality Municipal Income Fund
-NMFC:New Mountain Finance Corporation
-WRLD:World Acceptance Corporation
-PFBC:Preferred Bank
 CRVL:CorVel Corporation
+NMFC:New Mountain Finance Corporation
+PJC:Piper Jaffray Companies
+PFBC:Preferred Bank
+WRLD:World Acceptance Corporation
 WASH:Washington Trust Bancorp, Inc.
 STC:Stewart Information Services Corporation
-PJC:Piper Jaffray Companies
-BANC:Banc of California, Inc.
 HASI:Hannon Armstrong Sustainable Infrastructure Capital, Inc.
+BANC:Banc of California, Inc.
 QIWI:Qiwi plc
 CLDT:Chatham Lodging Trust
-AHT:Ashford Hospitality Trust, Inc.
-JPC:Nuveen Preferred Income Opportunities Fund
 AGM:Federal Agricultural Mortgage Corporation
 ECPG:Encore Capital Group, Inc.
+AHT:Ashford Hospitality Trust, Inc.
+JPC:Nuveen Preferred Income Opportunities Fund
 BLX:Banco Latinoamericano de Comercio Exterior, S.A
 INTL:INTL FCStone Inc.
 ARR:ARMOUR Residential REIT, Inc.
 LBAI:Lakeland Bancorp, Inc.
-CASH:Meta Financial Group, Inc.
-ABR:Arbor Realty Trust, Inc.
+CASH:L&amp;GE Fund MSCI China A ETF
 BMTC:Bryn Mawr Bank Corporation
+ABR:Arbor Realty Trust, Inc.
 AHH:Armada Hoffler Properties, Inc.
+EBSB:Meridian Bancorp, Inc.
 HT:Hersha Hospitality Trust
 HAFC:Hanmi Financial Corporation
 AOD:Alpine Total Dynamic Dividend Fund
-EBSB:Meridian Bancorp, Inc.
 CHY:Calamos Convertible and High Income Fund
 VRTS:Virtus Investment Partners, Inc.
-CTBI:Community Trust Bancorp, Inc.
 CUBI:Customers Bancorp, Inc.
+CTBI:Community Trust Bancorp, Inc.
 RNP:Cohen &amp; Steers REIT and Preferred Income Fund, Inc.
-UHT:Universal Health Realty Income Trust
-GTS:Triple-S Management Corporation
 COBZ:CoBiz Financial Inc.
-FOR:Forestar Group Inc.
+GTS:Triple-S Management Corporation
 AMBC:Ambac Financial Group, Inc.
-GAM:General American Investors Company, Inc.
 GBNK:Guaranty Bancorp
-BBX:BBX Capital Corporation
+UHT:Universal Health Realty Income Trust
 UBNK:United Financial Bancorp, Inc.
+GAM:General American Investors Company, Inc.
+BBX:BBX Capital Corporation
 MTGE:MTGE Investment Corp.
 IRT:Independence Realty Trust, Inc.
-PEI:Pennsylvania Real Estate Investment Trust
 TCBK:TriCo Bancshares
+PEI:Pennsylvania Real Estate Investment Trust
 SYBT:Stock Yards Bancorp, Inc.
-IGR:CBRE Clarion Global Real Estate Income Fund
+FOR:Forestar Group Inc.
 TRST:TrustCo Bank Corp NY
-SLRC:Solar Capital Ltd.
 CPF:Central Pacific Financial Corp.
+IGR:CBRE Clarion Global Real Estate Income Fund
+SLRC:Solar Capital Ltd.
+RBCAA:Republic Bancorp, Inc.
 TCPC:TCP Capital Corp.
 MBI:MBIA Inc.
-RBCAA:Republic Bancorp, Inc.
 FFC:Flaherty &amp; Crumrine Preferred Securities Income Fund Inc.
-MYI:BlackRock MuniYield Quality Fund III, Inc.
+GABC:German American Bancorp, Inc.
 CMO:Capstead Mortgage Corporation
+MYI:BlackRock MuniYield Quality Fund III, Inc.
 NFBK:Northfield Bancorp, Inc. (Staten Island, NY)
 GSBC:Great Southern Bancorp, Inc.
-GABC:German American Bancorp, Inc.
-HTD:John Hancock Tax-Advantaged Dividend Income Fund
 UVSP:Univest Corporation of Pennsylvania
 NCOM:National Commerce Corporation
+HTD:John Hancock Tax-Advantaged Dividend Income Fund
 CHI:Calamos Convertible Opportunities and Income Fund
 GNBC:Green Bancorp, Inc.
-GIM:Templeton Global Income Fund
 CNOB:ConnectOne Bancorp, Inc.
-EMD:Western Asset Emerging Markets Debt Fund Inc.
+GIM:Templeton Global Income Fund
 HQH:Tekla Healthcare Investors
-PML:PIMCO Municipal Income Fund II
+EMD:Western Asset Emerging Markets Debt Fund Inc.
 EOS:Eaton Vance Enhanced Equity Income Fund II
+PML:PIMCO Municipal Income Fund II
 NMZ:Nuveen Municipal High Income Opportunity Fund
 HBNC:Horizon Bancorp, Inc.
+GBL:GAMCO Investors, Inc.
 PDT:John Hancock Premium Dividend Fund
 VMO:Invesco Municipal Opportunity Trust
-GBL:GAMCO Investors, Inc.
 TSC:Tristate Capital Holdings, Inc.
 FFIC:Flushing Financial Corporation
-BOE:BlackRock Enhanced Global Dividend Trust
 HMST:HomeStreet, Inc.
+BOE:BlackRock Enhanced Global Dividend Trust
 DCOM:Dime Community Bancshares, Inc.
 PEBO:Peoples Bancorp Inc.
-IRET:Investors Real Estate Trust
-STAR:iStar Inc.
 HTBK:Heritage Commerce Corp
-PPR:Voya Prime Rate Trust
+STAR:iStar Inc.
+IRET:Investors Real Estate Trust
 BDGE:Bridge Bancorp, Inc.
 CAC:Camden National Corporation
 CII:BlackRock Enhanced Capital and Income Fund, Inc.
 TDF:Templeton Dragon Fund, Inc.
-LION:Fidelity Southern Corporation
 ORIT:Oritani Financial Corp.
+LION:Fidelity Southern Corporation
 IGD:Voya Global Equity Dividend and Premium Opportunity Fund
 BTO:John Hancock Financial Opportunities Fund
-PCN:PIMCO Corporate &amp; Income Strategy Fund
 ITG:Investment Technology Group, Inc.
-APTS:Preferred Apartment Communities, Inc.
+PCN:PIMCO Corporate &amp; Income Strategy Fund
 FDEF:First Defiance Financial Corp.
+APTS:Preferred Apartment Communities, Inc.
 BHK:BlackRock Core Bond Trust
 GHL:Greenhill &amp; Co., Inc.
 NYMT:New York Mortgage Trust, Inc.
 SBR:Sabine Royalty Trust
-WIW:Western Asset/Claymore Inflation-Linked Opportunities &amp; Income Fund
-IFN:The India Fund, Inc.
 PZN:Pzena Investment Management, Inc
-PGC:Peapack-Gladstone Financial Corporation
 MHLD:Maiden Holdings, Ltd.
-VGM:Invesco Trust for Investment Grade Municipals
-FRPH:FRP Holdings, Inc.
-UBA:Urstadt Biddle Properties Inc.
+WIW:Western Asset/Claymore Inflation-Linked Opportunities &amp; Income Fund
 EZPW:EZCORP, Inc.
+IFN:The India Fund, Inc.
+PGC:Peapack-Gladstone Financial Corporation
+VGM:Invesco Trust for Investment Grade Municipals
+UBA:Urstadt Biddle Properties Inc.
 IIM:Invesco Value Municipal Income Trust
+FRPH:FRP Holdings, Inc.
 NKX:Nuveen California AMT-Free Quality Municipal Income Fund
 VKQ:Invesco Municipal Trust
 DHIL:Diamond Hill Investment Group, Inc.
@@ -597,125 +596,125 @@ BGY:BlackRock Enhanced International Dividend Trust
 IQI:Invesco Quality Municipal Income Trust
 TRC:Tejon Ranch Co.
 MYD:BlackRock MuniYield Fund, Inc.
-DMLP:Dorchester Minerals, L.P.
 NCV:AllianzGI Convertible &amp; Income Fund
 EMCI:EMC Insurance Group Inc.
+DMLP:Dorchester Minerals, L.P.
 BHBK:Blue Hills Bancorp, Inc.
 TBBK:The Bancorp, Inc.
 EOI:Eaton Vance Enhanced Equity Income Fund
 EFT:Eaton Vance Floating-Rate Income Trust
 JFR:Nuveen Floating Rate Income Fund
-DSU:BlackRock Debt Strategies Fund, Inc.
 HPS:John Hancock Preferred Income Fund III
+DSU:BlackRock Debt Strategies Fund, Inc.
 PEO:Adams Natural Resources Fund, Inc.
 THFF:First Financial Corporation
-UMH:UMH Properties, Inc.
 BFK:BlackRock Municipal Income Trust
-GBLI:Global Indemnity Limited
+UMH:UMH Properties, Inc.
 HPI:John Hancock Preferred Income Fund
-MVF:BlackRock MuniVest Fund, Inc.
+GBLI:Global Indemnity Limited
 TCAP:Triangle Capital Corporation
+MVF:BlackRock MuniVest Fund, Inc.
+UCFC:United Community Financial Corp.
+RESI:Front Yard Residential Corporation
 VCV:Invesco California Value Municipal Income Trust
 GOOD:Gladstone Commercial Corporation
-UCFC:United Community Financial Corp.
-PPT:Putnam Premier Income Trust
-RESI:Front Yard Residential Corporation
 FCBC:First Community Bancshares, Inc.
-HIX:Western Asset High Income Fund II Inc.
+PPT:Putnam Premier Income Trust
 FSB:Franklin Financial Network, Inc.
+HIX:Western Asset High Income Fund II Inc.
 NXJ:Nuveen New Jersey Quality Municipal Income Fund
+WHG:Westwood Holdings Group, Inc.
 BLW:BlackRock Limited Duration Income Trust
 MMU:Western Asset Managed Municipals Fund Inc.
-WHG:Westwood Holdings Group, Inc.
 AWP:Alpine Global Premier Properties Fund
-HTBI:HomeTrust Bancshares, Inc.
 MITT:AG Mortgage Investment Trust, Inc.
+HTBI:HomeTrust Bancshares, Inc.
+ONDK:On Deck Capital, Inc.
 MUC:Blackrock MuniHoldings Californ
 PFLT:PennantPark Floating Rate Capital Ltd.
-CHW:Calamos Global Dynamic Income Fund
-ONDK:On Deck Capital, Inc.
-FISI:Financial Institutions, Inc.
 AROW:Arrow Financial Corporation
-IHC:Independence Holding Company
+CHW:Calamos Global Dynamic Income Fund
+FISI:Financial Institutions, Inc.
+GLRE:Greenlight Capital Re, Ltd.
 EFR:Eaton Vance Senior Floating-Rate Trust
+IHC:Independence Holding Company
 OLP:One Liberty Properties, Inc.
 FRA:Blackrock Floating Rate Income
-GLRE:Greenlight Capital Re, Ltd.
 WSR:Whitestone REIT
 MUI:BlackRock Muni Intermediate Duration Fund, Inc.
 PNNT:PennantPark Investment Corporation
-TEI:Templeton Emerging Markets Inco
 FBNK:First Connecticut Bancorp, Inc.
 ANH:Anworth Mortgage Asset Corporation
-MFL:BlackRock MuniHoldings Investment Quality Fund
+TEI:Templeton Emerging Markets Inco
 WSBF:Waterstone Financial, Inc.
+MFL:BlackRock MuniHoldings Investment Quality Fund
 CCNE:CNB Financial Corporation
-CRD-B:Crawford &amp; Company
-EBTC:Enterprise Bancorp, Inc.
 NQP:Nuveen Pennsylvania Quality Mun
+CRD-B:Crawford &amp; Company
 EFC:Ellington Financial LLC
+EBTC:Enterprise Bancorp, Inc.
+CIO:City Office REIT, Inc.
 MUA:Blackrock MuniAssets Fund, Inc
 MYN:Blackrock MuniYield New York Qu
-CIO:City Office REIT, Inc.
-CDR:Cedar Realty Trust, Inc.
-HPF:John Hancock Preferred Income Fund II
-BGR:BlackRock Energy and Resources Trust
-MCA:BlackRock MuniYield California Quality Fund, Inc.
 EHTH:eHealth, Inc.
+BGR:BlackRock Energy and Resources Trust
+HPF:John Hancock Preferred Income Fund II
+MCA:BlackRock MuniYield California Quality Fund, Inc.
+CDR:Cedar Realty Trust, Inc.
 NCZ:AllianzGI Convertible &amp; Income Fund II
 LEO:Dreyfus Strategic Municipals, Inc.
 HBCP:Home Bancorp, Inc.
 CORR:CorEnergy Infrastructure Trust, Inc.
-BSRR:Sierra Bancorp
-HRTG:Heritage Insurance Holdings, Inc.
 OSBC:Old Second Bancorp, Inc.
+BSRR:Sierra Bancorp
 WMC:Western Asset Mortgage Capital Corporation
+HRTG:Heritage Insurance Holdings, Inc.
 PMO:Putnam Municipal Opportunities Trust
-MCBC:Macatawa Bank Corporation
 HQL:Tekla Life Sciences Investors
+MCBC:Macatawa Bank Corporation
 KTF:Deutsche Municipal Income Trust
-BKCC:BlackRock Capital Investment Corporation
+CCBG:Capital City Bank Group, Inc.
 MOFG:MidWestOne Financial Group, Inc.
 WTBA:West Bancorporation, Inc.
-CCBG:Capital City Bank Group, Inc.
+BKCC:BlackRock Capital Investment Corporation
 MQY:BlackRock MuniYield Quality Fund, Inc.
+ETB:Eaton Vance Tax-Managed Buy-Write Income Fund
+COWN:Cowen Inc.
+RM:Regional Management Corp.
 JRO:Nuveen Floating Rate Income Opportunity Fund
 RCS:PIMCO Strategic Income Fund, Inc.
-COWN:Cowen Inc.
-ETB:Eaton Vance Tax-Managed Buy-Write Income Fund
-FMO:Fiduciary/Claymore MLP Opportunity Fund
-RM:Regional Management Corp.
 EHI:Western Asset Global High Income Fund Inc.
+FMO:Fiduciary/Claymore MLP Opportunity Fund
 GPM:Guggenheim Enhanced Equity Income Fund
 BFZ:BlackRock California Municipal Income Trust
 FFKT:Farmers Capital Bank Corporation
 ACRE:Ares Commercial Real Estate Corporation
-RMT:Royce Micro-Cap Trust, Inc.
-DGICB:Donegal Group Inc.
-MMT:MFS Multimarket Income Trust
 CIA:Citizens, Inc.
+RMT:Royce Micro-Cap Trust, Inc.
+MMT:MFS Multimarket Income Trust
 MCR:MFS Charter Income Trust
+HCI:HCI Group, Inc.
 MUJ:BlackRock MuniHoldings New Jersey Quality Fund, Inc.
 NAN:Nuveen New York Quality Municipal Income Fund
 GAIN:Gladstone Investment Corporation
-HCI:HCI Group, Inc.
+DGICB:Donegal Group Inc.
 MHN:Blackrock MuniHoldings New York
 ATAX:America First Multifamily Investors, L.P.
-MIY:BlackRock MuniYield Michigan Quality Fund, Inc.
 OPY:Oppenheimer Holdings Inc.
+MIY:BlackRock MuniYield Michigan Quality Fund, Inc.
 PMX:PIMCO Municipal Income Fund III
 MRLN:Marlin Business Services Corp.
 PMM:Putnam Managed Municipal Income Trust
 BME:BlackRock Health Sciences Trust
-MGI:MoneyGram International, Inc.
 BKT:BlackRock Income Trust, Inc.
 DSM:Dreyfus Strategic Municipal Bon
 IIF:Morgan Stanley India Investment Fund, Inc.
+MGI:MoneyGram International, Inc.
 JCAP:Jernigan Capital, Inc.
 AMNB:American National Bankshares Inc.
 DX:Dynex Capital, Inc.
-OIA:Invesco Municipal Income Opport
 AVK:Advent Claymore Convertible Securities and Income Fund
+OIA:Invesco Municipal Income Opport
 ETO:Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund
 FDUS:Fidus Investment Corporation
 PHH:PHH Corporation
@@ -723,19 +722,19 @@ ITIC:Investors Title Company
 GCAP:GAIN Capital Holdings, Inc.
 SOR:Source Capital, Inc.
 BYM:Blackrock Municipal Income Qual
-PFIS:Peoples Financial Services Corp.
 KYE:Kayne Anderson Energy Total Return Fund, Inc.
+PFIS:Peoples Financial Services Corp.
 FPI:Farmland Partners Inc.
-PMF:PIMCO Municipal Income Fund
 INBK:First Internet Bancorp
+PMF:PIMCO Municipal Income Fund
 FCT:First Trust Senior Floating Rat
 MSB:Mesabi Trust
-RFI:Cohen &amp; Steers Total Return Realty Fund, Inc.
 MYJ:BlackRock MuniYield New Jersey Fund, Inc.
 WIA:Western Asset/Claymore Inflation-Linked Securities &amp; Income Fund
+RFI:Cohen &amp; Steers Total Return Realty Fund, Inc.
+CHN:The China Fund, Inc.
 FNLC:The First Bancorp, Inc.
 BLE:BlackRock Municipal Income Trust II
-CHN:The China Fund, Inc.
 JOF:Japan Smaller Capitalization Fund, Inc.
 BFIN:BankFinancial Corporation
 PCQ:PIMCO California Municipal Income Fund
@@ -745,47 +744,47 @@ TCI:Transcontinental Realty Investors, Inc.
 BGT:BlackRock Floating Rate Income Trust
 MEN:BlackRock MuniEnhanced Fund, Inc.
 PFL:PIMCO Income Strategy Fund
-NYRT:New York REIT, Inc.
 BKK:BlackRock Municipal 2020 Term Trust
+NYRT:New York REIT, Inc.
 MCI:Barings Corporate Investors
-WHF:WhiteHorse Finance, Inc.
-CSWC:Capital Southwest Corporation
 MVT:Blackrock MuniVest Fund II, Inc
+CSWC:Capital Southwest Corporation
+WHF:WhiteHorse Finance, Inc.
+TBNK:Territorial Bancorp Inc.
 AI:Arlington Asset Investment Corp.
 JRS:Nuveen Real Estate Income Fund
-TBNK:Territorial Bancorp Inc.
-MGU:Macquarie Global Infrastructure Total Return Fund Inc.
 GF:The New Germany Fund, Inc.
-VPV:Invesco Pennsylvania Value Muni
-MYC:Blackrock MuniYield California Fund, Inc.
+MGU:Macquarie Global Infrastructure Total Return Fund Inc.
 CHMI:Cherry Hill Mortgage Investment Corporation
 NRIM:Northrim BanCorp, Inc.
+VPV:Invesco Pennsylvania Value Muni
+MYC:Blackrock MuniYield California Fund, Inc.
 EVN:Eaton Vance Municipal Income Tr
 NMY:Nuveen Maryland Quality Municipal Income Fund
 ZTR:Virtus Global Dividend &amp; Income Fund Inc.
 MRCC:Monroe Capital Corporation
 ARL:American Realty Investors, Inc.
 PHD:Pioneer Floating Rate Trust
-MUE:BlackRock MuniHoldings Quality Fund II, Inc.
 CNBKA:Century Bancorp, Inc.
+MUE:BlackRock MuniHoldings Quality Fund II, Inc.
 PHT:Pioneer High Income Trust
 MQT:BlackRock MuniYield Quality Fund II, Inc.
-MFM:MFS Municipal Income Trust
 BCML:BayCom Corp.
+MFM:MFS Municipal Income Trust
 TCRD:THL Credit, Inc.
 SUNS:Solar Senior Capital Ltd.
-PCK:PIMCO California Municipal Income Fund II
 NCA:Nuveen California Municipal Value Fund, Inc.
 EMF:Templeton Emerging Markets Fund
-GUT:The Gabelli Utility Trust
+MBTF:MBT Financial Corp.
+PCK:PIMCO California Municipal Income Fund II
 SFE:Safeguard Scientifics, Inc.
-MHI:Pioneer Municipal High Income Trust
 NUM:Nuveen Michigan Quality Municip
+MHI:Pioneer Municipal High Income Trust
+GUT:The Gabelli Utility Trust
 TSI:TCW Strategic Income Fund, Inc.
 MAV:Pioneer Municipal High Income Advantage Trust
-STRS:Stratus Properties Inc.
-MBTF:MBT Financial Corp.
 NUO:Nuveen Ohio Quality Municipal I
+STRS:Stratus Properties Inc.
 AJX:Great Ajax Corp.
 SHBI:Shore Bancshares, Inc.
 VTN:Invesco Trust for Investment Grade New York Municipals
@@ -793,46 +792,46 @@ BKN:BlackRock Investment Quality Municipal Trust Inc.
 GLAD:Gladstone Capital Corporation
 JTD:Nuveen Tax-Advantaged Dividend Growth Fund
 MLP:Maui Land &amp; Pineapple Company, Inc.
-EVF:Eaton Vance Senior Income Trust
 MXF:Mexico Fund, Inc. (The)
-ZF:Virtus Total Return Fund Inc.
+EVF:Eaton Vance Senior Income Trust
 NXQ:Nuveen Select Tax-Free Income Portfolio 2
-CHMG:Chemung Financial Corporation
+ZF:Virtus Total Return Fund Inc.
 NSL:Nuveen Senior Income Fund
-NXP:Nuveen Select Tax Free Income P
 BPK:Blackrock Municipal 2018 Term T
+NXP:Nuveen Select Tax Free Income P
+CHMG:Chemung Financial Corporation
 DUC:Duff &amp; Phelps Utility &amp; Corpora
 SCD:LMP Capital and Income Fund Inc.
-PMBC:Pacific Mercantile Bancorp
 EVG:Eaton Vance Short Duration Diversified Income Fund
 PZC:PIMCO California Municipal Income Fund III
-FBIZ:First Business Financial Services, Inc.
-JDD:Nuveen Diversified Dividend and Income Fund
 MSL:MidSouth Bancorp, Inc.
+PMBC:Pacific Mercantile Bancorp
+JDD:Nuveen Diversified Dividend and Income Fund
+FBIZ:First Business Financial Services, Inc.
+MSF:Morgan Stanley Emerging Markets Fund, Inc.
 CFFI:C&amp;F Financial Corporation
 NPV:Nuveen Virginia Quality Municip
-MSF:Morgan Stanley Emerging Markets Fund, Inc.
 MHD:BlackRock MuniHoldings Fund, Inc.
+FFNW:First Financial Northwest, Inc.
 APF:Morgan Stanley Asia-Pacific Fun
 GGT:The Gabelli Multimedia Trust Inc.
-FFNW:First Financial Northwest, Inc.
 KF:Korea Fund, Inc. (The) New
 PWOD:Penns Woods Bancorp, Inc.
 SCM:Stellus Capital Investment Corporation
 IGA:Voya Global Advantage and Premium Opportunity Fund
 NNC:Nuveen North Carolina Quality Municipal Income Fund
 VBF:Invesco Bond Fund
-ASA:ASA Gold and Precious Metals Limited
 RVSB:Riverview Bancorp, Inc.
+ASA:ASA Gold and Precious Metals Limited
 HYB:The New America High Income Fund Inc.
 KMM:Deutsche  Multi-Market Income T
-UBFO:United Security Bancshares
 BRT:BRT Apartments Corp.
 FLC:Flaherty &amp; Crumrine Total Return Fund Inc.
+UBFO:United Security Bancshares
 NXR:Nuveen Select Tax-Free Income Portfolio 3
 FUND:Sprott Focus Trust, Inc. - Clos
-KED:Kayne Anderson Energy Development Company
 MYF:BlackRock MuniYield Investment Fund
+KED:Kayne Anderson Energy Development Company
 MSD:Morgan Stanley Emerging Markets
 ASG:Liberty All-Star Growth Fund, Inc.
 MPA:Blackrock MuniYield Pennsylvani
@@ -842,22 +841,22 @@ LGI:Lazard Global Total Return and Income Fund, Inc.
 CEE:The Central and Eastern Europe
 SAR:Saratoga Investment Corp.
 NTC:Nuveen Connecticut Quality Muni
-FT:Franklin Universal Trust
 PGP:PIMCO Global StocksPLUS &amp; Income Fund
-BNY:BlackRock New York Municipal In
+FT:Franklin Universal Trust
 ESSA:ESSA Bancorp, Inc.
+BNY:BlackRock New York Municipal In
 TWN:Taiwan Fund, Inc. (The)
 MHF:Western Asset Municipal High Income Fund Inc.
-MPV:Barings Participation Investors
 MUS:BlackRock MuniHoldings Quality Fund, Inc.
+MPV:Barings Participation Investors
 JHS:John Hancock Income Securities Trust
-OFS:OFS Capital Corporation
 MUH:Blackrock MuniHoldings Fund II,
+OFS:OFS Capital Corporation
 DNI:Dividend and Income Fund
 PFD:Flaherty &amp; Crumrine Preferred Income Fund Inc.
 FMN:Federated Premier Municipal Income Fund
-WEA:Western Asset Premier Bond Fund
 BBK:BlackRock Municipal Bond Trust
+WEA:Western Asset Premier Bond Fund
 BTA:BlackRock Long-Term Municipal Advantage Trust
 NAZ:Nuveen Arizona Quality Municipa
 MCN:Madison Covered Call &amp; Equity Strategy Fund
@@ -866,62 +865,62 @@ EARN:Ellington Residential Mortgage REIT
 NNY:Nuveen New York Municipal Value Fund, Inc.
 APB:The Asia Pacific Fund, Inc.
 JHI:John Hancock Investors Trust
-MNP:Western Asset Municipal Partners Fund Inc.
 FUNC:First United Corporation
+MNP:Western Asset Municipal Partners Fund Inc.
 PFO:Flaherty &amp; Crumrine Preferred I
 CPTA:Capitala Finance Corp.
 PCM:PCM Fund Inc.
 BBF:BlackRock Municipal Income Investment Trust
-GARS:Garrison Capital Inc.
 FAM:First Trust/Aberdeen Global Opportunity Income Fund
+GARS:Garrison Capital Inc.
 HWBK:Hawthorn Bancshares, Inc.
 PAI:Western Asset Investment Grade
 AGD:Alpine Global Dynamic Dividend Fund
 NTX:Nuveen Texas Quality Municipal
 SPE:Special Opportunities Fund, Inc.
-CMFN:CM Finance Inc.
 ACSF:American Capital Senior Floating, Ltd.
+CMFN:CM Finance Inc.
 PCF:Putnam High Income Securities Fund
-NIM:Nuveen Select Maturities Munici
 KSM:Deutsche Strategic Municipal Income Trust
+NIM:Nuveen Select Maturities Munici
 HRZN:Horizon Technology Finance Corporation
 CGO:Calamos Global Total Return Fund
 NKG:Nuveen Georgia Quality Municipa
-PNI:Pimco New York Municipal Income
 BAF:BlackRock Municipal Income Investment Quality Trust
+PNI:Pimco New York Municipal Income
 JMP:JMP Group LLC
 NMT:Nuveen Massachusetts Quality Mu
-JEQ:Aberdeen Japan Equity Fund, Inc.
 DTF:DTF Tax-Free Income Inc.
+JEQ:Aberdeen Japan Equity Fund, Inc.
 AKP:Alliance California Municipal Income Fund, Inc.
 VLT:Invesco High Income Trust II
 MFT:BlackRock MuniYield Investment Quality Fund
 SVVC:Firsthand Technology Value Fund, Inc.
 BCRH:Blue Capital Reinsurance Holdings Ltd.
 TLI:Western Asset Corporate Loan Fu
-NMI:Nuveen Municipal Income Fund, Inc.
 MZF:Managed Duration Investment Gra
+NMI:Nuveen Municipal Income Fund, Inc.
 PNF:PIMCO New York Municipal Income Fund
 BJZ:BlackRock California Municipal 2018 Term Trust
 MFD:Macquarie/First Trust Global Infrastructure/Utilities Dividend &amp; Income Fund
 DDF:Delaware Investments Dividend and Income Fund, Inc.
-AMRB:American River Bankshares
 BSD:BlackRock Strategic Municipal Trust
+AMRB:American River Bankshares
 AMRK:A-Mark Precious Metals, Inc.
-GCV:Gabelli Convertible and Income
 CXH:MFS Investment Grade Municipal
+GCV:Gabelli Convertible and Income
 NXC:Nuveen California Select Tax-Free Income Portfolio
+NICK:Nicholas Financial, Inc.
 MXE:Mexico Equity &amp; Income Fund Inc.
 BSE:BlackRock New York Municipal Income Quality Trust
 BFO:Blackrock Florida Municipal 202
-NICK:Nicholas Financial, Inc.
 GFY:Western Asset Variable Rate Str
 EGF:BlackRock Enhanced Government Fund, Inc.
 EEA:The European Equity Fund, Inc.
 NRT:North European Oil Royalty Trust
 LOR:Lazard World Dividend &amp; Income Fund Inc.
-LCM:Advent/Claymore Enhanced Growth &amp; Income Fund
 FEO:First Trust/Aberdeen Emerging Opportunity Fund
+LCM:Advent/Claymore Enhanced Growth &amp; Income Fund
 MZA:BlackRock MuniYield Arizona Fund, Inc.
 MSP:Madison Strategic Sector Premium Fund
 LDF:The Latin American Discovery Fund, Inc.
@@ -929,8 +928,8 @@ BFY:BlackRock New York Municipal Income Trust II
 IRL:The New Ireland Fund, Inc.
 KST:Deutsche Strategic Income Trust
 FMY:First Trust Mortgage Income Fund
-MNE:Blackrock Muni New York Interme
 BLH:BlackRock New York Municipal 2018 Term Trust
+MNE:Blackrock Muni New York Interme
 NCB:Nuveen California Municipal Value Fund 2
 PYN:PIMCO New York Municipal Income Fund III
 NXN:Nuveen New York Select Tax-Free

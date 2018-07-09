@@ -9,17 +9,17 @@ SRE:Sempra Energy
 OKE:ONEOK, Inc.
 PEG:Public Service Enterprise Group Incorporated
 ED:Consolidated Edison, Inc.
-XEL:Xcel Energy Inc.
 PCG:PG&amp;E Corporation
+XEL:Xcel Energy Inc.
 EIX:Edison International
 WEC:WEC Energy Group, Inc.
 PPL:PPL Corporation
 DTE:DTE Energy Company
-ES:Eversource Energy
 KEP:Korea Electric Power Corporation
+ES:Eversource Energy
 FE:FirstEnergy Corp.
-ETR:Entergy Corporation
 BIP:Brookfield Infrastructure Partners L.P.
+ETR:Entergy Corporation
 AWK:American Water Works Company, Inc.
 AEE:Ameren Corporation
 CMS:CMS Energy Corporation
@@ -27,8 +27,8 @@ HNP:Huaneng Power International, Inc.
 CNP:CenterPoint Energy, Inc.
 ATO:Atmos Energy Corporation
 LNT:Alliant Energy Corporation
-NRG:NRG Energy, Inc.
 BEP:Brookfield Renewable Partners L.P.
+NRG:NRG Energy, Inc.
 NI:NiSource Inc.
 UGI:UGI Corporation
 PNW:Pinnacle West Capital Corporation
@@ -36,27 +36,27 @@ AES:The AES Corporation
 OGE:OGE Energy Corp.
 WTR:Aqua America, Inc.
 VVC:Vectren Corporation
-SCG:SCANA Corporation
 CPL:CPFL Energia S.A.
+SCG:SCANA Corporation
 IDA:IDACORP, Inc.
 WGL:WGL Holdings, Inc.
 SBS:Companhia de Saneamento B\xc3\xa1sico do Estado de S\xc3\xa3o Paulo - SABESP
 NJR:New Jersey Resources Corporation
 ALE:ALLETE, Inc.
-OGS:ONE Gas, Inc.
 APU:AmeriGas Partners, L.P.
+OGS:ONE Gas, Inc.
 HE:Hawaiian Electric Industries, Inc.
 POR:Portland General Electric Company
 SWX:Southwest Gas Holdings, Inc.
 SR:Spire Inc.
 AVA:Avista Corporation
-BKH:Black Hills Corporation
 PAM:Pampa Energ\xc3\xada S.A.
+BKH:Black Hills Corporation
 PNM:PNM Resources, Inc.
 SJI:South Jersey Industries, Inc.
 NWE:NorthWestern Corporation
-ORA:Ormat Technologies, Inc.
 TGS:Transportadora de Gas del Sur S.A.
+ORA:Ormat Technologies, Inc.
 NEP:NextEra Energy Partners, LP
 NYLD:NRG Yield, Inc.
 NYLD-A:NRG Yield, Inc.
@@ -65,13 +65,13 @@ EE:El Paso Electric Company
 MGEE:MGE Energy, Inc.
 AWR:American States Water Company
 CWT:California Water Service Group
-OTTR:Otter Tail Corporation
 CZZ:Cosan Limited
-NWN:Northwest Natural Gas Company
+OTTR:Otter Tail Corporation
 PEGI:Pattern Energy Group Inc.
+NWN:Northwest Natural Gas Company
 EDN:Empresa Distribuidora y Comercializadora Norte Sociedad An\xc3\xb3nima
-ELP:Companhia Paranaense de Energia - COPEL
 TAC:TransAlta Corporation
+ELP:Companhia Paranaense de Energia - COPEL
 SPH:Suburban Propane Partners, L.P.
 CPK:Chesapeake Utilities Corporation
 SJW:SJW Group

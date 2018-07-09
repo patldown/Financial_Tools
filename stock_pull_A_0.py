@@ -62,28 +62,33 @@ class asset:
             for item in items:
                 if '"date"' and '"open"' and '"high"' in item.lower():
                     if 'symbol' not in item.lower():
+                        item = item.strip('},')
+                        data = item.split(':')
+                        datum_string = ''
+                        for datum in data:
+                            datum_string += datum
+                        data = datum_string.split(',')
+                        datum_string = ''
+                        for datum in data:
+                            datum_string += datum
+                        
+                        data = datum_string.strip('"').split('"')
+                        #print(data)
                         try:
-                            item = item.strip('},')
-                            data = item.split(':')
-                            datum_string = ''
-                            for datum in data:
-                                datum_string += datum
-                            data = datum_string.split(',')
-                            datum_string = ''
-                            for datum in data:
-                                datum_string += datum
-                            
-                            data = datum_string.strip('"').split('"')
-                            #print(data)
-
-                            self.close_prices.append(float(data[9]))
-                            self.volume = int(data[10])
-                            #print(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
                             self.dates.append(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
-
                         except:
-                            0
-            
+                            continue
+                        try:
+                            self.close_prices.append(float(data[9]))
+                        except:
+                            continue
+                        try:
+                            self.volume = int(data[10])
+                        except:
+                            continue
+                        #print(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
+                        self.dates.append(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
+
         self.close_prices = self.close_prices[::-1]
         self.dates = self.dates[::-1]
                         
@@ -96,14 +101,14 @@ class asset:
     def c_returns(self):
 
         self.returns = []
-        x = 0
+        t = 0
         max_v = len(self.close_prices) - 1
-        while x <= max_v:
-            if x == 0:
+        while t <= max_v:
+            if t == 0:
                 self.returns.append(0)
             else:
-                self.returns.append(round((self.close_prices[x] - self.close_prices[x-1])/self.close_prices[x-1],2))
-            x+=1
+                self.returns.append(round((self.close_prices[t] - self.close_prices[t-1])/self.close_prices[t-1],2))
+            t+=1
 
         try:
             self.avg_return = sum(self.returns[1:])/len(self.returns[1:])
@@ -118,24 +123,25 @@ class asset:
 
     def create_MAs(self, MA = 100):
         import numpy
+
         
         self.MA_prices = []
         self.upper_bollinger = []
         self.lower_bollinger = []
-        x = 0
-        while x < MA:
+        t = 0
+        while t < MA:
             self.MA_prices.append(0)
             self.upper_bollinger.append(0)
             self.lower_bollinger.append(0)
-            x += 1
+            t += 1
 
-        while x >= MA and x < len(self.close_prices):
-            average = sum(self.close_prices[(x - MA):x])/MA
+        while t >= MA and t < len(self.close_prices):
+            average = sum(self.close_prices[(t - MA):t])/MA
             self.MA_prices.append(average)
-            std_dev = numpy.std(self.close_prices[(x - MA):x])
+            std_dev = numpy.std(self.close_prices[(t - MA):t])
             self.upper_bollinger.append(average + std_dev)
             self.lower_bollinger.append(average - std_dev)            
-            x += 1
+            t += 1
 
         self.MA_current = self.MA_prices[len(self.MA_prices) - 1]
 
@@ -149,12 +155,15 @@ class asset:
 
         handle = open(self.ticker + '.csv', 'w', newline = '')
         csvwriter = csv.writer(handle)
-        x = len(self.close_prices) - 1
+        t = len(self.close_prices) - 1
 
-        while x >= 0:
-            csvwriter.writerow([self.dates[x], self.close_prices[x], self.MA_prices[x],
-                                self.upper_bollinger[x], self.lower_bollinger[x]])
-            x -= 1
+        while t >= 0:
+            try:
+                csvwriter.writerow([self.dates[t], self.close_prices[t], self.MA_prices[t],
+                                self.upper_bollinger[t], self.lower_bollinger[t]])
+            except:
+                csvwriter.writerow([self.close_prices[t], self.MA_prices[t], self.upper_bollinger[t], self.lower_bollinger[t]])
+            t -= 1
         handle.close()
 
 def file_grab(file = False):
@@ -211,124 +220,43 @@ def regression_analysis_file_write():
         csvwriter.writerow(line)
     handle.close()
 
-def set_params(file_name, args):
-    print('### Portfolio Analyis ###\n')
+def set_params(file_name, *args):
+    '''
+    -args:
+    -param = file_name:=name of the call
+    -param = args:= (1)working capital
+                    (2)ROR
+                    (3)Short?
+                    (4)high perf
+                    (5)low?
+                    (6)months
+    '''
 
-    t2 = int(time.time())
-    
-
-    if 'args' not in locals():
-        t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
-        high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
-    
-        if high_perf == 'Y':
-            high_perf = True
-            low_perf = False
-        else:
-            high_perf = False
-
-            if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
-                low_perf = True
-            else:
-                low_perf = False
-    
-        w_capital = input('Working capital: ')
-        ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
-
-        short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
-        if short == 'N':
-            short = False
-        elif short == 'Y':
-            short = True
-    else:
-        t1 = int(t2) - int(args[0])*60*60*24*30
-        if args[1] == 1:
-            high_perf = True
-        else:
-            high_perf = False
-        if args[2] == 1:
-            low_perf = True
-        else:
-            low_perf = False
-        
+    w_capital = args[0]
+    ror = args[1]
+    short = args[2]
+    if short == 0: short = False
+    elif short == 1: short = True
+    high_perf = args[3]
+    if high_perf == 0: high_perf = False
+    elif high_perf == 1: high_perf = True
+    low_perf = args[4]
+    if low_perf == 0: low_perf = False
+    elif low_perf == 1: low_perf = True
+    months = args[5]
         
     handle = open('setup.info', 'w')
-    handle.write(os.path.basename(file_name).split('.')[0] + '\n')
+    handle.write(file_name + '\n')
     handle.write(w_capital + '\n')
     handle.write(ror + '\n')
     handle.write(str(short) + '\n')
     handle.write(str(high_perf) + '\n')
     handle.write(str(low_perf) + '\n')
-    handle.close()
-    
-    return int(t1), int(t2), high_perf, low_perf
-<<<<<<< HEAD:stock_pull_A_0.py
-
-def read_params(file_name):
-    ### file_name  == '__file__'
-    print('### Portfolio Analyis ###\n')
-
-    handle = open()
-
-def read_params(file_name):
-    ### file_name  == '__file__'
-    print('### Portfolio Analyis ###\n')
-
-    handle = open()
-
-def read_params(file_name):
-    ### file_name  == '__file__'
-    print('### Portfolio Analyis ###\n')
-
-    handle = open()
-
-def read_params(file_name):
-    ### file_name  == '__file__'
-    print('### Portfolio Analyis ###\n')
-
-    handle = open()
-
-
-def read_params(file_name):
-    ### file_name  == '__file__'
-    print('### Portfolio Analyis ###\n')
-
-    handle = open()
-
-
-    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
-    if high_perf == 'Y':
-        high_perf = True
-        low_perf = False
-    else:
-        high_perf = False
-        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
-            low_perf = True
-        else:
-            low_perf = False
-    
-    w_capital = input('Working capital: ')
-    ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
-
-    short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
-    if short == 'N':
-        short = False
-    elif short == 'Y':
-        short = True
-        
-    handle = open('setup.info', 'w')
-    handle.write(os.path.basename(file_name).split('.')[0] + '\n')
-    handle.write(w_capital + '\n')
-    handle.write(ror + '\n')
-    handle.write(str(short) + '\n')
-    handle.write(str(high_perf) + '\n')
-    handle.write(str(low_perf) + '\n')
-    handle.write(str(t1) + '\n')
-    handle.write(str(t2))
+    handle.write(str(months))
     handle.close()
 
-    
-    return int(t1), int(t2), high_perf, low_perf
+    if __name__ == '__main__':    
+        return int(t1), int(t2), high_perf, low_perf
 
 def read_params():
     handle = open('setup.info', 'r')
@@ -341,39 +269,9 @@ def read_params():
     short = reader[3].strip()
     high_perf = reader[4].strip()
     low_perf = reader[5].strip()
-    t2 = reader[7].strip()
-    t1 = reader[6].strip()
+    months = reader[6].strip()
 
-    return filename,w_capital, ror, short, high_perf, low_perf, t2, t1
-
-
-       
-def write_loop(ticker, t1, t2):
-    handle = open('setup.info', 'r')
-    reader = handle.read()
-    handle.close()
-
-    high_perf = reader.split('\n')[4]
-    low_perf = reader.split('\n')[5]
-    
-    y = asset(ticker, t1, t2)
-
-    if high_perf == 'False':
-        0
-    else:
-        if y.avg_return > 0:
-            y.write_out()
-        else:
-            print(y.ticker, 'does not meet Positive criteria')
-    
-
-    if low_perf == 'False':
-        y.write_out()
-    else:
-        if y.avg_return < 0:
-            y.write_out()
-        else:
-            print(y.ticker, 'does not meet Negative criteria')
+    return filename,w_capital, ror, short, high_perf, low_perf, months
 
 def port_read(port_file):
 
@@ -400,14 +298,18 @@ def reg_call():
 def download_data():
     import time
     from tkinter import filedialog
+    
     portfolio = filedialog.askopenfilename(initialdir = os.getcwd())
-    file_name,w_capital, ror, short, high_perf, low_perf, t1, t2 = read_params()
-    print(t1, t2)
+    file_name,w_capital, ror, short, high_perf, low_perf, months = read_params()
     assets = port_read(portfolio)
+
+    t1 = int(time.time()) - int(months) * 60 * 60 * 24 * 30
+    t2 = int(time.time())
+    
     for ticker in assets:
         ticker = ticker.split(':')[0]
         print(ticker)
-        y = asset(ticker, t2, t1)
+        y = asset(ticker, t1, t2)
 
 def update_sector_populations():
     import urllib.request
