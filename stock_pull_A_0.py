@@ -27,8 +27,11 @@ class asset:
         self.link()
         self.c_returns()
         self.create_MAs()
+<<<<<<< HEAD:stock_pull_A_0.py
 <<<<<<< HEAD:stock_pull_A_1.py
         self.write_out()
+=======
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 =======
 >>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 
@@ -216,6 +219,7 @@ def set_params(file_name):
     ### file_name  == '__file__'
     print('### Portfolio Analyis ###\n')
 
+<<<<<<< HEAD:stock_pull_A_0.py
 <<<<<<< HEAD:stock_pull_A_1.py
     t2 = int(time.time())
     
@@ -261,6 +265,17 @@ def set_params(file_name):
         high_perf = False
         if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
 >>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
+=======
+    t2 = time.time()
+    t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
+    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
+    if high_perf == 'Y':
+        high_perf = True
+        low_perf = False
+    else:
+        high_perf = False
+        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
             low_perf = True
         else:
             low_perf = False
@@ -284,6 +299,7 @@ def set_params(file_name):
     handle.close()
     
     return int(t1), int(t2), high_perf, low_perf
+<<<<<<< HEAD:stock_pull_A_0.py
 
 def read_params(file_name):
     ### file_name  == '__file__'
@@ -291,6 +307,15 @@ def read_params(file_name):
 
     handle = open()
 
+=======
+
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
     high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
     if high_perf == 'Y':
         high_perf = True
@@ -321,6 +346,7 @@ def read_params(file_name):
     handle.write(str(t1) + '\n')
     handle.write(str(t2))
     handle.close()
+<<<<<<< HEAD:stock_pull_A_0.py
 <<<<<<< HEAD:stock_pull_A_1.py
 
     if 'args' not in locals():
@@ -342,6 +368,10 @@ def read_params():
 
     return filename,w_capital, ror, short, high_perf, low_perf, t2, t1
         
+=======
+    
+    return int(t1), int(t2), high_perf, low_perf
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 =======
     
     return int(t1), int(t2), high_perf, low_perf
@@ -396,6 +426,7 @@ def reg_call():
     import subprocess
     os.system(r'start excel.exe "' + os.getcwd() + '\FORMATTING.xlsm"')
 
+<<<<<<< HEAD:stock_pull_A_0.py
 <<<<<<< HEAD:stock_pull_A_1.py
 def download_data():
     import time
@@ -444,6 +475,8 @@ def update_sector_populations():
             handle.write(':'.join(line) + '\n')
         handle.close()
 
+=======
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 =======
 >>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 if __name__ == '__main__':
