@@ -72,6 +72,7 @@ class gui:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         self.editmenu.add_command(label="Launch PortEditor", command = PortEditor)
         self.editmenu.add_command(label="Parameters", command = self.params_window)
         self.menubar.add_cascade(label = "Edit", menu = self.editmenu)
@@ -85,6 +86,17 @@ class gui:
         self.macromenu.add_command(label="Combine Data", command = '')
         self.macromenu.add_command(label="Balance Portfolio", command = '')
         self.menubar.add_cascade(label = "Functions", menu = self.macromenu)
+=======
+        self.editmenu.add_command(label="New", command = '')
+        self.editmenu.add_command(label = "Open", command = '')
+        self.editmenu.add_command(label = "Save", command = '')
+        self.editmenu.add_command(label = "Save as...", command = '')
+        self.editmenu.add_command(label = "Close", command = '')
+
+        self.editmenu.add_separator()
+        self.editmenu.add_command(label = "Exit", command = self.master.quit)
+        self.menubar.add_cascade(label = "Edit", menu = self.filemenu)
+>>>>>>> parent of 9035c62... Updates to GUI
 =======
         self.editmenu.add_command(label="New", command = '')
         self.editmenu.add_command(label = "Open", command = '')
