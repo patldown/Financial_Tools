@@ -1,46 +1,12 @@
 import tkinter as tk
 import os
-from tkinter import filedialog
-import webbrowser
+from tkinter import filedialog, Toplevel, IntVar
+from texteditor import *
+from stock_pull_A_1 import *
 
-def create_new_file(ext = '.txt'):
-    x = filedialog.asksaveasfilename(initialdir = os.getcwd,
-                                     filetypes=[('text', '.txt'), ('comma separated values', '.csv'),
-                                                ('all files', '.*')],
-                                     defaultextension = ext)
-    print(x)
-    handle = open(x, 'w')
-    handle.write("ERASE THESE LINES: List each ticker you'd like to use on a separate line\n")
-    handle.close()
-    
-    webbrowser.open(x)
-    return x
-
-##def open_file(ext = '.txt'):
-##    x = filedialog.askopenfilename(initialdir = os.getcwd,
-##                                     filetypes=[('text', '.txt'), ('comma separated values', '.csv'),
-##                                                ('all files', '.*')],
-##                                     defaultextension = ext)
-##    print(x)
-##    
-##    webbrowser.open(x)
-##    return x
-##
-##def save_file(ext = '.txt'):
-##    x = filedialog.asksaveasfilename(initialdir = os.getcwd,
-##                                     filetypes=[('text', '.txt'), ('comma separated values', '.csv'),
-##                                                ('all files', '.*')],
-##                                     defaultextension = ext)
-##    print(x)
-##    handle = open(x, 'w')
-##    handle.write("ERASE THESE LINES: List each ticker you'd like to use on a separate line\n")
-##    handle.close()
-##    
-##    webbrowser.open(x)
-##    return x
 
 class gui:
-    def __init__(self, master, tag, title = 'Main_Skin_Interface'):
+    def __init__(self, master, tag, title = 'FAT: Financial Analysis Tools'):
         ### sets master = object
         self.master = master
 
@@ -57,10 +23,6 @@ class gui:
         self.menubar = tk.Menu(self.master)
         self.filemenu = tk.Menu(self.menubar, tearoff = 0)
         
-        self.filemenu.add_command(label="New", command = create_new_file)
-        self.filemenu.add_command(label = "Open", command = open_file)
-        self.filemenu.add_command(label = "Save", command = '')
-        self.filemenu.add_command(label = "Save as...", command = '')
         self.filemenu.add_command(label = "Close", command = '')
 
         self.filemenu.add_separator()
@@ -69,43 +31,17 @@ class gui:
 
         self.editmenu = tk.Menu(self.menubar, tearoff = 0)
         
-        self.editmenu.add_command(label="New", command = '')
-        self.editmenu.add_command(label = "Open", command = '')
-        self.editmenu.add_command(label = "Save", command = '')
-        self.editmenu.add_command(label = "Save as...", command = '')
-        self.editmenu.add_command(label = "Close", command = '')
+        self.editmenu.add_command(label="Launch PortEditor", command = PortEditor)
+        self.editmenu.add_command(label="Parameters", command = self.params_window)
+        self.menubar.add_cascade(label = "Edit", menu = self.editmenu)
 
-        self.editmenu.add_separator()
-        self.editmenu.add_command(label = "Exit", command = self.master.quit)
-        self.menubar.add_cascade(label = "Edit", menu = self.filemenu)
-
-    def list_programs(self, tag):
-        self.scripts = []
-        for file in os.listdir(os.getcwd()):
-            #print(file)
-            if tag in file.lower():
-                #print(True)
-                self.scripts.append(file)
-
-    def create_program_list(self, tag):
-        self.list_programs(tag)
-        lbox = tk.Listbox(self.master)
-        x = 1
-        for item in self.scripts:
-            command_name = item.split('.')[0].upper().split('_')[1] + " " + item.split('.')[0].upper().split('_')[2] + " ANALYSIS"
-            lbox.insert(x, command_name)
-            x+=1
-        return lbox
-
-class text_editor:
-    def __init__(self, master, title = 'Portfolio Editor'):
-        ### sets master = object
-        self.master = master
-
-        ### sets title
-        self.master.title(title)
-
-        self.menu_()
+        self.macromenu = tk.Menu(self.menubar, tearoff = 0)
+        
+        self.macromenu.add_command(label="Download Data", command = '')
+        self.macromenu.add_command(label="View Data Stats", command = '')
+        self.macromenu.add_command(label="Combine Data", command = '')
+        self.macromenu.add_command(label="Balance Portfolio", command = '')
+        self.menubar.add_cascade(label = "Functions", menu = self.macromenu)
 
     def list_programs(self, tag):
         self.scripts = []
@@ -124,8 +60,63 @@ class text_editor:
             lbox.insert(x, command_name)
             x+=1
         return lbox
+
+    def params_window(self):
+        
+        w = tk.Toplevel(height = 300, width = 400)
+        
+        tFrame = tk.Frame(w)
+        tLabel = tk.Label(tFrame, text ="Months to Backlog:").pack(anchor = "w")
+        tEntry = tk.Entry(tFrame)
+        tEntry.pack(anchor = "e")
+
+        CheckVar1 = IntVar()
+        CheckVar2 = IntVar()
+        CheckVar3 = IntVar()
+        pFrame = tk.Frame(w)
+        pLabel = tk.Checkbutton(pFrame, text ="High Performance", variable = CheckVar1,
+                                onvalue = True, offvalue = False)
+        lLabel = tk.Checkbutton(pFrame, text ="Low Performance", variable = CheckVar2,
+                                onvalue = True, offvalue = False)
+        pLabel.pack(anchor = "w")
+        lLabel.pack(anchor = "e")
+
+        mFrame = tk.Frame(w)
+        mLabel = tk.Label(mFrame, text ="Working Capital:").pack(anchor = "w")
+        mEntry = tk.Entry(mFrame)
+        mEntry.pack(anchor = "e")
+
+        rFrame = tk.Frame(w)
+        rLabel = tk.Label(rFrame, text ="Required Rate of Return:").pack(anchor = "w")
+        rEntry = tk.Entry(rFrame)
+        rEntry.pack(anchor = "e")
+
+        sFrame = tk.Frame(w)
+        sLabel = tk.Checkbutton(sFrame, text ="Short", variable = CheckVar3,
+                                onvalue = True, offvalue = False).pack(anchor = "e")
+
+        SetButton = tk.Button(w, text = 'Set Parameters', command = lambda: set_params('Gui',
+                                                                                       tEntry.get(),
+                                                                                       CheckVar1.get(),
+                                                                                       CheckVar2.get(),
+                                                                                       mEntry.get(),
+                                                                                       rEntry.get(),
+                                                                                       CheckVar3.get()))
+        SetButton.pack()
+
+        tFrame.pack()
+        pFrame.pack()
+        mFrame.pack()
+        rFrame.pack()
+        sFrame.pack()
+
+        w.mainloop()
+
+        
                 
 if __name__ == "__main__":
     root = tk.Tk()
+    root.geometry('800x600')
+    root.resizable(width=False, height=False)
     gui(root, 'scr_')
     root.mainloop()
