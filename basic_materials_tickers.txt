@@ -1,0 +1,312 @@
+EC:Ecopetrol S.A.
+XOM:Exxon Mobil Corporation
+RDS-B:Royal Dutch Shell plc
+CVX:Chevron Corporation
+PTR:PetroChina Company Limited
+TOT:TOTAL S.A.
+BP:BP p.l.c.
+BHP:BHP Billiton Limited
+BBL:BHP Billiton plc
+SNP:China Petroleum &amp; Chemical Corporation
+RIO:Rio Tinto plc
+SLB:Schlumberger Limited
+COP:ConocoPhillips
+CEO:CNOOC Limited
+EOG:EOG Resources, Inc.
+E:Eni S.p.A.
+VALE:Vale S.A.
+SU:Suncor Energy Inc.
+PBR-A:Petr\xc3\xb3leo Brasileiro S.A. - Petrobras
+OXY:Occidental Petroleum Corporation
+ENB:Enbridge Inc.
+EPD:Enterprise Products Partners L.P.
+PSX:Phillips 66
+PX:Praxair, Inc.
+VLO:Valero Energy Corporation
+CNQ:Canadian Natural Resources Limited
+LYB:LyondellBasell Industries N.V.
+WPZ:Williams Partners L.P.
+HAL:Halliburton Company
+KMI:Kinder Morgan, Inc.
+TRP:TransCanada Corporation
+SHW:The Sherwin-Williams Company
+APC:Anadarko Petroleum Corporation
+SCCO:Southern Copper Corporation
+APD:Air Products and Chemicals, Inc.
+MPC:Marathon Petroleum Corporation
+PXD:Pioneer Natural Resources Company
+MT:ArcelorMittal
+MPLX:MPLX LP
+FCX:Freeport-McMoRan Inc.
+PPG:PPG Industries, Inc.
+SSL:Sasol Limited
+CLR:Continental Resources, Inc.
+DVN:Devon Energy Corporation
+WMB:The Williams Companies, Inc.
+PKX:POSCO
+ETP:Energy Transfer Partners, L.P.
+CXO:Concho Resources Inc.
+HES:Hess Corporation
+NUE:Nucor Corporation
+NEM:Newmont Mining Corporation
+ETE:Energy Transfer Equity, L.P.
+APA:Apache Corporation
+MRO:Marathon Oil Corporation
+PBA:Pembina Pipeline Corporation
+NBL:Noble Energy, Inc.
+PAA:Plains All American Pipeline, L.P.
+NOV:National Oilwell Varco, Inc.
+SEP:Spectra Energy Partners, LP
+ABX:Barrick Gold Corporation
+MMP:Magellan Midstream Partners, L.P.
+CE:Celanese Corporation
+EQT:EQT Corporation
+EMN:Eastman Chemical Company
+WLK:Westlake Chemical Corporation
+FTI:TechnipFMC plc
+FNV:Franco-Nevada Corporation
+SQM:Sociedad Qu\xc3\xadmica y Minera de Chile S.A.
+CVE:Cenovus Energy Inc.
+FANG:Diamondback Energy, Inc.
+PAGP:Plains GP Holdings, L.P.
+ECA:Encana Corporation
+GG:Goldcorp Inc.
+HFC:HollyFrontier Corporation
+FMC:FMC Corporation
+SDRL:Seadrill Limited
+TRGP:Targa Resources Corp.
+STLD:Steel Dynamics, Inc.
+MOS:The Mosaic Company
+COG:Cabot Oil &amp; Gas Corporation
+AEM:Agnico Eagle Mines Limited
+ALB:Albemarle Corporation
+BAK:Braskem S.A.
+PE:Parsley Energy, Inc.
+CF:CF Industries Holdings, Inc.
+IFF:International Flavors &amp; Fragrances Inc.
+XEC:Cimarex Energy Co.
+AA:Alcoa Corporation
+CC:The Chemours Company
+RPM:RPM International Inc.
+WGP:Western Gas Equity Partners, LP
+WPX:WPX Energy, Inc.
+WES:Western Gas Partners, LP
+AXTA:Axalta Coating Systems Ltd.
+ENBL:Enable Midstream Partners, LP
+SHI:Sinopec Shanghai Petrochemical Company Limited
+EGN:Energen Corporation
+RSPP:RSP Permian, Inc.
+EQGP:EQT GP Holdings, LP
+HP:Helmerich &amp; Payne, Inc.
+HUN:Huntsman Corporation
+AR:Antero Resources Corporation
+TX:Ternium S.A.
+YPF:YPF Sociedad Anonima
+ACH:Aluminum Corporation of China Limited
+UGP:Ultrapar Participa\xc3\xa7\xc3\xb5es S.A.
+RS:Reliance Steel &amp; Aluminum Co.
+RIG:Transocean Ltd.
+X:United States Steel Corporation
+PSXP:Phillips 66 Partners LP
+CGC:Canopy Growth Corporation
+MEOH:Methanex Corporation
+RGLD:Royal Gold, Inc.
+NFX:Newfield Exploration Company
+WH:Wyndham Hotels &amp; Resorts, Inc.
+MUR:Murphy Oil Corporation
+BTU:Peabody Energy Corporation
+AM:Antero Midstream Partners LP
+VET:Vermilion Energy Inc.
+ENLK:EnLink Midstream Partners, LP
+CLB:Core Laboratories N.V.
+BPL:Buckeye Partners, L.P.
+SHLX:Shell Midstream Partners, L.P.
+PBF:PBF Energy Inc.
+GRA:W. R. Grace &amp; Co.
+OLN:Olin Corporation
+ASH:Ashland Global Holdings Inc.
+CHK:Chesapeake Energy Corporation
+NEU:NewMarket Corporation
+SMG:The Scotts Miracle-Gro Company
+WLL:Whiting Petroleum Corporation
+NFG:National Fuel Gas Company
+ADNT:Adient plc
+EEP:Enbridge Energy Partners, L.P.
+EQM:EQT Midstream Partners, LP
+CCJ:Cameco Corporation
+RRC:Range Resources Corporation
+CPG:Crescent Point Energy Corp.
+PDCE:PDC Energy, Inc.
+PTEN:Patterson-UTI Energy, Inc.
+OAS:Oasis Petroleum Inc.
+DK:Delek US Holdings, Inc.
+TEGP:Tallgrass Energy GP, LP
+ARLP:Alliance Resource Partners, L.P.
+CBT:Cabot Corporation
+AU:AngloGold Ashanti Limited
+CNX:CNX Resources Corporation
+UNVR:Univar Inc.
+VNOM:Viper Energy Partners LP
+MTDR:Matador Resources Company
+BSM:Black Stone Minerals, L.P.
+POL:PolyOne Corporation
+PAH:Platform Specialty Products Corporation
+KOS:Kosmos Energy Ltd.
+BVN:Compa\xc3\xb1\xc3\xada de Minas Buenaventura S.A.A.
+RES:RPC, Inc.
+CVRR:CVR Refining, LP
+MDR:McDermott International, Inc.
+BCPC:Balchem Corporation
+ESV:Ensco plc
+CVI:CVR Energy, Inc.
+ERF:Enerplus Corporation
+SWN:Southwestern Energy Company
+TEP:Tallgrass Energy Partners, LP
+QEP:QEP Resources, Inc.
+SXT:Sensient Technologies Corporation
+SM:SM Energy Company
+BWP:Boardwalk Pipeline Partners, LP
+ENLC:EnLink Midstream, LLC
+HEP:Holly Energy Partners, L.P.
+JAG:Jagged Peak Energy Inc.
+IAG:IAMGOLD Corporation
+DO:Diamond Offshore Drilling, Inc.
+FUL:H.B. Fuller Company
+GEL:Genesis Energy, L.P.
+VLP:Valero Energy Partners LP
+MTX:Minerals Technologies Inc.
+ORIG:Ocean Rig UDW Inc.
+WOR:Worthington Industries, Inc.
+OII:Oceaneering International, Inc.
+KRO:Kronos Worldwide, Inc.
+CMC:Commercial Metals Company
+CLF:Cleveland-Cliffs Inc.
+CPE:Callon Petroleum Company
+TROX:Tronox Limited
+CRZO:Carrizo Oil &amp; Gas, Inc.
+NBR:Nabors Industries Ltd.
+CEQP:Crestwood Equity Partners LP
+AGI:Alamos Gold Inc.
+GPOR:Gulfport Energy Corporation
+NS:NuStar Energy L.P.
+LPI:Laredo Petroleum, Inc.
+CMP:Compass Minerals International, Inc.
+CRC:California Resources Corporation
+KWR:Quaker Chemical Corporation
+SLCA:U.S. Silica Holdings, Inc.
+WDFC:WD-40 Company
+DRQ:Dril-Quip, Inc.
+SUN:Sunoco LP
+RDC:Rowan Companies plc
+SEMG:SemGroup Corporation
+MRC:MRC Global Inc.
+OIS:Oil States International, Inc.
+IOSP:Innospec Inc.
+OEC:Orion Engineered Carbons, S.A.
+TCP:TC PipeLines, LP
+FOE:Ferro Corporation
+FI:Frank&#x27;s International N.V.
+HSC:Harsco Corporation
+RMP:Rice Midstream Partners LP
+KALU:Kaiser Aluminum Corporation
+VHI:Valhi, Inc.
+PVG:Pretium Resources Inc.
+DM:Dominion Energy Midstream Partners, LP
+USAC:USA Compression Partners, LP
+AG:First Majestic Silver Corp.
+TAHO:Tahoe Resources Inc.
+SPN:Superior Energy Services, Inc.
+NE:Noble Corporation plc
+DNOW:NOW Inc.
+CDE:Coeur Mining, Inc.
+NGL:NGL Energy Partners LP
+KRA:Kraton Corporation
+UNT:Unit Corporation
+HBM:Hudbay Minerals Inc.
+GSM:Ferroglobe PLC
+INT:World Fuel Services Corporation
+FET:Forum Energy Technologies, Inc.
+CENX:Century Aluminum Company
+SHLM:A. Schulman, Inc.
+SMLP:Summit Midstream Partners, LP
+ROCK:Gibraltar Industries, Inc.
+HLX:Helix Energy Solutions Group, Inc.
+GPRK:GeoPark Limited
+KMG:KMG Chemicals, Inc.
+MTRN:Materion Corporation
+HCLP:Hi-Crush Partners LP
+WTI:W&amp;T Offshore, Inc.
+CKH:Seacor Holdings Inc.
+OCIP:OCI Partners LP
+EEQ:Enbridge Energy Management, L.L.C.
+IPHS:Innophos Holdings, Inc.
+NR:Newpark Resources, Inc.
+FSM:Fortuna Silver Mines Inc.
+SCHN:Schnitzer Steel Industries, Inc.
+RYAM:Rayonier Advanced Materials Inc.
+PBFX:PBF Logistics LP
+SXC:SunCoke Energy, Inc.
+KOP:Koppers Holdings Inc.
+TDW:Tidewater Inc.
+WLKP:Westlake Chemical Partners LP
+REN:Resolute Energy Corporation
+TMST:TimkenSteel Corporation
+BCEI:Bonanza Creek Energy, Inc.
+SA:Seabridge Gold Inc.
+SXCP:SunCoke Energy Partners, L.P.
+GPRE:Green Plains Inc.
+DKL:Delek Logistics Partners, LP
+AVD:American Vanguard Corporation
+ESTE:Earthstone Energy, Inc.
+IIIN:Insteel Industries, Inc.
+BPT:BP Prudhoe Bay Royalty Trust
+REGI:Renewable Energy Group, Inc.
+FF:FutureFuel Corp.
+SD:SandRidge Energy, Inc.
+TLP:Transmontaigne Partners L.P.
+CAPL:CrossAmerica Partners LP
+SRLP:Sprague Resources LP
+CLMT:Calumet Specialty Products Partners, L.P.
+NSH:NuStar GP Holdings, LLC
+AMID:American Midstream Partners, LP
+MTRX:Matrix Service Company
+MMLP:Martin Midstream Partners L.P.
+SGU:Star Group, L.P.
+BRS:Bristow Group Inc.
+LGCY:Legacy Reserves LP
+OMN:OMNOVA Solutions Inc.
+PES:Pioneer Energy Services Corp.
+MPO:Midstates Petroleum Company, Inc.
+PBT:Permian Basin Royalty Trust
+HWKN:Hawkins, Inc.
+NRP:Natural Resource Partners L.P.
+TREC:Trecora Resources
+IO:ION Geophysical Corporation
+KEG:Key Energy Services, Inc.
+PHX:Panhandle Oil and Gas Inc.
+AMRS:Amyris, Inc.
+ODC:Oil-Dri Corporation of America
+BAS:Basic Energy Services, Inc.
+NGS:Natural Gas Services Group, Inc.
+CRR:CARBO Ceramics Inc.
+SJT:San Juan Basin Royalty Trust
+ZEUS:Olympic Steel, Inc.
+EMES:Emerge Energy Services LP
+CCLP:CSI Compressco LP
+USAP:Universal Stainless &amp; Alloy Products, Inc.
+NWPX:Northwest Pipe Company
+GEOS:Geospace Technologies Corporation
+DWSN:Dawson Geophysical Company
+LXU:LSB Industries, Inc.
+CRK:Comstock Resources, Inc.
+GNE:Genie Energy Ltd.
+GIFI:Gulf Island Fabrication, Inc.
+NOA:North American Construction Group Ltd.
+MVO:MV Oil Trust
+VOC:VOC Energy Trust
+CELP:Cypress Energy Partners, L.P.
+CRT:Cross Timbers Royalty Trust
+MFCB:MFC Bancorp Ltd.
+BGH:Barings Global Short Duration High Yield Fund
+TGE:Tallgrass Energy, LP
+PBR-A:Petr\xc3\xb3leo Brasileiro S.A. - Petrobras

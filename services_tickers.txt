@@ -1,0 +1,506 @@
+AMZN:Amazon.com, Inc.
+BABA:Alibaba Group Holding Limited
+WMT:Walmart Inc.
+HD:The Home Depot, Inc.
+NFLX:Netflix, Inc.
+DIS:The Walt Disney Company
+CMCSA:Comcast Corporation
+MCD:McDonald&#x27;s Corporation
+UNP:Union Pacific Corporation
+UPS:United Parcel Service, Inc.
+COST:Costco Wholesale Corporation
+FOXA:Twenty-First Century Fox, Inc.
+CHTR:Charter Communications, Inc.
+LOW:Lowe&#x27;s Companies, Inc.
+TWX:Time Warner Inc.
+SBUX:Starbucks Corporation
+WBA:Walgreens Boots Alliance, Inc.
+CNI:Canadian National Railway Company
+FDX:FedEx Corporation
+TJX:The TJX Companies, Inc.
+CSX:CSX Corporation
+LVS:Las Vegas Sands Corp.
+MAR:Marriott International, Inc.
+NSC:Norfolk Southern Corporation
+TGT:Target Corporation
+CUK:Carnival plc
+CCL:Carnival Corporation
+EBAY:eBay Inc.
+SYY:Sysco Corporation
+DAL:Delta Air Lines, Inc.
+MCO:Moody&#x27;s Corporation
+ROST:Ross Stores, Inc.
+SIRI:Sirius XM Holdings Inc.
+FISV:Fiserv, Inc.
+LUV:Southwest Airlines Co.
+TRI:Thomson Reuters Corporation
+QSR:Restaurant Brands International Inc.
+MCK:McKesson Corporation
+CP:Canadian Pacific Railway Limited
+DG:Dollar General Corporation
+YUM:YUM! Brands, Inc.
+PAYX:Paychex, Inc.
+CTRP:Ctrip.com International, Ltd.
+HLT:Hilton Worldwide Holdings Inc.
+ORLY:O&#x27;Reilly Automotive, Inc.
+KR:The Kroger Co.
+LBTYA:Liberty Global plc
+RCL:Royal Caribbean Cruises Ltd.
+TAL:TAL Education Group
+CBS:CBS Corporation
+MGA:Magna International Inc.
+BBY:Best Buy Co., Inc.
+INFO:IHS Markit Ltd.
+CTAS:Cintas Corporation
+DLTR:Dollar Tree, Inc.
+UAL:United Continental Holdings, Inc.
+DISCA:Discovery, Inc.
+ABC:AmerisourceBergen Corporation
+FLT:FleetCor Technologies, Inc.
+EXPE:Expedia Group, Inc.
+VRSK:Verisk Analytics, Inc.
+AAL:American Airlines Group Inc.
+AZO:AutoZone, Inc.
+GPN:Global Payments Inc.
+OMC:Omnicom Group Inc.
+WYNN:Wynn Resorts, Limited
+GWW:W.W. Grainger, Inc.
+DISH:DISH Network Corporation
+TIF:Tiffany &amp; Co.
+MGM:MGM Resorts International
+CAH:Cardinal Health, Inc.
+EDU:New Oriental Education &amp; Technology Group Inc.
+ULTA:Ulta Beauty, Inc.
+LBRDK:Liberty Broadband Corporation
+FAST:Fastenal Company
+DRI:Darden Restaurants, Inc.
+JBHT:J.B. Hunt Transport Services, Inc.
+GPC:Genuine Parts Company
+TRU:TransUnion
+KMX:CarMax, Inc.
+CPRT:Copart, Inc.
+ADS:Alliance Data Systems Corporation
+MELI:MercadoLibre, Inc.
+CEA:China Eastern Airlines Corporation Limited
+URI:United Rentals, Inc.
+EXPD:Expeditors International of Washington, Inc.
+CMG:Chipotle Mexican Grill, Inc.
+VIAB:Viacom, Inc.
+XPO:XPO Logistics, Inc.
+ODFL:Old Dominion Freight Line, Inc.
+HTHT:Huazhu Group Limited
+IHG:InterContinental Hotels Group PLC
+HSIC:Henry Schein, Inc.
+GPS:The Gap, Inc.
+ROL:Rollins, Inc.
+CHRW:C.H. Robinson Worldwide, Inc.
+DPZ:Domino&#x27;s Pizza, Inc.
+KSS:Kohl&#x27;s Corporation
+ZNH:China Southern Airlines Company Limited
+MTN:Vail Resorts, Inc.
+TV:Grupo Televisa, S.A.B.
+M:Macy&#x27;s, Inc.
+KSU:Kansas City Southern
+W:Wayfair Inc.
+SJR:Shaw Communications Inc.
+LYV:Live Nation Entertainment, Inc.
+LB:L Brands, Inc.
+AAP:Advance Auto Parts, Inc.
+BURL:Burlington Stores, Inc.
+WAB:Westinghouse Air Brake Technologies Corporation
+LTM:LATAM Airlines Group S.A.
+TSCO:Tractor Supply Company
+ARMK:Aramark
+PSO:Pearson plc
+JEC:Jacobs Engineering Group Inc.
+DTV:DTE Energy Company CORPORATE UNIT
+NWSA:News Corporation
+H:Hyatt Hotels Corporation
+JWN:Nordstrom, Inc.
+IPG:The Interpublic Group of Companies, Inc.
+WEX:WEX Inc.
+SERV:ServiceMaster Global Holdings, Inc.
+QGEN:QIAGEN N.V.
+RHI:Robert Half International Inc.
+AER:AerCap Holdings N.V.
+HDS:HD Supply Holdings, Inc.
+ALK:Alaska Air Group, Inc.
+KAR:KAR Auction Services, Inc.
+CZR:Caesars Entertainment Corporation
+MSG:The Madison Square Garden Company
+ALLE:Allegion plc
+UHAL:AMERCO
+VIPS:Vipshop Holdings Limited
+KNX:Knight-Swift Transportation Holdings Inc.
+ARW:Arrow Electronics, Inc.
+SCI:Service Corporation International
+WTW:Weight Watchers International, Inc.
+BAH:Booz Allen Hamilton Holding Corporation
+WSO:Watsco, Inc.
+ADT:ADT Inc.
+JBLU:JetBlue Airways Corporation
+BFAM:Bright Horizons Family Solutions Inc.
+JOBS:51job, Inc.
+SIX:Six Flags Entertainment Corporation
+DNKN:Dunkin&#x27; Brands Group, Inc.
+MAN:ManpowerGroup Inc.
+WWE:World Wrestling Entertainment, Inc.
+LFUS:Littelfuse, Inc.
+G:Genpact Limited
+FIVE:Five Below, Inc.
+LOPE:Grand Canyon Education, Inc.
+CBD:Companhia Brasileira de Distribui\xc3\xa7\xc3\xa3o
+ACM:AECOM
+TRN:Trinity Industries, Inc.
+ETSY:Etsy, Inc.
+KEX:Kirby Corporation
+AVT:Avnet, Inc.
+GWR:Genesee &amp; Wyoming Inc.
+WSM:Williams-Sonoma, Inc.
+PAC:Grupo Aeroportuario del Pac\xc3\xadfico, S.A.B. de C.V.
+HRB:H&amp;R Block, Inc.
+URBN:Urban Outfitters, Inc.
+IGT:International Game Technology PLC
+MSM:MSC Industrial Direct Co., Inc.
+ASR:Grupo Aeroportuario del Sureste, S. A. B. de C. V.
+LSTR:Landstar System, Inc.
+TXRH:Texas Roadhouse, Inc.
+CMPR:Cimpress N.V.
+AN:AutoNation, Inc.
+PLNT:Planet Fitness, Inc.
+SGMS:Scientific Games Corporation
+EEFT:Euronet Worldwide, Inc.
+AL:Air Lease Corporation
+CNK:Cinemark Holdings, Inc.
+CHH:Choice Hotels International, Inc.
+NYT:The New York Times Company
+BCO:The Brink&#x27;s Company
+ASGN:ASGN Incorporated
+PAG:Penske Automotive Group, Inc.
+SNX:SYNNEX Corporation
+MMS:MAXIMUS, Inc.
+AEO:American Eagle Outfitters, Inc.
+CPA:Copa Holdings, S.A.
+BYD:Boyd Gaming Corporation
+WEN:The Wendy&#x27;s Company
+STAY:Extended Stay America, Inc. Paired Shares
+RRR:Red Rock Resorts, Inc.
+LPX:Louisiana-Pacific Corporation
+CHDN:Churchill Downs Incorporated
+NSP:Insperity, Inc.
+R:Ryder System, Inc.
+CASY:Casey&#x27;s General Stores, Inc.
+TNET:TriNet Group, Inc.
+CBRL:Cracker Barrel Old Country Store, Inc.
+MIK:The Michaels Companies, Inc.
+MSA:MSA Safety Incorporated
+MIC:Macquarie Infrastructure Corporation
+RBA:Ritchie Bros. Auctioneers Incorporated
+JW-A:John Wiley &amp; Sons, Inc.
+FUN:Cedar Fair, L.P.
+KFY:Korn/Ferry International
+AMCX:AMC Networks Inc.
+GSH:Guangshen Railway Company Limited
+SIG:Signet Jewelers Limited
+LILAK:Liberty Latin America Ltd.
+MMYT:MakeMyTrip Limited
+DKS:Dick&#x27;s Sporting Goods, Inc.
+NXST:Nexstar Media Group, Inc.
+SBGI:Sinclair Broadcast Group, Inc.
+MANU:Manchester United plc
+TRCO:Tribune Media Company
+TTEK:Tetra Tech, Inc.
+HAIN:The Hain Celestial Group, Inc.
+ERI:Eldorado Resorts, Inc.
+BZUN:Baozun Inc.
+HCSG:Healthcare Services Group, Inc.
+TECD:Tech Data Corporation
+PENN:Penn National Gaming, Inc.
+DLX:Deluxe Corporation
+CHGG:Chegg, Inc.
+GHC:Graham Holdings Company
+VAC:Marriott Vacations Worldwide Corporation
+BJ:BJ&#x27;s Wholesale Club Holdings, Inc.
+AAN:Aaron&#x27;s, Inc.
+SFM:Sprouts Farmers Market, Inc.
+GLNG:Golar LNG Limited
+STN:Stantec Inc.
+BBBY:Bed Bath &amp; Beyond Inc.
+SFLY:Shutterfly, Inc.
+RH:RH
+BID:Sotheby&#x27;s
+OUT:Outfront Media Inc.
+SKYW:SkyWest, Inc.
+AIT:Applied Industrial Technologies, Inc.
+WCC:WESCO International, Inc.
+CAR:Avis Budget Group, Inc.
+WERN:Werner Enterprises, Inc.
+ENV:Envestnet, Inc.
+WNS:WNS (Holdings) Limited
+EXPO:Exponent, Inc.
+MYGN:Myriad Genetics, Inc.
+KBR:KBR, Inc.
+MUSA:Murphy USA Inc.
+TGNA:TEGNA Inc.
+CAKE:The Cheesecake Factory Incorporated
+PSMT:PriceSmart, Inc.
+MDP:Meredith Corporation
+JACK:Jack in the Box Inc.
+DDS:Dillard&#x27;s, Inc.
+LAD:Lithia Motors, Inc.
+PBY:Prospect Capital Corporation
+SHAK:Shake Shack Inc.
+CVG:Convergys Corporation
+FCN:FTI Consulting, Inc.
+ALGT:Allegiant Travel Company
+AXE:Anixter International Inc.
+AMC:AMC Entertainment Holdings, Inc.
+PDCO:Patterson Companies, Inc.
+UNFI:United Natural Foods, Inc.
+EAT:Brinker International, Inc.
+DSW:DSW Inc.
+P:Pandora Media, Inc.
+WAGE:WageWorks, Inc.
+ISCA:International Speedway Corporation
+SAIA:Saia, Inc.
+EXLS:ExlService Holdings, Inc.
+PNK:Pinnacle Entertainment, Inc.
+ABM:ABM Industries Incorporated
+MED:Medifast, Inc.
+SBH:Sally Beauty Holdings, Inc.
+PLCE:The Children&#x27;s Place, Inc.
+GLOG:GasLog Ltd.
+MATW:Matthews International Corporation
+SEAS:SeaWorld Entertainment, Inc.
+ONE:OneSmart International Education Group Limited
+HMSY:HMS Holdings Corp.
+PRAA:PRA Group, Inc.
+HA:Hawaiian Holdings, Inc.
+BXG:Bluegreen Vacations Corporation
+AAWW:Atlas Air Worldwide Holdings, Inc.
+BLMN:Bloomin&#x27; Brands, Inc.
+GOLF:Acushnet Holdings Corp.
+GBX:The Greenbrier Companies, Inc.
+FWRD:Forward Air Corporation
+RUSHB:Rush Enterprises, Inc.
+HUBG:Hub Group, Inc.
+SSTK:Shutterstock, Inc.
+GES:Guess&#x27;, Inc.
+ANF:Abercrombie &amp; Fitch Co.
+TTEC:TTEC Holdings, Inc.
+PZZA:Papa John&#x27;s International, Inc.
+MATX:Matson, Inc.
+BIG:Big Lots, Inc.
+TIVO:TiVo Corporation
+SCHL:Scholastic Corporation
+AYR:Aircastle Limited
+HTLD:Heartland Express, Inc.
+MGRC:McGrath RentCorp
+WING:Wingstop Inc.
+GME:GameStop Corp.
+FTAI:Fortress Transportation and Infrastructure Investors LLC
+PRTY:Party City Holdco Inc.
+ARCO:Arcos Dorados Holdings Inc.
+SFL:Ship Finance International Limited
+IMAX:IMAX Corporation
+ABG:Asbury Automotive Group, Inc.
+WMK:Weis Markets, Inc.
+GPI:Group 1 Automotive, Inc.
+SSW:Seaspan Corporation
+GTN:Gray Television, Inc.
+ATSG:Air Transport Services Group, Inc.
+HTZ:Hertz Global Holdings, Inc.
+GTN-A:Gray Television, Inc.
+NCMI:National CineMedia, Inc.
+HEES:H&amp;E Equipment Services, Inc.
+LABL:Multi-Color Corporation
+ICFI:ICF International, Inc.
+SONC:Sonic Corp.
+TGP:Teekay LNG Partners L.P.
+MRTN:Marten Transport, Ltd.
+DIN:Dine Brands Global, Inc.
+CBZ:CBIZ, Inc.
+STRA:Strayer Education, Inc.
+BKE:The Buckle, Inc.
+BJRI:BJ&#x27;s Restaurants, Inc.
+GOGL:Golden Ocean Group Limited
+KTOS:Kratos Defense &amp; Security Solutions, Inc.
+CATM:Cardtronics plc
+CPLA:Capella Education Company
+ARCB:ArcBest Corporation
+SCOR:comScore, Inc.
+EGL:Engility Holdings, Inc.
+VVI:Viad Corp
+CECO:Career Education Corporation
+QUAD:Quad/Graphics, Inc.
+NTRI:Nutrisystem, Inc.
+SSP:The E.W. Scripps Company
+GCI:Gannett Co., Inc.
+GMLP:Golar LNG Partners LP
+WAIR:Wesco Aircraft Holdings, Inc.
+BEL:Belmond Ltd.
+NEWM:New Media Investment Group Inc.
+TBI:TrueBlue, Inc.
+ETM:Entercom Communications Corp.
+CONN:Conn&#x27;s, Inc.
+CORE:Core-Mark Holding Company, Inc.
+CHS:Chico&#x27;s FAS, Inc.
+OMI:Owens &amp; Minor, Inc.
+GLOP:GasLog Partners LP
+HMHC:Houghton Mifflin Harcourt Company
+NCI:Navigant Consulting, Inc.
+GMTA:GATX Corporation SR NT 2066
+GOL:GOL Linhas A\xc3\xa9reas Inteligentes S.A.
+SPTN:SpartanNash Company
+FRO:Frontline Ltd.
+MCS:The Marcus Corporation
+HURN:Huron Consulting Group Inc.
+EHIC:eHi Car Services Limited
+KELYA:Kelly Services, Inc.
+SAH:Sonic Automotive, Inc.
+TGH:Textainer Group Holdings Limited
+CMRE:Costamare Inc.
+SBLK:Star Bulk Carriers Corp.
+CHEF:The Chefs&#x27; Warehouse, Inc.
+CASS:Cass Information Systems, Inc.
+KFRC:Kforce Inc.
+SP:SP Plus Corporation
+EROS:Eros International Plc
+SVU:SUPERVALU INC.
+RUTH:Ruth&#x27;s Hospitality Group, Inc.
+ECHO:Echo Global Logistics, Inc.
+FLWS:1-800-FLOWERS.COM, Inc.
+XOXO:XO Group Inc.
+MCRI:Monarch Casino &amp; Resort, Inc.
+GCO:Genesco Inc.
+FRGI:Fiesta Restaurant Group, Inc.
+RGS:Regis Corporation
+RCII:Rent-A-Center, Inc.
+TK:Teekay Corporation
+ARII:American Railcar Industries, Inc.
+FORR:Forrester Research, Inc.
+TRK:Speedway Motorsports, Inc.
+LL:Lumber Liquidators Holdings, Inc.
+KNOP:KNOT Offshore Partners LP
+NVGS:Navigator Holdings Ltd.
+APEI:American Public Education, Inc.
+DXPE:DXP Enterprises, Inc.
+BBSI:Barrett Business Services, Inc.
+TISI:Team, Inc.
+EXPR:Express, Inc.
+LRN:K12 Inc.
+INSW:International Seaways, Inc.
+HSII:Heidrick &amp; Struggles International, Inc.
+IMKTA:Ingles Markets, Incorporated
+GNK:Genco Shipping &amp; Trading Limited
+BOOT:Boot Barn Holdings, Inc.
+AMRC:Ameresco, Inc.
+BH:Biglari Holdings Inc.
+RRGB:Red Robin Gourmet Burgers, Inc.
+WBAI:500.com Limited
+CVTI:Covenant Transportation Group, Inc.
+ZUMZ:Zumiez Inc.
+HMLP:H\xc3\xb6egh LNG Partners LP
+CATO:The Cato Corporation
+MG:Mistras Group, Inc.
+GLP:Global Partners LP
+VLRS:Controladora Vuela Compa\xc3\xb1\xc3\xada de Aviaci\xc3\xb3n, S.A.B. de C.V.
+ATTO:Atento S.A.
+FINL:The Finish Line, Inc.
+SALT:Scorpio Bulkers Inc.
+BOJA:Bojangles&#x27;, Inc.
+RECN:Resources Connection, Inc.
+ASPS:Altisource Portfolio Solutions S.A.
+CHUY:Chuy&#x27;s Holdings, Inc.
+VSEC:VSE Corporation
+TAST:Carrols Restaurant Group, Inc.
+UEPS:Net 1 UEPS Technologies, Inc.
+SCVL:Shoe Carnival, Inc.
+RPXC:RPX Corporation
+ZAGG:ZAGG Inc
+NDLS:Noodles &amp; Company
+HCKT:The Hackett Group, Inc.
+CAI:CAI International, Inc.
+PKOH:Park-Ohio Holdings Corp.
+INWK:InnerWorkings, Inc.
+HVT:Haverty Furniture Companies, Inc.
+TEDU:Tarena International, Inc.
+HZO:MarineMax, Inc.
+NL:NL Industries, Inc.
+TTS:Tile Shop Holdings, Inc.
+LOCO:El Pollo Loco Holdings, Inc.
+CRMT:America&#x27;s Car-Mart, Inc.
+HIBB:Hibbett Sports, Inc.
+CCRN:Cross Country Healthcare, Inc.
+TLYS:Tilly&#x27;s, Inc.
+CRAI:CRA International, Inc.
+VLGEA:Village Super Market, Inc.
+SFS:Smart &amp; Final Stores, Inc.
+NATH:Nathan&#x27;s Famous, Inc.
+AQ:Aquantia Corp.
+RRD:R.R. Donnelley &amp; Sons Company
+TCS:The Container Store Group, Inc.
+CSV:Carriage Services, Inc.
+EGLE:Eagle Bulk Shipping Inc.
+FLY:Fly Leasing Limited
+BKS:Barnes &amp; Noble, Inc.
+CTRN:Citi Trends, Inc.
+FC:Franklin Covey Co.
+YRCW:YRC Worldwide Inc.
+MRT:MedEquities Realty Trust, Inc.
+BXC:BlueLinx Holdings Inc.
+VEC:Vectrus, Inc.
+TITN:Titan Machinery Inc.
+MDCA:MDC Partners Inc.
+PBPB:Potbelly Corporation
+HIL:Hill International, Inc.
+GPX:GP Strategies Corporation
+DLNG:Dynagas LNG Partners LP
+NSSC:Napco Security Technologies, Inc.
+ERA:Era Group Inc.
+FRAN:Francesca&#x27;s Holdings Corporation
+NGVC:Natural Grocers by Vitamin Cottage, Inc.
+USDP:USD Partners LP
+ASC:Ardmore Shipping Corporation
+RLH:Red Lion Hotels Corporation
+REIS:Reis, Inc.
+BNED:Barnes &amp; Noble Education, Inc.
+DFRG:Del Frisco&#x27;s Restaurant Group, Inc.
+FSTR:L.B. Foster Company
+DL:China Distance Education Holdings Limited
+SPRO:Spero Therapeutics, Inc.
+CVGI:Commercial Vehicle Group, Inc.
+CSTR:Capstar Financial Holdings, Inc.
+PRGX:PRGX Global, Inc.
+LAWS:Lawson Products, Inc.
+LQDT:Liquidity Services, Inc.
+STON:StoneMor Partners L.P.
+RAIL:FreightCar America, Inc.
+COE:China Online Education Group
+USAK:USA Truck, Inc.
+ZOES:Zoe&#x27;s Kitchen, Inc.
+KIRK:Kirkland&#x27;s, Inc.
+BPI:Bridgepoint Education, Inc.
+VSI:Vitamin Shoppe, Inc.
+PHII:PHI, Inc.
+JAX:J. Alexander&#x27;s Holdings, Inc.
+CSS:CSS Industries, Inc.
+BGFV:Big 5 Sporting Goods Corporation
+SAB:Saratoga Investment Corp. NT 23
+HWCC:Houston Wire &amp; Cable Company
+TSQ:Townsquare Media, Inc.
+RELL:Richardson Electronics, Ltd.
+TAX:Liberty Tax, Inc.
+BBW:Build-A-Bear Workshop, Inc.
+SRT:StarTek, Inc.
+DEST:Destination Maternity Corporation
+FRSH:Papa Murphy&#x27;s Holdings, Inc.
+PATI:Patriot Transportation Holding, Inc.
+HHS:Harte Hanks, Inc.
+EMMS:Emmis Communications Corporation
+DAVE:Famous Dave&#x27;s of America, Inc.
+AXR:AMREP Corporation
+ATV:Acorn International, Inc.
+RVI:Retail Value Inc.
+RA:Brookfield Real Assets Income Fund Inc.
+JW-A:John Wiley &amp; Sons Inc.

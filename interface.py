@@ -34,10 +34,12 @@ class gui:
         self.editmenu.add_command(label="Launch PortEditor", command = PortEditor)
         self.editmenu.add_command(label="Parameters", command = self.params_window)
         self.menubar.add_cascade(label = "Edit", menu = self.editmenu)
+        
 
         self.macromenu = tk.Menu(self.menubar, tearoff = 0)
-        
-        self.macromenu.add_command(label="Download Data", command = '')
+
+        self.macromenu.add_command(label="Update Sector Stocks", command = update_sector_populations)
+        self.macromenu.add_command(label="Download Data", command = download_data)
         self.macromenu.add_command(label="View Data Stats", command = '')
         self.macromenu.add_command(label="Combine Data", command = '')
         self.macromenu.add_command(label="Balance Portfolio", command = '')

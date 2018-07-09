@@ -24,24 +24,27 @@ class asset:
         self.t1 = t1
         self.t2 = t2
 
-        #self.link()
-        #self.c_returns()
-        #self.create_MAs()
+        self.link()
+        self.c_returns()
+        self.create_MAs()
+        self.write_out()
 
     def link(self):
 
         if '^' in self.ticker:
-            download_link = r'https://finance.yahoo.com/quote/%5E'+self.ticker[1:].strip()+\
+            self.download_link = r'https://finance.yahoo.com/quote/%5E'+self.ticker[1:].strip()+\
                                  '/history?period1=' + str(int(self.t1)) + '&period2=' + str(int(self.t2)) +\
                                  '&interval=1d&filter=history&frequency=1d'
-            self.market = True
+            self.self.market = True
         else:
-            download_link = r'https://finance.yahoo.com/quote/'+self.ticker.strip()\
+            self.download_link = r'https://finance.yahoo.com/quote/'+self.ticker.strip()\
                                  +'/history?period1=' + str(int(self.t1)) + '&period2=' + str(int(self.t2)) +\
                                  '&interval=1d&filter=history&frequency=1d'
             self.market = False
 
-        response = urllib.request.urlopen(download_link)
+
+
+        response = urllib.request.urlopen(self.download_link)
         html = response.readlines()
         response.close()
 
@@ -85,6 +88,7 @@ class asset:
         ### error catcher
         if len(self.close_prices) == 0:
             print(self.ticker, 'missed due to error in ticker symbol denotation')
+            print(self.download_link)
             return
 
     def c_returns(self):
@@ -212,7 +216,7 @@ def set_params(file_name, *args):
     ### file_name  == '__file__'
     print('### Portfolio Analyis ###\n')
 
-    t2 = time.time()
+    t2 = int(time.time())
     
 
     if 'args' not in locals():
@@ -239,7 +243,7 @@ def set_params(file_name, *args):
         elif short == 'Y':
             short = True
     else:
-        t2 = int(args[0])*60*60*24*30
+        t1 = int(t2) - int(args[0])*60*60*24*30
         if args[1] == 1:
             high_perf = True
         else:
@@ -265,10 +269,29 @@ def set_params(file_name, *args):
     handle.write(str(short) + '\n')
     handle.write(str(high_perf) + '\n')
     handle.write(str(low_perf) + '\n')
+    handle.write(str(t1) + '\n')
+    handle.write(str(t2))
     handle.close()
 
     if 'args' not in locals():
         return int(t1), int(t2), high_perf, low_perf
+
+def read_params():
+    handle = open('setup.info', 'r')
+    reader = handle.readlines()
+    handle.close()
+
+    filename = reader[0].strip()
+    w_capital = reader[1].strip()
+    ror = reader[2].strip()
+    short = reader[3].strip()
+    high_perf = reader[4].strip()
+    low_perf = reader[5].strip()
+    t2 = reader[7].strip()
+    t1 = reader[6].strip()
+
+    return filename,w_capital, ror, short, high_perf, low_perf, t2, t1
+        
        
 def write_loop(ticker, t1, t2):
     handle = open('setup.info', 'r')
@@ -319,12 +342,52 @@ def reg_call():
     import subprocess
     os.system(r'start excel.exe "' + os.getcwd() + '\FORMATTING.xlsm"')
 
-def download_data(portfolio, t1, high_perf, low_perf, w_capital, ror, short):
-    set_params(file_name, t1, high_perf, low_perf, w_capital, ror, short)
+def download_data():
+    import time
+    from tkinter import filedialog
+    portfolio = filedialog.askopenfilename(initialdir = os.getcwd())
+    file_name,w_capital, ror, short, high_perf, low_perf, t1, t2 = read_params()
+    print(t1, t2)
     assets = port_read(portfolio)
     for ticker in assets:
+        ticker = ticker.split(':')[0]
         print(ticker)
+        y = asset(ticker, t2, t1)
+            
     
+        
+        
+
+def update_sector_populations():
+    import urllib.request
+
+    divisor1 = 'class="Fw(b)"'
+    divisor2 = '</a>'
+    sector_types = ['healthcare', 'financial', 'services', 'utilities', 'industrial_goods',
+                    'basic_materials', 'conglomerates', 'consumer_goods', 'technology']
+    for item in sector_types:
+        handle = open(item + '_tickers' + '.txt', 'w')
+        data = []
+        offset = 0
+        while offset <= 1000:
+            download_link = r'https://finance.yahoo.com/screener/predefined/' + item + '?offset=' + str(offset) +'&count=100'
+            response = urllib.request.urlopen(download_link)
+            html = response.readlines()
+            response.close()
+
+            for line in html:
+                line = str(line)
+                if divisor1 in line:
+                    objs = line.split(divisor1)
+                    for obj in objs:
+                        sobj = obj.split('>')[1].split('<')[0].strip()
+                        name = obj.split('>')[5].split('<')[0].strip()
+                        if sobj != '':
+                            data.append([sobj, name])
+            offset += 100
+        for line in data:
+            handle.write(':'.join(line) + '\n')
+        handle.close()
 
 if __name__ == '__main__':
-    asset('GOOG', (time.time()), (time.time() - (60*60*24*30*50)))
+   download_data()
