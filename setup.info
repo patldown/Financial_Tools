@@ -1,8 +1,14 @@
-Gui
+scr_main
 50000
 .1
+<<<<<<< HEAD
 True
 True
 True
 1401554289
 1531154289
+=======
+False
+False
+False
+>>>>>>> parent of 9035c62... Updates to GUI

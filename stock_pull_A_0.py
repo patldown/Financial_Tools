@@ -27,7 +27,10 @@ class asset:
         self.link()
         self.c_returns()
         self.create_MAs()
+<<<<<<< HEAD:stock_pull_A_1.py
         self.write_out()
+=======
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 
     def link(self):
 
@@ -209,13 +212,11 @@ def regression_analysis_file_write():
         csvwriter.writerow(line)
     handle.close()
 
-def set_params(file_name, *args):
-
-    print(args)
-    
+def set_params(file_name):
     ### file_name  == '__file__'
     print('### Portfolio Analyis ###\n')
 
+<<<<<<< HEAD:stock_pull_A_1.py
     t2 = int(time.time())
     
 
@@ -249,18 +250,66 @@ def set_params(file_name, *args):
         else:
             high_perf = False
         if args[2] == 1:
+=======
+    t2 = time.time()
+    t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
+    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
+    if high_perf == 'Y':
+        high_perf = True
+        low_perf = False
+    else:
+        high_perf = False
+        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
             low_perf = True
         else:
-            low_perf = 0
-        
-        w_capital = args[3]
-        ror = args[4]
+            low_perf = False
+    
+    w_capital = input('Working capital: ')
+    ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
 
-        if args[5] == 1:
-            short = True
+    short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
+    if short == 'N':
+        short = False
+    elif short == 'Y':
+        short = True
+        
+    handle = open('setup.info', 'w')
+    handle.write(os.path.basename(file_name).split('.')[0] + '\n')
+    handle.write(w_capital + '\n')
+    handle.write(ror + '\n')
+    handle.write(str(short) + '\n')
+    handle.write(str(high_perf) + '\n')
+    handle.write(str(low_perf) + '\n')
+    handle.close()
+    
+    return int(t1), int(t2), high_perf, low_perf
+
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
+    if high_perf == 'Y':
+        high_perf = True
+        low_perf = False
+    else:
+        high_perf = False
+        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+            low_perf = True
         else:
-            short = False
- 
+            low_perf = False
+    
+    w_capital = input('Working capital: ')
+    ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
+
+    short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
+    if short == 'N':
+        short = False
+    elif short == 'Y':
+        short = True
         
     handle = open('setup.info', 'w')
     handle.write(os.path.basename(file_name).split('.')[0] + '\n')
@@ -272,6 +321,7 @@ def set_params(file_name, *args):
     handle.write(str(t1) + '\n')
     handle.write(str(t2))
     handle.close()
+<<<<<<< HEAD:stock_pull_A_1.py
 
     if 'args' not in locals():
         return int(t1), int(t2), high_perf, low_perf
@@ -292,6 +342,10 @@ def read_params():
 
     return filename,w_capital, ror, short, high_perf, low_perf, t2, t1
         
+=======
+    
+    return int(t1), int(t2), high_perf, low_perf
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
        
 def write_loop(ticker, t1, t2):
     handle = open('setup.info', 'r')
@@ -342,6 +396,7 @@ def reg_call():
     import subprocess
     os.system(r'start excel.exe "' + os.getcwd() + '\FORMATTING.xlsm"')
 
+<<<<<<< HEAD:stock_pull_A_1.py
 def download_data():
     import time
     from tkinter import filedialog
@@ -389,5 +444,7 @@ def update_sector_populations():
             handle.write(':'.join(line) + '\n')
         handle.close()
 
+=======
+>>>>>>> parent of 9035c62... Updates to GUI:stock_pull_A_0.py
 if __name__ == '__main__':
    download_data()
