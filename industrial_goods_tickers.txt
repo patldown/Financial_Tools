@@ -1,0 +1,227 @@
+BA:The Boeing Company
+GE:General Electric Company
+MMM:3M Company
+HON:Honeywell International Inc.
+UTX:United Technologies Corporation
+LMT:Lockheed Martin Corporation
+CAT:Caterpillar Inc.
+DHR:Danaher Corporation
+GD:General Dynamics Corporation
+RTN:Raytheon Company
+NOC:Northrop Grumman Corporation
+ITW:Illinois Tool Works Inc.
+DE:Deere &amp; Company
+ABB:ABB Ltd
+EMR:Emerson Electric Co.
+WM:Waste Management, Inc.
+ETN:Eaton Corporation plc
+CRH:CRH plc
+ROP:Roper Technologies, Inc.
+WY:Weyerhaeuser Company
+TS:Tenaris S.A.
+IR:Ingersoll-Rand Plc
+RSG:Republic Services, Inc.
+COL:Rockwell Collins, Inc.
+CMI:Cummins Inc.
+ROK:Rockwell Automation Inc.
+PH:Parker-Hannifin Corporation
+SWK:Stanley Black &amp; Decker, Inc.
+WCN:Waste Connections, Inc.
+TDG:TransDigm Group Incorporated
+LEN:Lennar Corporation
+VMC:Vulcan Materials Company
+TXT:Textron Inc.
+AME:AMETEK, Inc.
+DHI:D.R. Horton, Inc.
+LLL:L3 Technologies, Inc.
+MLM:Martin Marietta Materials, Inc.
+CNHI:CNH Industrial N.V.
+XYL:Xylem Inc.
+MAS:Masco Corporation
+DOV:Dover Corporation
+NVR:NVR, Inc.
+CX:CEMEX, S.A.B. de C.V.
+IEX:IDEX Corporation
+AOS:A. O. Smith Corporation
+HII:Huntington Ingalls Industries, Inc.
+SPR:Spirit AeroSystems Holdings, Inc.
+SNA:Snap-on Incorporated
+HEI-A:HEICO Corporation
+HEI:HEICO Corporation
+LII:Lennox International Inc.
+PHM:PulteGroup, Inc.
+ZBRA:Zebra Technologies Corporation
+PNR:Pentair plc
+GGG:Graco Inc.
+NDSN:Nordson Corporation
+JHX:James Hardie Industries plc
+OC:Owens Corning
+FLR:Fluor Corporation
+TTC:The Toro Company
+BWXT:BWX Technologies, Inc.
+HXL:Hexcel Corporation
+USG:USG Corporation
+DCI:Donaldson Company, Inc.
+LECO:Lincoln Electric Holdings, Inc.
+MIDD:The Middleby Corporation
+MDU:MDU Resources Group, Inc.
+CAE:CAE Inc.
+TOL:Toll Brothers, Inc.
+GDI:Gardner Denver Holdings, Inc.
+SRCL:Stericycle, Inc.
+FLS:Flowserve Corporation
+CW:Curtiss-Wright Corporation
+EXP:Eagle Materials Inc.
+PWR:Quanta Services, Inc.
+RYN:Rayonier Inc.
+AGCO:AGCO Corporation
+CR:Crane Co.
+WWD:Woodward, Inc.
+ITT:ITT Inc.
+EME:EMCOR Group, Inc.
+ERJ:Embraer S.A.
+MTZ:MasTec, Inc.
+TREX:Trex Company, Inc.
+CFX:Colfax Corporation
+KLXI:KLX Inc.
+RBC:Regal Beloit Corporation
+VMI:Valmont Industries, Inc.
+TKR:The Timken Company
+AWI:Armstrong World Industries, Inc.
+TEX:Terex Corporation
+PRLB:Proto Labs, Inc.
+GNRC:Generac Holdings Inc.
+DAR:Darling Ingredients Inc.
+ATI:Allegheny Technologies Incorporated
+ROLL:RBC Bearings Incorporated
+ENS:EnerSys
+B:Barnes Group Inc.
+PCH:PotlatchDeltic Corporation
+CLH:Clean Harbors, Inc.
+DY:Dycom Industries, Inc.
+SUM:Summit Materials, Inc.
+RXN:Rexnord Corporation
+HI:Hillenbrand, Inc.
+SSD:Simpson Manufacturing Co., Inc.
+KMT:Kennametal Inc.
+AMN:AMN Healthcare Services, Inc.
+JBT:John Bean Technologies Corporation
+BLD:TopBuild Corp.
+BECN:Beacon Roofing Supply, Inc.
+WTS:Watts Water Technologies, Inc.
+MOG-A:Moog Inc.
+CRS:Carpenter Technology Corporation
+BDC:Belden Inc.
+GVA:Granite Construction Incorporated
+TPH:TRI Pointe Group, Inc.
+TMHC:Taylor Morrison Home Corporation
+KBH:KB Home
+UFPI:Universal Forest Products, Inc.
+AJRD:Aerojet Rocketdyne Holdings, Inc.
+CVA:Covanta Holding Corporation
+ESL:Esterline Technologies Corporation
+FELE:Franklin Electric Co., Inc.
+BLDR:Builders FirstSource, Inc.
+AIN:Albany International Corp.
+DOOR:Masonite International Corporation
+GTLS:Chart Industries, Inc.
+CVCO:Cavco Industries, Inc.
+MWA:Mueller Water Products, Inc.
+KAMN:Kaman Corporation
+FLOW:SPX FLOW, Inc.
+SKY:Skyline Champion Corporation
+MTH:Meritage Homes Corporation
+AAON:AAON, Inc.
+ATU:Actuant Corporation
+MDC:M.D.C. Holdings, Inc.
+BCC:Boise Cascade Company
+IBP:Installed Building Products, Inc.
+MLI:Mueller Industries, Inc.
+FIX:Comfort Systems USA, Inc.
+AVAV:AeroVironment, Inc.
+SNHY:Sun Hydraulics Corporation
+AIR:AAR Corp.
+SPXC:SPX Corporation
+NPO:EnPro Industries, Inc.
+CSTM:Constellium N.V.
+PATK:Patrick Industries, Inc.
+PRIM:Primoris Services Corporation
+ECOL:US Ecology, Inc.
+TNC:Tennant Company
+ASTE:Astec Industries, Inc.
+RAVN:Raven Industries, Inc.
+FSS:Federal Signal Corporation
+TILE:Interface, Inc.
+APOG:Apogee Enterprises, Inc.
+NCS:NCI Building Systems, Inc.
+AZZ:AZZ Inc.
+OSIS:OSI Systems, Inc.
+TRS:TriMas Corporation
+SXI:Standex International Corporation
+HOLI:Hollysys Automation Technologies Ltd.
+MCRN:Milacron Holdings Corp.
+AIMC:Altra Industrial Motion Corp.
+CBPX:Continental Building Products, Inc.
+CWST:Casella Waste Systems, Inc.
+LNN:Lindsay Corporation
+ALG:Alamo Group Inc.
+KAI:Kadant Inc.
+CPAC:Cementos Pacasmayo S.A.A.
+ATRO:Astronics Corporation
+CMCO:Columbus McKinnon Corporation
+RGR:Sturm, Ruger &amp; Company, Inc.
+TGI:Triumph Group, Inc.
+MTW:The Manitowoc Company, Inc.
+CCS:Century Communities, Inc.
+TPC:Tutor Perini Corporation
+GRC:The Gorman-Rupp Company
+NPK:National Presto Industries, Inc.
+CYD:China Yuchai International Limited
+CSWI:CSW Industrials, Inc.
+AEGN:Aegion Corporation
+BGG:Briggs &amp; Stratton Corporation
+CIR:CIRCOR International, Inc.
+THR:Thermon Group Holdings, Inc.
+MHO:M/I Homes, Inc.
+GFF:Griffon Corporation
+EVA:Enviva Partners, LP
+BRSS:Global Brass and Copper Holdings, Inc.
+BOOM:DMC Global Inc.
+NX:Quanex Building Products Corporation
+TWI:Titan International, Inc.
+AGX:Argan, Inc.
+CTT:CatchMark Timber Trust, Inc.
+MYRG:MYR Group Inc.
+KRNT:Kornit Digital Ltd.
+UFI:Unifi, Inc.
+CSTE:Caesarstone Ltd.
+NNBR:NN, Inc.
+HAYN:Haynes International, Inc.
+LXFR:Luxfer Holdings PLC
+AVHI:AV Homes, Inc.
+BZH:Beazer Homes USA, Inc.
+HCCI:Heritage-Crystal Clean, Inc
+USLM:United States Lime &amp; Minerals, Inc.
+PLPC:Preformed Line Products Company
+RYI:Ryerson Holding Corporation
+ERII:Energy Recovery, Inc.
+POWL:Powell Industries, Inc.
+DCO:Ducommun Incorporated
+STRL:Sterling Construction Company, Inc.
+GLDD:Great Lakes Dredge &amp; Dock Corporation
+LAYN:Layne Christensen Company
+TWIN:Twin Disc, Incorporated
+GHM:Graham Corporation
+ORN:Orion Group Holdings, Inc.
+CECE:CECO Environmental Corp.
+XRM:Xerium Technologies, Inc.
+NWHM:The New Home Company Inc.
+SHLO:Shiloh Industries, Inc.
+LYTS:LSI Industries Inc.
+AP:Ampco-Pittsburgh Corporation
+XONE:The ExOne Company
+GFA:Gafisa S.A.
+AMSC:American Superconductor Corporation
+SCX:The L.S. Starrett Company
+HDNG:Hardinge Inc.
+MOG-A:Moog Inc. Class A

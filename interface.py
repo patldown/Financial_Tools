@@ -2,42 +2,7 @@ import tkinter as tk
 import os
 from tkinter import filedialog
 import webbrowser
-
-def create_new_file(ext = '.txt'):
-    x = filedialog.asksaveasfilename(initialdir = os.getcwd,
-                                     filetypes=[('text', '.txt'), ('comma separated values', '.csv'),
-                                                ('all files', '.*')],
-                                     defaultextension = ext)
-    print(x)
-    handle = open(x, 'w')
-    handle.write("ERASE THESE LINES: List each ticker you'd like to use on a separate line\n")
-    handle.close()
-    
-    webbrowser.open(x)
-    return x
-
-##def open_file(ext = '.txt'):
-##    x = filedialog.askopenfilename(initialdir = os.getcwd,
-##                                     filetypes=[('text', '.txt'), ('comma separated values', '.csv'),
-##                                                ('all files', '.*')],
-##                                     defaultextension = ext)
-##    print(x)
-##    
-##    webbrowser.open(x)
-##    return x
-##
-##def save_file(ext = '.txt'):
-##    x = filedialog.asksaveasfilename(initialdir = os.getcwd,
-##                                     filetypes=[('text', '.txt'), ('comma separated values', '.csv'),
-##                                                ('all files', '.*')],
-##                                     defaultextension = ext)
-##    print(x)
-##    handle = open(x, 'w')
-##    handle.write("ERASE THESE LINES: List each ticker you'd like to use on a separate line\n")
-##    handle.close()
-##    
-##    webbrowser.open(x)
-##    return x
+from stock_pull_A_0 import *
 
 class gui:
     def __init__(self, master, tag, title = 'Main_Skin_Interface'):
@@ -57,10 +22,6 @@ class gui:
         self.menubar = tk.Menu(self.master)
         self.filemenu = tk.Menu(self.menubar, tearoff = 0)
         
-        self.filemenu.add_command(label="New", command = create_new_file)
-        self.filemenu.add_command(label = "Open", command = open_file)
-        self.filemenu.add_command(label = "Save", command = '')
-        self.filemenu.add_command(label = "Save as...", command = '')
         self.filemenu.add_command(label = "Close", command = '')
 
         self.filemenu.add_separator()
@@ -68,16 +29,20 @@ class gui:
         self.menubar.add_cascade(label = "File", menu = self.filemenu)
 
         self.editmenu = tk.Menu(self.menubar, tearoff = 0)
-        
-        self.editmenu.add_command(label="New", command = '')
-        self.editmenu.add_command(label = "Open", command = '')
-        self.editmenu.add_command(label = "Save", command = '')
-        self.editmenu.add_command(label = "Save as...", command = '')
-        self.editmenu.add_command(label = "Close", command = '')
 
-        self.editmenu.add_separator()
-        self.editmenu.add_command(label = "Exit", command = self.master.quit)
-        self.menubar.add_cascade(label = "Edit", menu = self.filemenu)
+        self.editmenu.add_command(label="Launch PortEditor", command = PortEditor)
+        self.editmenu.add_command(label="Parameters", command = self.params_window)
+        self.menubar.add_cascade(label = "Edit", menu = self.editmenu)
+        
+
+        self.macromenu = tk.Menu(self.menubar, tearoff = 0)
+
+        self.macromenu.add_command(label="Update Sector Stocks", command = update_sector_populations)
+        self.macromenu.add_command(label="Download Data", command = download_data)
+        self.macromenu.add_command(label="View Data Stats", command = '')
+        self.macromenu.add_command(label="Combine Data", command = '')
+        self.macromenu.add_command(label="Balance Portfolio", command = '')
+        self.menubar.add_cascade(label = "Functions", menu = self.macromenu)
 
     def list_programs(self, tag):
         self.scripts = []

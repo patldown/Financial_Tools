@@ -1,0 +1,247 @@
+AAPL:Apple Inc.
+BUD:Anheuser-Busch InBev SA/NV
+PG:The Procter &amp; Gamble Company
+TM:Toyota Motor Corporation
+KO:The Coca-Cola Company
+UN:Unilever N.V.
+PEP:PepsiCo, Inc.
+UL:Unilever PLC
+PM:Philip Morris International Inc.
+NKE:NIKE, Inc.
+BTI:British American Tobacco p.l.c.
+MO:Altria Group, Inc.
+DEO:Diageo plc
+KHC:The Kraft Heinz Company
+SNE:Sony Corporation
+MDLZ:Mondelez International, Inc.
+CL:Colgate-Palmolive Company
+GM:General Motors Company
+TSLA:Tesla, Inc.
+HMC:Honda Motor Co., Ltd.
+EL:The Est\xc3\xa9e Lauder Companies Inc.
+F:Ford Motor Company
+STZ:Constellation Brands, Inc.
+PHG:Koninklijke Philips N.V.
+ECL:Ecolab Inc.
+KMB:Kimberly-Clark Corporation
+CAJ:Canon Inc.
+MNST:Monster Beverage Corporation
+JCI:Johnson Controls International plc
+VFC:V.F. Corporation
+GIS:General Mills, Inc.
+ADM:Archer-Daniels-Midland Company
+APTV:Aptiv PLC
+TSN:Tyson Foods, Inc.
+K:Kellogg Company
+BF-B:Brown-Forman Corporation
+DPS:Dr Pepper Snapple Group, Inc.
+IP:International Paper Company
+PCAR:PACCAR Inc
+WPP:WPP plc
+FMX:Fomento Econ\xc3\xb3mico Mexicano, S.A.B. de C.V.
+CCE:Coca-Cola European Partners plc
+HSY:The Hershey Company
+HRL:Hormel Foods Corporation
+CLX:The Clorox Company
+LULU:Lululemon Athletica Inc.
+MHK:Mohawk Industries, Inc.
+MKC:McCormick &amp; Company, Incorporated
+TAP:Molson Coors Brewing Company
+WRK:WestRock Company
+CAG:Conagra Brands, Inc.
+NWL:Newell Brands Inc.
+CHD:Church &amp; Dwight Co., Inc.
+TTM:Tata Motors Limited
+BLL:Ball Corporation
+KOF:Coca-Cola FEMSA, S.A.B. de C.V.
+SJM:The J. M. Smucker Company
+LEA:Lear Corporation
+CPB:Campbell Soup Company
+HAS:Hasbro, Inc.
+PVH:PVH Corp.
+PKG:Packaging Corporation of America
+COTY:Coty Inc.
+FBR:Fibria Celulose S.A.
+RL:Ralph Lauren Corporation
+LKQ:LKQ Corporation
+KORS:Michael Kors Holdings Limited
+WHR:Whirlpool Corporation
+BG:Bunge Limited
+BWA:BorgWarner Inc.
+UA:Under Armour, Inc.
+ALV:Autoliv, Inc.
+AVY:Avery Dennison Corporation
+HLF:Herbalife Nutrition Ltd.
+BKI:Black Knight, Inc.
+INGR:Ingredion Incorporated
+HBI:Hanesbrands Inc.
+FBHS:Fortune Brands Home &amp; Security, Inc.
+PII:Polaris Industries Inc.
+PF:Pinnacle Foods Inc.
+HOG:Harley-Davidson, Inc.
+SEE:Sealed Air Corporation
+CSL:Carlisle Companies Incorporated
+GNTX:Gentex Corporation
+WBC:WABCO Holdings Inc.
+COLM:Columbia Sportswear Company
+POOL:Pool Corporation
+FL:Foot Locker, Inc.
+BERY:Berry Global Group, Inc.
+CCK:Crown Holdings, Inc.
+MAT:Mattel, Inc.
+LEG:Leggett &amp; Platt, Incorporated
+ATR:AptarGroup, Inc.
+BC:Brunswick Corporation
+GIL:Gildan Activewear Inc.
+POST:Post Holdings, Inc.
+GT:The Goodyear Tire &amp; Rubber Company
+ALSN:Allison Transmission Holdings, Inc.
+OSK:Oshkosh Corporation
+SON:Sonoco Products Company
+THO:Thor Industries, Inc.
+CRI:Carter&#x27;s, Inc.
+PPC:Pilgrim&#x27;s Pride Corporation
+CCU:Compa\xc3\xb1\xc3\xada Cervecer\xc3\xadas Unidas S.A.
+FIZZ:National Beverage Corp.
+BRFS:BRF S.A.
+SPB:Spectrum Brands Holdings, Inc.
+SKX:Skechers U.S.A., Inc.
+GPK:Graphic Packaging Holding Company
+NUS:Nu Skin Enterprises, Inc.
+FLO:Flowers Foods, Inc.
+NAV:Navistar International Corporation
+AKO-B:Embotelladora Andina S.A.
+VC:Visteon Corporation
+DLPH:Delphi Technologies PLC
+LANC:Lancaster Colony Corporation
+BMS:Bemis Company, Inc.
+ENR:Energizer Holdings, Inc.
+UNF:UniFirst Corporation
+SAM:The Boston Beer Company, Inc.
+DECK:Deckers Outdoor Corporation
+KS:KapStone Paper and Packaging Corporation
+WWW:Wolverine World Wide, Inc.
+SHOO:Steven Madden, Ltd.
+HELE:Helen of Troy Limited
+TSE:Trinseo S.A.
+DAN:Dana Incorporated
+UFS:Domtar Corporation
+THS:TreeHouse Foods, Inc.
+SLGN:Silgan Holdings Inc.
+IBA:Industrias Bachoco, S.A.B. de C.V.
+JJSF:J&amp;J Snack Foods Corp.
+TPX:Tempur Sealy International, Inc.
+EPC:Edgewell Personal Care Company
+OI:Owens-Illinois, Inc.
+GEF:Greif, Inc.
+VGR:Vector Group Ltd.
+HOME:At Home Group Inc.
+PAY:VeriFone Systems, Inc.
+TVPT:Travelport Worldwide Limited
+SAFM:Sanderson Farms, Inc.
+CPS:Cooper-Standard Holdings Inc.
+COT:Cott Corporation
+DORM:Dorman Products, Inc.
+TEN:Tenneco Inc.
+CALM:Cal-Maine Foods, Inc.
+MLHR:Herman Miller, Inc.
+IRBT:iRobot Corporation
+MINI:Mobile Mini, Inc.
+FDP:Fresh Del Monte Produce Inc.
+TUP:Tupperware Brands Corporation
+CENT:Central Garden &amp; Pet Company
+TR:Tootsie Roll Industries, Inc.
+BGS:B&amp;G Foods, Inc.
+GIII:G-III Apparel Group, Ltd.
+MNRO:Monro, Inc.
+SODA:SodaStream International Ltd.
+MTOR:Meritor, Inc.
+FOXF:Fox Factory Holding Corp.
+AXL:American Axle &amp; Manufacturing Holdings, Inc.
+SCL:Stepan Company
+ELY:Callaway Golf Company
+PBI:Pitney Bowes Inc.
+UVV:Universal Corporation
+HNI:HNI Corporation
+IPAR:Inter Parfums, Inc.
+CVGW:Calavo Growers, Inc.
+WMS:Advanced Drainage Systems, Inc.
+SCS:Steelcase Inc.
+AMWD:American Woodmark Corporation
+MGPI:MGP Ingredients, Inc.
+VCO:Vi\xc3\xb1a Concha y Toro S.A.
+ACCO:ACCO Brands Corporation
+THRM:Gentherm Incorporated
+LZB:La-Z-Boy Incorporated
+CAL:Caleres, Inc.
+NP:Neenah, Inc.
+OXM:Oxford Industries, Inc.
+FN:Fabrinet
+CTB:Cooper Tire &amp; Rubber Company
+FOSL:Fossil Group, Inc.
+SWM:Schweitzer-Mauduit International, Inc.
+WGO:Winnebago Industries, Inc.
+COKE:Coca-Cola Bottling Co. Consolidated
+LTRPA:Liberty TripAdvisor Holdings, Inc.
+WNC:Wabash National Corporation
+MERC:Mercer International Inc.
+MOV:Movado Group, Inc.
+CROX:Crocs, Inc.
+PLOW:Douglas Dynamics, Inc.
+HY:Hyster-Yale Materials Handling, Inc.
+SMP:Standard Motor Products, Inc.
+KNL:Knoll, Inc.
+SRI:Stoneridge, Inc.
+ANDE:The Andersons, Inc.
+AGRO:Adecoagro S.A.
+DF:Dean Foods Company
+VSTO:Vista Outdoor Inc.
+RFP:Resolute Forest Products Inc.
+GPRO:GoPro, Inc.
+REV:Revlon, Inc.
+MOD:Modine Manufacturing Company
+GLT:P. H. Glatfelter Company
+JBSS:John B. Sanfilippo &amp; Son, Inc.
+JOUT:Johnson Outdoors Inc.
+TG:Tredegar Corporation
+LDL:Lydall, Inc.
+VRS:Verso Corporation
+ETH:Ethan Allen Interiors Inc.
+TOWR:Tower International, Inc.
+MYE:Myers Industries, Inc.
+MPX:Marine Products Corporation
+VRTV:Veritiv Corporation
+HOFT:Hooker Furniture Corporation
+SPAR:Spartan Motors, Inc.
+ESND:Essendant Inc.
+EBF:Ennis, Inc.
+FARM:Farmer Bros. Co.
+UEIC:Universal Electronics Inc.
+VRA:Vera Bradley, Inc.
+NLS:Nautilus, Inc.
+LMNR:Limoneira Company
+SUP:Superior Industries International, Inc.
+PERY:Perry Ellis International, Inc.
+LNDC:Landec Corporation
+CLW:Clearwater Paper Corporation
+BREW:Craft Brew Alliance, Inc.
+MPAA:Motorcar Parts of America, Inc.
+WEYS:Weyco Group, Inc.
+FLXS:Flexsteel Industries, Inc.
+MLR:Miller Industries, Inc.
+BSET:Bassett Furniture Industries, Incorporated
+SENEA:Seneca Foods Corporation
+SENEB:Seneca Foods Corporation
+LCUT:Lifetime Brands, Inc.
+ALCO:Alico, Inc.
+NC:NACCO Industries, Inc.
+SPWH:Sportsman&#x27;s Warehouse Holdings, Inc.
+RCKY:Rocky Brands, Inc.
+VNCE:Vince Holding Corp.
+AOI:Alliance One International, Inc.
+VOXX:VOXX International Corporation
+MTEX:Mannatech, Incorporated
+BF-B:Brown-Forman Corporation
+AKO-A:Embotelladora Andina S.A.
+ACV:AllianzGI Diversified Income &amp;
+AKO-B:Embotelladora Andina S.A.

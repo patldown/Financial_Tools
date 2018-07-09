@@ -28,20 +28,25 @@ class asset:
         self.c_returns()
         self.create_MAs()
 
+        self.write_out()
+
+
     def link(self):
 
         if '^' in self.ticker:
-            download_link = r'https://finance.yahoo.com/quote/%5E'+self.ticker[1:].strip()+\
+            self.download_link = r'https://finance.yahoo.com/quote/%5E'+self.ticker[1:].strip()+\
                                  '/history?period1=' + str(int(self.t1)) + '&period2=' + str(int(self.t2)) +\
                                  '&interval=1d&filter=history&frequency=1d'
-            self.market = True
+            self.self.market = True
         else:
-            download_link = r'https://finance.yahoo.com/quote/'+self.ticker.strip()\
+            self.download_link = r'https://finance.yahoo.com/quote/'+self.ticker.strip()\
                                  +'/history?period1=' + str(int(self.t1)) + '&period2=' + str(int(self.t2)) +\
                                  '&interval=1d&filter=history&frequency=1d'
             self.market = False
 
-        response = urllib.request.urlopen(download_link)
+
+
+        response = urllib.request.urlopen(self.download_link)
         html = response.readlines()
         response.close()
 
@@ -85,6 +90,7 @@ class asset:
         ### error catcher
         if len(self.close_prices) == 0:
             print(self.ticker, 'missed due to error in ticker symbol denotation')
+            print(self.download_link)
             return
 
     def c_returns(self):
@@ -205,31 +211,46 @@ def regression_analysis_file_write():
         csvwriter.writerow(line)
     handle.close()
 
-def set_params(file_name):
-    ### file_name  == '__file__'
+def set_params(file_name, args):
     print('### Portfolio Analyis ###\n')
 
-    t2 = time.time()
-    t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
-    high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
-    if high_perf == 'Y':
-        high_perf = True
-        low_perf = False
+    t2 = int(time.time())
+    
+
+    if 'args' not in locals():
+        t1 = time.time() - int(input('How many months of data would you like to collect?'))*60*60*24*30
+        high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
+    
+        if high_perf == 'Y':
+            high_perf = True
+            low_perf = False
+        else:
+            high_perf = False
+
+            if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+                low_perf = True
+            else:
+                low_perf = False
+    
+        w_capital = input('Working capital: ')
+        ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
+
+        short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
+        if short == 'N':
+            short = False
+        elif short == 'Y':
+            short = True
     else:
-        high_perf = False
-        if input('Would you like to choose the reverse criteria (Y/N)? ').upper().strip() == 'Y':
+        t1 = int(t2) - int(args[0])*60*60*24*30
+        if args[1] == 1:
+            high_perf = True
+        else:
+            high_perf = False
+        if args[2] == 1:
             low_perf = True
         else:
             low_perf = False
-    
-    w_capital = input('Working capital: ')
-    ror = input('What is your desired rate of return (e.g. 10% = 0.1)? ')
-
-    short = input('Would you like to short in addition to longing (Y/N)? ').upper().strip()
-    if short == 'N':
-        short = False
-    elif short == 'Y':
-        short = True
+        
         
     handle = open('setup.info', 'w')
     handle.write(os.path.basename(file_name).split('.')[0] + '\n')
@@ -241,6 +262,7 @@ def set_params(file_name):
     handle.close()
     
     return int(t1), int(t2), high_perf, low_perf
+<<<<<<< HEAD:stock_pull_A_0.py
 
 def read_params(file_name):
     ### file_name  == '__file__'
@@ -248,6 +270,32 @@ def read_params(file_name):
 
     handle = open()
 
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+
+def read_params(file_name):
+    ### file_name  == '__file__'
+    print('### Portfolio Analyis ###\n')
+
+    handle = open()
+
+
     high_perf = input('Turn on Positive Performance Sort (Y/N): ').upper().strip()
     if high_perf == 'Y':
         high_perf = True
@@ -275,9 +323,30 @@ def read_params(file_name):
     handle.write(str(short) + '\n')
     handle.write(str(high_perf) + '\n')
     handle.write(str(low_perf) + '\n')
+    handle.write(str(t1) + '\n')
+    handle.write(str(t2))
     handle.close()
+
     
     return int(t1), int(t2), high_perf, low_perf
+
+def read_params():
+    handle = open('setup.info', 'r')
+    reader = handle.readlines()
+    handle.close()
+
+    filename = reader[0].strip()
+    w_capital = reader[1].strip()
+    ror = reader[2].strip()
+    short = reader[3].strip()
+    high_perf = reader[4].strip()
+    low_perf = reader[5].strip()
+    t2 = reader[7].strip()
+    t1 = reader[6].strip()
+
+    return filename,w_capital, ror, short, high_perf, low_perf, t2, t1
+
+
        
 def write_loop(ticker, t1, t2):
     handle = open('setup.info', 'r')
@@ -328,5 +397,49 @@ def reg_call():
     import subprocess
     os.system(r'start excel.exe "' + os.getcwd() + '\FORMATTING.xlsm"')
 
+def download_data():
+    import time
+    from tkinter import filedialog
+    portfolio = filedialog.askopenfilename(initialdir = os.getcwd())
+    file_name,w_capital, ror, short, high_perf, low_perf, t1, t2 = read_params()
+    print(t1, t2)
+    assets = port_read(portfolio)
+    for ticker in assets:
+        ticker = ticker.split(':')[0]
+        print(ticker)
+        y = asset(ticker, t2, t1)
+
+def update_sector_populations():
+    import urllib.request
+
+    divisor1 = 'class="Fw(b)"'
+    divisor2 = '</a>'
+    sector_types = ['healthcare', 'financial', 'services', 'utilities', 'industrial_goods',
+                    'basic_materials', 'conglomerates', 'consumer_goods', 'technology']
+    for item in sector_types:
+        handle = open(item + '_tickers' + '.txt', 'w')
+        data = []
+        offset = 0
+        while offset <= 1000:
+            download_link = r'https://finance.yahoo.com/screener/predefined/' + item + '?offset=' + str(offset) +'&count=100'
+            response = urllib.request.urlopen(download_link)
+            html = response.readlines()
+            response.close()
+
+            for line in html:
+                line = str(line)
+                if divisor1 in line:
+                    objs = line.split(divisor1)
+                    for obj in objs:
+                        sobj = obj.split('>')[1].split('<')[0].strip()
+                        name = obj.split('>')[5].split('<')[0].strip()
+                        if sobj != '':
+                            data.append([sobj, name])
+            offset += 100
+        for line in data:
+            handle.write(':'.join(line) + '\n')
+        handle.close()
+
+
 if __name__ == '__main__':
-    asset('GOOG', (time.time()), (time.time() - (60*60*24*30*50)))
+   download_data()
