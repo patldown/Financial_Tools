@@ -1,951 +1,952 @@
-BRK-A:Berkshire Hathaway Inc.
-JPM:JPMorgan Chase &amp; Co.
-V:Visa Inc.
-BAC:Bank of America Corporation
-WFC:Wells Fargo &amp; Company
-MA:Mastercard Incorporated
-HSBC:HSBC Holdings plc
-C:Citigroup Inc.
-TD:The Toronto-Dominion Bank
-RY:Royal Bank of Canada
-PYPL:PayPal Holdings, Inc.
-LFC:China Life Insurance Company Limited
-SAN:Banco Santander, S.A.
-GS:The Goldman Sachs Group, Inc.
-AXP:American Express Company
-MS:Morgan Stanley
-USB:U.S. Bancorp
-HDB:HDFC Bank Limited
-BLK:BlackRock, Inc.
-WBK:Westpac Banking Corporation
-BNS:The Bank of Nova Scotia
-SCHW:The Charles Schwab Corporation
-ITUB:Ita\xc3\xba Unibanco Holding S.A.
-PNC:The PNC Financial Services Group, Inc.
-AMT:American Tower Corporation (REIT)
-PUK:Prudential plc
-CB:Chubb Limited
-SPG:Simon Property Group, Inc.
-UBS:UBS Group AG
-CME:CME Group Inc.
-SMFG:Sumitomo Mitsui Financial Group, Inc.
-BK:The Bank of New York Mellon Corporation
-BMO:Bank of Montreal
-BBVA:Banco Bilbao Vizcaya Argentaria, S.A.
-AIG:American International Group, Inc.
-CIB:Bancolombia S.A.
-BBDO:Banco Bradesco S.A.
-COF:Capital One Financial Corporation
-BBD:Banco Bradesco S.A.
-MET:MetLife, Inc.
-BCS:Barclays PLC
-MMC:Marsh &amp; McLennan Companies, Inc.
-ICE:Intercontinental Exchange, Inc.
-BX:The Blackstone Group L.P.
-BBT:BB&amp;T Corporation
-PRU:Prudential Financial, Inc.
-BAM:Brookfield Asset Management Inc.
-CM:Canadian Imperial Bank of Commerce
-PSA:Public Storage
-CS:Credit Suisse Group AG
-MFC:Manulife Financial Corporation
-PLD:Prologis, Inc.
-AON:Aon plc
-PGR:The Progressive Corporation
-STT:State Street Corporation
-TRV:The Travelers Companies, Inc.
-AFL:Aflac Incorporated
-ALL:The Allstate Corporation
-STI:SunTrust Banks, Inc.
-AMTD:TD Ameritrade Holding Corporation
-BSBR:Banco Santander (Brasil) S.A.
-TROW:T. Rowe Price Group, Inc.
-IBN:ICICI Bank Limited
-SYF:Synchrony Financial
-IBKR:Interactive Brokers Group, Inc.
-DFS:Discover Financial Services
-MTB:M&amp;T Bank Corporation
-SLF:Sun Life Financial Inc.
-EQR:Equity Residential
-DLR:Digital Realty Trust, Inc.
-AVB:AvalonBay Communities, Inc.
-NTRS:Northern Trust Corporation
-DB:Deutsche Bank Aktiengesellschaft
-KKR:KKR &amp; Co. Inc.
-BXP:Boston Properties, Inc.
-KEY:KeyCorp
-AMP:Ameriprise Financial, Inc.
-IX:ORIX Corporation
-VTR:Ventas, Inc.
-KB:KB Financial Group Inc.
-RF:Regions Financial Corporation
-FITB:Fifth Third Bancorp
-GGP:GGP Inc.
-SHG:Shinhan Financial Group Co., Ltd.
-HIG:The Hartford Financial Services Group, Inc.
-BAP:Credicorp Ltd.
-BEN:Franklin Resources, Inc.
-HBAN:Huntington Bancshares Incorporated
-BCH:Banco de Chile
-FRC:First Republic Bank
-ESS:Essex Property Trust, Inc.
-ETFC:E*TRADE Financial Corporation
-SIVB:SVB Financial Group
-HST:Host Hotels &amp; Resorts, Inc.
-CMA:Comerica Incorporated
-L:Loews Corporation
-TSS:Total System Services, Inc.
-PFG:Principal Financial Group, Inc.
-O:Realty Income Corporation
-CSGP:CoStar Group, Inc.
-MKL:Markel Corporation
-EFX:Equifax Inc.
-NDAQ:Nasdaq, Inc.
-VNO:Vornado Realty Trust
-BSAC:Banco Santander-Chile
-XL:XL Group Ltd
-APO:Apollo Global Management, LLC
-LNC:Lincoln National Corporation
-BPY:Brookfield Property Partners L.P.
-ARE:Alexandria Real Estate Equities, Inc.
-EXR:Extra Space Storage Inc.
-RJF:Raymond James Financial, Inc.
-CNA:CNA Financial Corporation
-AJG:Arthur J. Gallagher &amp; Co.
-HCP:HCP, Inc.
-NLY:Annaly Capital Management, Inc.
-ALLY:Ally Financial Inc.
-MAA:Mid-America Apartment Communities, Inc.
-CBOE:Cboe Global Markets, Inc.
-CINF:Cincinnati Financial Corporation
-ACGL:Arch Capital Group Ltd.
-IVZ:Invesco Ltd.
-ZION:Zions Bancorporation
-FNF:Fidelity National Financial, Inc.
-REG:Regency Centers Corporation
-DRE:Duke Realty Corporation
-UDR:UDR, Inc.
-SEIC:SEI Investments Co.
-BSMX:Banco Santander (M\xc3\xa9xico), S.A., Instituci\xc3\xb3n de Banca M\xc3\xbaltiple, Grupo Financiero Santander
-EWBC:East West Bancorp, Inc.
-AFG:American Financial Group, Inc.
-TMK:Torchmark Corporation
-RE:Everest Re Group, Ltd.
-SLG:SL Green Realty Corp.
-FRT:Federal Realty Investment Trust
-WU:The Western Union Company
-Y:Alleghany Corporation
-RGA:Reinsurance Group of America, Incorporated
-WRB:W. R. Berkley Corporation
-CPT:Camden Property Trust
-MAC:Macerich Company
-UNM:Unum Group
-ELS:Equity LifeStyle Properties, Inc.
-VOYA:Voya Financial, Inc.
-AMG:Affiliated Managers Group, Inc.
-AGNC:AGNC Investment Corp.
-SUI:Sun Communities, Inc.
-JEF:Jefferies Financial Group Inc.
-DEI:Douglas Emmett, Inc.
-BRO:Brown &amp; Brown, Inc.
-AMH:American Homes 4 Rent
-CG:The Carlyle Group L.P.
-KRC:Kilroy Realty Corporation
-JLL:Jones Lang LaSalle Incorporated
-GLPI:Gaming and Leisure Properties, Inc.
-MKTX:MarketAxess Holdings Inc.
-WPC:W. P. Carey Inc.
-CFR:Cullen/Frost Bankers, Inc.
-KIM:Kimco Realty Corporation
-SBNY:Signature Bank
-CBSH:Commerce Bancshares, Inc.
-CACC:Credit Acceptance Corporation
-SC:Santander Consumer USA Holdings Inc.
-ARCC:Ares Capital Corporation
-AIV:Apartment Investment and Management Company
-NNN:National Retail Properties, Inc.
-LAMR:Lamar Advertising Company (REIT)
-AIZ:Assurant, Inc.
-LPT:Liberty Property Trust
-OHI:Omega Healthcare Investors, Inc.
-SNV:Synovus Financial Corp.
-DCT:DCT Industrial Trust Inc.
-OAK:Oaktree Capital Group, LLC
-BOKF:BOK Financial Corporation
-PBCT:People&#x27;s United Financial, Inc.
-PACW:PacWest Bancorp
-WAL:Western Alliance Bancorporation
-ERIE:Erie Indemnity Company
-EV:Eaton Vance Corp.
-FCE-A:Forest City Realty Trust, Inc.
-NRZ:New Residential Investment Corp.
-CIT:CIT Group Inc.
-LAZ:Lazard Ltd
-WBS:Webster Financial Corporation
-ORI:Old Republic International Corporation
-LPLA:LPL Financial Holdings Inc.
-OZRK:Bank of the Ozarks
-HHC:The Howard Hughes Corporation
-CUBE:CubeSmart
-FHN:First Horizon National Corporation
-CONE:CyrusOne Inc.
-ACC:American Campus Communities, Inc.
-STWD:Starwood Property Trust, Inc.
-FAF:First American Financial Corporation
-NYCB:New York Community Bancorp, Inc.
-TPL:Texas Pacific Land Trust
-HTA:Healthcare Trust of America, Inc.
-VR:Validus Holdings, Ltd.
-HPP:Hudson Pacific Properties, Inc.
-STL:Sterling Bancorp
-COR:CoreSite Realty Corporation
-HIW:Highwoods Properties, Inc.
-VIRT:Virtu Financial, Inc.
-ESRT:Empire State Realty Trust, Inc.
-BMA:Banco Macro S.A.
-THG:The Hanover Insurance Group, Inc.
-BRX:Brixmor Property Group Inc.
-MPW:Medical Properties Trust, Inc.
-SLM:SLM Corporation
-UMPQ:Umpqua Holdings Corporation
-TCO:Taubman Centers, Inc.
-WTFC:Wintrust Financial Corporation
-RNR:RenaissanceRe Holdings Ltd.
-PNFP:Pinnacle Financial Partners, Inc.
-FCNCA:First Citizens BancShares, Inc.
-PB:Prosperity Bancshares, Inc.
-EPR:EPR Properties
-ASB:Associated Banc-Corp
-AXS:AXIS Capital Holdings Limited
-BPOP:Popular, Inc.
-EVR:Evercore Inc.
-HPT:Hospitality Properties Trust
-TCBI:Texas Capital Bancshares, Inc.
-ARES:Ares Management, L.P.
-SBBC:Scorpio Tankers Inc. 8.25% SR NT 19
-PRI:Primerica, Inc.
-ESGR:Enstar Group Limited
-GPT:Gramercy Property Trust
-BKU:BankUnited, Inc.
-PSB:PS Business Parks, Inc.
-IBKC:IBERIABANK Corporation
-FNB:F.N.B. Corporation
-TFSL:TFS Financial Corp
-FCFS:FirstCash, Inc.
-SNH:Senior Housing Properties Trust
-FR:First Industrial Realty Trust, Inc.
-RHP:Ryman Hospitality Properties, Inc.
-VLY:Valley National Bancorp
-BGCP:BGC Partners, Inc.
-AGO:Assured Guaranty Ltd.
-MTG:MGIC Investment Corporation
-CHFC:Chemical Financial Corporation
-HOMB:Home Bancshares, Inc. (Conway, AR)
-CUZ:Cousins Properties Incorporated
-MBFI:MB Financial, Inc.
-UBSI:United Bankshares, Inc.
-WRI:Weingarten Realty Investors
-GDOT:Green Dot Corporation
-SBRA:Sabra Health Care REIT, Inc.
-UMBF:UMB Financial Corporation
-RLJ:RLJ Lodging Trust
-SF:Stifel Financial Corp.
-LHO:LaSalle Hotel Properties
-SHO:Sunstone Hotel Investors, Inc.
-ISBC:Investors Bancorp, Inc.
-KMPR:Kemper Corporation
-ESNT:Essent Group Ltd.
-RDN:Radian Group Inc.
-HR:Healthcare Realty Trust Incorporated
-PRSP:Perspecta Inc.
-BOH:Bank of Hawaii Corporation
-FFIN:First Financial Bankshares, Inc.
-NAVI:Navient Corporation
-SRC:Spirit Realty Capital, Inc.
-CIM:Chimera Investment Corporation
-BXMT:Blackstone Mortgage Trust, Inc.
-MC:Moelis &amp; Company
-BXS:BancorpSouth Bank
-CATY:Cathay General Bancorp
-GBCI:Glacier Bancorp, Inc.
-NEA:Nuveen AMT-Free Quality Municipal Income Fund
-CLNY:Colony Capital, Inc.
-HLI:Houlihan Lokey, Inc.
-EDR:Education Realty Trust, Inc.
-EGP:EastGroup Properties, Inc.
-SIGI:Selective Insurance Group, Inc.
-CNO:CNO Financial Group, Inc.
-ANAT:American National Insurance Company
-AEL:American Equity Investment Life Holding Company
-SSB:South State Corporation
-KW:Kennedy-Wilson Holdings, Inc.
-GEO:The GEO Group, Inc.
-CIGI:Colliers International Group Inc.
-CBU:Community Bank System, Inc.
-BFR:BBVA Banco Franc\xc3\xa9s S.A.
-FFBC:First Financial Bancorp.
-OFC:Corporate Office Properties Trust
-DNP:DNP Select Income Fund Inc.
-COLB:Columbia Banking System, Inc.
-NHI:National Health Investors, Inc.
-MFA:MFA Financial, Inc.
-BDN:Brandywine Realty Trust
-RLI:RLI Corp.
-FULT:Fulton Financial Corporation
-LM:Legg Mason, Inc.
-RLGY:Realogy Holdings Corp.
-DOC:Physicians Realty Trust
-NVG:Nuveen AMT-Free Municipal Credit Income Fund
-IBOC:International Bancshares Corporation
-ONB:Old National Bancorp
-WAFD:Washington Federal, Inc.
-NOAH:Noah Holdings Limited
-FCB:FCB Financial Holdings, Inc.
-AB:AllianceBernstein Holding L.P.
-FNGN:Financial Engines, Inc.
-AFSI:AmTrust Financial Services, Inc.
-WTM:White Mountains Insurance Group, Ltd.
-SFNC:Simmons First National Corporation
-RPAI:Retail Properties of America, Inc.
-TWO:Two Harbors Investment Corp.
-TREE:LendingTree, Inc.
-CXW:CoreCivic, Inc.
-CXP:Columbia Property Trust, Inc.
-STAG:STAG Industrial, Inc.
-FMBI:First Midwest Bancorp, Inc.
-PEB:Pebblebrook Hotel Trust
-UBSH:Union Bankshares Corporation
-DDR:DDR Corp.
-NAD:Nuveen Quality Municipal Income Fund
-BOFI:BofI Holding, Inc.
-XHR:Xenia Hotels &amp; Resorts, Inc.
-CSFL:CenterState Bank Corporation
-PDM:Piedmont Office Realty Trust, Inc.
-REXR:Rexford Industrial Realty, Inc.
-CVBF:CVB Financial Corp.
-UCBI:United Community Banks, Inc.
-GWB:Great Western Bancorp, Inc.
-DRH:DiamondRock Hospitality Company
-FIBK:First Interstate BancSystem, Inc.
-AAT:American Assets Trust, Inc.
-CADE:Cadence Bancorporation
-MCY:Mercury General Corporation
-FII:Federated Investors, Inc.
-HAWK:Blackhawk Network Holdings, Inc.
-NNI:Nelnet, Inc.
-AHL:Aspen Insurance Holdings Limited
-PSEC:Prospect Capital Corporation
-WRE:Washington Real Estate Investment Trust
-ROIC:Retail Opportunity Investments Corp.
-FRME:First Merchants Corporation
-TOWN:TowneBank
-QTS:QTS Realty Trust, Inc.
-APAM:Artisan Partners Asset Management Inc.
-SKT:Tanger Factory Outlet Centers, Inc.
-CWH:Camping World Holdings, Inc.
-SFBS:ServisFirst Bancshares, Inc.
-RNST:Renasant Corporation
-AKR:Acadia Realty Trust
-ARI:Apollo Commercial Real Estate Finance, Inc.
-TRMK:Trustmark Corporation
-MAIN:Main Street Capital Corporation
-INDB:Independent Bank Corp.
-HTH:Hilltop Holdings Inc.
-LXP:Lexington Realty Trust
-ABCB:Ameris Bancorp
-WSBC:WesBanco, Inc.
-IBTX:Independent Bank Group, Inc.
-KYN:Kayne Anderson MLP Investment Company
-TRNO:Terreno Realty Corporation
-CLI:Mack-Cali Realty Corporation
-FBC:Flagstar Bancorp, Inc.
-NZF:Nuveen Municipal Credit Income Fund
-SIR:Select Income REIT
-BANF:BancFirst Corporation
-FFG:FBL Financial Group, Inc.
-BANR:Banner Corporation
-CSQ:Calamos Strategic Total Return Fund
-PRA:ProAssurance Corporation
-UTF:Cohen &amp; Steers Infrastructure Fund, Inc
-NUV:Nuveen Municipal Value Fund, Inc.
-ALX:Alexander&#x27;s, Inc.
-CNS:Cohen &amp; Steers, Inc.
-NAC:Nuveen California Quality Municipal Income Fund
-HMN:Horace Mann Educators Corporation
-CHSP:Chesapeake Lodging Trust
-GDV:The Gabelli Dividend &amp; Income Trust
-BHLB:Berkshire Hills Bancorp, Inc.
-FSIC:FS Investment Corporation
-CFFN:Capitol Federal Financial, Inc.
-NWBI:Northwest Bancshares, Inc.
-ETY:Eaton Vance Tax-Managed Diversified Equity Income Fund
-PFS:Provident Financial Services, Inc.
-PPBI:Pacific Premier Bancorp, Inc.
-IVR:Invesco Mortgage Capital Inc.
-WPG:Washington Prime Group Inc.
-JPS:Nuveen Preferred Securities Income Fund
-ALEX:Alexander &amp; Baldwin, Inc.
-LADR:Ladder Capital Corp
-HTLF:Heartland Financial USA, Inc.
-GZT:Gazit Globe Ltd
-WD:Walker &amp; Dunlop, Inc.
-NSM:Nationstar Mortgage Holdings Inc.
-NBTB:NBT Bancorp Inc.
-NAVG:The Navigators Group, Inc.
-WSFS:WSFS Financial Corporation
-FBP:First BanCorp.
-LTC:LTC Properties, Inc.
-BDJ:BlackRock Enhanced Equity Dividend Trust
-EVT:Eaton Vance Tax-Advantaged Dividend Income Fund
-ADC:Agree Realty Corporation
-RMAX:RE/MAX Holdings, Inc.
-GOV:Government Properties Income Trust
-BFS:Saul Centers, Inc.
-FCF:First Commonwealth Financial Corporation
-BUSE:First Busey Corporation
-WDR:Waddell &amp; Reed Financial, Inc.
-GAB:The Gabelli Equity Trust Inc.
-ADX:Adams Diversified Equity Fund, Inc.
-WABC:Westamerica Bancorporation
-STBA:S&amp;T Bancorp, Inc.
-MMI:Marcus &amp; Millichap, Inc.
-PFSI:PennyMac Financial Services, Inc.
-IPCC:Infinity Property and Casualty Corporation
-SBCF:Seacoast Banking Corporation of Florida
-SASR:Sandy Spring Bancorp, Inc.
-BRKL:Brookline Bancorp, Inc.
-INN:Summit Hotel Properties, Inc.
-HCC:Warrior Met Coal, Inc.
-TY:Tri-Continental Corporation
-OCFC:OceanFirst Financial Corp.
-WETF:WisdomTree Investments, Inc.
-KRG:Kite Realty Group Trust
-SRCE:1st Source Corporation
-PTY:PIMCO Corporate &amp; Income Opportunity Fund
-KRNY:Kearny Financial Corp.
-TYG:Tortoise Energy Infrastructure Corporation
-UFCS:United Fire Group, Inc.
-BPFH:Boston Private Financial Holdings, Inc.
-HF:HFF, Inc.
-EIG:Employers Holdings, Inc.
-SAFT:Safety Insurance Group, Inc.
-MNR:Monmouth Real Estate Investment Corporation
-LGIH:LGI Homes, Inc.
-RVT:Royce Value Trust Inc.
-TPRE:Third Point Reinsurance Ltd.
-RQI:Cohen\xc2\xa0&amp; Steers Quality Income Realty Fund, Inc.
-ETG:Eaton Vance Tax-Advantaged Global Dividend Income Fund
-STFC:State Auto Financial Corporation
-HYT:BlackRock Corporate High Yield Fund, Inc.
-LOB:Live Oak Bancshares, Inc.
-BTZ:BlackRock Credit Allocation Income Trust
-EFSC:Enterprise Financial Services Corp
-ENVA:Enova International, Inc.
-ETW:Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund
-LKFN:Lakeland Financial Corporation
-RWT:Redwood Trust, Inc.
-UVE:Universal Insurance Holdings, Inc.
-FBNC:First Bancorp
-USA:Liberty All-Star Equity Fund
-CHCO:City Holding Company
-AINV:Apollo Investment Corporation
-SBSI:Southside Bancshares, Inc.
-HFWA:Heritage Financial Corporation
-HTGC:Hercules Capital, Inc.
-BNCL:Beneficial Bancorp, Inc.
-IRS:IRSA Inversiones y Representaciones Sociedad An\xc3\xb3nima
-NFJ:AllianzGI NFJ Dividend, Interest &amp; Premium Strategy Fund
-JRVR:James River Group Holdings, Ltd.
-NBHC:National Bank Holdings Corporation
-PMT:PennyMac Mortgage Investment Trust
-CYS:CYS Investments, Inc.
-TSLX:TPG Specialty Lending, Inc.
-JOE:The St. Joe Company
-NWLI:National Western Life Group, Inc.
-GTY:Getty Realty Corp.
-TIER:TIER REIT, Inc.
-AMSF:Amerisafe, Inc.
-CBL:CBL &amp; Associates Properties, Inc
-GBDC:Golub Capital BDC, Inc.
-PHK:PIMCO High Income Fund
-ETV:Eaton Vance Tax-Managed Buy-Write Opportunities Fund
-BIF:Boulder Growth &amp; Income Fund, Inc.
-TBK:Triumph Bancorp, Inc.
-RPT:Ramco-Gershenson Properties Trust
-OPB:Opus Bank
-JQC:Nuveen Credit Strategies Income Fund
-NRK:Nuveen New York AMT-Free Quality Municipal Income Fund
-CRVL:CorVel Corporation
-NMFC:New Mountain Finance Corporation
-PJC:Piper Jaffray Companies
-PFBC:Preferred Bank
-WRLD:World Acceptance Corporation
-WASH:Washington Trust Bancorp, Inc.
-STC:Stewart Information Services Corporation
-HASI:Hannon Armstrong Sustainable Infrastructure Capital, Inc.
-BANC:Banc of California, Inc.
-QIWI:Qiwi plc
-CLDT:Chatham Lodging Trust
-AGM:Federal Agricultural Mortgage Corporation
-ECPG:Encore Capital Group, Inc.
-AHT:Ashford Hospitality Trust, Inc.
-JPC:Nuveen Preferred Income Opportunities Fund
-BLX:Banco Latinoamericano de Comercio Exterior, S.A
-INTL:INTL FCStone Inc.
-ARR:ARMOUR Residential REIT, Inc.
-LBAI:Lakeland Bancorp, Inc.
-CASH:L&amp;GE Fund MSCI China A ETF
-BMTC:Bryn Mawr Bank Corporation
-ABR:Arbor Realty Trust, Inc.
-AHH:Armada Hoffler Properties, Inc.
-EBSB:Meridian Bancorp, Inc.
-HT:Hersha Hospitality Trust
-HAFC:Hanmi Financial Corporation
-AOD:Alpine Total Dynamic Dividend Fund
-CHY:Calamos Convertible and High Income Fund
-VRTS:Virtus Investment Partners, Inc.
-CUBI:Customers Bancorp, Inc.
-CTBI:Community Trust Bancorp, Inc.
-RNP:Cohen &amp; Steers REIT and Preferred Income Fund, Inc.
-COBZ:CoBiz Financial Inc.
-GTS:Triple-S Management Corporation
-AMBC:Ambac Financial Group, Inc.
-GBNK:Guaranty Bancorp
-UHT:Universal Health Realty Income Trust
-UBNK:United Financial Bancorp, Inc.
-GAM:General American Investors Company, Inc.
-BBX:BBX Capital Corporation
-MTGE:MTGE Investment Corp.
-IRT:Independence Realty Trust, Inc.
-TCBK:TriCo Bancshares
-PEI:Pennsylvania Real Estate Investment Trust
-SYBT:Stock Yards Bancorp, Inc.
-FOR:Forestar Group Inc.
-TRST:TrustCo Bank Corp NY
-CPF:Central Pacific Financial Corp.
-IGR:CBRE Clarion Global Real Estate Income Fund
-SLRC:Solar Capital Ltd.
-RBCAA:Republic Bancorp, Inc.
-TCPC:TCP Capital Corp.
-MBI:MBIA Inc.
-FFC:Flaherty &amp; Crumrine Preferred Securities Income Fund Inc.
-GABC:German American Bancorp, Inc.
-CMO:Capstead Mortgage Corporation
-MYI:BlackRock MuniYield Quality Fund III, Inc.
-NFBK:Northfield Bancorp, Inc. (Staten Island, NY)
-GSBC:Great Southern Bancorp, Inc.
-UVSP:Univest Corporation of Pennsylvania
-NCOM:National Commerce Corporation
-HTD:John Hancock Tax-Advantaged Dividend Income Fund
-CHI:Calamos Convertible Opportunities and Income Fund
-GNBC:Green Bancorp, Inc.
-CNOB:ConnectOne Bancorp, Inc.
-GIM:Templeton Global Income Fund
-HQH:Tekla Healthcare Investors
-EMD:Western Asset Emerging Markets Debt Fund Inc.
-EOS:Eaton Vance Enhanced Equity Income Fund II
-PML:PIMCO Municipal Income Fund II
-NMZ:Nuveen Municipal High Income Opportunity Fund
-HBNC:Horizon Bancorp, Inc.
-GBL:GAMCO Investors, Inc.
-PDT:John Hancock Premium Dividend Fund
-VMO:Invesco Municipal Opportunity Trust
-TSC:Tristate Capital Holdings, Inc.
-FFIC:Flushing Financial Corporation
-HMST:HomeStreet, Inc.
-BOE:BlackRock Enhanced Global Dividend Trust
-DCOM:Dime Community Bancshares, Inc.
-PEBO:Peoples Bancorp Inc.
-HTBK:Heritage Commerce Corp
-STAR:iStar Inc.
-IRET:Investors Real Estate Trust
-BDGE:Bridge Bancorp, Inc.
-CAC:Camden National Corporation
-CII:BlackRock Enhanced Capital and Income Fund, Inc.
-TDF:Templeton Dragon Fund, Inc.
-ORIT:Oritani Financial Corp.
-LION:Fidelity Southern Corporation
-IGD:Voya Global Equity Dividend and Premium Opportunity Fund
-BTO:John Hancock Financial Opportunities Fund
-ITG:Investment Technology Group, Inc.
-PCN:PIMCO Corporate &amp; Income Strategy Fund
-FDEF:First Defiance Financial Corp.
-APTS:Preferred Apartment Communities, Inc.
-BHK:BlackRock Core Bond Trust
-GHL:Greenhill &amp; Co., Inc.
-NYMT:New York Mortgage Trust, Inc.
-SBR:Sabine Royalty Trust
-PZN:Pzena Investment Management, Inc
-MHLD:Maiden Holdings, Ltd.
-WIW:Western Asset/Claymore Inflation-Linked Opportunities &amp; Income Fund
-EZPW:EZCORP, Inc.
-IFN:The India Fund, Inc.
-PGC:Peapack-Gladstone Financial Corporation
-VGM:Invesco Trust for Investment Grade Municipals
-UBA:Urstadt Biddle Properties Inc.
-IIM:Invesco Value Municipal Income Trust
-FRPH:FRP Holdings, Inc.
-NKX:Nuveen California AMT-Free Quality Municipal Income Fund
-VKQ:Invesco Municipal Trust
-DHIL:Diamond Hill Investment Group, Inc.
-OFG:OFG Bancorp
-IBCP:Independent Bank Corporation
-MBWM:Mercantile Bank Corporation
-PFN:PIMCO Income Strategy Fund II
-BGY:BlackRock Enhanced International Dividend Trust
-IQI:Invesco Quality Municipal Income Trust
-TRC:Tejon Ranch Co.
-MYD:BlackRock MuniYield Fund, Inc.
-NCV:AllianzGI Convertible &amp; Income Fund
-EMCI:EMC Insurance Group Inc.
-DMLP:Dorchester Minerals, L.P.
-BHBK:Blue Hills Bancorp, Inc.
-TBBK:The Bancorp, Inc.
-EOI:Eaton Vance Enhanced Equity Income Fund
-EFT:Eaton Vance Floating-Rate Income Trust
-JFR:Nuveen Floating Rate Income Fund
-HPS:John Hancock Preferred Income Fund III
-DSU:BlackRock Debt Strategies Fund, Inc.
-PEO:Adams Natural Resources Fund, Inc.
-THFF:First Financial Corporation
-BFK:BlackRock Municipal Income Trust
-UMH:UMH Properties, Inc.
-HPI:John Hancock Preferred Income Fund
-GBLI:Global Indemnity Limited
-TCAP:Triangle Capital Corporation
-MVF:BlackRock MuniVest Fund, Inc.
-UCFC:United Community Financial Corp.
-RESI:Front Yard Residential Corporation
-VCV:Invesco California Value Municipal Income Trust
-GOOD:Gladstone Commercial Corporation
-FCBC:First Community Bancshares, Inc.
-PPT:Putnam Premier Income Trust
-FSB:Franklin Financial Network, Inc.
-HIX:Western Asset High Income Fund II Inc.
-NXJ:Nuveen New Jersey Quality Municipal Income Fund
-WHG:Westwood Holdings Group, Inc.
-BLW:BlackRock Limited Duration Income Trust
-MMU:Western Asset Managed Municipals Fund Inc.
-AWP:Alpine Global Premier Properties Fund
-MITT:AG Mortgage Investment Trust, Inc.
-HTBI:HomeTrust Bancshares, Inc.
-ONDK:On Deck Capital, Inc.
-MUC:Blackrock MuniHoldings Californ
-PFLT:PennantPark Floating Rate Capital Ltd.
-AROW:Arrow Financial Corporation
-CHW:Calamos Global Dynamic Income Fund
-FISI:Financial Institutions, Inc.
-GLRE:Greenlight Capital Re, Ltd.
-EFR:Eaton Vance Senior Floating-Rate Trust
-IHC:Independence Holding Company
-OLP:One Liberty Properties, Inc.
-FRA:Blackrock Floating Rate Income
-WSR:Whitestone REIT
-MUI:BlackRock Muni Intermediate Duration Fund, Inc.
-PNNT:PennantPark Investment Corporation
-FBNK:First Connecticut Bancorp, Inc.
-ANH:Anworth Mortgage Asset Corporation
-TEI:Templeton Emerging Markets Inco
-WSBF:Waterstone Financial, Inc.
-MFL:BlackRock MuniHoldings Investment Quality Fund
-CCNE:CNB Financial Corporation
-NQP:Nuveen Pennsylvania Quality Mun
-CRD-B:Crawford &amp; Company
-EFC:Ellington Financial LLC
-EBTC:Enterprise Bancorp, Inc.
-CIO:City Office REIT, Inc.
-MUA:Blackrock MuniAssets Fund, Inc
-MYN:Blackrock MuniYield New York Qu
-EHTH:eHealth, Inc.
-BGR:BlackRock Energy and Resources Trust
-HPF:John Hancock Preferred Income Fund II
-MCA:BlackRock MuniYield California Quality Fund, Inc.
-CDR:Cedar Realty Trust, Inc.
-NCZ:AllianzGI Convertible &amp; Income Fund II
-LEO:Dreyfus Strategic Municipals, Inc.
-HBCP:Home Bancorp, Inc.
-CORR:CorEnergy Infrastructure Trust, Inc.
-OSBC:Old Second Bancorp, Inc.
-BSRR:Sierra Bancorp
-WMC:Western Asset Mortgage Capital Corporation
-HRTG:Heritage Insurance Holdings, Inc.
-PMO:Putnam Municipal Opportunities Trust
-HQL:Tekla Life Sciences Investors
-MCBC:Macatawa Bank Corporation
-KTF:Deutsche Municipal Income Trust
-CCBG:Capital City Bank Group, Inc.
-MOFG:MidWestOne Financial Group, Inc.
-WTBA:West Bancorporation, Inc.
-BKCC:BlackRock Capital Investment Corporation
-MQY:BlackRock MuniYield Quality Fund, Inc.
-ETB:Eaton Vance Tax-Managed Buy-Write Income Fund
-COWN:Cowen Inc.
-RM:Regional Management Corp.
-JRO:Nuveen Floating Rate Income Opportunity Fund
-RCS:PIMCO Strategic Income Fund, Inc.
-EHI:Western Asset Global High Income Fund Inc.
-FMO:Fiduciary/Claymore MLP Opportunity Fund
-GPM:Guggenheim Enhanced Equity Income Fund
-BFZ:BlackRock California Municipal Income Trust
-FFKT:Farmers Capital Bank Corporation
-ACRE:Ares Commercial Real Estate Corporation
-CIA:Citizens, Inc.
-RMT:Royce Micro-Cap Trust, Inc.
-MMT:MFS Multimarket Income Trust
-MCR:MFS Charter Income Trust
-HCI:HCI Group, Inc.
-MUJ:BlackRock MuniHoldings New Jersey Quality Fund, Inc.
-NAN:Nuveen New York Quality Municipal Income Fund
-GAIN:Gladstone Investment Corporation
-DGICB:Donegal Group Inc.
-MHN:Blackrock MuniHoldings New York
-ATAX:America First Multifamily Investors, L.P.
-OPY:Oppenheimer Holdings Inc.
-MIY:BlackRock MuniYield Michigan Quality Fund, Inc.
-PMX:PIMCO Municipal Income Fund III
-MRLN:Marlin Business Services Corp.
-PMM:Putnam Managed Municipal Income Trust
-BME:BlackRock Health Sciences Trust
-BKT:BlackRock Income Trust, Inc.
-DSM:Dreyfus Strategic Municipal Bon
-IIF:Morgan Stanley India Investment Fund, Inc.
-MGI:MoneyGram International, Inc.
-JCAP:Jernigan Capital, Inc.
-AMNB:American National Bankshares Inc.
-DX:Dynex Capital, Inc.
-AVK:Advent Claymore Convertible Securities and Income Fund
-OIA:Invesco Municipal Income Opport
-ETO:Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund
-FDUS:Fidus Investment Corporation
-PHH:PHH Corporation
-ITIC:Investors Title Company
-GCAP:GAIN Capital Holdings, Inc.
-SOR:Source Capital, Inc.
-BYM:Blackrock Municipal Income Qual
-KYE:Kayne Anderson Energy Total Return Fund, Inc.
-PFIS:Peoples Financial Services Corp.
-FPI:Farmland Partners Inc.
-INBK:First Internet Bancorp
-PMF:PIMCO Municipal Income Fund
-FCT:First Trust Senior Floating Rat
-MSB:Mesabi Trust
-MYJ:BlackRock MuniYield New Jersey Fund, Inc.
-WIA:Western Asset/Claymore Inflation-Linked Securities &amp; Income Fund
-RFI:Cohen &amp; Steers Total Return Realty Fund, Inc.
-CHN:The China Fund, Inc.
-FNLC:The First Bancorp, Inc.
-BLE:BlackRock Municipal Income Trust II
-JOF:Japan Smaller Capitalization Fund, Inc.
-BFIN:BankFinancial Corporation
-PCQ:PIMCO California Municipal Income Fund
-FFA:First Trust Enhanced Equity Income Fund
-SWZ:Swiss Helvetia Fund, Inc. (The)
-TCI:Transcontinental Realty Investors, Inc.
-BGT:BlackRock Floating Rate Income Trust
-MEN:BlackRock MuniEnhanced Fund, Inc.
-PFL:PIMCO Income Strategy Fund
-BKK:BlackRock Municipal 2020 Term Trust
-NYRT:New York REIT, Inc.
-MCI:Barings Corporate Investors
-MVT:Blackrock MuniVest Fund II, Inc
-CSWC:Capital Southwest Corporation
-WHF:WhiteHorse Finance, Inc.
-TBNK:Territorial Bancorp Inc.
-AI:Arlington Asset Investment Corp.
-JRS:Nuveen Real Estate Income Fund
-GF:The New Germany Fund, Inc.
-MGU:Macquarie Global Infrastructure Total Return Fund Inc.
-CHMI:Cherry Hill Mortgage Investment Corporation
-NRIM:Northrim BanCorp, Inc.
-VPV:Invesco Pennsylvania Value Muni
-MYC:Blackrock MuniYield California Fund, Inc.
-EVN:Eaton Vance Municipal Income Tr
-NMY:Nuveen Maryland Quality Municipal Income Fund
-ZTR:Virtus Global Dividend &amp; Income Fund Inc.
-MRCC:Monroe Capital Corporation
-ARL:American Realty Investors, Inc.
-PHD:Pioneer Floating Rate Trust
-CNBKA:Century Bancorp, Inc.
-MUE:BlackRock MuniHoldings Quality Fund II, Inc.
-PHT:Pioneer High Income Trust
-MQT:BlackRock MuniYield Quality Fund II, Inc.
-BCML:BayCom Corp.
-MFM:MFS Municipal Income Trust
-TCRD:THL Credit, Inc.
-SUNS:Solar Senior Capital Ltd.
-NCA:Nuveen California Municipal Value Fund, Inc.
-EMF:Templeton Emerging Markets Fund
-MBTF:MBT Financial Corp.
-PCK:PIMCO California Municipal Income Fund II
-SFE:Safeguard Scientifics, Inc.
-NUM:Nuveen Michigan Quality Municip
-MHI:Pioneer Municipal High Income Trust
-GUT:The Gabelli Utility Trust
-TSI:TCW Strategic Income Fund, Inc.
-MAV:Pioneer Municipal High Income Advantage Trust
-NUO:Nuveen Ohio Quality Municipal I
-STRS:Stratus Properties Inc.
-AJX:Great Ajax Corp.
-SHBI:Shore Bancshares, Inc.
-VTN:Invesco Trust for Investment Grade New York Municipals
-BKN:BlackRock Investment Quality Municipal Trust Inc.
-GLAD:Gladstone Capital Corporation
-JTD:Nuveen Tax-Advantaged Dividend Growth Fund
-MLP:Maui Land &amp; Pineapple Company, Inc.
-MXF:Mexico Fund, Inc. (The)
-EVF:Eaton Vance Senior Income Trust
-NXQ:Nuveen Select Tax-Free Income Portfolio 2
-ZF:Virtus Total Return Fund Inc.
-NSL:Nuveen Senior Income Fund
-BPK:Blackrock Municipal 2018 Term T
-NXP:Nuveen Select Tax Free Income P
-CHMG:Chemung Financial Corporation
-DUC:Duff &amp; Phelps Utility &amp; Corpora
-SCD:LMP Capital and Income Fund Inc.
-EVG:Eaton Vance Short Duration Diversified Income Fund
-PZC:PIMCO California Municipal Income Fund III
-MSL:MidSouth Bancorp, Inc.
-PMBC:Pacific Mercantile Bancorp
-JDD:Nuveen Diversified Dividend and Income Fund
-FBIZ:First Business Financial Services, Inc.
-MSF:Morgan Stanley Emerging Markets Fund, Inc.
-CFFI:C&amp;F Financial Corporation
-NPV:Nuveen Virginia Quality Municip
-MHD:BlackRock MuniHoldings Fund, Inc.
-FFNW:First Financial Northwest, Inc.
-APF:Morgan Stanley Asia-Pacific Fun
-GGT:The Gabelli Multimedia Trust Inc.
-KF:Korea Fund, Inc. (The) New
-PWOD:Penns Woods Bancorp, Inc.
-SCM:Stellus Capital Investment Corporation
-IGA:Voya Global Advantage and Premium Opportunity Fund
-NNC:Nuveen North Carolina Quality Municipal Income Fund
-VBF:Invesco Bond Fund
-RVSB:Riverview Bancorp, Inc.
-ASA:ASA Gold and Precious Metals Limited
-HYB:The New America High Income Fund Inc.
-KMM:Deutsche  Multi-Market Income T
-BRT:BRT Apartments Corp.
-FLC:Flaherty &amp; Crumrine Total Return Fund Inc.
-UBFO:United Security Bancshares
-NXR:Nuveen Select Tax-Free Income Portfolio 3
-FUND:Sprott Focus Trust, Inc. - Clos
-MYF:BlackRock MuniYield Investment Fund
-KED:Kayne Anderson Energy Development Company
-MSD:Morgan Stanley Emerging Markets
-ASG:Liberty All-Star Growth Fund, Inc.
-MPA:Blackrock MuniYield Pennsylvani
-JTA:Nuveen Tax-Advantaged Total Return Strategy Fund
-MVC:MVC Capital, Inc.
-LGI:Lazard Global Total Return and Income Fund, Inc.
-CEE:The Central and Eastern Europe
-SAR:Saratoga Investment Corp.
-NTC:Nuveen Connecticut Quality Muni
-PGP:PIMCO Global StocksPLUS &amp; Income Fund
-FT:Franklin Universal Trust
-ESSA:ESSA Bancorp, Inc.
-BNY:BlackRock New York Municipal In
-TWN:Taiwan Fund, Inc. (The)
-MHF:Western Asset Municipal High Income Fund Inc.
-MUS:BlackRock MuniHoldings Quality Fund, Inc.
-MPV:Barings Participation Investors
-JHS:John Hancock Income Securities Trust
-MUH:Blackrock MuniHoldings Fund II,
-OFS:OFS Capital Corporation
-DNI:Dividend and Income Fund
-PFD:Flaherty &amp; Crumrine Preferred Income Fund Inc.
-FMN:Federated Premier Municipal Income Fund
-BBK:BlackRock Municipal Bond Trust
-WEA:Western Asset Premier Bond Fund
-BTA:BlackRock Long-Term Municipal Advantage Trust
-NAZ:Nuveen Arizona Quality Municipa
-MCN:Madison Covered Call &amp; Equity Strategy Fund
-PROV:Provident Financial Holdings, Inc.
-EARN:Ellington Residential Mortgage REIT
-NNY:Nuveen New York Municipal Value Fund, Inc.
-APB:The Asia Pacific Fund, Inc.
-JHI:John Hancock Investors Trust
-FUNC:First United Corporation
-MNP:Western Asset Municipal Partners Fund Inc.
-PFO:Flaherty &amp; Crumrine Preferred I
-CPTA:Capitala Finance Corp.
-PCM:PCM Fund Inc.
-BBF:BlackRock Municipal Income Investment Trust
-FAM:First Trust/Aberdeen Global Opportunity Income Fund
-GARS:Garrison Capital Inc.
-HWBK:Hawthorn Bancshares, Inc.
-PAI:Western Asset Investment Grade
-AGD:Alpine Global Dynamic Dividend Fund
-NTX:Nuveen Texas Quality Municipal
-SPE:Special Opportunities Fund, Inc.
-ACSF:American Capital Senior Floating, Ltd.
-CMFN:CM Finance Inc.
-PCF:Putnam High Income Securities Fund
-KSM:Deutsche Strategic Municipal Income Trust
-NIM:Nuveen Select Maturities Munici
-HRZN:Horizon Technology Finance Corporation
-CGO:Calamos Global Total Return Fund
-NKG:Nuveen Georgia Quality Municipa
-BAF:BlackRock Municipal Income Investment Quality Trust
-PNI:Pimco New York Municipal Income
-JMP:JMP Group LLC
-NMT:Nuveen Massachusetts Quality Mu
-DTF:DTF Tax-Free Income Inc.
-JEQ:Aberdeen Japan Equity Fund, Inc.
-AKP:Alliance California Municipal Income Fund, Inc.
-VLT:Invesco High Income Trust II
-MFT:BlackRock MuniYield Investment Quality Fund
-SVVC:Firsthand Technology Value Fund, Inc.
-BCRH:Blue Capital Reinsurance Holdings Ltd.
-TLI:Western Asset Corporate Loan Fu
-MZF:Managed Duration Investment Gra
-NMI:Nuveen Municipal Income Fund, Inc.
-PNF:PIMCO New York Municipal Income Fund
-BJZ:BlackRock California Municipal 2018 Term Trust
-MFD:Macquarie/First Trust Global Infrastructure/Utilities Dividend &amp; Income Fund
-DDF:Delaware Investments Dividend and Income Fund, Inc.
-BSD:BlackRock Strategic Municipal Trust
-AMRB:American River Bankshares
-AMRK:A-Mark Precious Metals, Inc.
-CXH:MFS Investment Grade Municipal
-GCV:Gabelli Convertible and Income
-NXC:Nuveen California Select Tax-Free Income Portfolio
-NICK:Nicholas Financial, Inc.
-MXE:Mexico Equity &amp; Income Fund Inc.
-BSE:BlackRock New York Municipal Income Quality Trust
-BFO:Blackrock Florida Municipal 202
-GFY:Western Asset Variable Rate Str
-EGF:BlackRock Enhanced Government Fund, Inc.
-EEA:The European Equity Fund, Inc.
-NRT:North European Oil Royalty Trust
-LOR:Lazard World Dividend &amp; Income Fund Inc.
-FEO:First Trust/Aberdeen Emerging Opportunity Fund
-LCM:Advent/Claymore Enhanced Growth &amp; Income Fund
-MZA:BlackRock MuniYield Arizona Fund, Inc.
-MSP:Madison Strategic Sector Premium Fund
-LDF:The Latin American Discovery Fund, Inc.
-BFY:BlackRock New York Municipal Income Trust II
-IRL:The New Ireland Fund, Inc.
-KST:Deutsche Strategic Income Trust
-FMY:First Trust Mortgage Income Fund
-BLH:BlackRock New York Municipal 2018 Term Trust
-MNE:Blackrock Muni New York Interme
-NCB:Nuveen California Municipal Value Fund 2
-PYN:PIMCO New York Municipal Income Fund III
-NXN:Nuveen New York Select Tax-Free
-MFV:MFS Special Value Trust
-BQH:BlackRock New York Municipal Bond Trust
-NYV:Nuveen New York Municipal Value Fund 2
-NOM:Nuveen Missouri Quality Municipal Income Fund
-MHE:BlackRock Massachusetts Tax-Exempt Trust
-BZM:BlackRock Maryland Municipal Bond Trust
-BHV:BlackRock Virginia Municipal Bond Trust
-MTR:Mesa Royalty Trust
-NJV:Nuveen New Jersey Municipal Value Fund
-NPN:Nuveen Pennsylvania Municipal Value Fund
-ELC:Entergy Louisiana, LLC COLLATERAL TR MT
-ICB:MS Income Securities, Inc.
-BRK-A:Berkshire Hathaway Inc.
-WF:Woori Bank Co., Ltd.
-RSO:Resource Capital Corp.
-FCE-A:Forest City Realty Trust, Inc
+C:Citigroup Inc.:0.0
+AIG:American International Group, Inc.:0.0
+BCS:Barclays PLC:0.0
+CS:Credit Suisse Group AG:0.0
+DB:Deutsche Bank Aktiengesellschaft:0.0
+HIG:The Hartford Financial Services Group, Inc.:0.0
+XL:XL Group Ltd:0.0
+HCP:HCP, Inc.:0.0
+WU:The Western Union Company:0.0
+VOYA:Voya Financial, Inc.:0.0
+AMH:American Homes 4 Rent:0.0
+CONE:CyrusOne Inc.:0.0
+VR:Validus Holdings, Ltd.:0.0
+RNR:RenaissanceRe Holdings Ltd.:0.0
+AXS:AXIS Capital Holdings Limited:0.0
+SBBC:Scorpio Tankers Inc. 8.25% SR NT 19:0.0
+HR:Healthcare Realty Trust Incorporated:0.0
+CLNY:Colony Capital, Inc.:0.0
+DDR:DDR Corp.:0.0
+HAWK:Blackhawk Network Holdings, Inc.:0.0
+AHL:Aspen Insurance Holdings Limited:0.0
+KYN:Kayne Anderson MLP Investment Company:0.0
+NAC:Nuveen California Quality Municipal Income Fund:0.0
+KRG:Kite Realty Group Trust:0.0
+TYG:Tortoise Energy Infrastructure Corporation:0.0
+STFC:State Auto Financial Corporation:0.0
+PHK:PIMCO High Income Fund:0.0
+PJC:Piper Jaffray Companies:0.0
+AHT:Ashford Hospitality Trust, Inc.:0.0
+AOD:Alpine Total Dynamic Dividend Fund:0.0
+PEI:Pennsylvania Real Estate Investment Trust:0.0
+MBI:MBIA Inc.:0.0
+CHI:Calamos Convertible Opportunities and Income Fund:0.0
+ITG:Investment Technology Group, Inc.:0.0
+APTS:Preferred Apartment Communities, Inc.:0.0
+BHK:BlackRock Core Bond Trust:0.0
+GHL:Greenhill &amp; Co., Inc.:0.0
+IFN:The India Fund, Inc.:0.0
+MHLD:Maiden Holdings, Ltd.:0.0
+IIM:Invesco Value Municipal Income Trust:0.0
+UMH:UMH Properties, Inc.:0.0
+TCAP:Triangle Capital Corporation:0.0
+GOOD:Gladstone Commercial Corporation:0.0
+GBLI:Global Indemnity Limited:0.0
+RESI:Front Yard Residential Corporation:0.0
+ONDK:On Deck Capital, Inc.:0.0
+GLRE:Greenlight Capital Re, Ltd.:0.0
+FRA:Blackrock Floating Rate Income:0.0
+MCA:BlackRock MuniYield California Quality Fund, Inc.:0.0
+EHTH:eHealth, Inc.:0.0
+CDR:Cedar Realty Trust, Inc.:0.0
+COWN:Cowen Inc.:0.0
+FMO:Fiduciary/Claymore MLP Opportunity Fund:0.0
+CIA:Citizens, Inc.:0.0
+DGICB:Donegal Group Inc.:0.0
+MUJ:BlackRock MuniHoldings New Jersey Quality Fund, Inc.:0.0
+HCI:HCI Group, Inc.:0.0
+MGI:MoneyGram International, Inc.:0.0
+ETO:Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund:0.0
+PHH:PHH Corporation:0.0
+BYM:Blackrock Municipal Income Qual:0.0
+KYE:Kayne Anderson Energy Total Return Fund, Inc.:0.0
+FCT:First Trust Senior Floating Rat:0.0
+MYJ:BlackRock MuniYield New Jersey Fund, Inc.:0.0
+TCI:Transcontinental Realty Investors, Inc.:0.0
+SWZ:Swiss Helvetia Fund, Inc. (The):0.0
+NYRT:New York REIT, Inc.:0.0
+MVT:Blackrock MuniVest Fund II, Inc:0.0
+JRS:Nuveen Real Estate Income Fund:0.0
+AI:Arlington Asset Investment Corp.:0.0
+GF:The New Germany Fund, Inc.:0.0
+MYC:Blackrock MuniYield California Fund, Inc.:0.0
+MUE:BlackRock MuniHoldings Quality Fund II, Inc.:0.0
+ARL:American Realty Investors, Inc.:0.0
+SFE:Safeguard Scientifics, Inc.:0.0
+NUM:Nuveen Michigan Quality Municip:0.0
+NUO:Nuveen Ohio Quality Municipal I:0.0
+VTN:Invesco Trust for Investment Grade New York Municipals:0.0
+BPK:Blackrock Municipal 2018 Term T:0.0
+DUC:Duff &amp; Phelps Utility &amp; Corpora:0.0
+MSL:MidSouth Bancorp, Inc.:0.0
+ASA:ASA Gold and Precious Metals Limited:0.0
+KED:Kayne Anderson Energy Development Company:0.0
+NTC:Nuveen Connecticut Quality Municipal Income Fund:0.0
+BNY:BlackRock New York Municipal Income Trust:0.0
+MUH:Blackrock MuniHoldings Fund II,:0.0
+BBK:BlackRock Municipal Bond Trust:0.0
+BBF:BlackRock Municipal Income Investment Trust:0.0
+AGD:Alpine Global Dynamic Dividend Fund:0.0
+GARS:Garrison Capital Inc.:0.0
+NTX:Nuveen Texas Quality Municipal Income Fund:0.0
+NKG:Nuveen Georgia Quality Municipa:0.0
+PNI:Pimco New York Municipal Income:0.0
+JMP:JMP Group LLC:0.0
+VLT:Invesco High Income Trust II:0.0
+MFT:BlackRock MuniYield Investment Quality Fund:0.0
+BCRH:Blue Capital Reinsurance Holdings Ltd.:0.0
+MZF:Managed Duration Investment Gra:0.0
+GCV:Gabelli Convertible and Income:0.0
+NICK:Nicholas Financial, Inc.:0.0
+GFY:Western Asset Variable Rate Str:0.0
+KST:Deutsche Strategic Income Trust:0.0
+ELC:Entergy Louisiana, LLC COLLATERAL TR MT:0.0
+ICB:MS Income Securities, Inc.:0.0
+BRK-A:Berkshire Hathaway Inc.:0.0
+FCE-A:Forest City Realty Trust, Inc:0.0
+IIF:Morgan Stanley India Investment Fund, Inc.:2.02
+KF:The Korea Fund, Inc.:2.4
+TDF:Templeton Dragon Fund, Inc.:2.95
+APF:Morgan Stanley Asia-Pacific Fun:3.07
+EMF:Templeton Emerging Markets Fund:3.1
+SVVC:Firsthand Technology Value Fund, Inc.:3.12
+HCC:Warrior Met Coal, Inc.:3.23
+IRS:IRSA Inversiones y Representaciones Sociedad An\xc3\xb3nima:3.33
+NRZ:New Residential Investment Corp.:3.98
+CHMI:Cherry Hill Mortgage Investment Corporation:4.06
+CHN:The China Fund, Inc.:4.14
+EEA:The European Equity Fund, Inc.:4.19
+ADX:Adams Diversified Equity Fund, Inc.:4.28
+LDF:The Latin American Discovery Fund, Inc.:4.29
+PFSI:PennyMac Financial Services, Inc.:4.38
+FEO:First Trust/Aberdeen Emerging Opportunity Fund:4.4
+APB:The Asia Pacific Fund, Inc.:4.49
+JOF:Japan Smaller Capitalization Fund, Inc.:4.5
+AWP:Alpine Global Premier Properties Fund:4.56
+TWN:Taiwan Fund, Inc. (The):4.63
+BGY:BlackRock Enhanced International Dividend Trust:4.7
+RVT:Royce Value Trust Inc.:4.71
+CSQ:Calamos Strategic Total Return Fund:4.93
+NLY:Annaly Capital Management, Inc.:4.95
+MXE:Mexico Equity &amp; Income Fund Inc.:4.95
+RGA:Reinsurance Group of America, Incorporated:4.98
+USA:Liberty All-Star Equity Fund:5.08
+WMC:Western Asset Mortgage Capital Corporation:5.18
+GGT:The Gabelli Multimedia Trust Inc.:5.18
+TWO:Two Harbors Investment Corp.:5.21
+ASG:Liberty All-Star Growth Fund, Inc.:5.22
+JTA:Nuveen Tax-Advantaged Total Return Strategy Fund:5.23
+ZTR:Virtus Global Dividend &amp; Income Fund Inc.:5.25
+GAB:The Gabelli Equity Trust Inc.:5.26
+AVK:Advent Claymore Convertible Securities and Income Fund:5.32
+CII:BlackRock Enhanced Capital and Income Fund, Inc.:5.36
+PRU:Prudential Financial, Inc.:5.38
+PCF:Putnam High Income Securities Fund:5.42
+ALEX:Alexander &amp; Baldwin, Inc.:5.44
+NFJ:AllianzGI NFJ Dividend, Interest &amp; Premium Strategy Fund:5.48
+LCM:Advent/Claymore Enhanced Growth &amp; Income Fund:5.48
+EOS:Eaton Vance Enhanced Equity Income Fund II:5.49
+PGP:PIMCO Global StocksPLUS &amp; Income Fund:5.56
+FLC:Flaherty &amp; Crumrine Total Return Fund Inc.:5.64
+TLI:Western Asset Corporate Loan Fund Inc.:5.64
+FUND:Sprott Focus Trust, Inc. - Clos:5.67
+NSL:Nuveen Senior Income Fund:5.69
+BRT:BRT Apartments Corp.:5.75
+DX:Dynex Capital, Inc.:5.77
+EVF:Eaton Vance Senior Income Trust:5.82
+FFC:Flaherty &amp; Crumrine Preferred Securities Income Fund Inc.:5.84
+SC:Santander Consumer USA Holdings Inc.:5.9
+MFD:Macquarie/First Trust Global Infrastructure/Utilities Dividend &amp; Income Fund:5.93
+ETW:Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund:5.99
+PFO:Flaherty &amp; Crumrine Preferred Income Opportunity Fund Inc.:5.99
+DNI:Dividend and Income Fund:6.0
+SPE:Special Opportunities Fund, Inc.:6.06
+TY:Tri-Continental Corporation:6.12
+MITT:AG Mortgage Investment Trust, Inc.:6.12
+WTM:White Mountains Insurance Group, Ltd.:6.15
+ARR:ARMOUR Residential REIT, Inc.:6.15
+HQL:Tekla Life Sciences Investors:6.21
+CIM:Chimera Investment Corporation:6.28
+GAIN:Gladstone Investment Corporation:6.28
+HTD:John Hancock Tax-Advantaged Dividend Income Fund:6.32
+DRE:Duke Realty Corporation:6.34
+KB:KB Financial Group Inc.:6.35
+PFN:PIMCO Income Strategy Fund II:6.35
+IRET:Investors Real Estate Trust:6.36
+PTY:PIMCO Corporate &amp; Income Opportunity Fund:6.4
+BIF:Boulder Growth &amp; Income Fund, Inc.:6.52
+CEE:The Central and Eastern Europe:6.59
+AGNC:AGNC Investment Corp.:6.63
+TMK:Torchmark Corporation:6.65
+GPM:Guggenheim Enhanced Equity Income Fund:6.66
+RMT:Royce Micro-Cap Trust, Inc.:6.66
+FFA:First Trust Enhanced Equity Income Fund:6.67
+IVR:Invesco Mortgage Capital Inc.:6.73
+PFG:Principal Financial Group, Inc.:6.79
+ETY:Eaton Vance Tax-Managed Diversified Equity Income Fund:6.79
+BDJ:BlackRock Enhanced Equity Dividend Trust:6.96
+GLAD:Gladstone Capital Corporation:6.96
+ANAT:American National Insurance Company:7.0
+STAR:iStar Inc.:7.0
+FDUS:Fidus Investment Corporation:7.0
+JHI:John Hancock Investors Trust:7.08
+SOR:Source Capital, Inc.:7.13
+LNC:Lincoln National Corporation:7.16
+BKU:BankUnited, Inc.:7.2
+AFL:Aflac Incorporated:7.21
+CMFN:CM Finance Inc.:7.29
+PCN:PIMCO Corporate &amp; Income Strategy Fund:7.36
+AGO:Assured Guaranty Ltd.:7.37
+IX:ORIX Corporation:7.38
+NMFC:New Mountain Finance Corporation:7.46
+DDF:Delaware Investments Dividend and Income Fund, Inc.:7.46
+JTD:Nuveen Tax-Advantaged Dividend Growth Fund:7.47
+WHF:WhiteHorse Finance, Inc.:7.49
+SHG:Shinhan Financial Group Co., Ltd.:7.6
+CSWC:Capital Southwest Corporation:7.6
+GDV:The Gabelli Dividend &amp; Income Trust:7.66
+FAM:First Trust/Aberdeen Global Opportunity Income Fund:7.67
+RNP:Cohen &amp; Steers REIT and Preferred Income Fund, Inc.:7.72
+JEQ:Aberdeen Japan Equity Fund, Inc.:7.74
+ETB:Eaton Vance Tax-Managed Buy-Write Income Fund:7.75
+PFL:PIMCO Income Strategy Fund:7.75
+SCM:Stellus Capital Investment Corporation:7.75
+SMFG:Sumitomo Mitsui Financial Group, Inc.:7.8
+IRL:The New Ireland Fund, Inc.:7.98
+PPT:Putnam Premier Income Trust:7.99
+RLGY:Realogy Holdings Corp.:8.03
+EOI:Eaton Vance Enhanced Equity Income Fund:8.07
+DNP:DNP Select Income Fund Inc.:8.08
+WPG:Washington Prime Group Inc.:8.09
+ETG:Eaton Vance Tax-Advantaged Global Dividend Income Fund:8.11
+PNNT:PennantPark Investment Corporation:8.13
+IGR:CBRE Clarion Global Real Estate Income Fund:8.14
+WF:Woori Bank Co., Ltd.:8.14
+IGA:Voya Global Advantage and Premium Opportunity Fund:8.15
+FII:Federated Investors, Inc.:8.18
+JPC:Nuveen Preferred Income Opportunities Fund:8.19
+CHW:Calamos Global Dynamic Income Fund:8.38
+LOR:Lazard World Dividend &amp; Income Fund Inc.:8.39
+UNM:Unum Group:8.4
+HYB:The New America High Income Fund Inc.:8.41
+WEA:Western Asset Premier Bond Fund:8.46
+CGO:Calamos Global Total Return Fund:8.48
+ESNT:Essent Group Ltd.:8.52
+NYMT:New York Mortgage Trust, Inc.:8.56
+HIX:Western Asset High Income Fund II Inc.:8.56
+FITB:Fifth Third Bancorp:8.61
+MSD:Morgan Stanley Emerging Markets:8.61
+EFT:Eaton Vance Floating-Rate Income Trust:8.64
+ABR:Arbor Realty Trust, Inc.:8.7
+CIO:City Office REIT, Inc.:8.78
+WRI:Weingarten Realty Investors:8.82
+NXJ:Nuveen New Jersey Quality Municipal Income Fund:8.91
+ETV:Eaton Vance Tax-Managed Buy-Write Opportunities Fund:8.93
+ARCC:Ares Capital Corporation:8.94
+WD:Walker &amp; Dunlop, Inc.:8.94
+AMBC:Ambac Financial Group, Inc.:8.95
+AJX:Great Ajax Corp.:9.07
+TCPC:TCP Capital Corp.:9.08
+PCM:PCM Fund Inc.:9.09
+TPRE:Third Point Reinsurance Ltd.:9.11
+SAR:Saratoga Investment Corp.:9.18
+JPS:Nuveen Preferred Securities Income Fund:9.29
+BME:BlackRock Health Sciences Trust:9.32
+TSLX:TPG Specialty Lending, Inc.:9.34
+PAI:Western Asset Income Fund:9.35
+MTGE:MTGE Investment Corp.:9.36
+NSM:Nationstar Mortgage Holdings Inc.:9.42
+MSB:Mesabi Trust:9.43
+IVZ:Invesco Ltd.:9.47
+UTF:Cohen &amp; Steers Infrastructure Fund, Inc:9.6
+AKP:Alliance California Municipal Income Fund, Inc.:9.62
+EVT:Eaton Vance Tax-Advantaged Dividend Income Fund:9.65
+MFA:MFA Financial, Inc.:9.83
+IGD:Voya Global Equity Dividend and Premium Opportunity Fund:9.83
+RWT:Redwood Trust, Inc.:9.9
+QIWI:Qiwi plc:9.99
+CXH:MFS Investment Grade Municipal:9.99
+NWLI:National Western Life Group, Inc.:10.06
+MCR:MFS Charter Income Trust:10.1
+ALL:The Allstate Corporation:10.14
+PSEC:Prospect Capital Corporation:10.18
+GBL:GAMCO Investors, Inc.:10.19
+MTR:Mesa Royalty Trust:10.3
+NRT:North European Oil Royalty Trust:10.32
+MTG:MGIC Investment Corporation:10.36
+JDD:Nuveen Diversified Dividend and Income Fund:10.47
+SCD:LMP Capital and Income Fund Inc.:10.51
+WDR:Waddell &amp; Reed Financial, Inc.:10.53
+NNI:Nelnet, Inc.:10.58
+CM:Canadian Imperial Bank of Commerce:10.61
+EHI:Western Asset Global High Income Fund Inc.:10.66
+FFG:FBL Financial Group, Inc.:10.68
+NMY:Nuveen Maryland Quality Municipal Income Fund:10.75
+RQI:Cohen\xc2\xa0&amp; Steers Quality Income Realty Fund, Inc.:10.79
+UVE:Universal Insurance Holdings, Inc.:10.9
+BTO:John Hancock Financial Opportunities Fund:10.97
+BSBR:Banco Santander (Brasil) S.A.:10.98
+PYN:PIMCO New York Municipal Income Fund III:10.98
+GAM:General American Investors Company, Inc.:10.99
+BMA:Banco Macro S.A.:11.01
+BTZ:BlackRock Credit Allocation Income Trust:11.02
+BBDO:Banco Bradesco S.A.:11.03
+LADR:Ladder Capital Corp:11.03
+MVC:MVC Capital, Inc.:11.09
+ITUB:Ita\xc3\xba Unibanco Holding S.A.:11.11
+BNS:The Bank of Nova Scotia:11.12
+MET:MetLife, Inc.:11.16
+HMN:Horace Mann Educators Corporation:11.16
+LGIH:LGI Homes, Inc.:11.16
+PZC:PIMCO California Municipal Income Fund III:11.16
+MNP:Western Asset Municipal Partners Fund Inc.:11.17
+TEI:Templeton Emerging Markets Income Fund:11.2
+NAVI:Navient Corporation:11.37
+PMF:PIMCO Municipal Income Fund:11.42
+NPV:Nuveen Virginia Quality Municipal Income Fund:11.45
+OPY:Oppenheimer Holdings Inc.:11.54
+LOB:Live Oak Bancshares, Inc.:11.58
+LM:Legg Mason, Inc.:11.59
+HMST:HomeStreet, Inc.:11.6
+KSM:Deutsche Strategic Municipal Income Trust:11.65
+SUNS:Solar Senior Capital Ltd.:11.7
+OAK:Oaktree Capital Group, LLC:11.77
+VIRT:Virtu Financial, Inc.:11.79
+LFC:China Life Insurance Company Limited:11.85
+EVN:Eaton Vance Municipal Income Trust:11.86
+BRK-A:Berkshire Hathaway Inc.:11.87
+SAN:Banco Santander, S.A.:11.89
+MPV:Barings Participation Investors:11.9
+AMG:Affiliated Managers Group, Inc.:11.93
+HTGC:Hercules Capital, Inc.:11.96
+ACRE:Ares Commercial Real Estate Corporation:12.05
+AIZ:Assurant, Inc.:12.1
+MUI:BlackRock Muni Intermediate Duration Fund, Inc.:12.1
+EMD:Western Asset Emerging Markets Debt Fund Inc.:12.12
+BBD:Banco Bradesco S.A.:12.13
+TCRD:THL Credit, Inc.:12.19
+IHC:Independence Holding Company:12.22
+DFS:Discover Financial Services:12.33
+PMM:Putnam Managed Municipal Income Trust:12.35
+ECPG:Encore Capital Group, Inc.:12.38
+SLRC:Solar Capital Ltd.:12.39
+BBVA:Banco Bilbao Vizcaya Argentaria, S.A.:12.42
+AFSI:AmTrust Financial Services, Inc.:12.44
+PMO:Putnam Municipal Opportunities Trust:12.47
+ARI:Apollo Commercial Real Estate Finance, Inc.:12.49
+BBX:BBX Capital Corporation:12.51
+DSM:Dreyfus Strategic Municipal Bond Fund, Inc.:12.51
+RPAI:Retail Properties of America, Inc.:12.52
+AEL:American Equity Investment Life Holding Company:12.58
+GUT:The Gabelli Utility Trust:12.63
+WBK:Westpac Banking Corporation:12.65
+PNC:The PNC Financial Services Group, Inc.:12.67
+AB:AllianceBernstein Holding L.P.:12.68
+NMT:Nuveen Massachusetts Quality Mu:12.72
+MAIN:Main Street Capital Corporation:12.75
+ALLY:Ally Financial Inc.:12.83
+GBDC:Golub Capital BDC, Inc.:12.84
+PFLT:PennantPark Floating Rate Capital Ltd.:12.84
+EFC:Ellington Financial LLC:12.86
+LGI:Lazard Global Total Return and Income Fund, Inc.:12.9
+NYCB:New York Community Bancorp, Inc.:12.93
+MRLN:Marlin Business Services Corp.:12.93
+ORI:Old Republic International Corporation:12.94
+KMM:Deutsche  Multi-Market Income T:12.95
+MBFI:MB Financial, Inc.:12.96
+PRI:Primerica, Inc.:13.01
+CG:The Carlyle Group L.P.:13.1
+CME:CME Group Inc.:13.12
+MCN:Madison Covered Call &amp; Equity Strategy Fund:13.13
+RY:Royal Bank of Canada:13.16
+NNY:Nuveen New York Municipal Value Fund, Inc.:13.16
+OZRK:Bank of the Ozarks:13.18
+SYF:Synchrony Financial:13.2
+PMT:PennyMac Mortgage Investment Trust:13.23
+EIG:Employers Holdings, Inc.:13.24
+PCQ:PIMCO California Municipal Income Fund:13.27
+FAF:First American Financial Corporation:13.35
+AMP:Ameriprise Financial, Inc.:13.37
+HBAN:Huntington Bancshares Incorporated:13.4
+BLX:Banco Latinoamericano de Comercio Exterior, S.A:13.46
+AGM:Federal Agricultural Mortgage Corporation:13.47
+BK:The Bank of New York Mellon Corporation:13.5
+TIER:TIER REIT, Inc.:13.57
+KTF:Deutsche Municipal Income Trust:13.58
+DHIL:Diamond Hill Investment Group, Inc.:13.59
+TD:The Toronto-Dominion Bank:13.65
+MSP:Madison Strategic Sector Premium Fund:13.68
+MS:Morgan Stanley:13.69
+MCI:Barings Corporate Investors:13.71
+FCNCA:First Citizens BancShares, Inc.:13.74
+DCOM:Dime Community Bancshares, Inc.:13.74
+MMU:Western Asset Managed Municipals Fund Inc.:13.8
+ITIC:Investors Title Company:13.81
+CHY:Calamos Convertible and High Income Fund:13.88
+NNC:Nuveen North Carolina Quality Municipal Income Fund:13.89
+CNA:CNA Financial Corporation:13.9
+WIA:Western Asset/Claymore Inflation-Linked Securities &amp; Income Fund:13.9
+USB:U.S. Bancorp:13.99
+WFC:Wells Fargo &amp; Company:14.02
+INBK:First Internet Bancorp:14.05
+HRZN:Horizon Technology Finance Corporation:14.1
+RM:Regional Management Corp.:14.11
+BPY:Brookfield Property Partners L.P.:14.13
+CINF:Cincinnati Financial Corporation:14.14
+BGT:BlackRock Floating Rate Income Trust:14.16
+MFV:MFS Special Value Trust:14.16
+BXMT:Blackstone Mortgage Trust, Inc.:14.2
+AINV:Apollo Investment Corporation:14.21
+CIB:Bancolombia S.A.:14.3
+L:Loews Corporation:14.31
+CACC:Credit Acceptance Corporation:14.37
+GCAP:GAIN Capital Holdings, Inc.:14.39
+NCZ:AllianzGI Convertible &amp; Income Fund II:14.44
+BFR:BBVA Banco Franc\xc3\xa9s S.A.:14.51
+FSIC:FS Investment Corporation:14.51
+CMO:Capstead Mortgage Corporation:14.55
+BMO:Bank of Montreal:14.58
+SLF:Sun Life Financial Inc.:14.65
+STWD:Starwood Property Trust, Inc.:14.67
+GTS:Triple-S Management Corporation:14.74
+EFR:Eaton Vance Senior Floating-Rate Trust:14.82
+UMBF:UMB Financial Corporation:14.87
+ATAX:America First Multifamily Investors, L.P.:15.03
+HF:HFF, Inc.:15.06
+KKR:KKR &amp; Co. Inc.:15.09
+CUBI:Customers Bancorp, Inc.:15.16
+JPM:JPMorgan Chase &amp; Co.:15.22
+FISI:Financial Institutions, Inc.:15.23
+HYT:BlackRock Corporate High Yield Fund, Inc.:15.28
+MIY:BlackRock MuniYield Michigan Quality Fund, Inc.:15.34
+STI:SunTrust Banks, Inc.:15.35
+MYN:Blackrock MuniYield New York Qu:15.41
+WAFD:Washington Federal, Inc.:15.43
+NOM:Nuveen Missouri Quality Municipal Income Fund:15.43
+MPA:Blackrock MuniYield Pennsylvani:15.45
+NJV:Nuveen New Jersey Municipal Value Fund:15.48
+FNF:Fidelity National Financial, Inc.:15.52
+GSBC:Great Southern Bancorp, Inc.:15.53
+NYV:Nuveen New York Municipal Value Fund 2:15.54
+NCV:AllianzGI Convertible &amp; Income Fund:15.55
+DSU:BlackRock Debt Strategies Fund, Inc.:15.56
+ARES:Ares Management, L.P.:15.57
+FRPH:FRP Holdings, Inc.:15.58
+PHT:Pioneer High Income Trust:15.64
+HPS:John Hancock Preferred Income Fund III:15.68
+DMLP:Dorchester Minerals, L.P.:15.77
+BSAC:Banco Santander-Chile:15.81
+PACW:PacWest Bancorp:15.82
+FNLC:The First Bancorp, Inc.:15.84
+BLK:BlackRock, Inc.:15.9
+MYI:BlackRock MuniYield Quality Fund III, Inc.:15.92
+SBRA:Sabra Health Care REIT, Inc.:15.99
+OFG:OFG Bancorp:16.01
+WRB:W. R. Berkley Corporation:16.03
+UBNK:United Financial Bancorp, Inc.:16.05
+HPI:John Hancock Preferred Income Fund:16.11
+HPF:John Hancock Preferred Income Fund II:16.12
+KEY:KeyCorp:16.15
+CTBI:Community Trust Bancorp, Inc.:16.15
+BBT:BB&amp;T Corporation:16.18
+NUV:Nuveen Municipal Value Fund, Inc.:16.22
+CB:Chubb Limited:16.25
+BLW:BlackRock Limited Duration Income Trust:16.25
+KIM:Kimco Realty Corporation:16.3
+IBOC:International Bancshares Corporation:16.4
+FFNW:First Financial Northwest, Inc.:16.44
+PDM:Piedmont Office Realty Trust, Inc.:16.47
+TRV:The Travelers Companies, Inc.:16.58
+EZPW:EZCORP, Inc.:16.59
+FULT:Fulton Financial Corporation:16.65
+BAC:Bank of America Corporation:16.68
+PFD:Flaherty &amp; Crumrine Preferred Income Fund Inc.:16.68
+UVSP:Univest Corporation of Pennsylvania:16.69
+MPW:Medical Properties Trust, Inc.:16.72
+HTH:Hilltop Holdings Inc.:16.73
+HAFC:Hanmi Financial Corporation:16.8
+AROW:Arrow Financial Corporation:16.81
+CNO:CNO Financial Group, Inc.:16.89
+CRD-B:Crawford &amp; Company:16.94
+FCE-A:Forest City Realty Trust, Inc.:16.96
+RCS:PIMCO Strategic Income Fund, Inc.:16.97
+VTR:Ventas, Inc.:17.04
+PGC:Peapack-Gladstone Financial Corporation:17.09
+LION:Fidelity Southern Corporation:17.14
+CXW:CoreCivic, Inc.:17.15
+PEBO:Peoples Bancorp Inc.:17.17
+EVG:Eaton Vance Short Duration Diversified Income Fund:17.19
+ZION:Zions Bancorporation:17.29
+LPT:Liberty Property Trust:17.33
+FNB:F.N.B. Corporation:17.33
+WTBA:West Bancorporation, Inc.:17.35
+PHD:Pioneer Floating Rate Trust:17.36
+BCH:Banco de Chile:17.42
+FSB:Franklin Financial Network, Inc.:17.44
+GWB:Great Western Bancorp, Inc.:17.49
+AIV:Apartment Investment and Management Company:17.51
+PBCT:People&#x27;s United Financial, Inc.:17.53
+FDEF:First Defiance Financial Corp.:17.53
+PB:Prosperity Bancshares, Inc.:17.56
+CNBKA:Century Bancorp, Inc.:17.58
+APO:Apollo Global Management, LLC:17.65
+CATY:Cathay General Bancorp:17.65
+PFIS:Peoples Financial Services Corp.:17.65
+RF:Regions Financial Corporation:17.68
+PRSP:Perspecta Inc.:17.71
+LBAI:Lakeland Bancorp, Inc.:17.74
+ICE:Intercontinental Exchange, Inc.:17.76
+MSF:Morgan Stanley Emerging Markets Fund, Inc.:17.8
+BOKF:BOK Financial Corporation:17.81
+STT:State Street Corporation:17.84
+ANH:Anworth Mortgage Asset Corporation:17.86
+PUK:Prudential plc:17.9
+CUZ:Cousins Properties Incorporated:17.95
+MBWM:Mercantile Bank Corporation:17.96
+TCBK:TriCo Bancshares:17.98
+BX:The Blackstone Group L.P.:17.99
+NWBI:Northwest Bancshares, Inc.:18.03
+XHR:Xenia Hotels &amp; Resorts, Inc.:18.07
+BRX:Brixmor Property Group Inc.:18.2
+CFFN:Capitol Federal Financial, Inc.:18.28
+RJF:Raymond James Financial, Inc.:18.36
+EWBC:East West Bancorp, Inc.:18.36
+PFS:Provident Financial Services, Inc.:18.44
+HPT:Hospitality Properties Trust:18.45
+UMPQ:Umpqua Holdings Corporation:18.47
+MNE:Blackrock Muni New York Interme:18.5
+BOFI:BofI Holding, Inc.:18.55
+BAM:Brookfield Asset Management Inc.:18.61
+JFR:Nuveen Floating Rate Income Fund:18.64
+FR:First Industrial Realty Trust, Inc.:18.66
+RPT:Ramco-Gershenson Properties Trust:18.66
+WSBF:Waterstone Financial, Inc.:18.67
+FBIZ:First Business Financial Services, Inc.:18.67
+TSC:Tristate Capital Holdings, Inc.:18.7
+WAL:Western Alliance Bancorporation:18.73
+TRST:TrustCo Bank Corp NY:18.74
+BXS:BancorpSouth Bank:18.78
+JCAP:Jernigan Capital, Inc.:18.79
+PMBC:Pacific Mercantile Bancorp:18.87
+CFR:Cullen/Frost Bankers, Inc.:18.9
+ASB:Associated Banc-Corp:18.91
+CBU:Community Bank System, Inc.:18.96
+FBNC:First Bancorp:19.03
+TROW:T. Rowe Price Group, Inc.:19.04
+OLP:One Liberty Properties, Inc.:19.07
+FFBC:First Financial Bancorp.:19.1
+WRLD:World Acceptance Corporation:19.16
+EMCI:EMC Insurance Group Inc.:19.18
+SFNC:Simmons First National Corporation:19.23
+STBA:S&amp;T Bancorp, Inc.:19.25
+RVSB:Riverview Bancorp, Inc.:19.27
+BOH:Bank of Hawaii Corporation:19.28
+CORR:CorEnergy Infrastructure Trust, Inc.:19.28
+BRO:Brown &amp; Brown, Inc.:19.3
+ESGR:Enstar Group Limited:19.3
+NTRS:Northern Trust Corporation:19.33
+FFIC:Flushing Financial Corporation:19.37
+MTB:M&amp;T Bank Corporation:19.38
+TBNK:Territorial Bancorp Inc.:19.38
+SLM:SLM Corporation:19.39
+UCFC:United Community Financial Corp.:19.4
+HBCP:Home Bancorp, Inc.:19.42
+SASR:Sandy Spring Bancorp, Inc.:19.46
+JRO:Nuveen Floating Rate Income Opportunity Fund:19.46
+CCNE:CNB Financial Corporation:19.49
+MUC:BlackRock MuniHoldings California Quality Fund, Inc.:19.5
+BSRR:Sierra Bancorp:19.5
+SBR:Sabine Royalty Trust:19.51
+NBTB:NBT Bancorp Inc.:19.52
+CASH:L&amp;GE Fund MSCI China A ETF:19.55
+HLI:Houlihan Lokey, Inc.:19.57
+SBSI:Southside Bancshares, Inc.:19.57
+GABC:German American Bancorp, Inc.:19.59
+FIBK:First Interstate BancSystem, Inc.:19.61
+PLD:Prologis, Inc.:19.63
+LTC:LTC Properties, Inc.:19.74
+HBNC:Horizon Bancorp, Inc.:19.76
+THFF:First Financial Corporation:19.81
+SHBI:Shore Bancshares, Inc.:19.83
+WSBC:WesBanco, Inc.:19.9
+BAP:Credicorp Ltd.:19.91
+CMA:Comerica Incorporated:19.97
+EV:Eaton Vance Corp.:20.02
+HSBC:HSBC Holdings plc:20.06
+GLPI:Gaming and Leisure Properties, Inc.:20.06
+WTFC:Wintrust Financial Corporation:20.08
+CIT:CIT Group Inc.:20.17
+NHI:National Health Investors, Inc.:20.22
+ACSF:American Capital Senior Floating, Ltd.:20.23
+PZN:Pzena Investment Management, Inc:20.35
+OIA:Invesco Municipal Income Opportunities Trust:20.38
+CNS:Cohen &amp; Steers, Inc.:20.44
+WASH:Washington Trust Bancorp, Inc.:20.54
+GBNK:Guaranty Bancorp:20.55
+FRME:First Merchants Corporation:20.56
+PNFP:Pinnacle Financial Partners, Inc.:20.66
+NDAQ:Nasdaq, Inc.:20.67
+CBSH:Commerce Bancshares, Inc.:20.7
+LKFN:Lakeland Financial Corporation:20.73
+NQP:Nuveen Pennsylvania Quality Mun:20.74
+HTLF:Heartland Financial USA, Inc.:20.78
+AMNB:American National Bankshares Inc.:20.93
+PWOD:Penns Woods Bancorp, Inc.:20.93
+COF:Capital One Financial Corporation:20.96
+TSI:TCW Strategic Income Fund, Inc.:21.0
+CPF:Central Pacific Financial Corp.:21.01
+NXC:Nuveen California Select Tax-Free Income Portfolio:21.05
+AFG:American Financial Group, Inc.:21.1
+KMPR:Kemper Corporation:21.21
+SRCE:1st Source Corporation:21.23
+IBTX:Independent Bank Group, Inc.:21.28
+TRMK:Trustmark Corporation:21.33
+BANF:BancFirst Corporation:21.33
+RBCAA:Republic Bancorp, Inc.:21.33
+TBBK:The Bancorp, Inc.:21.33
+STC:Stewart Information Services Corporation:21.34
+GS:The Goldman Sachs Group, Inc.:21.35
+CADE:Cadence Bancorporation:21.38
+NRIM:Northrim BanCorp, Inc.:21.39
+BFZ:BlackRock California Municipal Income Trust:21.43
+BDN:Brandywine Realty Trust:21.48
+NMZ:Nuveen Municipal High Income Opportunity Fund:21.49
+BUSE:First Busey Corporation:21.5
+MOFG:MidWestOne Financial Group, Inc.:21.5
+PPBI:Pacific Premier Bancorp, Inc.:21.65
+OPB:Opus Bank:21.66
+MHN:BlackRock MuniHoldings New York Quality Fund, Inc.:21.76
+LPLA:LPL Financial Holdings Inc.:21.8
+HT:Hersha Hospitality Trust:21.8
+MYF:BlackRock MuniYield Investment Fund:21.8
+SYBT:Stock Yards Bancorp, Inc.:21.81
+LAZ:Lazard Ltd:21.86
+COLB:Columbia Banking System, Inc.:21.86
+SIR:Select Income REIT:21.89
+BLE:BlackRock Municipal Income Trust II:21.92
+PGR:The Progressive Corporation:21.93
+MXF:The Mexico Fund, Inc.:21.94
+SNV:Synovus Financial Corp.:21.97
+EGF:BlackRock Enhanced Government Fund, Inc.:21.99
+JOE:The St. Joe Company:22.04
+BCML:BayCom Corp.:22.09
+CHCO:City Holding Company:22.13
+SF:Stifel Financial Corp.:22.14
+EBSB:Meridian Bancorp, Inc.:22.21
+MFM:MFS Municipal Income Trust:22.21
+FMN:Federated Premier Municipal Income Fund:22.23
+WBS:Webster Financial Corporation:22.24
+FCB:FCB Financial Holdings, Inc.:22.25
+SAFT:Safety Insurance Group, Inc.:22.25
+UBFO:United Security Bancshares:22.25
+FRC:First Republic Bank:22.31
+GNBC:Green Bancorp, Inc.:22.33
+UBSI:United Bankshares, Inc.:22.44
+PFBC:Preferred Bank:22.56
+CBL:CBL &amp; Associates Properties, Inc:22.65
+OSBC:Old Second Bancorp, Inc.:22.69
+EFSC:Enterprise Financial Services Corp:22.71
+CVBF:CVB Financial Corp.:22.76
+SFBS:ServisFirst Bancshares, Inc.:22.76
+GEO:The GEO Group, Inc.:22.86
+CNOB:ConnectOne Bancorp, Inc.:22.86
+AON:Aon plc:22.9
+HOMB:Home Bancshares, Inc. (Conway, AR):22.9
+ORIT:Oritani Financial Corp.:22.9
+EBTC:Enterprise Bancorp, Inc.:22.9
+NOAH:Noah Holdings Limited:22.95
+IBN:ICICI Bank Limited:22.99
+FCBC:First Community Bancshares, Inc.:23.06
+EPR:EPR Properties:23.08
+TBK:Triumph Bancorp, Inc.:23.09
+CAC:Camden National Corporation:23.1
+NXR:Nuveen Select Tax-Free Income Portfolio 3:23.1
+CBOE:Cboe Global Markets, Inc.:23.22
+TOWN:TowneBank:23.22
+AMSF:Amerisafe, Inc.:23.22
+INDB:Independent Bank Corp.:23.26
+RDN:Radian Group Inc.:23.31
+BQH:BlackRock New York Municipal Bond Trust:23.32
+BFY:BlackRock New York Municipal Income Trust II:23.4
+GTY:Getty Realty Corp.:23.47
+LAMR:Lamar Advertising Company (REIT):23.48
+GZT:Gazit Globe Ltd:23.48
+RNST:Renasant Corporation:23.56
+OFS:OFS Capital Corporation:23.61
+MBTF:MBT Financial Corp.:23.67
+CHFC:Chemical Financial Corporation:23.69
+FBP:First BanCorp.:23.69
+IBCP:Independent Bank Corporation:23.85
+ETFC:E*TRADE Financial Corporation:23.9
+JQC:Nuveen Credit Strategies Income Fund:23.9
+HST:Host Hotels &amp; Resorts, Inc.:23.97
+MVF:BlackRock MuniVest Fund, Inc.:23.97
+VLY:Valley National Bancorp:24.19
+MCBC:Macatawa Bank Corporation:24.19
+MFC:Manulife Financial Corporation:24.34
+NZF:Nuveen Municipal Credit Income Fund:24.34
+COBZ:CoBiz Financial Inc.:24.37
+MRCC:Monroe Capital Corporation:24.41
+AJG:Arthur J. Gallagher &amp; Co.:24.49
+RHP:Ryman Hospitality Properties, Inc.:24.51
+SBNY:Signature Bank:24.52
+FHN:First Horizon National Corporation:24.67
+FMBI:First Midwest Bancorp, Inc.:24.74
+FCF:First Commonwealth Financial Corporation:24.77
+VRTS:Virtus Investment Partners, Inc.:24.79
+VGM:Invesco Trust for Investment Grade Municipals:24.84
+VKQ:Invesco Municipal Trust:24.85
+RE:Everest Re Group, Ltd.:24.87
+SIGI:Selective Insurance Group, Inc.:24.91
+TCBI:Texas Capital Bancshares, Inc.:24.96
+HTBK:Heritage Commerce Corp:25.12
+ABCB:Ameris Bancorp:25.18
+WHG:Westwood Holdings Group, Inc.:25.24
+ACGL:Arch Capital Group Ltd.:25.29
+WSFS:WSFS Financial Corporation:25.35
+ONB:Old National Bancorp:25.37
+GBCI:Glacier Bancorp, Inc.:25.4
+PRA:ProAssurance Corporation:25.53
+WPC:W. P. Carey Inc.:25.55
+SEIC:SEI Investments Co.:25.61
+BRKL:Brookline Bancorp, Inc.:25.65
+SPG:Simon Property Group, Inc.:25.73
+NAZ:Nuveen Arizona Quality Municipa:25.75
+MFL:BlackRock MuniHoldings Investment Quality Fund:25.92
+TSS:Total System Services, Inc.:25.93
+NNN:National Retail Properties, Inc.:25.94
+EXR:Extra Space Storage Inc.:26.0
+ADC:Agree Realty Corporation:26.0
+HFWA:Heritage Financial Corporation:26.34
+NAN:Nuveen New York Quality Municipal Income Fund:26.35
+VPV:Invesco Pennsylvania Value Muni:26.54
+BEN:Franklin Resources, Inc.:26.7
+NIM:Nuveen Select Maturities Munici:26.77
+CHMG:Chemung Financial Corporation:26.83
+FUNC:First United Corporation:26.83
+JLL:Jones Lang LaSalle Incorporated:26.9
+APAM:Artisan Partners Asset Management Inc.:26.94
+VBF:Invesco Bond Fund:26.95
+IRT:Independence Realty Trust, Inc.:27.19
+BHLB:Berkshire Hills Bancorp, Inc.:27.23
+MMC:Marsh &amp; McLennan Companies, Inc.:27.32
+CXP:Columbia Property Trust, Inc.:27.35
+CSFL:CenterState Bank Corporation:27.37
+FFIN:First Financial Bankshares, Inc.:27.43
+SIVB:SVB Financial Group:27.48
+ISBC:Investors Bancorp, Inc.:27.52
+MMI:Marcus &amp; Millichap, Inc.:27.59
+NCA:Nuveen California Municipal Value Fund, Inc.:27.73
+SBCF:Seacoast Banking Corporation of Florida:27.81
+ZF:Virtus Total Return Fund Inc.:27.91
+PPR:Voya Prime Rate Trust:27.97
+UFCS:United Fire Group, Inc.:28.08
+IBKC:IBERIABANK Corporation:28.09
+UBSH:Union Bankshares Corporation:28.2
+FBC:Flagstar Bancorp, Inc.:28.33
+THG:The Hanover Insurance Group, Inc.:28.46
+DRH:DiamondRock Hospitality Company:28.46
+FFKT:Farmers Capital Bank Corporation:28.48
+FCFS:FirstCash, Inc.:28.59
+ERIE:Erie Indemnity Company:28.64
+IPCC:Infinity Property and Casualty Corporation:28.68
+BTA:BlackRock Long-Term Municipal Advantage Trust:28.7
+CHSP:Chesapeake Lodging Trust:28.74
+FBNK:First Connecticut Bancorp, Inc.:28.77
+HIW:Highwoods Properties, Inc.:28.78
+STL:Sterling Bancorp:28.78
+RLI:RLI Corp.:28.83
+SCHW:The Charles Schwab Corporation:28.87
+AXP:American Express Company:28.95
+INN:Summit Hotel Properties, Inc.:28.95
+PEB:Pebblebrook Hotel Trust:28.97
+CFFI:C&amp;F Financial Corporation:29.15
+EARN:Ellington Residential Mortgage REIT:29.21
+ENVA:Enova International, Inc.:29.24
+NRK:Nuveen New York AMT-Free Quality Municipal Income Fund:29.31
+AMRB:American River Bankshares:29.36
+BMTC:Bryn Mawr Bank Corporation:29.51
+KW:Kennedy-Wilson Holdings, Inc.:29.53
+NVG:Nuveen AMT-Free Municipal Credit Income Fund:29.58
+JRVR:James River Group Holdings, Ltd.:29.61
+MHI:Pioneer Municipal High Income Trust:29.62
+WABC:Westamerica Bancorporation:29.72
+EFX:Equifax Inc.:29.75
+SNH:Senior Housing Properties Trust:29.99
+MHE:BlackRock Massachusetts Tax-Exempt Trust:30.02
+SSB:South State Corporation:30.12
+AMTD:TD Ameritrade Holding Corporation:30.22
+BFIN:BankFinancial Corporation:30.27
+CCBG:Capital City Bank Group, Inc.:30.29
+NAD:Nuveen Quality Municipal Income Fund:30.32
+BANR:Banner Corporation:30.4
+OCFC:OceanFirst Financial Corp.:30.48
+NXN:Nuveen New York Select Tax-Free:30.54
+CRVL:CorVel Corporation:30.56
+AVB:AvalonBay Communities, Inc.:30.62
+GIM:Templeton Global Income Fund:30.7
+FOR:Forestar Group Inc.:30.83
+BDGE:Bridge Bancorp, Inc.:31.01
+NCOM:National Commerce Corporation:31.39
+NFBK:Northfield Bancorp, Inc. (Staten Island, NY):31.44
+BPFH:Boston Private Financial Holdings, Inc.:31.45
+FRT:Federal Realty Investment Trust:31.65
+VCV:Invesco California Value Municipal Income Trust:31.75
+MAV:Pioneer Municipal High Income Advantage Trust:32.31
+MQY:BlackRock MuniYield Quality Fund, Inc.:32.42
+MCY:Mercury General Corporation:32.79
+CLDT:Chatham Lodging Trust:32.96
+GGP:GGP Inc.:33.39
+EGP:EastGroup Properties, Inc.:33.43
+UCBI:United Community Banks, Inc.:33.75
+SKT:Tanger Factory Outlet Centers, Inc.:33.92
+PSA:Public Storage:34.2
+EVR:Evercore Inc.:34.27
+MAA:Mid-America Apartment Communities, Inc.:34.37
+AHH:Armada Hoffler Properties, Inc.:34.4
+NAVG:The Navigators Group, Inc.:34.48
+V:Visa Inc.:34.54
+FMY:First Trust Mortgage Income Fund:34.55
+NPN:Nuveen Pennsylvania Municipal Value Fund:35.23
+BHBK:Blue Hills Bancorp, Inc.:35.39
+SHO:Sunstone Hotel Investors, Inc.:35.69
+MUA:Blackrock MuniAssets Fund, Inc:35.75
+EQR:Equity Residential:35.79
+HHC:The Howard Hughes Corporation:36.43
+GDOT:Green Dot Corporation:36.44
+BXP:Boston Properties, Inc.:36.62
+BANC:Banc of California, Inc.:36.81
+TRNO:Terreno Realty Corporation:36.91
+MHF:Western Asset Municipal High Income Fund Inc.:36.99
+BFS:Saul Centers, Inc.:37.92
+MQT:BlackRock MuniYield Quality Fund II, Inc.:38.19
+BSD:BlackRock Strategic Municipal Trust:38.19
+MEN:BlackRock MuniEnhanced Fund, Inc.:38.21
+UHT:Universal Health Realty Income Trust:38.22
+ESSA:ESSA Bancorp, Inc.:38.24
+HWBK:Hawthorn Bancshares, Inc.:38.81
+MNR:Monmouth Real Estate Investment Corporation:38.89
+BGR:BlackRock Energy and Resources Trust:39.42
+PSB:PS Business Parks, Inc.:39.47
+ALX:Alexander&#x27;s, Inc.:39.96
+CUBE:CubeSmart:41.14
+PMX:PIMCO Municipal Income Fund III:41.14
+UBA:Urstadt Biddle Properties Inc.:41.65
+ELS:Equity LifeStyle Properties, Inc.:41.96
+CPT:Camden Property Trust:42.48
+WETF:WisdomTree Investments, Inc.:42.93
+REG:Regency Centers Corporation:43.0
+PEO:Adams Natural Resources Fund, Inc.:43.01
+SRC:Spirit Realty Capital, Inc.:43.26
+AKR:Acadia Realty Trust:43.31
+MYD:BlackRock MuniYield Fund, Inc.:43.78
+GPT:Gramercy Property Trust:44.25
+ESRT:Empire State Realty Trust, Inc.:44.5
+LHO:LaSalle Hotel Properties:45.17
+UBS:UBS Group AG:45.25
+EDR:Education Realty Trust, Inc.:45.39
+IBKR:Interactive Brokers Group, Inc.:45.48
+DCT:DCT Industrial Trust Inc.:45.64
+ESS:Essex Property Trust, Inc.:45.95
+BPOP:Popular, Inc.:46.27
+NMI:Nuveen Municipal Income Fund, Inc.:46.38
+HQH:Tekla Healthcare Investors:46.6
+KRC:Kilroy Realty Corporation:47.33
+BHV:BlackRock Virginia Municipal Bond Trust:47.81
+ARE:Alexandria Real Estate Equities, Inc.:48.11
+RLJ:RLJ Lodging Trust:48.13
+BKN:BlackRock Investment Quality Municipal Trust Inc.:48.18
+BGCP:BGC Partners, Inc.:48.21
+BNCL:Beneficial Bancorp, Inc.:48.68
+HASI:Hannon Armstrong Sustainable Infrastructure Capital, Inc.:49.42
+O:Realty Income Corporation:49.54
+MA:Mastercard Incorporated:49.66
+WIW:Western Asset/Claymore Inflation-Linked Opportunities &amp; Income Fund:49.73
+MKTX:MarketAxess Holdings Inc.:49.77
+TFSL:TFS Financial Corp:50.22
+MC:Moelis &amp; Company:50.34
+BFK:BlackRock Municipal Income Trust:50.75
+FT:Franklin Universal Trust:51.0
+WSR:Whitestone REIT:51.54
+CLI:Mack-Cali Realty Corporation:52.01
+MHD:BlackRock MuniHoldings Fund, Inc.:52.84
+MGU:Macquarie Global Infrastructure Total Return Fund Inc.:52.95
+OFC:Corporate Office Properties Trust:53.28
+RSO:Resource Capital Corp.:53.66
+AMT:American Tower Corporation (REIT):54.33
+PYPL:PayPal Holdings, Inc.:54.76
+ROIC:Retail Opportunity Investments Corp.:54.91
+SLG:SL Green Realty Corp.:55.57
+FNGN:Financial Engines, Inc.:56.93
+MMT:MFS Multimarket Income Trust:57.25
+HRTG:Heritage Insurance Holdings, Inc.:57.6
+HPP:Hudson Pacific Properties, Inc.:57.61
+UDR:UDR, Inc.:57.66
+TPL:Texas Pacific Land Trust:57.81
+COR:CoreSite Realty Corporation:58.5
+CIGI:Colliers International Group Inc.:59.57
+MLP:Maui Land &amp; Pineapple Company, Inc.:60.14
+PNF:PIMCO New York Municipal Income Fund:60.74
+BOE:BlackRock Enhanced Global Dividend Trust:62.06
+MKL:Markel Corporation:63.54
+TCO:Taubman Centers, Inc.:64.23
+BZM:BlackRock Maryland Municipal Bond Trust:64.86
+DEI:Douglas Emmett, Inc.:64.88
+REXR:Rexford Industrial Realty, Inc.:65.4
+STRS:Stratus Properties Inc.:66.38
+DOC:Physicians Realty Trust:66.59
+KRNY:Kearny Financial Corp.:69.25
+MUS:BlackRock MuniHoldings Quality Fund, Inc.:69.51
+CYS:CYS Investments, Inc.:69.72
+PML:PIMCO Municipal Income Fund II:69.85
+NBHC:National Bank Holdings Corporation:74.31
+RMAX:RE/MAX Holdings, Inc.:75.0
+TREE:LendingTree, Inc.:77.26
+OHI:Omega Healthcare Investors, Inc.:78.27
+CPTA:Capitala Finance Corp.:78.47
+Y:Alleghany Corporation:82.56
+AAT:American Assets Trust, Inc.:84.39
+PROV:Provident Financial Holdings, Inc.:88.35
+PDT:John Hancock Premium Dividend Fund:88.58
+HTA:Healthcare Trust of America, Inc.:89.33
+HTBI:HomeTrust Bancshares, Inc.:91.69
+CSGP:CoStar Group, Inc.:95.01
+NEA:Nuveen AMT-Free Quality Municipal Income Fund:95.59
+LXP:Lexington Realty Trust:97.55
+ACC:American Campus Communities, Inc.:99.38
+LEO:Dreyfus Strategic Municipals, Inc.:102.0
+SUI:Sun Communities, Inc.:104.14
+AMRK:A-Mark Precious Metals, Inc.:106.56
+BSMX:Banco Santander (M\xc3\xa9xico), S.A., Instituci\xc3\xb3n de Banca M\xc3\xbaltiple, Grupo Financiero Santander:108.14
+BKCC:BlackRock Capital Investment Corporation:109.82
+DLR:Digital Realty Trust, Inc.:111.28
+BJZ:BlackRock California Municipal 2018 Term Trust:115.55
+IQI:Invesco Quality Municipal Income Trust:117.16
+STAG:STAG Industrial, Inc.:118.87
+BFO:Blackrock Florida Municipal 202:122.94
+NXQ:Nuveen Select Tax-Free Income Portfolio 2:123.84
+DTF:DTF Tax-Free Income Inc.:125.51
+VNO:Vornado Realty Trust:145.69
+GOV:Government Properties Income Trust:147.95
+WRE:Washington Real Estate Investment Trust:152.39
+VMO:Invesco Municipal Opportunity Trust:157.07
+NXP:Nuveen Select Tax-Free Income Portfolio:169.06
+CWH:Camping World Holdings, Inc.:176.85
+MAC:Macerich Company:196.2
+JHS:John Hancock Income Securities Trust:199.7
+HDB:HDFC Bank Limited:207.81
+PCK:PIMCO California Municipal Income Fund II:212.82
+INTL:INTL FCStone Inc.:253.94
+NKX:Nuveen California AMT-Free Quality Municipal Income Fund:285.21
+BAF:BlackRock Municipal Income Investment Quality Trust:296.67
+TRC:Tejon Ranch Co.:304.81
+BKK:BlackRock Municipal 2020 Term Trust:359.29
+FPI:Farmland Partners Inc.:386.9
+NCB:Nuveen California Municipal Value Fund 2:399.93
+RFI:Cohen &amp; Steers Total Return Realty Fund, Inc.:453.21
+BLH:BlackRock New York Municipal 2018 Term Trust:508.3
+MZA:BlackRock MuniYield Arizona Fund, Inc.:580.77
+BKT:BlackRock Income Trust, Inc.:581.0
+BSE:BlackRock New York Municipal Income Quality Trust:690.0
+JEF:Jefferies Financial Group Inc.:797.76
+QTS:QTS Realty Trust, Inc.:3482.92

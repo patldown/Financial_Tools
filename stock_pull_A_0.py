@@ -13,6 +13,8 @@ import csv
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 import threading
 from graphics_A_0 import *
+from operator import *
+
 
 class asset:
     def __init__(self, ticker, t1, t2):
@@ -54,7 +56,7 @@ class asset:
 
     def procure_data(self, html):
         self.dates = []
-        self.close_prices = []  
+        self.close_prices = []
 
         for line in html:
             line = str(line)
@@ -88,7 +90,9 @@ class asset:
                             continue
                         #print(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
                         self.dates.append(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
+                        
 
+        self.volume
         self.close_prices = self.close_prices[::-1]
         self.dates = self.dates[::-1]
                         
@@ -309,9 +313,19 @@ def download_data():
     for ticker in assets:
         ticker = ticker.split(':')[0]
         print(ticker)
-        y = asset(ticker, t1, t2)
+        y = threading.Thread(target = asset, args = [ticker, t1, t2])
+        y.start()
+        while threading.active_count() > 5:
+            time.sleep(1)
+
+    while threading.active_count() > 1:
+        time.sleep(1)
+
+    ### combination file is created here
+    regression_analysis_file_write()
 
 def update_sector_populations():
+    
     import urllib.request
 
     divisor1 = 'class="Fw(b)"'
@@ -332,16 +346,45 @@ def update_sector_populations():
                 line = str(line)
                 if divisor1 in line:
                     objs = line.split(divisor1)
+
                     for obj in objs:
                         sobj = obj.split('>')[1].split('<')[0].strip()
                         name = obj.split('>')[5].split('<')[0].strip()
+                        p_e = obj.split('>')[33].split('<')[0].strip()
+                        if p_e.strip() == 'N/A':
+                            p_e = '0'
+                        p_e = p_e.replace(',', '')
                         if sobj != '':
-                            data.append([sobj, name])
+                            data.append([sobj, name, float(p_e)])
             offset += 100
+        data.sort(key = itemgetter(2), reverse=False)
         for line in data:
+            line[2] = str(line[2])
             handle.write(':'.join(line) + '\n')
         handle.close()
 
+def reg_overlay(function = reg_call):
+    reg_file_loc = os.path.join(os.getcwd(), 'Results')
+    files = os.listdir(reg_file_loc)
+    function()
+    time.sleep(45)
+    for file in os.listdir(reg_file_loc):
+        if file not in files:
+            handle = open(os.path.join(reg_file_loc, file), 'r', newline = '')
+            reader = handle.readlines()
+            handle.close()
+            for line in reader:
+                nline = line.strip().split(',')
+                if nline[0] == 'Weights':
+                    z = reader.index(line) - 1
+            new_dict = {}
+            x = 1
+            y = len(reader[z].split(','))
+            while x < y:
+                new_dict[reader[z].split(',')[x]] = reader[z + 4].split(',')[x]
+                x += 1
+    print(new_dict)
 
-if __name__ == '__main__':
-   download_data()
+
+#if __name__ == '__main__':
+#   reg_overlay()

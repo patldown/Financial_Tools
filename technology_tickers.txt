@@ -1,456 +1,456 @@
-GOOG:Alphabet Inc.
-GOOGL:Alphabet Inc.
-MSFT:Microsoft Corporation
-FB:Facebook, Inc.
-INTC:Intel Corporation
-T:AT&amp;T Inc.
-VZ:Verizon Communications Inc.
-CSCO:Cisco Systems, Inc.
-TSM:Taiwan Semiconductor Manufacturing Company Limited
-ORCL:Oracle Corporation
-CHL:China Mobile Limited
-NVDA:NVIDIA Corporation
-SAP:SAP SE
-IBM:International Business Machines Corporation
-ADBE:Adobe Systems Incorporated
-TXN:Texas Instruments Incorporated
-AVGO:Broadcom Inc.
-ACN:Accenture plc
-CRM:salesforce.com, inc.
-BIDU:Baidu, Inc.
-QCOM:QUALCOMM Incorporated
-VMW:VMware, Inc.
-MU:Micron Technology, Inc.
-ADP:Automatic Data Processing, Inc.
-ATVI:Activision Blizzard, Inc.
-AMX:Am\xc3\xa9rica M\xc3\xb3vil, S.A.B. de C.V.
-JD:JD.com, Inc.
-INTU:Intuit Inc.
-TMUS:T-Mobile US, Inc.
-CTSH:Cognizant Technology Solutions Corporation
-ORAN:Orange S.A.
-AMAT:Applied Materials, Inc.
-TEF:Telef\xc3\xb3nica, S.A.
-CCI:Crown Castle International Corp. (REIT)
-EA:Electronic Arts Inc.
-INFY:Infosys Limited
-CHA:China Telecom Corporation Limited
-CHU:China Unicom (Hong Kong) Limited
-BCE:BCE Inc.
-HPQ:HP Inc.
-NXPI:NXP Semiconductors N.V.
-ADI:Analog Devices, Inc.
-FIS:Fidelity National Information Services, Inc.
-EQIX:Equinix, Inc. (REIT)
-NTES:NetEase, Inc.
-NOK:Nokia Corporation
-TWTR:Twitter, Inc.
-NOW:ServiceNow, Inc.
-TEL:TE Connectivity Ltd.
-BT:BT Group plc
-ADSK:Autodesk, Inc.
-CHT:Chunghwa Telecom Co., Ltd.
-LRCX:Lam Research Corporation
-TLK:Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk
-WDAY:Workday, Inc.
-APH:Amphenol Corporation
-RCI:Rogers Communications Inc.
-RHT:Red Hat, Inc.
-GLW:Corning Incorporated
-WDC:Western Digital Corporation
-S:Sprint Corporation
-MCHP:Microchip Technology Incorporated
-TU:TELUS Corporation
-CTL:CenturyLink, Inc.
-CERN:Cerner Corporation
-NTAP:NetApp, Inc.
-STM:STMicroelectronics N.V.
-WB:Weibo Corporation
-ANET:Arista Networks, Inc.
-KYO:Kyocera Corporation
-PANW:Palo Alto Networks, Inc.
-MSI:Motorola Solutions, Inc.
-VIV:Telef\xc3\xb4nica Brasil S.A.
-SBAC:SBA Communications Corporation
-GIB:CGI Group Inc.
-SWKS:Skyworks Solutions, Inc.
-VRSN:VeriSign, Inc.
-SNAP:Snap Inc.
-HRS:Harris Corporation
-XLNX:Xilinx, Inc.
-MXIM:Maxim Integrated Products, Inc.
-STX:Seagate Technology plc
-SHOP:Shopify Inc.
-KLAC:KLA-Tencor Corporation
-CHKP:Check Point Software Technologies Ltd.
-TI:Telecom Italia S.p.A.
-TI-A:Telecom Italia S.p.A.
-CA:CA, Inc.
-SKM:SK Telecom Co., Ltd.
-TEAM:Atlassian Corporation Plc
-MSCI:MSCI Inc.
-ANSS:ANSYS, Inc.
-SPLK:Splunk Inc.
-CTXS:Citrix Systems, Inc.
-TTWO:Take-Two Interactive Software, Inc.
-BR:Broadridge Financial Solutions, Inc.
-SYMC:Symantec Corporation
-SNPS:Synopsys, Inc.
-AKAM:Akamai Technologies, Inc.
-IAC:IAC/InterActiveCorp
-SSNC:SS&amp;C Technologies Holdings, Inc.
-GDDY:GoDaddy Inc.
-DBX:Dropbox, Inc.
-IT:Gartner, Inc.
-CDW:CDW Corporation
-CDNS:Cadence Design Systems, Inc.
-ATHM:Autohome Inc.
-IPGP:IPG Photonics Corporation
-YNDX:Yandex N.V.
-ZG:Zillow Group, Inc.
-Z:Zillow Group, Inc.
-GRMN:Garmin Ltd.
-VEEV:Veeva Systems Inc.
-NLSN:Nielsen Holdings plc
-KEYS:Keysight Technologies, Inc.
-PTC:PTC Inc.
-MRVL:Marvell Technology Group Ltd.
-FTNT:Fortinet, Inc.
-FFIV:F5 Networks, Inc.
-IRM:Iron Mountain Incorporated
-JKHY:Jack Henry &amp; Associates, Inc.
-QRVO:Qorvo, Inc.
-ON:ON Semiconductor Corporation
-JNPR:Juniper Networks, Inc.
-OTEX:Open Text Corporation
-GRUB:GrubHub Inc.
-WUBA:58.com Inc.
-DOX:Amdocs Limited
-ZAYO:Zayo Group Holdings, Inc.
-MOMO:Momo Inc.
-LDOS:Leidos Holdings, Inc.
-TEO:Telecom Argentina S.A.
-TYL:Tyler Technologies, Inc.
-CDK:CDK Global, Inc.
-ST:Sensata Technologies Holding PLC
-MBT:Public Joint-Stock Company Mobile TeleSystems
-DATA:Tableau Software, Inc.
-TSU:TIM Participa\xc3\xa7\xc3\xb5es S.A.
-TRMB:Trimble Inc.
-ULTI:The Ultimate Software Group, Inc.
-CGNX:Cognex Corporation
-FDS:FactSet Research Systems Inc.
-TRIP:TripAdvisor, Inc.
-ANGI:ANGI Homeservices Inc.
-FLEX:Flex Ltd.
-TER:Teradyne, Inc.
-GWRE:Guidewire Software, Inc.
-TDY:Teledyne Technologies Incorporated
-FLIR:FLIR Systems, Inc.
-SABR:Sabre Corporation
-EPAM:EPAM Systems, Inc.
-AZPN:Aspen Technology, Inc.
-DLB:Dolby Laboratories, Inc.
-UBNT:Ubiquiti Networks, Inc.
-ATHN:athenahealth, Inc.
-LPL:LG Display Co., Ltd.
-XRX:Xerox Corporation
-KT:KT Corporation
-YY:YY Inc.
-PAYC:Paycom Software, Inc.
-SMI:Semiconductor Manufacturing International Corporation
-TKC:Turkcell Iletisim Hizmetleri A.S.
-HUBB:Hubbell Incorporated
-SINA:SINA Corporation
-CAVM:Cavium, Inc.
-ZEN:Zendesk, Inc.
-NEWR:New Relic, Inc.
-FICO:Fair Isaac Corporation
-RNG:RingCentral, Inc.
-CY:Cypress Semiconductor Corporation
-MPWR:Monolithic Power Systems, Inc.
-NATI:National Instruments Corporation
-COMM:CommScope Holding Company, Inc.
-FSLR:First Solar, Inc.
-LOGM:LogMeIn, Inc.
-MORN:Morningstar, Inc.
-SE:Sea Limited
-MKSI:MKS Instruments, Inc.
-PHI:PLDT Inc.
-BLKB:Blackbaud, Inc.
-AYI:Acuity Brands, Inc.
-TDC:Teradata Corporation
-RP:RealPage, Inc.
-TWOU:2U, Inc.
-ENTG:Entegris, Inc.
-HUBS:HubSpot, Inc.
-PINC:Premier, Inc.
-MDSO:Medidata Solutions, Inc.
-STMP:Stamps.com Inc.
-HQY:HealthEquity, Inc.
-WIX:Wix.com Ltd.
-JBL:Jabil Inc.
-ARRS:ARRIS International plc
-DNB:The Dun &amp; Bradstreet Corporation
-CREE:Cree, Inc.
-LSI:Life Storage, Inc.
-PEGA:Pegasystems Inc.
-SATS:EchoStar Corporation
-INXN:InterXion Holding N.V.
-SLAB:Silicon Laboratories Inc.
-MLNX:Mellanox Technologies, Ltd.
-JCOM:j2 Global, Inc.
-NUAN:Nuance Communications, Inc.
-CABO:Cable One, Inc.
-IDTI:Integrated Device Technology, Inc.
-CACI:CACI International Inc
-OLED:Universal Display Corporation
-CLGX:CoreLogic, Inc.
-TDOC:Teladoc, Inc.
-VSAT:Viasat, Inc.
-COHR:Coherent, Inc.
-CIEN:Ciena Corporation
-COUP:Coupa Software Incorporated
-VSH:Vishay Intertechnology, Inc.
-BOX:Box, Inc.
-NCR:NCR Corporation
-ELLI:Ellie Mae, Inc.
-SAIC:Science Applications International Corporation
-QLYS:Qualys, Inc.
-MANH:Manhattan Associates, Inc.
-USM:United States Cellular Corporation
-YELP:Yelp Inc.
-PCTY:Paylocity Holding Corporation
-TDS:Telephone and Data Systems, Inc.
-SMTC:Semtech Corporation
-CVLT:Commvault Systems, Inc.
-SYNT:Syntel, Inc.
-FEYE:FireEye, Inc.
-VG:Vonage Holdings Corp.
-ACXM:Acxiom Corporation
-AVX:AVX Corporation
-ACIW:ACI Worldwide, Inc.
-ORBK:Orbotech Ltd.
-VRNT:Verint Systems Inc.
-IDCC:InterDigital, Inc.
-CSOD:Cornerstone OnDemand, Inc.
-CCMP:Cabot Microelectronics Corporation
-QD:Qudian Inc.
-IIVI:II-VI Incorporated
-PLT:Plantronics, Inc.
-QTWO:Q2 Holdings, Inc.
-EBIX:Ebix, Inc.
-GTT:GTT Communications, Inc.
-CCOI:Cogent Communications Holdings, Inc.
-BRKS:Brooks Automation, Inc.
-CRUS:Cirrus Logic, Inc.
-SEDG:SolarEdge Technologies, Inc.
-NTCT:NetScout Systems, Inc.
-I:Intelsat S.A.
-ITRI:Itron, Inc.
-AEIS:Advanced Energy Industries, Inc.
-CYBR:CyberArk Software Ltd.
-ALTR:Altair Engineering Inc.
-VIAV:Viavi Solutions Inc.
-MANT:ManTech International Corporation
-POWI:Power Integrations, Inc.
-MDRX:Allscripts Healthcare Solutions, Inc.
-ROG:Rogers Corporation
-CRTO:Criteo S.A.
-NTGR:NETGEAR, Inc.
-TSEM:Tower Semiconductor Ltd.
-EPAY:Bottomline Technologies (de), Inc.
-OMCL:Omnicell, Inc.
-VRNS:Varonis Systems, Inc.
-FNSR:Finisar Corporation
-SANM:Sanmina Corporation
-AMKR:Amkor Technology, Inc.
-PLXS:Plexus Corp.
-BRC:Brady Corporation
-GLOB:Globant S.A.
-ALRM:Alarm.com Holdings, Inc.
-MRCY:Mercury Systems, Inc.
-SIMO:Silicon Motion Technology Corporation
-TTMI:TTM Technologies, Inc.
-IRDM:Iridium Communications Inc.
-YEXT:Yext, Inc.
-CUB:Cubic Corporation
-VICR:Vicor Corporation
-BCOR:Blucora, Inc.
-SYNA:Synaptics Incorporated
-EVH:Evolent Health, Inc.
-NSIT:Insight Enterprises, Inc.
-DIOD:Diodes Incorporated
-PRGS:Progress Software Corporation
-KLIC:Kulicke and Soffa Industries, Inc.
-RUN:Sunrun Inc.
-CLS:Celestica Inc.
-IMPV:Imperva, Inc.
-DDD:3D Systems Corporation
-SHEN:Shenandoah Telecommunications Company
-BITA:Bitauto Holdings Limited
-FIT:Fitbit, Inc.
-INOV:Inovalon Holdings, Inc.
-KEM:KEMET Corporation
-MTSI:MACOM Technology Solutions Holdings, Inc.
-ESE:ESCO Technologies Inc.
-EVTC:EVERTEC, Inc.
-EFII:Electronics for Imaging, Inc.
-MSTR:MicroStrategy Incorporated
-VRTU:Virtusa Corporation
-HDP:Hortonworks, Inc.
-EIGI:Endurance International Group Holdings, Inc.
-OCLR:Oclaro, Inc.
-INFN:Infinera Corporation
-MEI:Methode Electronics, Inc.
-IPHI:Inphi Corporation
-INVA:Innoviva, Inc.
-KN:Knowles Corporation
-BHE:Benchmark Electronics, Inc.
-CSGS:CSG Systems International, Inc.
-CMCM:Cheetah Mobile Inc.
-RMBS:Rambus Inc.
-SOHU:Sohu.com Limited
-PLUS:ePlus inc.
-BMI:Badger Meter, Inc.
-AMBA:Ambarella, Inc.
-LPSN:LivePerson, Inc.
-CASA:Casa Systems, Inc.
-MITL:Mitel Networks Corporation
-SPSC:SPS Commerce, Inc.
-SYX:Systemax Inc.
-SYKE:Sykes Enterprises, Incorporated
-QSII:Quality Systems, Inc.
-HIMX:Himax Technologies, Inc.
-CTS:CTS Corporation
-WEB:Web.com Group, Inc.
-LXFT:Luxoft Holding, Inc.
-PRO:PROS Holdings, Inc.
-LORL:Loral Space &amp; Communications Inc.
-SMCI:Super Micro Computer, Inc.
-MXL:MaxLinear, Inc.
-RDWR:Radware Ltd.
-SSYS:Stratasys Ltd.
-SPWR:SunPower Corporation
-VNET:21Vianet Group, Inc.
-CRAY:Cray Inc.
-EGOV:NIC Inc.
-TRUE:TrueCar, Inc.
-FORM:FormFactor, Inc.
-SCSC:ScanSource, Inc.
-WK:Workiva Inc.
-JT:Jianpu Technology Inc.
-WIFI:Boingo Wireless, Inc.
-WIRE:Encore Wire Corporation
-EXTR:Extreme Networks, Inc.
-HSTM:HealthStream, Inc.
-DBD:Diebold Nixdorf, Incorporated
-VCRA:Vocera Communications, Inc.
-RTEC:Rudolph Technologies, Inc.
-QADA:QAD Inc.
-FARO:FARO Technologies, Inc.
-MTSC:MTS Systems Corporation
-CNSL:Consolidated Communications Holdings, Inc.
-PRFT:Perficient, Inc.
-ATNI:ATN International, Inc.
-NANO:Nanometrics Incorporated
-GLUU:Glu Mobile Inc.
-IIJI:Internet Initiative Japan Inc.
-CAMP:CalAmp Corp.
-TYPE:Monotype Imaging Holdings Inc.
-CYOU:Changyou.com Limited
-ORBC:ORBCOMM Inc.
-NINE:Nine Energy Service, Inc.
-XNET:Xunlei Limited
-LSCC:Lattice Semiconductor Corporation
-INSP:Inspire Medical Systems, Inc.
-XCRA:Xcerra Corporation
-NVMI:Nova Measuring Instruments Ltd.
-CMTL:Comtech Telecommunications Corp.
-VECO:Veeco Instruments Inc.
-CSIQ:Canadian Solar Inc.
-UIS:Unisys Corporation
-COHU:Cohu, Inc.
-ADTN:ADTRAN, Inc.
-CBB:Cincinnati Bell Inc.
-ACLS:Axcelis Technologies, Inc.
-QNST:QuinStreet, Inc.
-CEVA:CEVA, Inc.
-CRCM:Care.com, Inc.
-CTRL:Control4 Corporation
-UCTT:Ultra Clean Holdings, Inc.
-CEL:Cellcom Israel Ltd.
-KBAL:Kimball International, Inc.
-MTLS:Materialise NV
-PLAB:Photronics, Inc.
-IMOS:ChipMOS TECHNOLOGIES INC.
-TBIO:Translate Bio, Inc.
-VSLR:Vivint Solar, Inc.
-ESIO:Electro Scientific Industries, Inc.
-JKS:JinkoSolar Holding Co., Ltd.
-MODN:Model N, Inc.
-VPG:Vishay Precision Group, Inc.
-KE:Kimball Electronics, Inc.
-FORTY:Formula Systems (1985) Ltd.
-DQ:Daqo New Energy Corp.
-ATEN:A10 Networks, Inc.
-GILT:Gilat Satellite Networks Ltd.
-IMMR:Immersion Corporation
-AMSWA:American Software, Inc.
-HQCL:Hanwha Q CELLS Co., Ltd.
-KEYW:The KeyW Holding Corporation
-PKE:Park Electrochemical Corp.
-CPSI:Computer Programs and Systems, Inc.
-MIXT:MiX Telematics Limited
-FTR:Frontier Communications Corporation
-NTP:Nam Tai Property Inc.
-ECOM:ChannelAdvisor Corporation
-MGIC:Magic Software Enterprises Ltd.
-CALX:Calix, Inc.
-PDFS:PDF Solutions, Inc.
-RST:Rosetta Stone Inc.
-AGYS:Agilysys, Inc.
-DAKT:Daktronics, Inc.
-MX:MagnaChip Semiconductor Corporation
-DGII:Digi International Inc.
-AOSL:Alpha and Omega Semiconductor Limited
-BCOV:Brightcove Inc.
-HCOM:Hawaiian Telcom Holdco, Inc.
-JASO:JA Solar Holdings Co., Ltd.
-DMRC:Digimarc Corporation
-SPOK:Spok Holdings, Inc.
-HURC:Hurco Companies, Inc.
-SILC:Silicom Ltd.
-ZIXI:Zix Corporation
-OOMA:Ooma, Inc.
-DSPG:DSP Group, Inc.
-NPTN:NeoPhotonics Corporation
-AXTI:AXT, Inc.
-BELFB:Bel Fuse Inc.
-PAR:PAR Technology Corporation
-BCOM:B Communications Ltd
-AMBR:Amber Road, Inc.
-HCHC:HC2 Holdings, Inc.
-TZOO:Travelzoo
-TNAV:Telenav, Inc.
-SIGM:Sigma Designs, Inc.
-KVHI:KVH Industries, Inc.
-INAP:Internap Corporation
-AUDC:AudioCodes Ltd.
-RNET:RigNet, Inc.
-AVID:Avid Technology, Inc.
-WIN:Windstream Holdings, Inc.
-MXWL:Maxwell Technologies, Inc.
-SPA:Sparton Corporation
-ALLT:Allot Communications Ltd.
-GSIT:GSI Technology, Inc.
-TESS:TESSCO Technologies Incorporated
-IDT:IDT Corporation
-CTG:Computer Task Group, Incorporated
-PCTI:PCTEL, Inc.
-ASYS:Amtech Systems, Inc.
-AVNW:Aviat Networks, Inc.
-GIG:GigCapital, Inc.
-ELON:Echelon Corporation
-CTV:Qwest Corp. NT 10/01/54
-BV:BrightView Holdings, Inc.
+CSCO:Cisco Systems, Inc.:0.0
+QCOM:QUALCOMM Incorporated:0.0
+NOK:Nokia Corporation:0.0
+NOW:ServiceNow, Inc.:0.0
+ADSK:Autodesk, Inc.:0.0
+WDAY:Workday, Inc.:0.0
+GLW:Corning Incorporated:0.0
+PANW:Palo Alto Networks, Inc.:0.0
+MSI:Motorola Solutions, Inc.:0.0
+SNAP:Snap Inc.:0.0
+SHOP:Shopify Inc.:0.0
+TEAM:Atlassian Corporation Plc:0.0
+SPLK:Splunk Inc.:0.0
+IT:Gartner, Inc.:0.0
+DBX:Dropbox, Inc.:0.0
+Z:Zillow Group, Inc.:0.0
+ZG:Zillow Group, Inc.:0.0
+QRVO:Qorvo, Inc.:0.0
+DATA:Tableau Software, Inc.:0.0
+TRIP:TripAdvisor, Inc.:0.0
+ANGI:ANGI Homeservices Inc.:0.0
+GWRE:Guidewire Software, Inc.:0.0
+ZEN:Zendesk, Inc.:0.0
+CAVM:Cavium, Inc.:0.0
+CY:Cypress Semiconductor Corporation:0.0
+RNG:RingCentral, Inc.:0.0
+NEWR:New Relic, Inc.:0.0
+FSLR:First Solar, Inc.:0.0
+SE:Sea Limited:0.0
+TDC:Teradata Corporation:0.0
+TWOU:2U, Inc.:0.0
+HUBS:HubSpot, Inc.:0.0
+PINC:Premier, Inc.:0.0
+WIX:Wix.com Ltd.:0.0
+PEGA:Pegasystems Inc.:0.0
+CREE:Cree, Inc.:0.0
+IDTI:Integrated Device Technology, Inc.:0.0
+NUAN:Nuance Communications, Inc.:0.0
+VSAT:Viasat, Inc.:0.0
+TDOC:Teladoc, Inc.:0.0
+BOX:Box, Inc.:0.0
+COUP:Coupa Software Incorporated:0.0
+CVLT:Commvault Systems, Inc.:0.0
+FEYE:FireEye, Inc.:0.0
+VG:Vonage Holdings Corp.:0.0
+ACIW:ACI Worldwide, Inc.:0.0
+CSOD:Cornerstone OnDemand, Inc.:0.0
+PLT:Plantronics, Inc.:0.0
+QTWO:Q2 Holdings, Inc.:0.0
+I:Intelsat S.A.:0.0
+GTT:GTT Communications, Inc.:0.0
+ITRI:Itron, Inc.:0.0
+VIAV:Viavi Solutions Inc.:0.0
+ALTR:Altair Engineering Inc.:0.0
+MDRX:Allscripts Healthcare Solutions, Inc.:0.0
+EPAY:Bottomline Technologies (de), Inc.:0.0
+VRNS:Varonis Systems, Inc.:0.0
+FNSR:Finisar Corporation:0.0
+SANM:Sanmina Corporation:0.0
+PLXS:Plexus Corp.:0.0
+CUB:Cubic Corporation:0.0
+YEXT:Yext, Inc.:0.0
+SYNA:Synaptics Incorporated:0.0
+IMPV:Imperva, Inc.:0.0
+EVH:Evolent Health, Inc.:0.0
+BITA:Bitauto Holdings Limited:0.0
+FIT:Fitbit, Inc.:0.0
+DDD:3D Systems Corporation:0.0
+MTSI:MACOM Technology Solutions Holdings, Inc.:0.0
+EFII:Electronics for Imaging, Inc.:0.0
+VRTU:Virtusa Corporation:0.0
+INFN:Infinera Corporation:0.0
+HDP:Hortonworks, Inc.:0.0
+IPHI:Inphi Corporation:0.0
+EIGI:Endurance International Group Holdings, Inc.:0.0
+BHE:Benchmark Electronics, Inc.:0.0
+RMBS:Rambus Inc.:0.0
+MITL:Mitel Networks Corporation:0.0
+SOHU:Sohu.com Limited:0.0
+LPSN:LivePerson, Inc.:0.0
+SPSC:SPS Commerce, Inc.:0.0
+PRO:PROS Holdings, Inc.:0.0
+RDWR:Radware Ltd.:0.0
+MXL:MaxLinear, Inc.:0.0
+SPWR:SunPower Corporation:0.0
+VNET:21Vianet Group, Inc.:0.0
+SSYS:Stratasys Ltd.:0.0
+CRAY:Cray Inc.:0.0
+TRUE:TrueCar, Inc.:0.0
+WK:Workiva Inc.:0.0
+EXTR:Extreme Networks, Inc.:0.0
+WIFI:Boingo Wireless, Inc.:0.0
+DBD:Diebold Nixdorf, Incorporated:0.0
+INSP:Inspire Medical Systems, Inc.:0.0
+QADA:QAD Inc.:0.0
+FARO:FARO Technologies, Inc.:0.0
+VCRA:Vocera Communications, Inc.:0.0
+JT:Jianpu Technology Inc.:0.0
+GLUU:Glu Mobile Inc.:0.0
+ORBC:ORBCOMM Inc.:0.0
+NINE:Nine Energy Service, Inc.:0.0
+LSCC:Lattice Semiconductor Corporation:0.0
+XNET:Xunlei Limited:0.0
+VECO:Veeco Instruments Inc.:0.0
+UIS:Unisys Corporation:0.0
+CBB:Cincinnati Bell Inc.:0.0
+MTLS:Materialise NV:0.0
+TBIO:Translate Bio, Inc.:0.0
+MODN:Model N, Inc.:0.0
+ATEN:A10 Networks, Inc.:0.0
+KEYW:The KeyW Holding Corporation:0.0
+CPSI:Computer Programs and Systems, Inc.:0.0
+FTR:Frontier Communications Corporation:0.0
+CALX:Calix, Inc.:0.0
+ECOM:ChannelAdvisor Corporation:0.0
+AGYS:Agilysys, Inc.:0.0
+PDFS:PDF Solutions, Inc.:0.0
+RST:Rosetta Stone Inc.:0.0
+BCOV:Brightcove Inc.:0.0
+HCOM:Hawaiian Telcom Holdco, Inc.:0.0
+DMRC:Digimarc Corporation:0.0
+SPOK:Spok Holdings, Inc.:0.0
+OOMA:Ooma, Inc.:0.0
+ZIXI:Zix Corporation:0.0
+NPTN:NeoPhotonics Corporation:0.0
+DSPG:DSP Group, Inc.:0.0
+BELFB:Bel Fuse Inc.:0.0
+PAR:PAR Technology Corporation:0.0
+AMBR:Amber Road, Inc.:0.0
+HCHC:HC2 Holdings, Inc.:0.0
+TNAV:Telenav, Inc.:0.0
+BCOM:B Communications Ltd:0.0
+SIGM:Sigma Designs, Inc.:0.0
+KVHI:KVH Industries, Inc.:0.0
+INAP:Internap Corporation:0.0
+RNET:RigNet, Inc.:0.0
+AVID:Avid Technology, Inc.:0.0
+MXWL:Maxwell Technologies, Inc.:0.0
+ALLT:Allot Communications Ltd.:0.0
+SPA:Sparton Corporation:0.0
+GSIT:GSI Technology, Inc.:0.0
+IDT:IDT Corporation:0.0
+GIG:GigCapital, Inc.:0.0
+ELON:Echelon Corporation:0.0
+CTV:Qwest Corp. NT 10/01/54:0.0
+BV:BrightView Holdings, Inc.:0.0
+S:Sprint Corporation:3.1
+VSLR:Vivint Solar, Inc.:3.25
+DQ:Daqo New Energy Corp.:4.27
+ASYS:Amtech Systems, Inc.:4.34
+MBT:Public Joint-Stock Company Mobile TeleSystems:4.59
+CSIQ:Canadian Solar Inc.:5.1
+ESIO:Electro Scientific Industries, Inc.:5.3
+MU:Micron Technology, Inc.:5.54
+ACLS:Axcelis Technologies, Inc.:5.61
+CIEN:Ciena Corporation:5.94
+SKM:SK Telecom Co., Ltd.:6.19
+LPL:LG Display Co., Ltd.:6.36
+T:AT&amp;T Inc.:6.52
+KEM:KEMET Corporation:6.54
+VZ:Verizon Communications Inc.:6.71
+UCTT:Ultra Clean Holdings, Inc.:6.92
+CMCM:Cheetah Mobile Inc.:6.99
+JASO:JA Solar Holdings Co., Ltd.:7.19
+AMKR:Amkor Technology, Inc.:7.55
+QD:Qudian Inc.:8.06
+TSEM:Tower Semiconductor Ltd.:8.26
+TKC:Turkcell Iletisim Hizmetleri A.S.:8.64
+HPQ:HP Inc.:9.14
+AVGO:Broadcom Inc.:9.44
+MX:MagnaChip Semiconductor Corporation:10.01
+TI-A:Telecom Italia S.p.A.:10.48
+IRDM:Iridium Communications Inc.:10.48
+CHL:China Mobile Limited:10.62
+BT:BT Group plc:11.22
+INVA:Innoviva, Inc.:11.22
+CTL:CenturyLink, Inc.:11.35
+TI:Telecom Italia S.p.A.:11.75
+TMUS:T-Mobile US, Inc.:11.79
+ON:ON Semiconductor Corporation:11.81
+SYMC:Symantec Corporation:12.32
+IMMR:Immersion Corporation:12.53
+CHA:China Telecom Corporation Limited:12.88
+CYOU:Changyou.com Limited:13.06
+TEF:Telef\xc3\xb3nica, S.A.:13.63
+SATS:EchoStar Corporation:13.7
+OCLR:Oclaro, Inc.:13.75
+RUN:Sunrun Inc.:13.76
+MKSI:MKS Instruments, Inc.:14.5
+CACI:CACI International Inc:15.04
+WIRE:Encore Wire Corporation:15.31
+CNSL:Consolidated Communications Holdings, Inc.:15.58
+AMAT:Applied Materials, Inc.:15.7
+KT:KT Corporation:15.99
+VIV:Telef\xc3\xb4nica Brasil S.A.:16.14
+AYI:Acuity Brands, Inc.:16.16
+XCRA:Xcerra Corporation:16.2
+NSIT:Insight Enterprises, Inc.:16.37
+AEIS:Advanced Energy Industries, Inc.:16.71
+CRUS:Cirrus Logic, Inc.:16.87
+SILC:Silicom Ltd.:16.98
+COHR:Coherent, Inc.:17.15
+LRCX:Lam Research Corporation:17.18
+TSM:Taiwan Semiconductor Manufacturing Company Limited:17.19
+NVMI:Nova Measuring Instruments Ltd.:17.2
+IDCC:InterDigital, Inc.:17.58
+TTMI:TTM Technologies, Inc.:17.67
+HURC:Hurco Companies, Inc.:17.75
+BCE:BCE Inc.:17.9
+INFY:Infosys Limited:18.05
+MTSC:MTS Systems Corporation:18.07
+CABO:Cable One, Inc.:18.18
+SMCI:Super Micro Computer, Inc.:18.21
+SYNT:Syntel, Inc.:18.28
+KBAL:Kimball International, Inc.:18.28
+LORL:Loral Space &amp; Communications Inc.:18.29
+FLEX:Flex Ltd.:18.34
+TLK:Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk:18.35
+SYX:Systemax Inc.:18.5
+CLS:Celestica Inc.:18.52
+IIJI:Internet Initiative Japan Inc.:19.02
+MANT:ManTech International Corporation:19.03
+RCI:Rogers Communications Inc.:19.13
+TU:TELUS Corporation:19.64
+YY:YY Inc.:20.25
+KN:Knowles Corporation:20.25
+GRMN:Garmin Ltd.:20.3
+WIT:Wipro Limited:20.51
+ESE:ESCO Technologies Inc.:20.52
+PHI:PLDT Inc.:20.59
+STX:Seagate Technology plc:20.63
+EGOV:NIC Inc.:20.63
+SAIC:Science Applications International Corporation:20.76
+ORBK:Orbotech Ltd.:20.86
+TDS:Telephone and Data Systems, Inc.:20.92
+AOSL:Alpha and Omega Semiconductor Limited:20.99
+BRKS:Brooks Automation, Inc.:21.17
+PKE:Park Electrochemical Corp.:21.25
+CHKP:Check Point Software Technologies Ltd.:21.27
+ST:Sensata Technologies Holding PLC:21.35
+MRVL:Marvell Technology Group Ltd.:21.39
+SWKS:Skyworks Solutions, Inc.:21.6
+CEL:Cellcom Israel Ltd.:21.67
+COHU:Cohu, Inc.:22.09
+CDW:CDW Corporation:22.18
+DOX:Amdocs Limited:22.21
+YELP:Yelp Inc.:22.54
+INTC:Intel Corporation:22.56
+LXFT:Luxoft Holding, Inc.:22.65
+CHT:Chunghwa Telecom Co., Ltd.:22.73
+NANO:Nanometrics Incorporated:22.89
+TSU:TIM Participa\xc3\xa7\xc3\xb5es S.A.:23.39
+SEDG:SolarEdge Technologies, Inc.:23.46
+AXTI:AXT, Inc.:23.52
+KLAC:KLA-Tencor Corporation:23.54
+IBM:International Business Machines Corporation:23.7
+LDOS:Leidos Holdings, Inc.:23.81
+CERN:Cerner Corporation:23.97
+CRTO:Criteo S.A.:24.06
+ORAN:Orange S.A.:24.27
+GIB:CGI Group Inc.:24.36
+PLUS:ePlus inc.:24.72
+MGIC:Magic Software Enterprises Ltd.:24.79
+WEB:Web.com Group, Inc.:25.0
+CSGS:CSG Systems International, Inc.:25.03
+BRC:Brady Corporation:25.1
+TEL:TE Connectivity Ltd.:25.13
+DNB:The Dun &amp; Bradstreet Corporation:25.21
+SCSC:ScanSource, Inc.:25.21
+EBIX:Ebix, Inc.:25.35
+MOMO:Momo Inc.:25.4
+SHEN:Shenandoah Telecommunications Company:25.49
+SIMO:Silicon Motion Technology Corporation:25.59
+BIDU:Baidu, Inc.:25.71
+FFIV:F5 Networks, Inc.:26.22
+HUBB:Hubbell Incorporated:26.22
+NLSN:Nielsen Holdings plc:26.23
+FIS:Fidelity National Information Services, Inc.:26.39
+ACN:Accenture plc:26.7
+MEI:Methode Electronics, Inc.:26.74
+CMTL:Comtech Telecommunications Corp.:26.8
+NCR:NCR Corporation:26.84
+CLGX:CoreLogic, Inc.:27.08
+FORM:FormFactor, Inc.:27.31
+KYO:Kyocera Corporation:27.38
+CDK:CDK Global, Inc.:27.48
+JBL:Jabil Inc.:27.69
+TDY:Teledyne Technologies Incorporated:28.04
+HRS:Harris Corporation:28.1
+KE:Kimball Electronics, Inc.:28.24
+ROG:Rogers Corporation:28.38
+TXN:Texas Instruments Incorporated:28.48
+TEO:Telecom Argentina S.A.:28.63
+JKHY:Jack Henry &amp; Associates, Inc.:29.17
+SAP:SAP SE:29.25
+EVTC:EVERTEC, Inc.:29.31
+SABR:Sabre Corporation:29.54
+HSTM:HealthStream, Inc.:29.71
+RTEC:Rudolph Technologies, Inc.:29.93
+IIVI:II-VI Incorporated:30.02
+NTES:NetEase, Inc.:30.04
+STMP:Stamps.com Inc.:30.34
+COMM:CommScope Holding Company, Inc.:30.4
+VPG:Vishay Precision Group, Inc.:30.69
+MANH:Manhattan Associates, Inc.:30.86
+TER:Teradyne, Inc.:31.14
+CAMP:CalAmp Corp.:31.35
+MIXT:MiX Telematics Limited:31.78
+PRGS:Progress Software Corporation:32.41
+FDS:FactSet Research Systems Inc.:32.63
+CA:CA, Inc.:32.75
+CTSH:Cognizant Technology Solutions Corporation:32.89
+JCOM:j2 Global, Inc.:32.96
+FORTY:Formula Systems (1985) Ltd.:33.08
+FB:Facebook, Inc.:33.52
+IPGP:IPG Photonics Corporation:33.86
+NTCT:NetScout Systems, Inc.:33.94
+ADP:Automatic Data Processing, Inc.:33.95
+ADI:Analog Devices, Inc.:34.4
+BR:Broadridge Financial Solutions, Inc.:34.41
+XLNX:Xilinx, Inc.:34.46
+PCTI:PCTEL, Inc.:34.49
+SSNC:SS&amp;C Technologies Holdings, Inc.:34.68
+XRX:Xerox Corporation:35.42
+MORN:Morningstar, Inc.:35.46
+PLAB:Photronics, Inc.:35.64
+YNDX:Yandex N.V.:37.03
+VRSN:VeriSign, Inc.:37.26
+ATHM:Autohome Inc.:37.37
+UBNT:Ubiquiti Networks, Inc.:37.74
+NXPI:NXP Semiconductors N.V.:39.06
+JKS:JinkoSolar Holding Co., Ltd.:39.29
+AMSWA:American Software, Inc.:39.39
+LOGM:LogMeIn, Inc.:39.61
+BMI:Badger Meter, Inc.:40.26
+MXIM:Maxim Integrated Products, Inc.:40.48
+APH:Amphenol Corporation:40.72
+CCMP:Cabot Microelectronics Corporation:40.72
+SMI:Semiconductor Manufacturing International Corporation:41.1
+ARRS:ARRIS International plc:41.55
+LSI:Life Storage, Inc.:41.92
+NVDA:NVIDIA Corporation:41.95
+CTRL:Control4 Corporation:42.09
+IAC:IAC/InterActiveCorp:42.57
+AZPN:Aspen Technology, Inc.:42.75
+PRFT:Perficient, Inc.:42.85
+WUBA:58.com Inc.:42.98
+KLIC:Kulicke and Soffa Industries, Inc.:42.99
+OTEX:Open Text Corporation:43.34
+EA:Electronic Arts Inc.:43.36
+SINA:SINA Corporation:43.52
+OLED:Universal Display Corporation:43.8
+ANET:Arista Networks, Inc.:44.27
+MSCI:MSCI Inc.:44.84
+BCOR:Blucora, Inc.:45.22
+INTU:Intuit Inc.:45.7
+TESS:TESSCO Technologies Incorporated:45.7
+JNPR:Juniper Networks, Inc.:45.97
+ENTG:Entegris, Inc.:46.84
+AUDC:AudioCodes Ltd.:47.68
+ATNI:ATN International, Inc.:48.09
+MRCY:Mercury Systems, Inc.:48.55
+GOOG:Alphabet Inc.:48.89
+CASA:Casa Systems, Inc.:49.17
+GOOGL:Alphabet Inc.:49.48
+WB:Weibo Corporation:50.37
+FICO:Fair Isaac Corporation:50.52
+CGNX:Cognex Corporation:50.68
+VMW:VMware, Inc.:50.83
+GILT:Gilat Satellite Networks Ltd.:52.24
+ORCL:Oracle Corporation:52.3
+SYKE:Sykes Enterprises, Incorporated:53.72
+TYL:Tyler Technologies, Inc.:53.83
+ANSS:ANSYS, Inc.:54.69
+HIMX:Himax Technologies, Inc.:55.0
+ADBE:Adobe Systems Incorporated:57.37
+IRM:Iron Mountain Incorporated:58.27
+ALRM:Alarm.com Holdings, Inc.:59.19
+STM:STMicroelectronics N.V.:59.92
+CDNS:Cadence Design Systems, Inc.:60.38
+EPAM:EPAM Systems, Inc.:63.75
+OMCL:Omnicell, Inc.:64.07
+CHU:China Unicom (Hong Kong) Limited:64.84
+GLOB:Globant S.A.:66.14
+AKAM:Akamai Technologies, Inc.:66.25
+TRMB:Trimble Inc.:66.68
+CEVA:CEVA, Inc.:67.96
+MSFT:Microsoft Corporation:69.05
+FLIR:FLIR Systems, Inc.:70.9
+DAKT:Daktronics, Inc.:71.0
+QSII:Quality Systems, Inc.:71.32
+CTS:CTS Corporation:72.74
+DLB:Dolby Laboratories, Inc.:75.01
+BLKB:Blackbaud, Inc.:76.28
+ATHN:athenahealth, Inc.:76.44
+TYPE:Monotype Imaging Holdings Inc.:77.52
+TTWO:Take-Two Interactive Software, Inc.:78.84
+TZOO:Travelzoo:78.92
+CRCM:Care.com, Inc.:81.98
+VEEV:Veeva Systems Inc.:82.16
+ELLI:Ellie Mae, Inc.:83.54
+MPWR:Monolithic Power Systems, Inc.:84.61
+NTP:Nam Tai Property Inc.:84.8
+POWI:Power Integrations, Inc.:86.55
+GRUB:GrubHub Inc.:86.56
+HQY:HealthEquity, Inc.:87.87
+QLYS:Qualys, Inc.:88.34
+SMTC:Semtech Corporation:91.06
+MCHP:Microchip Technology Incorporated:91.44
+PAYC:Paycom Software, Inc.:92.79
+INXN:InterXion Holding N.V.:95.5
+SLAB:Silicon Laboratories Inc.:96.56
+AMX:Am\xc3\xa9rica M\xc3\xb3vil, S.A.B. de C.V.:98.44
+NATI:National Instruments Corporation:99.07
+RHT:Red Hat, Inc.:101.07
+GDDY:GoDaddy Inc.:102.8
+INOV:Inovalon Holdings, Inc.:104.8
+USM:United States Cellular Corporation:112.66
+MDSO:Medidata Solutions, Inc.:112.67
+KEYS:Keysight Technologies, Inc.:112.8
+DIOD:Diodes Incorporated:112.85
+ADTN:ADTRAN, Inc.:115.53
+WDC:Western Digital Corporation:119.07
+ZAYO:Zayo Group Holdings, Inc.:122.06
+CCI:Crown Castle International Corp. (REIT):123.36
+ACXM:Acxiom Corporation:137.45
+EQIX:Equinix, Inc. (REIT):139.75
+SNPS:Synopsys, Inc.:143.62
+MLNX:Mellanox Technologies, Ltd.:143.91
+CYBR:CyberArk Software Ltd.:159.9
+ATVI:Activision Blizzard, Inc.:167.37
+CTXS:Citrix Systems, Inc.:167.63
+FTNT:Fortinet, Inc.:184.03
+SBAC:SBA Communications Corporation:200.34
+AMBA:Ambarella, Inc.:213.87
+CRM:salesforce.com, inc.:225.09
+NTGR:NETGEAR, Inc.:259.78
+CTG:Computer Task Group, Incorporated:260.83
+QNST:QuinStreet, Inc.:267.92
+VRNT:Verint Systems Inc.:271.8
+AVNW:Aviat Networks, Inc.:273.0
+NTAP:NetApp, Inc.:280.64
+CCOI:Cogent Communications Holdings, Inc.:288.68
+PCTY:Paylocity Holding Corporation:299.9
+JD:JD.com, Inc.:318.72
+PTC:PTC Inc.:390.0
+VICR:Vicor Corporation:394.72
+MSTR:MicroStrategy Incorporated:414.02
+HQCL:Hanwha Q CELLS Co., Ltd.:484.99
+DGII:Digi International Inc.:489.29
+ULTI:The Ultimate Software Group, Inc.:596.11
+AVX:AVX Corporation:632.59
+VSH:Vishay Intertechnology, Inc.:817.97
+IMOS:ChipMOS TECHNOLOGIES INC.:854.71
+RP:RealPage, Inc.:1494.74
+TWTR:Twitter, Inc.:2188.5

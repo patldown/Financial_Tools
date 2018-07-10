@@ -1,9 +1,9 @@
-IEP:Icahn Enterprises L.P.
-HRG:HRG Group, Inc.
-CODI:Compass Diversified Holdings LLC
-REX:REX American Resources Corporation
-SPLP:Steel Partners Holdings L.P.
-AGFS:AgroFresh Solutions, Inc.
-PICO:PICO Holdings, Inc.
-GMRE:Global Medical REIT Inc.
-OSLE:Oaktree Specialty Lending Corpo
+SPLP:Steel Partners Holdings L.P.:0.0
+PICO:PICO Holdings, Inc.:0.0
+GMRE:Global Medical REIT Inc.:0.0
+OSLE:Oaktree Specialty Lending Corpo:0.0
+IEP:Icahn Enterprises L.P.:4.89
+HRG:HRG Group, Inc.:6.22
+REX:REX American Resources Corporation:11.56
+AGFS:AgroFresh Solutions, Inc.:15.56
+CODI:Compass Diversified Holdings LLC:248.18

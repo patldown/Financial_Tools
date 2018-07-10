@@ -1,506 +1,505 @@
-AMZN:Amazon.com, Inc.
-BABA:Alibaba Group Holding Limited
-WMT:Walmart Inc.
-HD:The Home Depot, Inc.
-NFLX:Netflix, Inc.
-DIS:The Walt Disney Company
-CMCSA:Comcast Corporation
-MCD:McDonald&#x27;s Corporation
-UNP:Union Pacific Corporation
-UPS:United Parcel Service, Inc.
-COST:Costco Wholesale Corporation
-FOXA:Twenty-First Century Fox, Inc.
-CHTR:Charter Communications, Inc.
-LOW:Lowe&#x27;s Companies, Inc.
-TWX:Time Warner Inc.
-SBUX:Starbucks Corporation
-WBA:Walgreens Boots Alliance, Inc.
-CNI:Canadian National Railway Company
-FDX:FedEx Corporation
-TJX:The TJX Companies, Inc.
-CSX:CSX Corporation
-LVS:Las Vegas Sands Corp.
-MAR:Marriott International, Inc.
-NSC:Norfolk Southern Corporation
-CUK:Carnival plc
-TGT:Target Corporation
-CCL:Carnival Corporation
-EBAY:eBay Inc.
-SYY:Sysco Corporation
-DAL:Delta Air Lines, Inc.
-MCO:Moody&#x27;s Corporation
-ROST:Ross Stores, Inc.
-SIRI:Sirius XM Holdings Inc.
-FISV:Fiserv, Inc.
-LUV:Southwest Airlines Co.
-TRI:Thomson Reuters Corporation
-QSR:Restaurant Brands International Inc.
-MCK:McKesson Corporation
-CP:Canadian Pacific Railway Limited
-DG:Dollar General Corporation
-YUM:YUM! Brands, Inc.
-PAYX:Paychex, Inc.
-CTRP:Ctrip.com International, Ltd.
-HLT:Hilton Worldwide Holdings Inc.
-ORLY:O&#x27;Reilly Automotive, Inc.
-LBTYA:Liberty Global plc
-RCL:Royal Caribbean Cruises Ltd.
-KR:The Kroger Co.
-CBS:CBS Corporation
-TAL:TAL Education Group
-MGA:Magna International Inc.
-BBY:Best Buy Co., Inc.
-CTAS:Cintas Corporation
-INFO:IHS Markit Ltd.
-DLTR:Dollar Tree, Inc.
-DISCA:Discovery, Inc.
-UAL:United Continental Holdings, Inc.
-FLT:FleetCor Technologies, Inc.
-ABC:AmerisourceBergen Corporation
-EXPE:Expedia Group, Inc.
-VRSK:Verisk Analytics, Inc.
-AAL:American Airlines Group Inc.
-AZO:AutoZone, Inc.
-GPN:Global Payments Inc.
-OMC:Omnicom Group Inc.
-WYNN:Wynn Resorts, Limited
-GWW:W.W. Grainger, Inc.
-DISH:DISH Network Corporation
-TIF:Tiffany &amp; Co.
-MGM:MGM Resorts International
-CAH:Cardinal Health, Inc.
-EDU:New Oriental Education &amp; Technology Group Inc.
-ULTA:Ulta Beauty, Inc.
-LBRDK:Liberty Broadband Corporation
-FAST:Fastenal Company
-MELI:MercadoLibre, Inc.
-DRI:Darden Restaurants, Inc.
-JBHT:J.B. Hunt Transport Services, Inc.
-TRU:TransUnion
-CPRT:Copart, Inc.
-GPC:Genuine Parts Company
-KMX:CarMax, Inc.
-ADS:Alliance Data Systems Corporation
-CEA:China Eastern Airlines Corporation Limited
-URI:United Rentals, Inc.
-CMG:Chipotle Mexican Grill, Inc.
-EXPD:Expeditors International of Washington, Inc.
-VIAB:Viacom, Inc.
-XPO:XPO Logistics, Inc.
-ODFL:Old Dominion Freight Line, Inc.
-HTHT:Huazhu Group Limited
-IHG:InterContinental Hotels Group PLC
-ROL:Rollins, Inc.
-CHRW:C.H. Robinson Worldwide, Inc.
-GPS:The Gap, Inc.
-KSS:Kohl&#x27;s Corporation
-HSIC:Henry Schein, Inc.
-DPZ:Domino&#x27;s Pizza, Inc.
-ZNH:China Southern Airlines Company Limited
-MTN:Vail Resorts, Inc.
-M:Macy&#x27;s, Inc.
-KSU:Kansas City Southern
-TV:Grupo Televisa, S.A.B.
-W:Wayfair Inc.
-SJR:Shaw Communications Inc.
-LYV:Live Nation Entertainment, Inc.
-AAP:Advance Auto Parts, Inc.
-LB:L Brands, Inc.
-BURL:Burlington Stores, Inc.
-WAB:Westinghouse Air Brake Technologies Corporation
-LTM:LATAM Airlines Group S.A.
-ARMK:Aramark
-TSCO:Tractor Supply Company
-PSO:Pearson plc
-JEC:Jacobs Engineering Group Inc.
-DTV:DTE Energy Company CORPORATE UNIT
-NWSA:News Corporation
-H:Hyatt Hotels Corporation
-JWN:Nordstrom, Inc.
-IPG:The Interpublic Group of Companies, Inc.
-WEX:WEX Inc.
-SERV:ServiceMaster Global Holdings, Inc.
-QGEN:QIAGEN N.V.
-RHI:Robert Half International Inc.
-AER:AerCap Holdings N.V.
-HDS:HD Supply Holdings, Inc.
-ALK:Alaska Air Group, Inc.
-KAR:KAR Auction Services, Inc.
-CZR:Caesars Entertainment Corporation
-MSG:The Madison Square Garden Company
-ALLE:Allegion plc
-UHAL:AMERCO
-VIPS:Vipshop Holdings Limited
-KNX:Knight-Swift Transportation Holdings Inc.
-ARW:Arrow Electronics, Inc.
-SCI:Service Corporation International
-BAH:Booz Allen Hamilton Holding Corporation
-WTW:Weight Watchers International, Inc.
-ADT:ADT Inc.
-WSO:Watsco, Inc.
-JBLU:JetBlue Airways Corporation
-BFAM:Bright Horizons Family Solutions Inc.
-JOBS:51job, Inc.
-MAN:ManpowerGroup Inc.
-SIX:Six Flags Entertainment Corporation
-DNKN:Dunkin&#x27; Brands Group, Inc.
-WWE:World Wrestling Entertainment, Inc.
-LFUS:Littelfuse, Inc.
-G:Genpact Limited
-FIVE:Five Below, Inc.
-LOPE:Grand Canyon Education, Inc.
-CBD:Companhia Brasileira de Distribui\xc3\xa7\xc3\xa3o
-ACM:AECOM
-ETSY:Etsy, Inc.
-AVT:Avnet, Inc.
-TRN:Trinity Industries, Inc.
-KEX:Kirby Corporation
-GWR:Genesee &amp; Wyoming Inc.
-WSM:Williams-Sonoma, Inc.
-PAC:Grupo Aeroportuario del Pac\xc3\xadfico, S.A.B. de C.V.
-URBN:Urban Outfitters, Inc.
-HRB:H&amp;R Block, Inc.
-MSM:MSC Industrial Direct Co., Inc.
-ASR:Grupo Aeroportuario del Sureste, S. A. B. de C. V.
-IGT:International Game Technology PLC
-LSTR:Landstar System, Inc.
-TXRH:Texas Roadhouse, Inc.
-AN:AutoNation, Inc.
-CMPR:Cimpress N.V.
-SGMS:Scientific Games Corporation
-PLNT:Planet Fitness, Inc.
-AL:Air Lease Corporation
-EEFT:Euronet Worldwide, Inc.
-CNK:Cinemark Holdings, Inc.
-CHH:Choice Hotels International, Inc.
-NYT:The New York Times Company
-PAG:Penske Automotive Group, Inc.
-SNX:SYNNEX Corporation
-ASGN:ASGN Incorporated
-AEO:American Eagle Outfitters, Inc.
-BCO:The Brink&#x27;s Company
-MMS:MAXIMUS, Inc.
-CPA:Copa Holdings, S.A.
-WEN:The Wendy&#x27;s Company
-BYD:Boyd Gaming Corporation
-RRR:Red Rock Resorts, Inc.
-LPX:Louisiana-Pacific Corporation
-STAY:Extended Stay America, Inc. Paired Shares
-R:Ryder System, Inc.
-NSP:Insperity, Inc.
-CHDN:Churchill Downs Incorporated
-CASY:Casey&#x27;s General Stores, Inc.
-TNET:TriNet Group, Inc.
-CBRL:Cracker Barrel Old Country Store, Inc.
-MIC:Macquarie Infrastructure Corporation
-MSA:MSA Safety Incorporated
-MIK:The Michaels Companies, Inc.
-RBA:Ritchie Bros. Auctioneers Incorporated
-JW-A:John Wiley &amp; Sons, Inc.
-KFY:Korn/Ferry International
-FUN:Cedar Fair, L.P.
-AMCX:AMC Networks Inc.
-GSH:Guangshen Railway Company Limited
-SIG:Signet Jewelers Limited
-NXST:Nexstar Media Group, Inc.
-DKS:Dick&#x27;s Sporting Goods, Inc.
-LILAK:Liberty Latin America Ltd.
-MANU:Manchester United plc
-MMYT:MakeMyTrip Limited
-SBGI:Sinclair Broadcast Group, Inc.
-TRCO:Tribune Media Company
-TTEK:Tetra Tech, Inc.
-HAIN:The Hain Celestial Group, Inc.
-ERI:Eldorado Resorts, Inc.
-TECD:Tech Data Corporation
-BZUN:Baozun Inc.
-CHGG:Chegg, Inc.
-HCSG:Healthcare Services Group, Inc.
-PENN:Penn National Gaming, Inc.
-DLX:Deluxe Corporation
-VAC:Marriott Vacations Worldwide Corporation
-BJ:BJ&#x27;s Wholesale Club Holdings, Inc.
-AAN:Aaron&#x27;s, Inc.
-GHC:Graham Holdings Company
-SFM:Sprouts Farmers Market, Inc.
-GLNG:Golar LNG Limited
-STN:Stantec Inc.
-BBBY:Bed Bath &amp; Beyond Inc.
-SFLY:Shutterfly, Inc.
-RH:RH
-BID:Sotheby&#x27;s
-OUT:Outfront Media Inc.
-SKYW:SkyWest, Inc.
-CAR:Avis Budget Group, Inc.
-AIT:Applied Industrial Technologies, Inc.
-WCC:WESCO International, Inc.
-WERN:Werner Enterprises, Inc.
-ENV:Envestnet, Inc.
-WNS:WNS (Holdings) Limited
-MYGN:Myriad Genetics, Inc.
-EXPO:Exponent, Inc.
-MUSA:Murphy USA Inc.
-KBR:KBR, Inc.
-TGNA:TEGNA Inc.
-CAKE:The Cheesecake Factory Incorporated
-MDP:Meredith Corporation
-JACK:Jack in the Box Inc.
-LAD:Lithia Motors, Inc.
-DDS:Dillard&#x27;s, Inc.
-PBY:Prospect Capital Corporation
-PSMT:PriceSmart, Inc.
-SHAK:Shake Shack Inc.
-FCN:FTI Consulting, Inc.
-CVG:Convergys Corporation
-ALGT:Allegiant Travel Company
-AXE:Anixter International Inc.
-AMC:AMC Entertainment Holdings, Inc.
-EAT:Brinker International, Inc.
-UNFI:United Natural Foods, Inc.
-DSW:DSW Inc.
-PDCO:Patterson Companies, Inc.
-P:Pandora Media, Inc.
-WAGE:WageWorks, Inc.
-SAIA:Saia, Inc.
-EXLS:ExlService Holdings, Inc.
-ISCA:International Speedway Corporation
-ABM:ABM Industries Incorporated
-PNK:Pinnacle Entertainment, Inc.
-MED:Medifast, Inc.
-PLCE:The Children&#x27;s Place, Inc.
-SBH:Sally Beauty Holdings, Inc.
-MATW:Matthews International Corporation
-HMSY:HMS Holdings Corp.
-SEAS:SeaWorld Entertainment, Inc.
-GLOG:GasLog Ltd.
-ONE:OneSmart International Education Group Limited
-PRAA:PRA Group, Inc.
-HA:Hawaiian Holdings, Inc.
-AAWW:Atlas Air Worldwide Holdings, Inc.
-BXG:Bluegreen Vacations Corporation
-BLMN:Bloomin&#x27; Brands, Inc.
-GOLF:Acushnet Holdings Corp.
-FWRD:Forward Air Corporation
-HUBG:Hub Group, Inc.
-GBX:The Greenbrier Companies, Inc.
-GES:Guess&#x27;, Inc.
-RUSHB:Rush Enterprises, Inc.
-SSTK:Shutterstock, Inc.
-ANF:Abercrombie &amp; Fitch Co.
-TTEC:TTEC Holdings, Inc.
-MATX:Matson, Inc.
-BIG:Big Lots, Inc.
-TIVO:TiVo Corporation
-SCHL:Scholastic Corporation
-PZZA:Papa John&#x27;s International, Inc.
-HTLD:Heartland Express, Inc.
-AYR:Aircastle Limited
-MGRC:McGrath RentCorp
-GME:GameStop Corp.
-PRTY:Party City Holdco Inc.
-WING:Wingstop Inc.
-FTAI:Fortress Transportation and Infrastructure Investors LLC
-SFL:Ship Finance International Limited
-ARCO:Arcos Dorados Holdings Inc.
-ABG:Asbury Automotive Group, Inc.
-IMAX:IMAX Corporation
-GPI:Group 1 Automotive, Inc.
-WMK:Weis Markets, Inc.
-HTZ:Hertz Global Holdings, Inc.
-SSW:Seaspan Corporation
-ATSG:Air Transport Services Group, Inc.
-GTN:Gray Television, Inc.
-HEES:H&amp;E Equipment Services, Inc.
-NCMI:National CineMedia, Inc.
-ICFI:ICF International, Inc.
-GTN-A:Gray Television, Inc.
-LABL:Multi-Color Corporation
-TGP:Teekay LNG Partners L.P.
-MRTN:Marten Transport, Ltd.
-SONC:Sonic Corp.
-DIN:Dine Brands Global, Inc.
-CBZ:CBIZ, Inc.
-STRA:Strayer Education, Inc.
-BKE:The Buckle, Inc.
-BJRI:BJ&#x27;s Restaurants, Inc.
-GOGL:Golden Ocean Group Limited
-KTOS:Kratos Defense &amp; Security Solutions, Inc.
-CATM:Cardtronics plc
-CPLA:Capella Education Company
-SCOR:comScore, Inc.
-ARCB:ArcBest Corporation
-EGL:Engility Holdings, Inc.
-CECO:Career Education Corporation
-VVI:Viad Corp
-SSP:The E.W. Scripps Company
-NTRI:Nutrisystem, Inc.
-QUAD:Quad/Graphics, Inc.
-CONN:Conn&#x27;s, Inc.
-WAIR:Wesco Aircraft Holdings, Inc.
-GCI:Gannett Co., Inc.
-GMLP:Golar LNG Partners LP
-NEWM:New Media Investment Group Inc.
-BEL:Belmond Ltd.
-TBI:TrueBlue, Inc.
-ETM:Entercom Communications Corp.
-CORE:Core-Mark Holding Company, Inc.
-CHS:Chico&#x27;s FAS, Inc.
-OMI:Owens &amp; Minor, Inc.
-GLOP:GasLog Partners LP
-HMHC:Houghton Mifflin Harcourt Company
-NCI:Navigant Consulting, Inc.
-GOL:GOL Linhas A\xc3\xa9reas Inteligentes S.A.
-GMTA:GATX Corporation SR NT 2066
-FRO:Frontline Ltd.
-MCS:The Marcus Corporation
-SPTN:SpartanNash Company
-SAH:Sonic Automotive, Inc.
-HURN:Huron Consulting Group Inc.
-TGH:Textainer Group Holdings Limited
-EHIC:eHi Car Services Limited
-KELYA:Kelly Services, Inc.
-CMRE:Costamare Inc.
-SBLK:Star Bulk Carriers Corp.
-KFRC:Kforce Inc.
-CASS:Cass Information Systems, Inc.
-EROS:Eros International Plc
-CHEF:The Chefs&#x27; Warehouse, Inc.
-SP:SP Plus Corporation
-SVU:SUPERVALU INC.
-RUTH:Ruth&#x27;s Hospitality Group, Inc.
-ECHO:Echo Global Logistics, Inc.
-FLWS:1-800-FLOWERS.COM, Inc.
-XOXO:XO Group Inc.
-MCRI:Monarch Casino &amp; Resort, Inc.
-FRGI:Fiesta Restaurant Group, Inc.
-GCO:Genesco Inc.
-RCII:Rent-A-Center, Inc.
-ARII:American Railcar Industries, Inc.
-RGS:Regis Corporation
-FORR:Forrester Research, Inc.
-TK:Teekay Corporation
-LL:Lumber Liquidators Holdings, Inc.
-KNOP:KNOT Offshore Partners LP
-NVGS:Navigator Holdings Ltd.
-TRK:Speedway Motorsports, Inc.
-DXPE:DXP Enterprises, Inc.
-APEI:American Public Education, Inc.
-EXPR:Express, Inc.
-BBSI:Barrett Business Services, Inc.
-TISI:Team, Inc.
-LRN:K12 Inc.
-INSW:International Seaways, Inc.
-HSII:Heidrick &amp; Struggles International, Inc.
-GNK:Genco Shipping &amp; Trading Limited
-IMKTA:Ingles Markets, Incorporated
-BOOT:Boot Barn Holdings, Inc.
-WBAI:500.com Limited
-AMRC:Ameresco, Inc.
-RRGB:Red Robin Gourmet Burgers, Inc.
-BH:Biglari Holdings Inc.
-CVTI:Covenant Transportation Group, Inc.
-ZUMZ:Zumiez Inc.
-CATO:The Cato Corporation
-HMLP:H\xc3\xb6egh LNG Partners LP
-MG:Mistras Group, Inc.
-GLP:Global Partners LP
-VLRS:Controladora Vuela Compa\xc3\xb1\xc3\xada de Aviaci\xc3\xb3n, S.A.B. de C.V.
-SALT:Scorpio Bulkers Inc.
-ATTO:Atento S.A.
-FINL:The Finish Line, Inc.
-RECN:Resources Connection, Inc.
-BOJA:Bojangles&#x27;, Inc.
-VSEC:VSE Corporation
-CHUY:Chuy&#x27;s Holdings, Inc.
-ASPS:Altisource Portfolio Solutions S.A.
-TAST:Carrols Restaurant Group, Inc.
-SCVL:Shoe Carnival, Inc.
-UEPS:Net 1 UEPS Technologies, Inc.
-RPXC:RPX Corporation
-ZAGG:ZAGG Inc
-CAI:CAI International, Inc.
-HCKT:The Hackett Group, Inc.
-NDLS:Noodles &amp; Company
-PKOH:Park-Ohio Holdings Corp.
-INWK:InnerWorkings, Inc.
-TEDU:Tarena International, Inc.
-HZO:MarineMax, Inc.
-HVT:Haverty Furniture Companies, Inc.
-TTS:Tile Shop Holdings, Inc.
-NL:NL Industries, Inc.
-CRMT:America&#x27;s Car-Mart, Inc.
-LOCO:El Pollo Loco Holdings, Inc.
-HIBB:Hibbett Sports, Inc.
-CCRN:Cross Country Healthcare, Inc.
-TLYS:Tilly&#x27;s, Inc.
-CRAI:CRA International, Inc.
-VLGEA:Village Super Market, Inc.
-SFS:Smart &amp; Final Stores, Inc.
-NATH:Nathan&#x27;s Famous, Inc.
-TCS:The Container Store Group, Inc.
-AQ:Aquantia Corp.
-CSV:Carriage Services, Inc.
-RRD:R.R. Donnelley &amp; Sons Company
-EGLE:Eagle Bulk Shipping Inc.
-BKS:Barnes &amp; Noble, Inc.
-FLY:Fly Leasing Limited
-CTRN:Citi Trends, Inc.
-YRCW:YRC Worldwide Inc.
-MRT:MedEquities Realty Trust, Inc.
-FC:Franklin Covey Co.
-VEC:Vectrus, Inc.
-BXC:BlueLinx Holdings Inc.
-MDCA:MDC Partners Inc.
-TITN:Titan Machinery Inc.
-HIL:Hill International, Inc.
-PBPB:Potbelly Corporation
-NSSC:Napco Security Technologies, Inc.
-GPX:GP Strategies Corporation
-DLNG:Dynagas LNG Partners LP
-NGVC:Natural Grocers by Vitamin Cottage, Inc.
-ERA:Era Group Inc.
-FRAN:Francesca&#x27;s Holdings Corporation
-USDP:USD Partners LP
-ASC:Ardmore Shipping Corporation
-RLH:Red Lion Hotels Corporation
-REIS:Reis, Inc.
-BNED:Barnes &amp; Noble Education, Inc.
-SPRO:Spero Therapeutics, Inc.
-DFRG:Del Frisco&#x27;s Restaurant Group, Inc.
-FSTR:L.B. Foster Company
-DL:China Distance Education Holdings Limited
-CVGI:Commercial Vehicle Group, Inc.
-CSTR:Capstar Financial Holdings, Inc.
-LQDT:Liquidity Services, Inc.
-LAWS:Lawson Products, Inc.
-PRGX:PRGX Global, Inc.
-RAIL:FreightCar America, Inc.
-COE:China Online Education Group
-STON:StoneMor Partners L.P.
-USAK:USA Truck, Inc.
-ZOES:Zoe&#x27;s Kitchen, Inc.
-KIRK:Kirkland&#x27;s, Inc.
-BPI:Bridgepoint Education, Inc.
-VSI:Vitamin Shoppe, Inc.
-JAX:J. Alexander&#x27;s Holdings, Inc.
-CSS:CSS Industries, Inc.
-PHII:PHI, Inc.
-BGFV:Big 5 Sporting Goods Corporation
-SAB:Saratoga Investment Corp. NT 23
-HWCC:Houston Wire &amp; Cable Company
-TSQ:Townsquare Media, Inc.
-RELL:Richardson Electronics, Ltd.
-TAX:Liberty Tax, Inc.
-BBW:Build-A-Bear Workshop, Inc.
-SRT:StarTek, Inc.
-DEST:Destination Maternity Corporation
-FRSH:Papa Murphy&#x27;s Holdings, Inc.
-PATI:Patriot Transportation Holding, Inc.
-HHS:Harte Hanks, Inc.
-EMMS:Emmis Communications Corporation
-DAVE:Famous Dave&#x27;s of America, Inc.
-AXR:AMREP Corporation
-ATV:Acorn International, Inc.
-RVI:Retail Value Inc.
-RA:Brookfield Real Assets Income Fund Inc.
-JW-A:John Wiley &amp; Sons Inc.
+EBAY:eBay Inc.:0.0
+LBTYA:Liberty Global plc:0.0
+DISCA:Discovery, Inc.:0.0
+MELI:MercadoLibre, Inc.:0.0
+W:Wayfair Inc.:0.0
+LYV:Live Nation Entertainment, Inc.:0.0
+NWSA:News Corporation:0.0
+JOBS:51job, Inc.:0.0
+AVT:Avnet, Inc.:0.0
+IGT:International Game Technology PLC:0.0
+SGMS:Scientific Games Corporation:0.0
+LILAK:Liberty Latin America Ltd.:0.0
+SIG:Signet Jewelers Limited:0.0
+MMYT:MakeMyTrip Limited:0.0
+CHGG:Chegg, Inc.:0.0
+GLNG:Golar LNG Limited:0.0
+AMC:AMC Entertainment Holdings, Inc.:0.0
+P:Pandora Media, Inc.:0.0
+SEAS:SeaWorld Entertainment, Inc.:0.0
+GES:Guess&#x27;, Inc.:0.0
+TTEC:TTEC Holdings, Inc.:0.0
+SCHL:Scholastic Corporation:0.0
+TIVO:TiVo Corporation:0.0
+TGP:Teekay LNG Partners L.P.:0.0
+DIN:Dine Brands Global, Inc.:0.0
+KTOS:Kratos Defense &amp; Security Solutions, Inc.:0.0
+CATM:Cardtronics plc:0.0
+CECO:Career Education Corporation:0.0
+SCOR:comScore, Inc.:0.0
+EGL:Engility Holdings, Inc.:0.0
+SSP:The E.W. Scripps Company:0.0
+WAIR:Wesco Aircraft Holdings, Inc.:0.0
+BEL:Belmond Ltd.:0.0
+HMHC:Houghton Mifflin Harcourt Company:0.0
+FRO:Frontline Ltd.:0.0
+HURN:Huron Consulting Group Inc.:0.0
+SPTN:SpartanNash Company:0.0
+EROS:Eros International Plc:0.0
+TK:Teekay Corporation:0.0
+FRGI:Fiesta Restaurant Group, Inc.:0.0
+RGS:Regis Corporation:0.0
+LL:Lumber Liquidators Holdings, Inc.:0.0
+GCO:Genesco Inc.:0.0
+TISI:Team, Inc.:0.0
+INSW:International Seaways, Inc.:0.0
+HSII:Heidrick &amp; Struggles International, Inc.:0.0
+GNK:Genco Shipping &amp; Trading Limited:0.0
+WBAI:500.com Limited:0.0
+MG:Mistras Group, Inc.:0.0
+VLRS:Controladora Vuela Compa\xc3\xb1\xc3\xada de Aviaci\xc3\xb3n, S.A.B. de C.V.:0.0
+SALT:Scorpio Bulkers Inc.:0.0
+ATTO:Atento S.A.:0.0
+RPXC:RPX Corporation:0.0
+NDLS:Noodles &amp; Company:0.0
+TEDU:Tarena International, Inc.:0.0
+AQ:Aquantia Corp.:0.0
+SFS:Smart &amp; Final Stores, Inc.:0.0
+EGLE:Eagle Bulk Shipping Inc.:0.0
+RRD:R.R. Donnelley &amp; Sons Company:0.0
+BKS:Barnes &amp; Noble, Inc.:0.0
+FC:Franklin Covey Co.:0.0
+YRCW:YRC Worldwide Inc.:0.0
+TITN:Titan Machinery Inc.:0.0
+PBPB:Potbelly Corporation:0.0
+ERA:Era Group Inc.:0.0
+ASC:Ardmore Shipping Corporation:0.0
+REIS:Reis, Inc.:0.0
+BNED:Barnes &amp; Noble Education, Inc.:0.0
+DFRG:Del Frisco&#x27;s Restaurant Group, Inc.:0.0
+LQDT:Liquidity Services, Inc.:0.0
+RAIL:FreightCar America, Inc.:0.0
+STON:StoneMor Partners L.P.:0.0
+COE:China Online Education Group:0.0
+SPRO:Spero Therapeutics, Inc.:0.0
+ZOES:Zoe&#x27;s Kitchen, Inc.:0.0
+VSI:Vitamin Shoppe, Inc.:0.0
+CSS:CSS Industries, Inc.:0.0
+BGFV:Big 5 Sporting Goods Corporation:0.0
+TSQ:Townsquare Media, Inc.:0.0
+SRT:StarTek, Inc.:0.0
+DEST:Destination Maternity Corporation:0.0
+HHS:Harte Hanks, Inc.:0.0
+DAVE:Famous Dave&#x27;s of America, Inc.:0.0
+AXR:AMREP Corporation:0.0
+RVI:Retail Value Inc.:0.0
+RA:Brookfield Real Assets Income Fund Inc.:0.0
+JW-A:John Wiley &amp; Sons Inc.:0.0
+MDCA:MDC Partners Inc.:1.73
+ASPS:Altisource Portfolio Solutions S.A.:1.9
+GMTA:GATX Corporation SR NT 2066:1.91
+ETM:Entercom Communications Corp.:2.77
+NL:NL Industries, Inc.:3.66
+HTZ:Hertz Global Holdings, Inc.:3.72
+GTN-A:Gray Television, Inc.:4.33
+GTN:Gray Television, Inc.:4.61
+KBR:KBR, Inc.:4.87
+TRK:Speedway Motorsports, Inc.:4.99
+R:Ryder System, Inc.:5.03
+ATV:Acorn International, Inc.:5.1
+HA:Hawaiian Holdings, Inc.:5.39
+ARII:American Railcar Industries, Inc.:5.48
+JBLU:JetBlue Airways Corporation:5.49
+CAI:CAI International, Inc.:5.55
+SBGI:Sinclair Broadcast Group, Inc.:5.81
+VEC:Vectrus, Inc.:5.91
+VIAB:Viacom, Inc.:6.07
+AL:Air Lease Corporation:6.08
+GLP:Global Partners LP:6.19
+BH:Biglari Holdings Inc.:6.29
+SKYW:SkyWest, Inc.:6.4
+PENN:Penn National Gaming, Inc.:6.44
+PAG:Penske Automotive Group, Inc.:6.58
+GPI:Group 1 Automotive, Inc.:6.59
+CMCSA:Comcast Corporation:6.79
+BXC:BlueLinx Holdings Inc.:6.92
+MATX:Matson, Inc.:6.96
+M:Macy&#x27;s, Inc.:7.01
+KR:The Kroger Co.:7.04
+LBRDK:Liberty Broadband Corporation:7.12
+ZNH:China Southern Airlines Company Limited:7.14
+NXST:Nexstar Media Group, Inc.:7.19
+CAR:Avis Budget Group, Inc.:7.27
+BBBY:Bed Bath &amp; Beyond Inc.:7.3
+IMKTA:Ingles Markets, Incorporated:7.37
+LAWS:Lawson Products, Inc.:7.62
+TRN:Trinity Industries, Inc.:7.75
+ISCA:International Speedway Corporation:7.85
+AAWW:Atlas Air Worldwide Holdings, Inc.:7.91
+TRCO:Tribune Media Company:8.13
+ALK:Alaska Air Group, Inc.:8.16
+HRB:H&amp;R Block, Inc.:8.16
+AMCX:AMC Networks Inc.:8.18
+MIC:Macquarie Infrastructure Corporation:8.2
+AER:AerCap Holdings N.V.:8.21
+NSC:Norfolk Southern Corporation:8.24
+BOJA:Bojangles&#x27;, Inc.:8.29
+SBH:Sally Beauty Holdings, Inc.:8.4
+DTV:DTE Energy Company CORPORATE UNIT:8.47
+HDS:HD Supply Holdings, Inc.:8.48
+PRTY:Party City Holdco Inc.:8.5
+CHTR:Charter Communications, Inc.:8.64
+DISH:DISH Network Corporation:8.65
+LUV:Southwest Airlines Co.:8.7
+GWR:Genesee &amp; Wyoming Inc.:8.73
+SAB:Saratoga Investment Corp. NT 23:8.82
+MGM:MGM Resorts International:8.86
+UHAL:AMERCO:9.2
+URI:United Rentals, Inc.:9.23
+KNOP:KNOT Offshore Partners LP:9.28
+TAX:Liberty Tax, Inc.:9.3
+CAH:Cardinal Health, Inc.:9.33
+TGNA:TEGNA Inc.:9.37
+MUSA:Murphy USA Inc.:9.53
+UAL:United Continental Holdings, Inc.:9.56
+GMLP:Golar LNG Partners LP:9.59
+SAH:Sonic Automotive, Inc.:9.6
+LPX:Louisiana-Pacific Corporation:9.63
+KNX:Knight-Swift Transportation Holdings Inc.:9.64
+MGRC:McGrath RentCorp:9.71
+MGA:Magna International Inc.:9.74
+CVTI:Covenant Transportation Group, Inc.:9.87
+LAD:Lithia Motors, Inc.:9.89
+GHC:Graham Holdings Company:9.98
+DAL:Delta Air Lines, Inc.:10.04
+ABG:Asbury Automotive Group, Inc.:10.07
+QUAD:Quad/Graphics, Inc.:10.19
+CSX:CSX Corporation:10.2
+MAN:ManpowerGroup Inc.:10.2
+AYR:Aircastle Limited:10.2
+CPA:Copa Holdings, S.A.:10.24
+BIG:Big Lots, Inc.:10.3
+KELYA:Kelly Services, Inc.:10.32
+UNP:Union Pacific Corporation:10.4
+AAL:American Airlines Group Inc.:10.59
+CCRN:Cross Country Healthcare, Inc.:10.59
+PDCO:Patterson Companies, Inc.:10.63
+RUSHB:Rush Enterprises, Inc.:10.63
+AN:AutoNation, Inc.:10.71
+DDS:Dillard&#x27;s, Inc.:10.71
+SSW:Seaspan Corporation:10.71
+CHS:Chico&#x27;s FAS, Inc.:10.75
+MIK:The Michaels Companies, Inc.:10.9
+ALGT:Allegiant Travel Company:10.93
+AAN:Aaron&#x27;s, Inc.:10.97
+DKS:Dick&#x27;s Sporting Goods, Inc.:11.12
+CSV:Carriage Services, Inc.:11.18
+CEA:China Eastern Airlines Corporation Limited:11.43
+HMLP:H\xc3\xb6egh LNG Partners LP:11.43
+LB:L Brands, Inc.:11.47
+KSU:Kansas City Southern:11.74
+GBX:The Greenbrier Companies, Inc.:11.77
+PRAA:PRA Group, Inc.:11.94
+USDP:USD Partners LP:12.0
+DLTR:Dollar Tree, Inc.:12.1
+HUBG:Hub Group, Inc.:12.21
+HEES:H&amp;E Equipment Services, Inc.:12.21
+UEPS:Net 1 UEPS Technologies, Inc.:12.45
+HIBB:Hibbett Sports, Inc.:12.73
+UNFI:United Natural Foods, Inc.:12.76
+WERN:Werner Enterprises, Inc.:12.77
+FRSH:Papa Murphy&#x27;s Holdings, Inc.:12.84
+CASY:Casey&#x27;s General Stores, Inc.:12.89
+CRMT:America&#x27;s Car-Mart, Inc.:12.91
+GLOP:GasLog Partners LP:13.08
+AMRC:Ameresco, Inc.:13.22
+DLX:Deluxe Corporation:13.54
+MRTN:Marten Transport, Ltd.:13.6
+BXG:Bluegreen Vacations Corporation:13.62
+KSS:Kohl&#x27;s Corporation:13.63
+BKE:The Buckle, Inc.:13.76
+WMK:Weis Markets, Inc.:13.82
+VSEC:VSE Corporation:13.82
+VAC:Marriott Vacations Worldwide Corporation:13.87
+AZO:AutoZone, Inc.:13.96
+FDX:FedEx Corporation:13.97
+GPS:The Gap, Inc.:14.04
+DIS:The Walt Disney Company:14.18
+USAK:USA Truck, Inc.:14.26
+TGT:Target Corporation:14.3
+RCL:Royal Caribbean Cruises Ltd.:14.34
+NCI:Navigant Consulting, Inc.:14.34
+SNX:SYNNEX Corporation:14.36
+SFL:Ship Finance International Limited:14.48
+MCS:The Marcus Corporation:14.61
+CHDN:Churchill Downs Incorporated:14.62
+WBA:Walgreens Boots Alliance, Inc.:14.84
+TWX:Time Warner Inc.:14.88
+CCL:Carnival Corporation:14.9
+FLWS:1-800-FLOWERS.COM, Inc.:14.96
+BBW:Build-A-Bear Workshop, Inc.:15.3
+LVS:Las Vegas Sands Corp.:15.41
+CP:Canadian Pacific Railway Limited:15.53
+SCI:Service Corporation International:15.57
+KEX:Kirby Corporation:15.68
+CBRL:Cracker Barrel Old Country Store, Inc.:15.81
+CNI:Canadian National Railway Company:15.83
+ARCB:ArcBest Corporation:15.88
+CUK:Carnival plc:15.95
+SERV:ServiceMaster Global Holdings, Inc.:16.02
+MSM:MSC Industrial Direct Co., Inc.:16.03
+OMC:Omnicom Group Inc.:16.25
+CNK:Cinemark Holdings, Inc.:16.3
+WCC:WESCO International, Inc.:16.39
+ARW:Arrow Electronics, Inc.:16.4
+ASR:Grupo Aeroportuario del Sureste, S. A. B. de C. V.:16.45
+H:Hyatt Hotels Corporation:16.49
+VLGEA:Village Super Market, Inc.:16.51
+SBUX:Starbucks Corporation:16.55
+BLMN:Bloomin&#x27; Brands, Inc.:16.58
+DG:Dollar General Corporation:16.68
+PKOH:Park-Ohio Holdings Corp.:16.78
+ADS:Alliance Data Systems Corporation:16.85
+HZO:MarineMax, Inc.:16.87
+OMI:Owens &amp; Minor, Inc.:16.99
+PSO:Pearson plc:17.07
+IPG:The Interpublic Group of Companies, Inc.:17.07
+LABL:Multi-Color Corporation:17.13
+SFM:Sprouts Farmers Market, Inc.:17.18
+ZAGG:ZAGG Inc:17.23
+ADT:ADT Inc.:17.3
+ARCO:Arcos Dorados Holdings Inc.:17.3
+MRT:MedEquities Realty Trust, Inc.:17.3
+EAT:Brinker International, Inc.:17.54
+PATI:Patriot Transportation Holding, Inc.:17.71
+HIL:Hill International, Inc.:18.03
+CAKE:The Cheesecake Factory Incorporated:18.09
+DNKN:Dunkin&#x27; Brands Group, Inc.:18.13
+BJ:BJ&#x27;s Wholesale Club Holdings, Inc.:18.23
+SVU:SUPERVALU INC.:18.24
+CMRE:Costamare Inc.:18.27
+UPS:United Parcel Service, Inc.:18.55
+YUM:YUM! Brands, Inc.:18.55
+AIT:Applied Industrial Technologies, Inc.:18.58
+JWN:Nordstrom, Inc.:18.72
+SONC:Sonic Corp.:18.78
+MMS:MAXIMUS, Inc.:18.84
+MATW:Matthews International Corporation:18.84
+TBI:TrueBlue, Inc.:18.89
+FUN:Cedar Fair, L.P.:18.9
+GOLF:Acushnet Holdings Corp.:18.92
+HLT:Hilton Worldwide Holdings Inc.:19.09
+FCN:FTI Consulting, Inc.:19.21
+CHUY:Chuy&#x27;s Holdings, Inc.:19.36
+MYGN:Myriad Genetics, Inc.:19.39
+JBHT:J.B. Hunt Transport Services, Inc.:19.47
+ARMK:Aramark:19.48
+JW-A:John Wiley &amp; Sons, Inc.:19.59
+HCKT:The Hackett Group, Inc.:19.64
+PZZA:Papa John&#x27;s International, Inc.:19.66
+FWRD:Forward Air Corporation:19.71
+WSM:Williams-Sonoma, Inc.:19.72
+AEO:American Eagle Outfitters, Inc.:20.02
+VVI:Viad Corp:20.1
+KMX:CarMax, Inc.:20.24
+AXE:Anixter International Inc.:20.3
+TGH:Textainer Group Holdings Limited:20.34
+JACK:Jack in the Box Inc.:20.4
+AAP:Advance Auto Parts, Inc.:20.51
+STN:Stantec Inc.:20.55
+ONE:OneSmart International Education Group Limited:20.73
+SP:SP Plus Corporation:20.85
+KAR:KAR Auction Services, Inc.:20.88
+CBS:CBS Corporation:20.89
+IHG:InterContinental Hotels Group PLC:20.93
+G:Genpact Limited:20.94
+QSR:Restaurant Brands International Inc.:21.02
+GSH:Guangshen Railway Company Limited:21.07
+ORLY:O&#x27;Reilly Automotive, Inc.:21.24
+CBZ:CBIZ, Inc.:21.27
+LOW:Lowe&#x27;s Companies, Inc.:21.49
+ICFI:ICF International, Inc.:21.52
+TCS:The Container Store Group, Inc.:21.55
+GPC:Genuine Parts Company:21.56
+TJX:The TJX Companies, Inc.:21.76
+HTLD:Heartland Express, Inc.:21.81
+BOOT:Boot Barn Holdings, Inc.:21.95
+SCVL:Shoe Carnival, Inc.:22.03
+ZUMZ:Zumiez Inc.:22.04
+OUT:Outfront Media Inc.:22.11
+BBY:Best Buy Co., Inc.:22.12
+BYD:Boyd Gaming Corporation:22.19
+MDP:Meredith Corporation:22.19
+BAH:Booz Allen Hamilton Holding Corporation:22.24
+TNET:TriNet Group, Inc.:22.32
+CVG:Convergys Corporation:22.34
+HVT:Haverty Furniture Companies, Inc.:22.37
+NTRI:Nutrisystem, Inc.:22.41
+SIX:Six Flags Entertainment Corporation:22.46
+TSCO:Tractor Supply Company:22.56
+SAIA:Saia, Inc.:22.61
+FISV:Fiserv, Inc.:22.74
+ABC:AmerisourceBergen Corporation:22.79
+SJR:Shaw Communications Inc.:22.8
+CTRN:Citi Trends, Inc.:22.8
+VIPS:Vipshop Holdings Limited:22.81
+FAST:Fastenal Company:22.95
+WEN:The Wendy&#x27;s Company:22.96
+CHRW:C.H. Robinson Worldwide, Inc.:22.97
+FOXA:Twenty-First Century Fox, Inc.:23.02
+PAC:Grupo Aeroportuario del Pac\xc3\xadfico, S.A.B. de C.V.:23.05
+ABM:ABM Industries Incorporated:23.15
+LSTR:Landstar System, Inc.:23.22
+DRI:Darden Restaurants, Inc.:23.25
+ODFL:Old Dominion Freight Line, Inc.:23.92
+ROST:Ross Stores, Inc.:24.11
+STAY:Extended Stay America, Inc. Paired Shares:24.15
+MCD:McDonald&#x27;s Corporation:24.26
+BID:Sotheby&#x27;s:24.49
+EXPD:Expeditors International of Washington, Inc.:24.62
+KFRC:Kforce Inc.:24.64
+TTEK:Tetra Tech, Inc.:24.71
+INWK:InnerWorkings, Inc.:25.03
+BURL:Burlington Stores, Inc.:25.16
+PLCE:The Children&#x27;s Place, Inc.:25.28
+LOPE:Grand Canyon Education, Inc.:25.5
+HD:The Home Depot, Inc.:25.57
+BJRI:BJ&#x27;s Restaurants, Inc.:25.64
+FLT:FleetCor Technologies, Inc.:25.8
+ASGN:ASGN Incorporated:26.07
+PHII:PHI, Inc.:26.16
+ULTA:Ulta Beauty, Inc.:26.35
+RUTH:Ruth&#x27;s Hospitality Group, Inc.:26.35
+KFY:Korn/Ferry International:26.64
+TLYS:Tilly&#x27;s, Inc.:26.76
+BBSI:Barrett Business Services, Inc.:26.79
+ALLE:Allegion plc:26.98
+GPX:GP Strategies Corporation:26.99
+RECN:Resources Connection, Inc.:27.22
+JAX:J. Alexander&#x27;s Holdings, Inc.:27.26
+GWW:W.W. Grainger, Inc.:27.32
+TECD:Tech Data Corporation:27.34
+RRGB:Red Robin Gourmet Burgers, Inc.:27.34
+NGVC:Natural Grocers by Vitamin Cottage, Inc.:28.24
+RHI:Robert Half International Inc.:28.37
+ACM:AECOM:28.71
+CTAS:Cintas Corporation:28.77
+MTN:Vail Resorts, Inc.:28.83
+SYY:Sysco Corporation:28.91
+WMT:Walmart Inc.:29.02
+HSIC:Henry Schein, Inc.:29.26
+PAYX:Paychex, Inc.:29.95
+EEFT:Euronet Worldwide, Inc.:30.28
+CVGI:Commercial Vehicle Group, Inc.:30.45
+COST:Costco Wholesale Corporation:30.92
+WSO:Watsco, Inc.:31.02
+CBD:Companhia Brasileira de Distribui\xc3\xa7\xc3\xa3o:31.17
+TRU:TransUnion:31.2
+TXRH:Texas Roadhouse, Inc.:31.31
+MCRI:Monarch Casino &amp; Resort, Inc.:31.36
+DSW:DSW Inc.:31.55
+PSMT:PriceSmart, Inc.:32.02
+EXPR:Express, Inc.:32.28
+VRSK:Verisk Analytics, Inc.:32.47
+WNS:WNS (Holdings) Limited:32.53
+CASS:Cass Information Systems, Inc.:32.91
+KIRK:Kirkland&#x27;s, Inc.:33.13
+MCO:Moody&#x27;s Corporation:33.18
+LTM:LATAM Airlines Group S.A.:33.4
+PNK:Pinnacle Entertainment, Inc.:33.81
+APEI:American Public Education, Inc.:34.13
+WTW:Weight Watchers International, Inc.:34.22
+ERI:Eldorado Resorts, Inc.:34.43
+MAR:Marriott International, Inc.:34.81
+GPN:Global Payments Inc.:35.0
+WAB:Westinghouse Air Brake Technologies Corporation:35.24
+INFO:IHS Markit Ltd.:35.4
+JEC:Jacobs Engineering Group Inc.:36.06
+GOGL:Golden Ocean Group Limited:36.81
+XPO:XPO Logistics, Inc.:37.13
+CPRT:Copart, Inc.:37.17
+CORE:Core-Mark Holding Company, Inc.:37.36
+FRAN:Francesca&#x27;s Holdings Corporation:37.37
+CHH:Choice Hotels International, Inc.:37.85
+EXLS:ExlService Holdings, Inc.:37.87
+PBY:Prospect Capital Corporation:38.08
+WYNN:Wynn Resorts, Limited:38.34
+FINL:The Finish Line, Inc.:38.38
+TRI:Thomson Reuters Corporation:39.16
+TIF:Tiffany &amp; Co.:39.37
+NSP:Insperity, Inc.:40.03
+HAIN:The Hain Celestial Group, Inc.:40.29
+ECHO:Echo Global Logistics, Inc.:40.43
+DPZ:Domino&#x27;s Pizza, Inc.:41.69
+DXPE:DXP Enterprises, Inc.:41.71
+BFAM:Bright Horizons Family Solutions Inc.:42.11
+SIRI:Sirius XM Holdings Inc.:43.74
+NSSC:Napco Security Technologies, Inc.:43.8
+WAGE:WageWorks, Inc.:44.09
+RRR:Red Rock Resorts, Inc.:44.34
+DL:China Distance Education Holdings Limited:44.63
+HMSY:HMS Holdings Corp.:45.33
+LFUS:Littelfuse, Inc.:46.3
+WEX:WEX Inc.:46.46
+URBN:Urban Outfitters, Inc.:47.39
+CPLA:Capella Education Company:47.57
+CRAI:CRA International, Inc.:47.64
+CZR:Caesars Entertainment Corporation:48.19
+FIVE:Five Below, Inc.:48.33
+EHIC:eHi Car Services Limited:48.96
+HCSG:Healthcare Services Group, Inc.:49.46
+RBA:Ritchie Bros. Auctioneers Incorporated:49.74
+CHEF:The Chefs&#x27; Warehouse, Inc.:49.84
+TV:Grupo Televisa, S.A.B.:50.8
+BABA:Alibaba Group Holding Limited:51.57
+EDU:New Oriental Education &amp; Technology Group Inc.:52.73
+CTRP:Ctrip.com International, Ltd.:53.57
+CONN:Conn&#x27;s, Inc.:54.12
+SBLK:Star Bulk Carriers Corp.:54.21
+FSTR:L.B. Foster Company:55.85
+CSTR:Capstar Financial Holdings, Inc.:56.43
+WING:Wingstop Inc.:56.58
+ETSY:Etsy, Inc.:56.96
+ATSG:Air Transport Services Group, Inc.:57.13
+FLY:Fly Leasing Limited:58.47
+MED:Medifast, Inc.:58.68
+EXPO:Exponent, Inc.:59.28
+EXPE:Expedia Group, Inc.:61.11
+LRN:K12 Inc.:62.16
+RELL:Richardson Electronics, Ltd.:62.5
+HWCC:Houston Wire &amp; Cable Company:63.43
+TTS:Tile Shop Holdings, Inc.:63.83
+STRA:Strayer Education, Inc.:64.61
+CATO:The Cato Corporation:64.78
+HTHT:Huazhu Group Limited:65.82
+BPI:Bridgepoint Education, Inc.:65.98
+ANF:Abercrombie &amp; Fitch Co.:66.11
+PRGX:PRGX Global, Inc.:66.9
+ROL:Rollins, Inc.:66.91
+CMG:Chipotle Mexican Grill, Inc.:67.87
+TAST:Carrols Restaurant Group, Inc.:70.07
+LOCO:El Pollo Loco Holdings, Inc.:72.03
+MSG:The Madison Square Garden Company:73.36
+FORR:Forrester Research, Inc.:77.88
+SFLY:Shutterfly, Inc.:83.49
+MSA:MSA Safety Incorporated:86.35
+PLNT:Planet Fitness, Inc.:86.47
+GLOG:GasLog Ltd.:95.2
+BZUN:Baozun Inc.:104.79
+SSTK:Shutterstock, Inc.:105.66
+RH:RH:106.46
+XOXO:XO Group Inc.:106.69
+TAL:TAL Education Group:108.67
+DLNG:Dynagas LNG Partners LP:121.13
+RCII:Rent-A-Center, Inc.:123.17
+GCI:Gannett Co., Inc.:133.09
+IMAX:IMAX Corporation:137.35
+ENV:Envestnet, Inc.:148.72
+NATH:Nathan&#x27;s Famous, Inc.:159.52
+QGEN:QIAGEN N.V.:162.0
+WWE:World Wrestling Entertainment, Inc.:177.62
+NVGS:Navigator Holdings Ltd.:218.22
+AMZN:Amazon.com, Inc.:218.43
+NFLX:Netflix, Inc.:277.97
+CMPR:Cimpress N.V.:291.1
+NYT:The New York Times Company:336.71
+FTAI:Fortress Transportation and Infrastructure Investors LLC:375.6
+GME:GameStop Corp.:391.45
+MCK:McKesson Corporation:429.75
+NEWM:New Media Investment Group Inc.:472.88
+NCMI:National CineMedia, Inc.:526.88
+RLH:Red Lion Hotels Corporation:667.65
+MANU:Manchester United plc:808.65
+GOL:GOL Linhas A\xc3\xa9reas Inteligentes S.A.:930.0
+BCO:The Brink&#x27;s Company:980.59
+SHAK:Shake Shack Inc.:1827.0

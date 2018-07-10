@@ -1,232 +1,232 @@
-JNJ:Johnson &amp; Johnson
-UNH:UnitedHealth Group Incorporated
-PFE:Pfizer Inc.
-NVS:Novartis AG
-MRK:Merck &amp; Co., Inc.
-ABBV:AbbVie Inc.
-AMGN:Amgen Inc.
-NVO:Novo Nordisk A/S
-MDT:Medtronic plc
-ABT:Abbott Laboratories
-SNY:Sanofi
-GSK:GlaxoSmithKline plc
-GILD:Gilead Sciences, Inc.
-BMY:Bristol-Myers Squibb Company
-AZN:AstraZeneca PLC
-LLY:Eli Lilly and Company
-TMO:Thermo Fisher Scientific Inc.
-BIIB:Biogen Inc.
-CVS:CVS Health Corporation
-BDX:Becton, Dickinson and Company
-SYK:Stryker Corporation
-ANTM:Anthem, Inc.
-AET:Aetna Inc.
-CELG:Celgene Corporation
-AGN:Allergan plc
-ISRG:Intuitive Surgical, Inc.
-BSX:Boston Scientific Corporation
-ESRX:Express Scripts Holding Company
-VRTX:Vertex Pharmaceuticals Incorporated
-HUM:Humana Inc.
-ILMN:Illumina, Inc.
-ZTS:Zoetis Inc.
-CI:Cigna Corporation
-BAX:Baxter International Inc.
-REGN:Regeneron Pharmaceuticals, Inc.
-HCA:HCA Healthcare, Inc.
-EW:Edwards Lifesciences Corporation
-FMS:Fresenius Medical Care AG &amp; Co. KGaA
-ALXN:Alexion Pharmaceuticals, Inc.
-ALGN:Align Technology, Inc.
-CNC:Centene Corporation
-TEVA:Teva Pharmaceutical Industries Limited
-ZBH:Zimmer Biomet Holdings, Inc.
-A:Agilent Technologies, Inc.
-IDXX:IDEXX Laboratories, Inc.
-MYL:Mylan N.V.
-LH:Laboratory Corporation of America Holdings
-ABMD:ABIOMED, Inc.
-BMRN:BioMarin Pharmaceutical Inc.
-SNN:Smith &amp; Nephew plc
-WAT:Waters Corporation
-RMD:ResMed Inc.
-INCY:Incyte Corporation
-MTD:Mettler-Toledo International Inc.
-DGX:Quest Diagnostics Incorporated
-TFX:Teleflex Incorporated
-DVA:DaVita Inc.
-COO:The Cooper Companies, Inc.
-WCG:WellCare Health Plans, Inc.
-HOLX:Hologic, Inc.
-SGEN:Seattle Genetics, Inc.
-VAR:Varian Medical Systems, Inc.
-JAZZ:Jazz Pharmaceuticals plc
-UHS:Universal Health Services, Inc.
-PRGO:Perrigo Company plc
-XRAY:DENTSPLY SIRONA Inc.
-ALNY:Alnylam Pharmaceuticals, Inc.
-NBIX:Neurocrine Biosciences, Inc.
-STE:STERIS plc
-SRPT:Sarepta Therapeutics, Inc.
-BIO:Bio-Rad Laboratories, Inc.
-DXCM:DexCom, Inc.
-BLUE:bluebird bio, Inc.
-PKI:PerkinElmer, Inc.
-VRX:Valeant Pharmaceuticals International, Inc.
-NKTR:Nektar Therapeutics
-WST:West Pharmaceutical Services, Inc.
-ICLR:ICON Public Limited Company
-ALKS:Alkermes plc
-MOH:Molina Healthcare, Inc.
-EXEL:Exelixis, Inc.
-PRAH:PRA Health Sciences, Inc.
-ICUI:ICU Medical, Inc.
-HRC:Hill-Rom Holdings, Inc.
-CTLT:Catalent, Inc.
-RDY:Dr. Reddy&#x27;s Laboratories Limited
-TECH:Bio-Techne Corporation
-CRL:Charles River Laboratories International, Inc.
-FGEN:FibroGen, Inc.
-IART:Integra LifeSciences Holdings Corporation
-UTHR:United Therapeutics Corporation
-EVHC:Envision Healthcare Corporation
-AMRX:Amneal Pharmaceuticals, Inc.
-PODD:Insulet Corporation
-CHE:Chemed Corporation
-MASI:Masimo Corporation
-FMI:Foundation Medicine, Inc.
-GMED:Globus Medical, Inc.
-AGIO:Agios Pharmaceuticals, Inc.
-HAE:Haemonetics Corporation
-BRKR:Bruker Corporation
-TARO:Taro Pharmaceutical Industries Ltd.
-NEOG:Neogen Corporation
-INGN:Inogen, Inc.
-RARE:Ultragenyx Pharmaceutical Inc.
-MD:MEDNAX, Inc.
-ACHC:Acadia Healthcare Company, Inc.
-THC:Tenet Healthcare Corporation
-ONCE:Spark Therapeutics, Inc.
-CBPO:China Biologic Products Holdings, Inc.
-AMED:Amedisys, Inc.
-OPK:OPKO Health, Inc.
-IRWD:Ironwood Pharmaceuticals, Inc.
-ASND:Ascendis Pharma A/S
-BPMC:Blueprint Medicines Corporation
-MDCO:The Medicines Company
-LHCG:LHC Group, Inc.
-HZNP:Horizon Pharma Public Limited Company
-ICPT:Intercept Pharmaceuticals, Inc.
-USNA:USANA Health Sciences, Inc.
-NUVA:NuVasive, Inc.
-MMSI:Merit Medical Systems, Inc.
-WMGI:Wright Medical Group N.V.
-HYH:Halyard Health, Inc.
-EBS:Emergent BioSolutions Inc.
-PTLA:Portola Pharmaceuticals, Inc.
-QDEL:Quidel Corporation
-CLVS:Clovis Oncology, Inc.
-SEM:Select Medical Holdings Corporation
-ENDP:Endo International plc
-TSRO:Tesaro, Inc.
-HALO:Halozyme Therapeutics, Inc.
-ENTA:Enanta Pharmaceuticals, Inc.
-MGLN:Magellan Health, Inc.
-AKRX:Akorn, Inc.
-SPPI:Spectrum Pharmaceuticals, Inc.
-NVRO:Nevro Corp.
-GBT:Global Blood Therapeutics, Inc.
-ARNA:Arena Pharmaceuticals, Inc.
-PBYI:Puma Biotechnology, Inc.
-CNMD:CONMED Corporation
-RGEN:Repligen Corporation
-ACAD:ACADIA Pharmaceuticals Inc.
-PBH:Prestige Brands Holdings, Inc.
-DPLO:Diplomat Pharmacy, Inc.
-ENSG:The Ensign Group, Inc.
-XON:Intrexon Corporation
-INSM:Insmed Incorporated
-ABAX:Abaxis, Inc.
-LPNT:LifePoint Health, Inc.
-NXTM:Nxstage Medical, Inc.
-BKD:Brookdale Senior Living Inc.
-CBM:Cambrex Corporation
-IMGN:ImmunoGen, Inc.
-MNTA:Momenta Pharmaceuticals, Inc.
-GHDX:Genomic Health, Inc.
-PTCT:PTC Therapeutics, Inc.
-MNK:Mallinckrodt Public Limited Company
-MRTX:Mirati Therapeutics, Inc.
-AIMT:Aimmune Therapeutics, Inc.
-SGMO:Sangamo Therapeutics, Inc.
-BEAT:BioTelemetry, Inc.
-GKOS:Glaukos Corporation
-KANG:iKang Healthcare Group, Inc.
-ARWR:Arrowhead Pharmaceuticals, Inc.
-TXMD:TherapeuticsMD, Inc.
-ACOR:Acorda Therapeutics, Inc.
-QURE:uniQure N.V.
-PCRX:Pacira Pharmaceuticals, Inc.
-LMNX:Luminex Corporation
-LXRX:Lexicon Pharmaceuticals, Inc.
-USPH:U.S. Physical Therapy, Inc.
-BABY:Natus Medical Incorporated
-ATRI:Atrion Corporation
-CSII:Cardiovascular Systems, Inc.
-ECYT:Endocyte, Inc.
-KPTI:Karyopharm Therapeutics Inc.
-ITCI:Intra-Cellular Therapies, Inc.
-OFIX:Orthofix International N.V.
-CRY:CryoLife, Inc.
-NTRA:Natera, Inc.
-OSUR:OraSure Technologies, Inc.
-PRSC:The Providence Service Corporation
-CO:Global Cord Blood Corporation
-ALOG:Analogic Corporation
-ADAP:Adaptimmune Therapeutics plc
-KTWO:K2M Group Holdings, Inc.
-MGNX:MacroGenics, Inc.
-EPZM:Epizyme, Inc.
-CBAY:CymaBay Therapeutics, Inc.
-ANGO:AngioDynamics, Inc.
-MLAB:Mesa Laboratories, Inc.
-CDXS:Codexis, Inc.
-KND:Kindred Healthcare, Inc.
-AMPH:Amphastar Pharmaceuticals, Inc.
-SRDX:Surmodics, Inc.
-PETS:PetMed Express, Inc.
-DRNA:Dicerna Pharmaceuticals, Inc.
-AMAG:AMAG Pharmaceuticals, Inc.
-VIVO:Meridian Bioscience, Inc.
-CCXI:ChemoCentryx, Inc.
-ADUS:Addus HomeCare Corporation
-COLL:Collegium Pharmaceutical, Inc.
-PGNX:Progenics Pharmaceuticals, Inc.
-CIVI:Civitas Solutions, Inc.
-BCRX:BioCryst Pharmaceuticals, Inc.
-IVC:Invacare Corporation
-PRTA:Prothena Corporation plc
-FPRX:Five Prime Therapeutics, Inc.
-CUTR:Cutera, Inc.
-ADRO:Aduro BioTech, Inc.
-LCI:Lannett Company, Inc.
-DEPO:Depomed, Inc.
-NVTA:Invitae Corporation
-ANIK:Anika Therapeutics, Inc.
-CYTK:Cytokinetics, Incorporated
-ABUS:Arbutus Biopharma Corporation
-ELGX:Endologix, Inc.
-DERM:Dermira, Inc.
-SVA:Sinovac Biotech Ltd.
-UTMD:Utah Medical Products, Inc.
-MCRB:Seres Therapeutics, Inc.
-ZFGN:Zafgen, Inc.
-CSU:Capital Senior Living Corporation
-VTL:Vital Therapies, Inc.
-ENZ:Enzo Biochem, Inc.
-FLDM:Fluidigm Corporation
-AAC:AAC Holdings, Inc.
-SPNE:SeaSpine Holdings Corporation
-JNP:Juniper Pharmaceuticals, Inc.
-CPIX:Cumberland Pharmaceuticals Inc.
-ABUS:Tekmira Pharmaceuticals Corporation
+BDX:Becton, Dickinson and Company:0.0
+AGN:Allergan plc:0.0
+TEVA:Teva Pharmaceutical Industries Limited:0.0
+BMRN:BioMarin Pharmaceutical Inc.:0.0
+INCY:Incyte Corporation:0.0
+HOLX:Hologic, Inc.:0.0
+SGEN:Seattle Genetics, Inc.:0.0
+ALNY:Alnylam Pharmaceuticals, Inc.:0.0
+XRAY:DENTSPLY SIRONA Inc.:0.0
+NBIX:Neurocrine Biosciences, Inc.:0.0
+SRPT:Sarepta Therapeutics, Inc.:0.0
+DXCM:DexCom, Inc.:0.0
+BLUE:bluebird bio, Inc.:0.0
+NKTR:Nektar Therapeutics:0.0
+ALKS:Alkermes plc:0.0
+MOH:Molina Healthcare, Inc.:0.0
+FGEN:FibroGen, Inc.:0.0
+PODD:Insulet Corporation:0.0
+FMI:Foundation Medicine, Inc.:0.0
+AGIO:Agios Pharmaceuticals, Inc.:0.0
+RARE:Ultragenyx Pharmaceutical Inc.:0.0
+THC:Tenet Healthcare Corporation:0.0
+ONCE:Spark Therapeutics, Inc.:0.0
+OPK:OPKO Health, Inc.:0.0
+IRWD:Ironwood Pharmaceuticals, Inc.:0.0
+BPMC:Blueprint Medicines Corporation:0.0
+ICPT:Intercept Pharmaceuticals, Inc.:0.0
+ASND:Ascendis Pharma A/S:0.0
+MDCO:The Medicines Company:0.0
+HZNP:Horizon Pharma Public Limited Company:0.0
+WMGI:Wright Medical Group N.V.:0.0
+QDEL:Quidel Corporation:0.0
+CLVS:Clovis Oncology, Inc.:0.0
+PTLA:Portola Pharmaceuticals, Inc.:0.0
+TSRO:Tesaro, Inc.:0.0
+ENDP:Endo International plc:0.0
+SPPI:Spectrum Pharmaceuticals, Inc.:0.0
+AKRX:Akorn, Inc.:0.0
+ARNA:Arena Pharmaceuticals, Inc.:0.0
+PBYI:Puma Biotechnology, Inc.:0.0
+GBT:Global Blood Therapeutics, Inc.:0.0
+ACAD:ACADIA Pharmaceuticals Inc.:0.0
+NVRO:Nevro Corp.:0.0
+XON:Intrexon Corporation:0.0
+INSM:Insmed Incorporated:0.0
+BKD:Brookdale Senior Living Inc.:0.0
+NXTM:Nxstage Medical, Inc.:0.0
+GHDX:Genomic Health, Inc.:0.0
+IMGN:ImmunoGen, Inc.:0.0
+MNTA:Momenta Pharmaceuticals, Inc.:0.0
+PTCT:PTC Therapeutics, Inc.:0.0
+AIMT:Aimmune Therapeutics, Inc.:0.0
+SGMO:Sangamo Therapeutics, Inc.:0.0
+BEAT:BioTelemetry, Inc.:0.0
+MRTX:Mirati Therapeutics, Inc.:0.0
+KANG:iKang Healthcare Group, Inc.:0.0
+TXMD:TherapeuticsMD, Inc.:0.0
+ACOR:Acorda Therapeutics, Inc.:0.0
+PCRX:Pacira Pharmaceuticals, Inc.:0.0
+QURE:uniQure N.V.:0.0
+ARWR:Arrowhead Pharmaceuticals, Inc.:0.0
+GKOS:Glaukos Corporation:0.0
+LXRX:Lexicon Pharmaceuticals, Inc.:0.0
+BABY:Natus Medical Incorporated:0.0
+NTRA:Natera, Inc.:0.0
+CSII:Cardiovascular Systems, Inc.:0.0
+ECYT:Endocyte, Inc.:0.0
+KPTI:Karyopharm Therapeutics Inc.:0.0
+ITCI:Intra-Cellular Therapies, Inc.:0.0
+CRY:CryoLife, Inc.:0.0
+ADAP:Adaptimmune Therapeutics plc:0.0
+ALOG:Analogic Corporation:0.0
+KTWO:K2M Group Holdings, Inc.:0.0
+EPZM:Epizyme, Inc.:0.0
+MGNX:MacroGenics, Inc.:0.0
+CBAY:CymaBay Therapeutics, Inc.:0.0
+MLAB:Mesa Laboratories, Inc.:0.0
+KND:Kindred Healthcare, Inc.:0.0
+CDXS:Codexis, Inc.:0.0
+AMPH:Amphastar Pharmaceuticals, Inc.:0.0
+DRNA:Dicerna Pharmaceuticals, Inc.:0.0
+AMAG:AMAG Pharmaceuticals, Inc.:0.0
+COLL:Collegium Pharmaceutical, Inc.:0.0
+BCRX:BioCryst Pharmaceuticals, Inc.:0.0
+PGNX:Progenics Pharmaceuticals, Inc.:0.0
+IVC:Invacare Corporation:0.0
+FPRX:Five Prime Therapeutics, Inc.:0.0
+PRTA:Prothena Corporation plc:0.0
+ADRO:Aduro BioTech, Inc.:0.0
+NVTA:Invitae Corporation:0.0
+DEPO:Depomed, Inc.:0.0
+ABUS:Arbutus Biopharma Corporation:0.0
+CYTK:Cytokinetics, Incorporated:0.0
+ELGX:Endologix, Inc.:0.0
+DERM:Dermira, Inc.:0.0
+ZFGN:Zafgen, Inc.:0.0
+MCRB:Seres Therapeutics, Inc.:0.0
+CSU:Capital Senior Living Corporation:0.0
+VTL:Vital Therapies, Inc.:0.0
+ENZ:Enzo Biochem, Inc.:0.0
+FLDM:Fluidigm Corporation:0.0
+AAC:AAC Holdings, Inc.:0.0
+SPNE:SeaSpine Holdings Corporation:0.0
+CPIX:Cumberland Pharmaceuticals Inc.:0.0
+ABUS:Tekmira Pharmaceuticals Corporation:0.0
+MNK:Mallinckrodt Public Limited Company:1.15
+VRX:Valeant Pharmaceuticals International, Inc.:3.46
+PBH:Prestige Brands Holdings, Inc.:6.0
+ESRX:Express Scripts Holding Company:10.02
+SNY:Sanofi:10.24
+PFE:Pfizer Inc.:10.37
+CVS:CVS Health Corporation:10.45
+LCI:Lannett Company, Inc.:11.65
+BIO:Bio-Rad Laboratories, Inc.:11.91
+MD:MEDNAX, Inc.:12.47
+UTHR:United Therapeutics Corporation:13.15
+ZBH:Zimmer Biomet Holdings, Inc.:13.8
+SEM:Select Medical Holdings Corporation:14.16
+UHS:Universal Health Services, Inc.:14.26
+HCA:HCA Healthcare, Inc.:14.38
+LH:Laboratory Corporation of America Holdings:15.16
+AMRX:Amneal Pharmaceuticals, Inc.:15.64
+ANTM:Anthem, Inc.:16.04
+CBM:Cambrex Corporation:17.05
+CI:Cigna Corporation:17.07
+ACHC:Acadia Healthcare Company, Inc.:17.27
+AET:Aetna Inc.:17.87
+NVO:Novo Nordisk A/S:20.11
+DGX:Quest Diagnostics Incorporated:20.14
+SNN:Smith &amp; Nephew plc:20.53
+FMS:Fresenius Medical Care AG &amp; Co. KGaA:20.63
+PRSC:The Providence Service Corporation:20.83
+PETS:PetMed Express, Inc.:21.03
+CUTR:Cutera, Inc.:21.62
+TARO:Taro Pharmaceutical Industries Ltd.:21.99
+UNH:UnitedHealth Group Incorporated:22.52
+CNC:Centene Corporation:22.56
+NVS:Novartis AG:22.66
+SVA:Sinovac Biotech Ltd.:23.38
+CELG:Celgene Corporation:23.53
+MGLN:Magellan Health, Inc.:23.65
+BIIB:Biogen Inc.:24.46
+JAZZ:Jazz Pharmaceuticals plc:24.63
+HUM:Humana Inc.:24.68
+ABBV:AbbVie Inc.:24.73
+ICLR:ICON Public Limited Company:25.99
+EXEL:Exelixis, Inc.:26.08
+ANIK:Anika Therapeutics, Inc.:26.72
+MYL:Mylan N.V.:27.04
+WCG:WellCare Health Plans, Inc.:28.34
+PKI:PerkinElmer, Inc.:28.71
+CO:Global Cord Blood Corporation:28.97
+GILD:Gilead Sciences, Inc.:29.1
+REGN:Regeneron Pharmaceuticals, Inc.:29.74
+CNMD:CONMED Corporation:30.27
+HYH:Halyard Health, Inc.:30.98
+VIVO:Meridian Bioscience, Inc.:31.27
+HRC:Hill-Rom Holdings, Inc.:31.68
+AZN:AstraZeneca PLC:32.08
+ATRI:Atrion Corporation:32.98
+ENSG:The Ensign Group, Inc.:33.04
+DVA:DaVita Inc.:33.77
+LHCG:LHC Group, Inc.:34.26
+HALO:Halozyme Therapeutics, Inc.:36.06
+RDY:Dr. Reddy&#x27;s Laboratories Limited:36.37
+TMO:Thermo Fisher Scientific Inc.:38.09
+MDT:Medtronic plc:38.39
+STE:STERIS plc:38.44
+EBS:Emergent BioSolutions Inc.:38.96
+LMNX:Luminex Corporation:40.47
+USNA:USANA Health Sciences, Inc.:40.6
+MTD:Mettler-Toledo International Inc.:41.34
+EVHC:Envision Healthcare Corporation:42.52
+GMED:Globus Medical, Inc.:43.02
+ZTS:Zoetis Inc.:43.33
+MASI:Masimo Corporation:43.83
+CRL:Charles River Laboratories International, Inc.:43.89
+CBPO:China Biologic Products Holdings, Inc.:45.75
+ADUS:Addus HomeCare Corporation:46.36
+ENTA:Enanta Pharmaceuticals, Inc.:46.46
+UTMD:Utah Medical Products, Inc.:46.99
+CCXI:ChemoCentryx, Inc.:47.1
+CHE:Chemed Corporation:47.76
+BAX:Baxter International Inc.:49.77
+TECH:Bio-Techne Corporation:51.62
+RMD:ResMed Inc.:54.3
+BRKR:Bruker Corporation:55.57
+ALXN:Alexion Pharmaceuticals, Inc.:56.47
+EW:Edwards Lifesciences Corporation:56.55
+WST:West Pharmaceutical Services, Inc.:57.04
+LPNT:LifePoint Health, Inc.:57.65
+USPH:U.S. Physical Therapy, Inc.:60.47
+OSUR:OraSure Technologies, Inc.:63.59
+AMGN:Amgen Inc.:63.81
+SYK:Stryker Corporation:65.2
+RGEN:Repligen Corporation:66.62
+NUVA:NuVasive, Inc.:67.02
+ABAX:Abaxis, Inc.:71.15
+IART:Integra LifeSciences Holdings Corporation:72.48
+IDXX:IDEXX Laboratories, Inc.:73.47
+PRAH:PRA Health Sciences, Inc.:74.02
+NEOG:Neogen Corporation:74.08
+AMED:Amedisys, Inc.:74.54
+GSK:GlaxoSmithKline plc:74.74
+ILMN:Illumina, Inc.:75.48
+ISRG:Intuitive Surgical, Inc.:76.29
+TFX:Teleflex Incorporated:76.98
+VAR:Varian Medical Systems, Inc.:78.03
+OFIX:Orthofix International N.V.:78.2
+LLY:Eli Lilly and Company:82.07
+A:Agilent Technologies, Inc.:86.91
+CTLT:Catalent, Inc.:90.17
+PRGO:Perrigo Company plc:92.33
+COO:The Cooper Companies, Inc.:92.4
+BMY:Bristol-Myers Squibb Company:100.09
+MRK:Merck &amp; Co., Inc.:108.26
+HAE:Haemonetics Corporation:109.14
+ALGN:Align Technology, Inc.:110.72
+MMSI:Merit Medical Systems, Inc.:157.57
+ABMD:ABIOMED, Inc.:163.98
+INGN:Inogen, Inc.:171.1
+DPLO:Diplomat Pharmacy, Inc.:176.44
+CIVI:Civitas Solutions, Inc.:179.67
+VRTX:Vertex Pharmaceuticals Incorporated:196.62
+JNP:Juniper Pharmaceuticals, Inc.:228.0
+ABT:Abbott Laboratories:235.43
+JNJ:Johnson &amp; Johnson:280.31
+ICUI:ICU Medical, Inc.:356.23
+BSX:Boston Scientific Corporation:417.27
+WAT:Waters Corporation:617.96
+ANGO:AngioDynamics, Inc.:623.89
+SRDX:Surmodics, Inc.:29175.0
