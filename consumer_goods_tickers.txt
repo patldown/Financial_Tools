@@ -1,3 +1,215 @@
+GLT:P. H. Glatfelter Company:432.17
+BG:Bunge Limited:171.2
+KO:The Coca-Cola Company:133.84
+HBI:Hanesbrands Inc.:114.56
+WWW:Wolverine World Wide, Inc.:109.24
+AGRO:Adecoagro S.A.:86.43
+CALM:Cal-Maine Foods, Inc.:77.09
+HELE:Helen of Troy Limited:71.75
+NKE:NIKE, Inc.:71.68
+RL:Ralph Lauren Corporation:65.56
+HOME:At Home Group Inc.:64.79
+LULU:Lululemon Athletica Inc.:57.33
+HAS:Hasbro, Inc.:56.82
+COLM:Columbia Sportswear Company:56.67
+VRA:Vera Bradley, Inc.:54.08
+VFC:V.F. Corporation:50.31
+EL:The Est\xc3\xa9e Lauder Companies Inc.:47.24
+PII:Polaris Industries Inc.:45.98
+BMS:Bemis Company, Inc.:43.14
+IRBT:iRobot Corporation:42.54
+THRM:Gentherm Incorporated:42.02
+HLF:Herbalife Nutrition Ltd.:41.59
+CVGW:Calavo Growers, Inc.:41.54
+MOD:Modine Manufacturing Company:41.36
+MNST:Monster Beverage Corporation:39.98
+BC:Brunswick Corporation:39.48
+IPAR:Inter Parfums, Inc.:38.84
+FOXF:Fox Factory Holding Corp.:38.06
+MGPI:MGP Ingredients, Inc.:37.85
+SAM:The Boston Beer Company, Inc.:37.82
+BREW:Craft Brew Alliance, Inc.:35.09
+BF-B:Brown-Forman Corporation:34.29
+PEP:PepsiCo, Inc.:33.19
+SWM:Schweitzer-Mauduit International, Inc.:33.06
+POOL:Pool Corporation:32.99
+FIZZ:National Beverage Corp.:32.87
+WHR:Whirlpool Corporation:32.78
+MNRO:Monro, Inc.:32.12
+BKI:Black Knight, Inc.:32.08
+DECK:Deckers Outdoor Corporation:31.93
+NUS:Nu Skin Enterprises, Inc.:31.63
+AVY:Avery Dennison Corporation:31.35
+BLL:Ball Corporation:31.12
+FLO:Flowers Foods, Inc.:31.01
+ENR:Energizer Holdings, Inc.:30.7
+MPX:Marine Products Corporation:30.65
+UNF:UniFirst Corporation:30.28
+LANC:Lancaster Colony Corporation:30.05
+SMP:Standard Motor Products, Inc.:29.82
+WMS:Advanced Drainage Systems, Inc.:29.8
+VGR:Vector Group Ltd.:28.84
+FBR:Fibria Celulose S.A.:28.64
+JJSF:J&amp;J Snack Foods Corp.:28.31
+ECL:Ecolab Inc.:27.94
+SON:Sonoco Products Company:27.89
+CL:Colgate-Palmolive Company:27.86
+NAV:Navistar International Corporation:27.85
+BUD:Anheuser-Busch InBev SA/NV:27.48
+SKX:Skechers U.S.A., Inc.:27.45
+ATR:AptarGroup, Inc.:27.31
+GIII:G-III Apparel Group, Ltd.:27.12
+SHOO:Steven Madden, Ltd.:26.54
+CCE:Coca-Cola European Partners plc:26.34
+POST:Post Holdings, Inc.:26.29
+SODA:SodaStream International Ltd.:26.11
+CPB:Campbell Soup Company:25.97
+JBSS:John B. Sanfilippo &amp; Son, Inc.:25.76
+TR:Tootsie Roll Industries, Inc.:25.66
+SPAR:Spartan Motors, Inc.:25.12
+MPAA:Motorcar Parts of America, Inc.:24.99
+FL:Foot Locker, Inc.:24.64
+AMWD:American Woodmark Corporation:24.5
+VC:Visteon Corporation:24.35
+HY:Hyster-Yale Materials Handling, Inc.:24.32
+ELY:Callaway Golf Company:23.69
+RCKY:Rocky Brands, Inc.:23.33
+GT:The Goodyear Tire &amp; Rubber Company:23.3
+WEYS:Weyco Group, Inc.:23.21
+ANDE:The Andersons, Inc.:23.08
+DAN:Dana Incorporated:22.97
+PHG:Koninklijke Philips N.V.:22.87
+BSET:Bassett Furniture Industries, Incorporated:22.71
+ALV:Autoliv, Inc.:22.52
+UN:Unilever N.V.:22.5
+SRI:Stoneridge, Inc.:22.42
+DORM:Dorman Products, Inc.:22.37
+UL:Unilever PLC:22.32
+JOUT:Johnson Outdoors Inc.:22.23
+PVH:PVH Corp.:22.12
+LEG:Leggett &amp; Platt, Incorporated:21.93
+DEO:Diageo plc:21.82
+CLX:The Clorox Company:21.64
+CCU:Compa\xc3\xb1\xc3\xada Cervecer\xc3\xadas Unidas S.A.:21.53
+HRL:Hormel Foods Corporation:21.44
+PM:Philip Morris International Inc.:21.43
+DPS:Dr Pepper Snapple Group, Inc.:21.24
+PG:The Procter &amp; Gamble Company:21.2
+CENT:Central Garden &amp; Pet Company:21.15
+TG:Tredegar Corporation:21.12
+SCS:Steelcase Inc.:20.97
+OXM:Oxford Industries, Inc.:20.96
+SCL:Stepan Company:20.8
+KMB:Kimberly-Clark Corporation:20.55
+BWA:BorgWarner Inc.:20.5
+CCK:Crown Holdings, Inc.:20.5
+PLOW:Douglas Dynamics, Inc.:19.96
+MDLZ:Mondelez International, Inc.:19.85
+HSY:The Hershey Company:19.84
+HNI:HNI Corporation:19.81
+LNDC:Landec Corporation:19.67
+APTV:Aptiv PLC:19.38
+FDP:Fresh Del Monte Produce Inc.:19.23
+ETH:Ethan Allen Interiors Inc.:19.11
+AKO-B:Embotelladora Andina S.A.:19.02
+CTB:Cooper Tire &amp; Rubber Company:19.01
+NP:Neenah, Inc.:18.96
+STZ:Constellation Brands, Inc.:18.87
+VCO:Vi\xc3\xb1a Concha y Toro S.A.:18.81
+LKQ:LKQ Corporation:18.72
+MKC:McCormick &amp; Company, Incorporated:18.68
+HOFT:Hooker Furniture Corporation:18.68
+LZB:La-Z-Boy Incorporated:18.47
+LMNR:Limoneira Company:18.46
+CAG:Conagra Brands, Inc.:18.45
+AAPL:Apple Inc.:18.41
+FBHS:Fortune Brands Home &amp; Security, Inc.:18.22
+CRI:Carter&#x27;s, Inc.:18.11
+GIL:Gildan Activewear Inc.:18.01
+CHD:Church &amp; Dwight Co., Inc.:18.0
+AKO-A:Embotelladora Andina S.A.:17.84
+KORS:Michael Kors Holdings Limited:17.62
+MLHR:Herman Miller, Inc.:17.58
+FMX:Fomento Econ\xc3\xb3mico Mexicano, S.A.B. de C.V.:17.24
+TVPT:Travelport Worldwide Limited:17.23
+MINI:Mobile Mini, Inc.:17.14
+TPX:Tempur Sealy International, Inc.:17.1
+K:Kellogg Company:17.05
+NLS:Nautilus, Inc.:16.95
+CPS:Cooper-Standard Holdings Inc.:16.86
+UVV:Universal Corporation:16.81
+CAL:Caleres, Inc.:16.7
+FN:Fabrinet:16.58
+ADM:Archer-Daniels-Midland Company:16.53
+PKG:Packaging Corporation of America:16.17
+GNTX:Gentex Corporation:16.15
+LDL:Lydall, Inc.:16.02
+GPK:Graphic Packaging Holding Company:15.91
+CAJ:Canon Inc.:15.62
+JCI:Johnson Controls International plc:15.58
+INGR:Ingredion Incorporated:15.55
+EBF:Ennis, Inc.:15.55
+WBC:WABCO Holdings Inc.:15.28
+SNE:Sony Corporation:15.02
+COKE:Coca-Cola Bottling Co. Consolidated:14.81
+PF:Pinnacle Foods Inc.:14.79
+HOG:Harley-Davidson, Inc.:14.62
+GEF:Greif, Inc.:14.43
+TOWR:Tower International, Inc.:14.41
+FLXS:Flexsteel Industries, Inc.:14.31
+DLPH:Delphi Technologies PLC:14.19
+OSK:Oshkosh Corporation:14.11
+DF:Dean Foods Company:13.84
+WGO:Winnebago Industries, Inc.:13.79
+BERY:Berry Global Group, Inc.:13.7
+SPWH:Sportsman&#x27;s Warehouse Holdings, Inc.:13.56
+KNL:Knoll, Inc.:13.47
+MERC:Mercer International Inc.:13.07
+SPB:Spectrum Brands Holdings, Inc.:12.87
+KS:KapStone Paper and Packaging Corporation:12.69
+OI:Owens-Illinois, Inc.:12.51
+THO:Thor Industries, Inc.:12.15
+GIS:General Mills, Inc.:11.96
+PCAR:PACCAR Inc:11.76
+CSL:Carlisle Companies Incorporated:11.76
+MLR:Miller Industries, Inc.:11.56
+SLGN:Silgan Holdings Inc.:11.4
+IBA:Industrias Bachoco, S.A.B. de C.V.:11.3
+TEN:Tenneco Inc.:11.3
+ACCO:ACCO Brands Corporation:11.23
+WNC:Wabash National Corporation:10.87
+MO:Altria Group, Inc.:10.49
+TAP:Molson Coors Brewing Company:10.48
+TTM:Tata Motors Limited:10.42
+ALSN:Allison Transmission Holdings, Inc.:10.38
+BGS:B&amp;G Foods, Inc.:10.2
+SEE:Sealed Air Corporation:10.0
+LEA:Lear Corporation:9.92
+SJM:The J. M. Smucker Company:9.85
+TSE:Trinseo S.A.:9.85
+TSN:Tyson Foods, Inc.:8.85
+WPP:WPP plc:8.64
+TM:Toyota Motor Corporation:8.57
+IP:International Paper Company:8.4
+PERY:Perry Ellis International, Inc.:8.18
+WRK:WestRock Company:7.96
+SAFM:Sanderson Farms, Inc.:7.81
+KHC:The Kraft Heinz Company:7.09
+PPC:Pilgrim&#x27;s Pride Corporation:7.08
+PBI:Pitney Bowes Inc.:6.92
+NC:NACCO Industries, Inc.:6.88
+MTOR:Meritor, Inc.:6.59
+NWL:Newell Brands Inc.:6.24
+COT:Cott Corporation:6.02
+F:Ford Motor Company:5.82
+HMC:Honda Motor Co., Ltd.:5.52
+AXL:American Axle &amp; Manufacturing Holdings, Inc.:5.52
+MHK:Mohawk Industries, Inc.:4.39
+CLW:Clearwater Paper Corporation:4.33
+VOXX:VOXX International Corporation:4.06
+AOI:Alliance One International, Inc.:2.99
+VNCE:Vince Holding Corp.:2.86
+BTI:British American Tobacco p.l.c.:2.16
 GM:General Motors Company:0.0
 TSLA:Tesla, Inc.:0.0
 KOF:Coca-Cola FEMSA, S.A.B. de C.V.:0.0
@@ -25,8 +237,8 @@ ESND:Essendant Inc.:0.0
 FARM:Farmer Bros. Co.:0.0
 UEIC:Universal Electronics Inc.:0.0
 SUP:Superior Industries International, Inc.:0.0
-SENEA:Seneca Foods Corporation:0.0
 SENEB:Seneca Foods Corporation:0.0
+SENEA:Seneca Foods Corporation:0.0
 LCUT:Lifetime Brands, Inc.:0.0
 ALCO:Alico, Inc.:0.0
 SEED:Origin Agritech Limited:0.0
@@ -34,215 +246,3 @@ MTEX:Mannatech, Incorporated:0.0
 BF-B:Brown-Forman Corporation:0.0
 ACV:AllianzGI Diversified Income &amp; Convertible Fund:0.0
 AKO-B:Embotelladora Andina S.A.:0.0
-BTI:British American Tobacco p.l.c.:2.16
-VNCE:Vince Holding Corp.:2.79
-AOI:Alliance One International, Inc.:2.99
-VOXX:VOXX International Corporation:3.98
-CLW:Clearwater Paper Corporation:4.31
-MHK:Mohawk Industries, Inc.:4.37
-AXL:American Axle &amp; Manufacturing Holdings, Inc.:5.48
-HMC:Honda Motor Co., Ltd.:5.52
-F:Ford Motor Company:5.81
-COT:Cott Corporation:6.01
-NWL:Newell Brands Inc.:6.25
-MTOR:Meritor, Inc.:6.54
-PBI:Pitney Bowes Inc.:6.87
-NC:NACCO Industries, Inc.:7.03
-KHC:The Kraft Heinz Company:7.05
-PPC:Pilgrim&#x27;s Pride Corporation:7.17
-WRK:WestRock Company:7.9
-SAFM:Sanderson Farms, Inc.:7.91
-PERY:Perry Ellis International, Inc.:8.26
-IP:International Paper Company:8.35
-TM:Toyota Motor Corporation:8.56
-WPP:WPP plc:8.63
-TSN:Tyson Foods, Inc.:8.87
-SJM:The J. M. Smucker Company:9.78
-LEA:Lear Corporation:9.82
-TSE:Trinseo S.A.:9.83
-SEE:Sealed Air Corporation:9.97
-BGS:B&amp;G Foods, Inc.:10.19
-ALSN:Allison Transmission Holdings, Inc.:10.34
-TTM:Tata Motors Limited:10.42
-MO:Altria Group, Inc.:10.47
-TAP:Molson Coors Brewing Company:10.49
-WNC:Wabash National Corporation:10.81
-IBA:Industrias Bachoco, S.A.B. de C.V.:11.24
-ACCO:ACCO Brands Corporation:11.25
-SLGN:Silgan Holdings Inc.:11.31
-TEN:Tenneco Inc.:11.32
-MLR:Miller Industries, Inc.:11.52
-PCAR:PACCAR Inc:11.68
-CSL:Carlisle Companies Incorporated:11.73
-GIS:General Mills, Inc.:11.84
-THO:Thor Industries, Inc.:12.08
-OI:Owens-Illinois, Inc.:12.39
-KS:KapStone Paper and Packaging Corporation:12.68
-SPB:Spectrum Brands Holdings, Inc.:12.87
-MERC:Mercer International Inc.:13.07
-SPWH:Sportsman&#x27;s Warehouse Holdings, Inc.:13.22
-KNL:Knoll, Inc.:13.46
-BERY:Berry Global Group, Inc.:13.65
-WGO:Winnebago Industries, Inc.:13.71
-DF:Dean Foods Company:13.9
-OSK:Oshkosh Corporation:14.08
-DLPH:Delphi Technologies PLC:14.16
-TOWR:Tower International, Inc.:14.25
-GEF:Greif, Inc.:14.32
-FLXS:Flexsteel Industries, Inc.:14.34
-HOG:Harley-Davidson, Inc.:14.68
-COKE:Coca-Cola Bottling Co. Consolidated:14.73
-PF:Pinnacle Foods Inc.:14.82
-SNE:Sony Corporation:15.0
-WBC:WABCO Holdings Inc.:15.24
-INGR:Ingredion Incorporated:15.43
-JCI:Johnson Controls International plc:15.5
-EBF:Ennis, Inc.:15.55
-CAJ:Canon Inc.:15.58
-GPK:Graphic Packaging Holding Company:15.81
-LDL:Lydall, Inc.:15.83
-GNTX:Gentex Corporation:16.02
-PKG:Packaging Corporation of America:16.06
-ADM:Archer-Daniels-Midland Company:16.45
-FN:Fabrinet:16.46
-CAL:Caleres, Inc.:16.59
-CPS:Cooper-Standard Holdings Inc.:16.77
-UVV:Universal Corporation:16.78
-NLS:Nautilus, Inc.:16.89
-K:Kellogg Company:17.05
-FMX:Fomento Econ\xc3\xb3mico Mexicano, S.A.B. de C.V.:17.1
-MINI:Mobile Mini, Inc.:17.16
-TVPT:Travelport Worldwide Limited:17.18
-TPX:Tempur Sealy International, Inc.:17.51
-KORS:Michael Kors Holdings Limited:17.57
-MLHR:Herman Miller, Inc.:17.7
-AKO-A:Embotelladora Andina S.A.:17.84
-CHD:Church &amp; Dwight Co., Inc.:17.88
-GIL:Gildan Activewear Inc.:17.96
-CRI:Carter&#x27;s, Inc.:18.07
-FBHS:Fortune Brands Home &amp; Security, Inc.:18.16
-AAPL:Apple Inc.:18.43
-HOFT:Hooker Furniture Corporation:18.51
-CAG:Conagra Brands, Inc.:18.53
-LMNR:Limoneira Company:18.53
-LKQ:LKQ Corporation:18.61
-LZB:La-Z-Boy Incorporated:18.64
-MKC:McCormick &amp; Company, Incorporated:18.67
-NP:Neenah, Inc.:18.84
-STZ:Constellation Brands, Inc.:18.95
-CTB:Cooper Tire &amp; Rubber Company:19.06
-ETH:Ethan Allen Interiors Inc.:19.07
-VCO:Vi\xc3\xb1a Concha y Toro S.A.:19.19
-APTV:Aptiv PLC:19.24
-FDP:Fresh Del Monte Produce Inc.:19.25
-AKO-B:Embotelladora Andina S.A.:19.36
-PLOW:Douglas Dynamics, Inc.:19.64
-LNDC:Landec Corporation:19.67
-HNI:HNI Corporation:19.73
-HSY:The Hershey Company:19.84
-MDLZ:Mondelez International, Inc.:19.88
-CCK:Crown Holdings, Inc.:20.33
-BWA:BorgWarner Inc.:20.35
-KMB:Kimberly-Clark Corporation:20.44
-SCL:Stepan Company:20.68
-OXM:Oxford Industries, Inc.:20.87
-TG:Tredegar Corporation:20.9
-SCS:Steelcase Inc.:20.97
-PG:The Procter &amp; Gamble Company:21.11
-CENT:Central Garden &amp; Pet Company:21.15
-DPS:Dr Pepper Snapple Group, Inc.:21.24
-HRL:Hormel Foods Corporation:21.34
-PM:Philip Morris International Inc.:21.38
-CCU:Compa\xc3\xb1\xc3\xada Cervecer\xc3\xadas Unidas S.A.:21.6
-CLX:The Clorox Company:21.63
-LEG:Leggett &amp; Platt, Incorporated:21.78
-DEO:Diageo plc:21.79
-PVH:PVH Corp.:21.89
-DORM:Dorman Products, Inc.:22.17
-UL:Unilever PLC:22.28
-ALV:Autoliv, Inc.:22.31
-SRI:Stoneridge, Inc.:22.31
-UN:Unilever N.V.:22.44
-JOUT:Johnson Outdoors Inc.:22.58
-BSET:Bassett Furniture Industries, Incorporated:22.62
-DAN:Dana Incorporated:22.71
-PHG:Koninklijke Philips N.V.:22.78
-ANDE:The Andersons, Inc.:23.02
-RCKY:Rocky Brands, Inc.:23.02
-GT:The Goodyear Tire &amp; Rubber Company:23.26
-WEYS:Weyco Group, Inc.:23.36
-ELY:Callaway Golf Company:23.64
-HY:Hyster-Yale Materials Handling, Inc.:24.16
-VC:Visteon Corporation:24.36
-FL:Foot Locker, Inc.:24.54
-MPAA:Motorcar Parts of America, Inc.:24.7
-AMWD:American Woodmark Corporation:24.77
-SPAR:Spartan Motors, Inc.:25.04
-TR:Tootsie Roll Industries, Inc.:25.39
-JBSS:John B. Sanfilippo &amp; Son, Inc.:25.74
-CPB:Campbell Soup Company:25.98
-POST:Post Holdings, Inc.:26.16
-CCE:Coca-Cola European Partners plc:26.27
-SODA:SodaStream International Ltd.:26.29
-SHOO:Steven Madden, Ltd.:26.47
-GIII:G-III Apparel Group, Ltd.:26.65
-ATR:AptarGroup, Inc.:27.09
-SKX:Skechers U.S.A., Inc.:27.39
-BUD:Anheuser-Busch InBev SA/NV:27.51
-NAV:Navistar International Corporation:27.59
-SON:Sonoco Products Company:27.65
-CL:Colgate-Palmolive Company:27.75
-ECL:Ecolab Inc.:27.85
-JJSF:J&amp;J Snack Foods Corp.:28.22
-FBR:Fibria Celulose S.A.:28.64
-VGR:Vector Group Ltd.:28.85
-SMP:Standard Motor Products, Inc.:29.52
-WMS:Advanced Drainage Systems, Inc.:29.57
-LANC:Lancaster Colony Corporation:29.88
-UNF:UniFirst Corporation:30.28
-ENR:Energizer Holdings, Inc.:30.64
-BLL:Ball Corporation:30.87
-MPX:Marine Products Corporation:30.98
-FLO:Flowers Foods, Inc.:31.03
-AVY:Avery Dennison Corporation:31.2
-NUS:Nu Skin Enterprises, Inc.:31.64
-DECK:Deckers Outdoor Corporation:31.64
-MNRO:Monro, Inc.:32.12
-BKI:Black Knight, Inc.:32.17
-FIZZ:National Beverage Corp.:32.76
-WHR:Whirlpool Corporation:32.81
-POOL:Pool Corporation:32.95
-PEP:PepsiCo, Inc.:33.03
-SWM:Schweitzer-Mauduit International, Inc.:33.05
-BF-B:Brown-Forman Corporation:34.12
-BREW:Craft Brew Alliance, Inc.:35.01
-SAM:The Boston Beer Company, Inc.:37.33
-FOXF:Fox Factory Holding Corp.:37.63
-MGPI:MGP Ingredients, Inc.:37.93
-IPAR:Inter Parfums, Inc.:38.84
-BC:Brunswick Corporation:39.46
-MNST:Monster Beverage Corporation:39.81
-CVGW:Calavo Growers, Inc.:41.32
-MOD:Modine Manufacturing Company:41.36
-HLF:Herbalife Nutrition Ltd.:41.52
-IRBT:iRobot Corporation:41.59
-THRM:Gentherm Incorporated:41.81
-BMS:Bemis Company, Inc.:43.02
-PII:Polaris Industries Inc.:45.85
-EL:The Est\xc3\xa9e Lauder Companies Inc.:47.01
-VFC:V.F. Corporation:50.09
-VRA:Vera Bradley, Inc.:53.21
-COLM:Columbia Sportswear Company:56.35
-HAS:Hasbro, Inc.:56.86
-LULU:Lululemon Athletica Inc.:57.07
-HOME:At Home Group Inc.:64.7
-RL:Ralph Lauren Corporation:64.86
-HELE:Helen of Troy Limited:71.11
-NKE:NIKE, Inc.:71.7
-CALM:Cal-Maine Foods, Inc.:77.26
-AGRO:Adecoagro S.A.:86.26
-WWW:Wolverine World Wide, Inc.:109.04
-HBI:Hanesbrands Inc.:113.94
-KO:The Coca-Cola Company:133.65
-BG:Bunge Limited:170.73
-GLT:P. H. Glatfelter Company:431.3

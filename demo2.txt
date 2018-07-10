@@ -1,0 +1,8 @@
+ICFI:ICF International, Inc. (21.53)
+KFY:Korn/Ferry International (26.65)
+RELL:Richardson Electronics, Ltd. (63.25)
+INSW:International Seaways, Inc. (0.0)
+JWN:Nordstrom, Inc. (18.89)
+NL:NL Industries, Inc. (3.66)
+JBHT:J.B. Hunt Transport Services, Inc. (19.55)
+VLRS:Controladora Vuela Compa\xc3\xb1\xc3\xada de Aviaci\xc3\xb3n, S.A.B. de C.V. (0.0)

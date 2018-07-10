@@ -6,6 +6,7 @@ from texteditor import *
 from tkinter import ttk
 from stock_pull_A_0 import *
 import threading
+import operator
 
 class gui:
     def __init__(self, master, title = 'FAT: Financial Analysis Tools'):
@@ -20,7 +21,8 @@ class gui:
         self.master.title(title)
 
         self.main_screen()
-        self.view_sector_stocks()
+        
+        self.stocks_by_sector()
 
 
     def clear_frame(self):
@@ -29,7 +31,7 @@ class gui:
 
         self.main_screen()
 
-    def view_sector_stocks(self):
+    def stocks_by_sector(self):
         ### setup to find files in the main directory to...
         home = os.getcwd()
         self.mdict = {}
@@ -41,15 +43,16 @@ class gui:
                     line = line.strip().split(':')
                     # filename : ticker : [name, E/P]
                     try:
-                        self.mdict[file][line[0]] = [line[1], line[2]]
+                        self.mdict[file][line[0]] = [line[1], float(line[2])]
                     except:
-                        self.mdict[file] = {line[0] : [line[1], line[2]]}
+                        self.mdict[file] = {line[0] : [line[1], float(line[2])]}
                 handle.close()
 
+        ### Drawing up listboxes to work with port editor
         frame1 = Frame(self.master)
         ###########################
         slabel = Label(frame1, text = 'Sectors')
-        slistbox = Listbox(frame1)
+        slistbox = Listbox(frame1, height = 10)
         sButton = Button(frame1, text = 'Push', command = lambda: self.update_tlistbox(slistbox.get(ACTIVE)))
 
         for key in self.mdict:
@@ -58,8 +61,16 @@ class gui:
 
         frame2 = Frame(self.master)
         ###########################
-        tlabel = Label(frame2, text = 'Tickers')
-        self.tlistbox = Listbox(frame2)
+        tlabel = Label(frame2, text = 'Tickers by E/P')
+        self.tlistbox = Listbox(frame2, height = 50, selectmode=MULTIPLE)
+        tButton = Button(frame2, text = 'Add', command = lambda: self.update_mlistbox(self.tlistbox.curselection()))
+
+
+        frame3 = Frame(self.master)
+        ###########################
+        mlabel = Label(frame3, text = 'Your Picks')
+        self.mlistbox = Listbox(frame3, height = 50, selectmode=MULTIPLE)
+        saveButton = Button(frame3, text = 'Export', command = self.save_new_port)
 
         slabel.pack()
         slistbox.pack()
@@ -67,24 +78,65 @@ class gui:
         frame1.pack(side = LEFT, anchor = 'n')
         tlabel.pack()
         self.tlistbox.pack()
+        tButton.pack()
         frame2.pack(side = LEFT, anchor = 'n')
+        mlabel.pack()
+        self.mlistbox.pack()
+        saveButton.pack()
+        frame3.pack(side = LEFT, anchor = 'n')
 
+    def save_new_port(self):
+        x = filedialog.asksaveasfilename(initialdir = os.getcwd())
+        handle = open(x, 'w')
+        handle.close()
+        for i, listbox_entry in enumerate(self.mlistbox.get(0, END)):
+            handle = open(x, 'a')
+            handle.write(listbox_entry + '\n')
+            handle.close()
+
+    def update_mlistbox(self, choices):
+        for item in choices:
+            self.mlistbox.insert(END, self.tlistbox.get(item))
+        self.mlistbox.config(width=0)
+        
+    
     def update_tlistbox(self, choice):
+        ### handles updating sector specific stocks for the gui
+        # renames the sector to the associated file to draw information
         choice = choice.lower().replace(' ', '_') + '_tickers.txt'
-        self.tlistbox.delete('0','end')
-        for key, value in self.mdict[choice].items():
-            self.tlistbox.insert(END, value[0] + ' - ' + value[1])
 
+        # deletes info in listbox
+        self.tlistbox.delete('0','end')
+
+        #determines max lenth of the population
+        max_len = 0
+        for key, value in self.mdict[choice].items():
+            if len(value[0]) > max_len:
+                max_len = len(value[0])
+
+        #add area to sort tickers
+
+        temp_dict = sorted(self.mdict[choice].items(), key=lambda kv: kv[1][1], reverse = True)
+        
+        print(temp_dict)
+        
+        #adds all the items to the listbox
+        for key, value in temp_dict:
+            s = max_len - len(value[0])
+            s = s * ' '
+            self.tlistbox.insert(END, key + ':' + value[0] + ' (' + str(value[1]) + ')')
+
+        #reconfigs window
         self.tlistbox.config(width=0)
                 
     def menu_(self):
         self.menubar = tk.Menu(self.master)
         self.filemenu = tk.Menu(self.menubar, tearoff = 0)
         
-        self.filemenu.add_command(label = "Close", command = '')
+##        self.filemenu.add_command(label = "Close", command = '')
 
         self.filemenu.add_separator()
-        self.filemenu.add_command(label = "Exit", command = self.master.quit)
+        self.filemenu.add_command(label = "Exit", command = lambda: self.master.destroy())
         self.menubar.add_cascade(label = "File", menu = self.filemenu)
 
         self.editmenu = tk.Menu(self.menubar, tearoff = 0)

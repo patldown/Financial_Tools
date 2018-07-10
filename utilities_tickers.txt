@@ -1,3 +1,79 @@
+NYLD-A:NRG Yield, Inc.:584.67
+NYLD:NRG Yield, Inc.:584.17
+SRE:Sempra Energy:187.96
+KEP:Korea Electric Power Corporation:128.56
+BIP:Brookfield Infrastructure Partners L.P.:103.93
+SO:The Southern Company:56.36
+EIX:Edison International:50.51
+NI:NiSource Inc.:45.63
+OKE:ONEOK, Inc.:44.21
+PNM:PNM Resources, Inc.:42.39
+CTWS:Connecticut Water Service, Inc.:39.53
+SJI:South Jersey Industries, Inc.:39.18
+CWCO:Consolidated Water Co. Ltd.:36.22
+AWK:American Water Works Company, Inc.:35.2
+AWR:American States Water Company:32.6
+YORW:The York Water Company:32.08
+ETR:Entergy Corporation:31.74
+AVA:Avista Corporation:31.59
+MSEX:Middlesex Water Company:31.16
+CWT:California Water Service Group:31.13
+HNP:Huaneng Power International, Inc.:30.14
+VVC:Vectren Corporation:27.49
+CMS:CMS Energy Corporation:26.39
+WTR:Aqua America, Inc.:26.39
+APU:AmeriGas Partners, L.P.:25.95
+AEE:Ameren Corporation:25.85
+EE:El Paso Electric Company:25.47
+ARTNA:Artesian Resources Corporation:25.21
+EDN:Empresa Distribuidora y Comercializadora Norte Sociedad An\xc3\xb3nima:25.0
+OTTR:Otter Tail Corporation:24.28
+SJW:SJW Group:24.09
+SPH:Suburban Propane Partners, L.P.:22.79
+UTL:Unitil Corporation:22.71
+ALE:ALLETE, Inc.:22.61
+MGEE:MGE Energy, Inc.:22.57
+OGS:ONE Gas, Inc.:22.47
+HE:Hawaiian Electric Industries, Inc.:22.2
+IDA:IDACORP, Inc.:21.54
+CPK:Chesapeake Utilities Corporation:21.52
+POR:Portland General Electric Company:21.37
+LNT:Alliant Energy Corporation:20.54
+XEL:Xcel Energy Inc.:20.31
+SWX:Southwest Gas Holdings, Inc.:19.62
+AEP:American Electric Power Company, Inc.:19.38
+DUK:Duke Energy Corporation:18.84
+ES:Eversource Energy:18.7
+PNW:Pinnacle West Capital Corporation:18.37
+NWE:NorthWestern Corporation:17.24
+DTE:DTE Energy Company:17.07
+CAFD:8point3 Energy Partners LP:17.01
+PEG:Public Service Enterprise Group Incorporated:16.78
+NJR:New Jersey Resources Corporation:16.64
+PPL:PPL Corporation:16.61
+WEC:WEC Energy Group, Inc.:16.54
+ATO:Atmos Energy Corporation:16.41
+CPL:CPFL Energia S.A.:16.04
+WGL:WGL Holdings, Inc.:16.04
+TGS:Transportadora de Gas del Sur S.A.:15.94
+PEGI:Pattern Energy Group Inc.:15.59
+ORA:Ormat Technologies, Inc.:15.53
+D:Dominion Energy, Inc.:15.45
+ED:Consolidated Edison, Inc.:15.45
+UGI:UGI Corporation:15.02
+PAM:Pampa Energ\xc3\xada S.A.:14.98
+SR:Spire Inc.:14.97
+PCG:PG&amp;E Corporation:14.86
+BKH:Black Hills Corporation:14.73
+EXC:Exelon Corporation:12.02
+CZZ:Cosan Limited:11.96
+OGE:OGE Energy Corp.:10.9
+NEE:NextEra Energy, Inc.:9.66
+NGG:National Grid plc:8.46
+SPKE:Spark Energy, Inc.:8.15
+SBS:Companhia de Saneamento B\xc3\xa1sico do Estado de S\xc3\xa3o Paulo - SABESP:6.71
+CNP:CenterPoint Energy, Inc.:6.66
+ELP:Companhia Paranaense de Energia - COPEL:6.32
 FE:FirstEnergy Corp.:0.0
 NRG:NRG Energy, Inc.:0.0
 BEP:Brookfield Renewable Partners L.P.:0.0
@@ -7,79 +83,3 @@ NEP:NextEra Energy Partners, LP:0.0
 TERP:TerraForm Power, Inc.:0.0
 NWN:Northwest Natural Gas Company:0.0
 TAC:TransAlta Corporation:0.0
-ELP:Companhia Paranaense de Energia - COPEL:6.26
-CNP:CenterPoint Energy, Inc.:6.68
-SBS:Companhia de Saneamento B\xc3\xa1sico do Estado de S\xc3\xa3o Paulo - SABESP:6.73
-SPKE:Spark Energy, Inc.:8.19
-NGG:National Grid plc:8.46
-NEE:NextEra Energy, Inc.:9.66
-OGE:OGE Energy Corp.:10.91
-CZZ:Cosan Limited:11.81
-EXC:Exelon Corporation:12.04
-BKH:Black Hills Corporation:14.62
-PAM:Pampa Energ\xc3\xada S.A.:14.83
-PCG:PG&amp;E Corporation:14.95
-SR:Spire Inc.:14.96
-UGI:UGI Corporation:14.99
-ED:Consolidated Edison, Inc.:15.44
-D:Dominion Energy, Inc.:15.48
-ORA:Ormat Technologies, Inc.:15.55
-PEGI:Pattern Energy Group Inc.:15.62
-TGS:Transportadora de Gas del Sur S.A.:15.83
-CPL:CPFL Energia S.A.:15.97
-WGL:WGL Holdings, Inc.:16.04
-ATO:Atmos Energy Corporation:16.38
-WEC:WEC Energy Group, Inc.:16.58
-NJR:New Jersey Resources Corporation:16.61
-PPL:PPL Corporation:16.66
-PEG:Public Service Enterprise Group Incorporated:16.81
-CAFD:8point3 Energy Partners LP:17.01
-DTE:DTE Energy Company:17.1
-NWE:NorthWestern Corporation:17.19
-PNW:Pinnacle West Capital Corporation:18.37
-ES:Eversource Energy:18.77
-DUK:Duke Energy Corporation:18.87
-AEP:American Electric Power Company, Inc.:19.46
-SWX:Southwest Gas Holdings, Inc.:19.54
-XEL:Xcel Energy Inc.:20.38
-LNT:Alliant Energy Corporation:20.57
-POR:Portland General Electric Company:21.41
-CPK:Chesapeake Utilities Corporation:21.56
-IDA:IDACORP, Inc.:21.58
-HE:Hawaiian Electric Industries, Inc.:22.24
-OGS:ONE Gas, Inc.:22.48
-MGEE:MGE Energy, Inc.:22.48
-ALE:ALLETE, Inc.:22.72
-UTL:Unitil Corporation:22.83
-SPH:Suburban Propane Partners, L.P.:22.87
-SJW:SJW Group:24.16
-OTTR:Otter Tail Corporation:24.23
-EDN:Empresa Distribuidora y Comercializadora Norte Sociedad An\xc3\xb3nima:24.54
-ARTNA:Artesian Resources Corporation:25.33
-EE:El Paso Electric Company:25.5
-AEE:Ameren Corporation:25.87
-APU:AmeriGas Partners, L.P.:26.06
-WTR:Aqua America, Inc.:26.39
-CMS:CMS Energy Corporation:26.43
-VVC:Vectren Corporation:27.55
-HNP:Huaneng Power International, Inc.:30.03
-CWT:California Water Service Group:31.01
-MSEX:Middlesex Water Company:31.07
-AVA:Avista Corporation:31.56
-ETR:Entergy Corporation:31.8
-YORW:The York Water Company:32.13
-AWR:American States Water Company:32.48
-AWK:American Water Works Company, Inc.:35.31
-CWCO:Consolidated Water Co. Ltd.:35.81
-SJI:South Jersey Industries, Inc.:39.34
-CTWS:Connecticut Water Service, Inc.:39.46
-PNM:PNM Resources, Inc.:42.61
-OKE:ONEOK, Inc.:44.18
-NI:NiSource Inc.:45.72
-EIX:Edison International:50.54
-SO:The Southern Company:56.53
-BIP:Brookfield Infrastructure Partners L.P.:104.47
-KEP:Korea Electric Power Corporation:128.47
-SRE:Sempra Energy:188.45
-NYLD-A:NRG Yield, Inc.:585.33
-NYLD:NRG Yield, Inc.:585.83

@@ -92,7 +92,6 @@ class asset:
                         self.dates.append(datetime.datetime.fromtimestamp(int(data[1])).strftime('%m/%d/%Y'))
                         
 
-        self.volume
         self.close_prices = self.close_prices[::-1]
         self.dates = self.dates[::-1]
                         
@@ -302,6 +301,10 @@ def reg_call():
 def download_data():
     import time
     from tkinter import filedialog
+
+    for file in os.listdir(os.getcwd()):
+        if '.csv' in file.lower():
+            os.remove(os.path.join(os.getcwd(), file))
     
     portfolio = filedialog.askopenfilename(initialdir = os.getcwd())
     file_name,w_capital, ror, short, high_perf, low_perf, months = read_params()
@@ -318,7 +321,7 @@ def download_data():
         while threading.active_count() > 5:
             time.sleep(1)
 
-    while threading.active_count() > 1:
+    while threading.active_count() > 3:
         time.sleep(1)
 
     ### combination file is created here
@@ -357,7 +360,7 @@ def update_sector_populations():
                         if sobj != '':
                             data.append([sobj, name, float(p_e)])
             offset += 100
-        data.sort(key = itemgetter(2), reverse=False)
+        data.sort(key = itemgetter(2), reverse=True)
         for line in data:
             line[2] = str(line[2])
             handle.write(':'.join(line) + '\n')
