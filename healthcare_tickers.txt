@@ -1,32 +1,32 @@
 SRDX:Surmodics, Inc.:29150.0
 ANGO:AngioDynamics, Inc.:627.22
-WAT:Waters Corporation:618.76
-BSX:Boston Scientific Corporation:414.2
+WAT:Waters Corporation:618.95
+BSX:Boston Scientific Corporation:414.32
 ICUI:ICU Medical, Inc.:358.22
-JNJ:Johnson &amp; Johnson:281.77
+JNJ:Johnson &amp; Johnson:281.81
 ABT:Abbott Laboratories:235.24
 JNP:Juniper Pharmaceuticals, Inc.:228.5
 VRTX:Vertex Pharmaceuticals Incorporated:198.09
 CIVI:Civitas Solutions, Inc.:180.22
-DPLO:Diplomat Pharmacy, Inc.:175.03
+DPLO:Diplomat Pharmacy, Inc.:174.97
 INGN:Inogen, Inc.:171.48
 ABMD:ABIOMED, Inc.:165.37
 MMSI:Merit Medical Systems, Inc.:158.29
 ALGN:Align Technology, Inc.:111.61
-HAE:Haemonetics Corporation:109.52
+HAE:Haemonetics Corporation:109.44
 MRK:Merck &amp; Co., Inc.:108.16
-BMY:Bristol-Myers Squibb Company:100.16
+BMY:Bristol-Myers Squibb Company:100.14
 COO:The Cooper Companies, Inc.:92.7
 PRGO:Perrigo Company plc:92.63
-CTLT:Catalent, Inc.:90.58
-A:Agilent Technologies, Inc.:87.39
-LLY:Eli Lilly and Company:82.3
+CTLT:Catalent, Inc.:90.54
+A:Agilent Technologies, Inc.:87.34
+LLY:Eli Lilly and Company:82.29
 OFIX:Orthofix International N.V.:78.32
-VAR:Varian Medical Systems, Inc.:77.68
-TFX:Teleflex Incorporated:77.08
+VAR:Varian Medical Systems, Inc.:77.7
+TFX:Teleflex Incorporated:77.05
 ISRG:Intuitive Surgical, Inc.:76.65
 ILMN:Illumina, Inc.:75.5
-GSK:GlaxoSmithKline plc:74.79
+GSK:GlaxoSmithKline plc:74.78
 AMED:Amedisys, Inc.:74.63
 NEOG:Neogen Corporation:74.2
 PRAH:PRA Health Sciences, Inc.:74.07
@@ -35,44 +35,44 @@ IART:Integra LifeSciences Holdings Corporation:72.22
 ABAX:Abaxis, Inc.:71.15
 NUVA:NuVasive, Inc.:67.11
 RGEN:Repligen Corporation:66.54
-SYK:Stryker Corporation:65.27
+SYK:Stryker Corporation:65.26
 AMGN:Amgen Inc.:64.12
 OSUR:OraSure Technologies, Inc.:63.81
-USPH:U.S. Physical Therapy, Inc.:60.13
+USPH:U.S. Physical Therapy, Inc.:59.95
 LPNT:LifePoint Health, Inc.:57.59
-WST:West Pharmaceutical Services, Inc.:57.15
+WST:West Pharmaceutical Services, Inc.:57.14
 ALXN:Alexion Pharmaceuticals, Inc.:56.74
-EW:Edwards Lifesciences Corporation:56.59
+EW:Edwards Lifesciences Corporation:56.6
 BRKR:Bruker Corporation:55.32
 RMD:ResMed Inc.:54.35
 TECH:Bio-Techne Corporation:51.62
 BAX:Baxter International Inc.:49.82
-CHE:Chemed Corporation:47.62
+CHE:Chemed Corporation:47.55
 CCXI:ChemoCentryx, Inc.:47.31
 UTMD:Utah Medical Products, Inc.:46.68
 ENTA:Enanta Pharmaceuticals, Inc.:46.43
 CBPO:China Biologic Products Holdings, Inc.:46.14
 ADUS:Addus HomeCare Corporation:46.04
-CRL:Charles River Laboratories International, Inc.:44.08
+CRL:Charles River Laboratories International, Inc.:44.07
 MASI:Masimo Corporation:43.9
-ZTS:Zoetis Inc.:43.34
-GMED:Globus Medical, Inc.:43.04
+ZTS:Zoetis Inc.:43.35
+GMED:Globus Medical, Inc.:43.02
 EVHC:Envision Healthcare Corporation:42.56
-MTD:Mettler-Toledo International Inc.:41.39
+MTD:Mettler-Toledo International Inc.:41.38
 LMNX:Luminex Corporation:40.68
-USNA:USANA Health Sciences, Inc.:40.61
+USNA:USANA Health Sciences, Inc.:40.58
 EBS:Emergent BioSolutions Inc.:38.96
 STE:STERIS plc:38.63
 MDT:Medtronic plc:38.5
-TMO:Thermo Fisher Scientific Inc.:38.08
+TMO:Thermo Fisher Scientific Inc.:38.09
 RDY:Dr. Reddy&#x27;s Laboratories Limited:36.38
 HALO:Halozyme Therapeutics, Inc.:36.06
 LHCG:LHC Group, Inc.:34.24
-DVA:DaVita Inc.:33.64
+DVA:DaVita Inc.:33.65
 ENSG:The Ensign Group, Inc.:33.21
 ATRI:Atrion Corporation:32.84
 AZN:AstraZeneca PLC:32.16
-HRC:Hill-Rom Holdings, Inc.:31.69
+HRC:Hill-Rom Holdings, Inc.:31.68
 VIVO:Meridian Bioscience, Inc.:31.27
 HYH:Halyard Health, Inc.:30.98
 CNMD:CONMED Corporation:30.24
@@ -80,7 +80,7 @@ REGN:Regeneron Pharmaceuticals, Inc.:29.72
 GILD:Gilead Sciences, Inc.:29.19
 CO:Global Cord Blood Corporation:28.84
 PKI:PerkinElmer, Inc.:28.74
-WCG:WellCare Health Plans, Inc.:28.4
+WCG:WellCare Health Plans, Inc.:28.39
 MYL:Mylan N.V.:27.08
 ANIK:Anika Therapeutics, Inc.:27.0
 EXEL:Exelixis, Inc.:26.39
@@ -98,33 +98,33 @@ CNC:Centene Corporation:22.48
 TARO:Taro Pharmaceutical Industries Ltd.:22.06
 CUTR:Cutera, Inc.:21.71
 PETS:PetMed Express, Inc.:21.38
-FMS:Fresenius Medical Care AG &amp; Co. KGaA:20.66
+FMS:Fresenius Medical Care AG &amp; Co. KGaA:20.67
 SNN:Smith &amp; Nephew plc:20.59
 NVO:Novo Nordisk A/S:20.14
 DGX:Quest Diagnostics Incorporated:20.13
 PRSC:The Providence Service Corporation:19.99
 AET:Aetna Inc.:17.87
 ACHC:Acadia Healthcare Company, Inc.:17.39
-CBM:Cambrex Corporation:17.09
-CI:Cigna Corporation:17.08
+CBM:Cambrex Corporation:17.1
+CI:Cigna Corporation:17.09
 ANTM:Anthem, Inc.:16.0
 AMRX:Amneal Pharmaceuticals, Inc.:15.69
 LH:Laboratory Corporation of America Holdings:15.2
 HCA:HCA Healthcare, Inc.:14.4
 UHS:Universal Health Services, Inc.:14.33
-SEM:Select Medical Holdings Corporation:14.18
+SEM:Select Medical Holdings Corporation:14.11
 ZBH:Zimmer Biomet Holdings, Inc.:13.88
 UTHR:United Therapeutics Corporation:13.05
-MD:MEDNAX, Inc.:12.47
-BIO:Bio-Rad Laboratories, Inc.:11.9
-LCI:Lannett Company, Inc.:11.79
+MD:MEDNAX, Inc.:12.46
+BIO:Bio-Rad Laboratories, Inc.:11.89
+LCI:Lannett Company, Inc.:11.75
 CVS:CVS Health Corporation:10.46
 PFE:Pfizer Inc.:10.4
-SNY:Sanofi:10.29
 ESRX:Express Scripts Holding Company:10.06
 PBH:Prestige Brands Holdings, Inc.:6.04
 VRX:Valeant Pharmaceuticals International, Inc.:3.48
 MNK:Mallinckrodt Public Limited Company:1.14
+SNY:Sanofi:0.0
 BDX:Becton, Dickinson and Company:0.0
 AGN:Allergan plc:0.0
 TEVA:Teva Pharmaceutical Industries Limited:0.0
@@ -182,8 +182,8 @@ BEAT:BioTelemetry, Inc.:0.0
 MRTX:Mirati Therapeutics, Inc.:0.0
 TXMD:TherapeuticsMD, Inc.:0.0
 KANG:iKang Healthcare Group, Inc.:0.0
-ACOR:Acorda Therapeutics, Inc.:0.0
 ARWR:Arrowhead Pharmaceuticals, Inc.:0.0
+ACOR:Acorda Therapeutics, Inc.:0.0
 GKOS:Glaukos Corporation:0.0
 QURE:uniQure N.V.:0.0
 PCRX:Pacira Pharmaceuticals, Inc.:0.0
@@ -195,8 +195,8 @@ ECYT:Endocyte, Inc.:0.0
 KPTI:Karyopharm Therapeutics Inc.:0.0
 ITCI:Intra-Cellular Therapies, Inc.:0.0
 CRY:CryoLife, Inc.:0.0
-ADAP:Adaptimmune Therapeutics plc:0.0
 ALOG:Analogic Corporation:0.0
+ADAP:Adaptimmune Therapeutics plc:0.0
 KTWO:K2M Group Holdings, Inc.:0.0
 EPZM:Epizyme, Inc.:0.0
 MGNX:MacroGenics, Inc.:0.0

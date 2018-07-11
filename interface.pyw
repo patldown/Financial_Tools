@@ -62,14 +62,14 @@ class gui:
         frame2 = Frame(self.master)
         ###########################
         tlabel = Label(frame2, text = 'Tickers by E/P')
-        self.tlistbox = Listbox(frame2, height = 50, selectmode=MULTIPLE)
+        self.tlistbox = Listbox(frame2, height = 35, selectmode=MULTIPLE)
         tButton = Button(frame2, text = 'Add', command = lambda: self.update_mlistbox(self.tlistbox.curselection()))
 
 
         frame3 = Frame(self.master)
         ###########################
         mlabel = Label(frame3, text = 'Your Picks')
-        self.mlistbox = Listbox(frame3, height = 50, selectmode=MULTIPLE)
+        self.mlistbox = Listbox(frame3, height = 35, selectmode=MULTIPLE)
         saveButton = Button(frame3, text = 'Export', command = self.save_new_port)
 
         slabel.pack()

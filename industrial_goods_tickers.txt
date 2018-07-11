@@ -1,93 +1,93 @@
 KRNT:Kornit Digital Ltd.:2243.75
-TNC:Tennant Company:1467.59
+TNC:Tennant Company:1466.67
 ATRO:Astronics Corporation:96.39
-USG:USG Corporation:91.37
-GDI:Gardner Denver Holdings, Inc.:87.43
+USG:USG Corporation:91.33
+GDI:Gardner Denver Holdings, Inc.:87.37
 AVAV:AeroVironment, Inc.:86.62
 CECE:CECO Environmental Corp.:83.08
-BDC:Belden Inc.:78.38
-AIR:AAR Corp.:69.91
+BDC:Belden Inc.:78.39
+AIR:AAR Corp.:69.76
 ZBRA:Zebra Technologies Corporation:68.97
-THR:Thermon Group Holdings, Inc.:65.86
-HON:Honeywell International Inc.:64.43
+THR:Thermon Group Holdings, Inc.:65.89
+HON:Honeywell International Inc.:64.42
 TWIN:Twin Disc, Incorporated:63.71
 FLR:Fluor Corporation:62.04
-AIN:Albany International Corp.:61.98
-PRLB:Proto Labs, Inc.:60.49
+AIN:Albany International Corp.:61.93
+PRLB:Proto Labs, Inc.:60.44
 GTLS:Chart Industries, Inc.:56.65
 KLXI:KLX Inc.:55.8
 B:Barnes Group Inc.:54.89
-ROK:Rockwell Automation Inc.:53.59
-JHX:James Hardie Industries plc:49.82
+ROK:Rockwell Automation Inc.:53.6
 LNN:Lindsay Corporation:49.79
-JBT:John Bean Technologies Corporation:46.63
+JHX:James Hardie Industries plc:49.73
+JBT:John Bean Technologies Corporation:46.56
 CMCO:Columbus McKinnon Corporation:45.85
 HI:Hillenbrand, Inc.:45.82
-HEI:HEICO Corporation:45.54
-TXT:Textron Inc.:45.08
+HEI:HEICO Corporation:45.52
+TXT:Textron Inc.:45.09
 ESL:Esterline Technologies Corporation:44.2
-IBP:Installed Building Products, Inc.:43.23
+IBP:Installed Building Products, Inc.:43.15
 MCRN:Milacron Holdings Corp.:42.94
 SNHY:Sun Hydraulics Corporation:42.72
 DCI:Donaldson Company, Inc.:41.74
+NCS:NCI Building Systems, Inc.:41.52
 ERII:Energy Recovery, Inc.:41.44
-NCS:NCI Building Systems, Inc.:41.42
 HDNG:Hardinge Inc.:41.11
 WY:Weyerhaeuser Company:40.66
 BWXT:BWX Technologies, Inc.:40.62
-BGG:Briggs &amp; Stratton Corporation:40.39
-SXI:Standex International Corporation:40.33
-TS:Tenaris S.A.:39.89
+SXI:Standex International Corporation:40.35
+BGG:Briggs &amp; Stratton Corporation:40.33
+TS:Tenaris S.A.:39.87
 ROLL:RBC Bearings Incorporated:39.45
-ORN:Orion Group Holdings, Inc.:39.36
-HEI-A:HEICO Corporation:38.7
+ORN:Orion Group Holdings, Inc.:39.45
+HEI-A:HEICO Corporation:38.73
 AAON:AAON, Inc.:38.33
-CAT:Caterpillar Inc.:38.17
+CAT:Caterpillar Inc.:38.18
 TREX:Trex Company, Inc.:37.85
 LMT:Lockheed Martin Corporation:37.67
 BLDR:Builders FirstSource, Inc.:36.2
 PLPC:Preformed Line Products Company:35.93
-WTS:Watts Water Technologies, Inc.:35.84
-RYI:Ryerson Holding Corporation:35.7
-SKY:Skyline Champion Corporation:35.42
+WTS:Watts Water Technologies, Inc.:35.8
+RYI:Ryerson Holding Corporation:35.63
+SKY:Skyline Champion Corporation:35.46
 LXFR:Luxfer Holdings PLC:35.21
-XYL:Xylem Inc.:34.96
+XYL:Xylem Inc.:34.97
 AOS:A. O. Smith Corporation:34.7
 CSTE:Caesarstone Ltd.:34.2
 ASTE:Astec Industries, Inc.:33.94
-KAMN:Kaman Corporation:33.51
-KAI:Kadant Inc.:32.76
+KAMN:Kaman Corporation:33.5
 SHLO:Shiloh Industries, Inc.:32.73
-CNHI:CNH Industrial N.V.:32.61
-RYN:Rayonier Inc.:32.59
+KAI:Kadant Inc.:32.72
+CNHI:CNH Industrial N.V.:32.59
+RYN:Rayonier Inc.:32.58
 CVCO:Cavco Industries, Inc.:32.51
 SSD:Simpson Manufacturing Co., Inc.:31.9
 BECN:Beacon Roofing Supply, Inc.:30.91
-VMI:Valmont Industries, Inc.:30.39
-GRC:The Gorman-Rupp Company:30.32
-MOG-A:Moog Inc.:30.25
+VMI:Valmont Industries, Inc.:30.36
+GRC:The Gorman-Rupp Company:30.31
+MOG-A:Moog Inc.:30.24
 LII:Lennox International Inc.:30.12
 IEX:IDEX Corporation:29.91
-MMM:3M Company:29.85
+MMM:3M Company:29.84
 WCN:Waste Connections, Inc.:29.64
 CLH:Clean Harbors, Inc.:29.54
-SPR:Spirit AeroSystems Holdings, Inc.:29.47
+SPR:Spirit AeroSystems Holdings, Inc.:29.46
 AZZ:AZZ Inc.:29.33
 WWD:Woodward, Inc.:29.02
-GGG:Graco Inc.:28.99
+GGG:Graco Inc.:28.98
 TRS:TriMas Corporation:28.64
 ROP:Roper Technologies, Inc.:28.43
 RAVN:Raven Industries, Inc.:28.32
 GVA:Granite Construction Incorporated:28.26
 CFX:Colfax Corporation:28.21
-RTN:Raytheon Company:28.19
+RTN:Raytheon Company:28.2
 VMC:Vulcan Materials Company:28.12
-ITT:ITT Inc.:28.09
-CR:Crane Co.:27.99
-FIX:Comfort Systems USA, Inc.:27.98
-ERJ:Embraer S.A.:27.97
-ENS:EnerSys:27.9
-DHR:Danaher Corporation:27.73
+ITT:ITT Inc.:28.08
+CR:Crane Co.:27.98
+ERJ:Embraer S.A.:27.96
+FIX:Comfort Systems USA, Inc.:27.95
+ENS:EnerSys:27.89
+DHR:Danaher Corporation:27.72
 ITW:Illinois Tool Works Inc.:27.64
 DY:Dycom Industries, Inc.:27.52
 FLOW:SPX FLOW, Inc.:27.41
@@ -99,95 +99,95 @@ TTC:The Toro Company:26.45
 NOC:Northrop Grumman Corporation:26.29
 PCH:PotlatchDeltic Corporation:25.97
 DE:Deere &amp; Company:25.91
-OC:Owens Corning:25.9
+OC:Owens Corning:25.91
 AIMC:Altra Industrial Motion Corp.:25.74
 EMR:Emerson Electric Co.:25.43
 MYRG:MYR Group Inc.:24.71
 CMI:Cummins Inc.:24.67
 COL:Rockwell Collins, Inc.:24.66
 TILE:Interface, Inc.:24.49
-SUM:Summit Materials, Inc.:24.15
+SUM:Summit Materials, Inc.:24.14
 CW:Curtiss-Wright Corporation:24.07
 LECO:Lincoln Electric Holdings, Inc.:23.78
-AME:AMETEK, Inc.:23.53
-CX:CEMEX, S.A.B. de C.V.:23.4
-AWI:Armstrong World Industries, Inc.:23.33
+AME:AMETEK, Inc.:23.52
+CX:CEMEX, S.A.B. de C.V.:23.43
+AWI:Armstrong World Industries, Inc.:23.31
 BA:The Boeing Company:23.06
-ABB:ABB Ltd:22.92
+ABB:ABB Ltd:22.93
 AGCO:AGCO Corporation:22.86
-ALG:Alamo Group Inc.:22.84
+ALG:Alamo Group Inc.:22.83
 UTX:United Technologies Corporation:22.73
 MAS:Masco Corporation:22.71
 STRL:Sterling Construction Company, Inc.:22.32
-HXL:Hexcel Corporation:22.2
-NVR:NVR, Inc.:22.08
-LLL:L3 Technologies, Inc.:21.97
-MLI:Mueller Industries, Inc.:21.86
+HXL:Hexcel Corporation:22.21
+NVR:NVR, Inc.:22.07
+LLL:L3 Technologies, Inc.:21.98
+MLI:Mueller Industries, Inc.:21.87
 CAE:CAE Inc.:21.74
 PH:Parker-Hannifin Corporation:21.68
-RXN:Rexnord Corporation:21.56
-TEX:Terex Corporation:21.39
-KBH:KB Home:21.35
-FSS:Federal Signal Corporation:21.3
-AMN:AMN Healthcare Services, Inc.:21.11
+RXN:Rexnord Corporation:21.57
+TEX:Terex Corporation:21.38
+FSS:Federal Signal Corporation:21.29
+KBH:KB Home:21.26
+AMN:AMN Healthcare Services, Inc.:21.09
 MLM:Martin Marietta Materials, Inc.:21.04
-NX:Quanex Building Products Corporation:20.92
-SWK:Stanley Black &amp; Decker, Inc.:20.91
+SWK:Stanley Black &amp; Decker, Inc.:20.92
+NX:Quanex Building Products Corporation:20.86
 NDSN:Nordson Corporation:20.52
-EXP:Eagle Materials Inc.:20.4
+EXP:Eagle Materials Inc.:20.39
 PRIM:Primoris Services Corporation:20.27
 EME:EMCOR Group, Inc.:20.17
-UFI:Unifi, Inc.:19.98
-RGR:Sturm, Ruger &amp; Company, Inc.:19.97
+UFI:Unifi, Inc.:19.96
 MIDD:The Middleby Corporation:19.95
+RGR:Sturm, Ruger &amp; Company, Inc.:19.93
 HCCI:Heritage-Crystal Clean, Inc:19.92
 GD:General Dynamics Corporation:19.82
-MDU:MDU Resources Group, Inc.:19.78
+MDU:MDU Resources Group, Inc.:19.77
 CBPX:Continental Building Products, Inc.:19.77
 HII:Huntington Ingalls Industries, Inc.:19.66
-DCO:Ducommun Incorporated:19.59
+DCO:Ducommun Incorporated:19.62
 KMT:Kennametal Inc.:19.47
 SPXC:SPX Corporation:19.29
-GNRC:Generac Holdings Inc.:19.24
-NPK:National Presto Industries, Inc.:18.53
+GNRC:Generac Holdings Inc.:19.25
+NPK:National Presto Industries, Inc.:18.56
 APOG:Apogee Enterprises, Inc.:18.43
-IR:Ingersoll-Rand Plc:17.94
-WM:Waste Management, Inc.:17.92
+IR:Ingersoll-Rand Plc:17.93
+WM:Waste Management, Inc.:17.91
 PWR:Quanta Services, Inc.:17.82
 UFPI:Universal Forest Products, Inc.:17.76
-MWA:Mueller Water Products, Inc.:17.58
+MWA:Mueller Water Products, Inc.:17.59
 RSG:Republic Services, Inc.:17.56
-RBC:Regal Beloit Corporation:17.39
+RBC:Regal Beloit Corporation:17.38
 USLM:United States Lime &amp; Minerals, Inc.:17.15
 PHM:PulteGroup, Inc.:16.92
 SNA:Snap-on Incorporated:16.72
-TMHC:Taylor Morrison Home Corporation:16.4
+TMHC:Taylor Morrison Home Corporation:16.39
 BCC:Boise Cascade Company:16.12
 CRS:Carpenter Technology Corporation:15.62
-BLD:TopBuild Corp.:15.53
-DAR:Darling Ingredients Inc.:15.34
+BLD:TopBuild Corp.:15.52
+DAR:Darling Ingredients Inc.:15.33
 DOV:Dover Corporation:15.23
 PATK:Patrick Industries, Inc.:14.81
 LEN:Lennar Corporation:14.61
 BRSS:Global Brass and Copper Holdings, Inc.:14.57
 TKR:The Timken Company:14.26
 DOOR:Masonite International Corporation:14.06
-CCS:Century Communities, Inc.:13.89
-DHI:D.R. Horton, Inc.:13.86
-NWHM:The New Home Company Inc.:13.85
+CCS:Century Communities, Inc.:13.87
+DHI:D.R. Horton, Inc.:13.85
+NWHM:The New Home Company Inc.:13.81
 CRH:CRH plc:13.69
-MTZ:MasTec, Inc.:13.18
+MTZ:MasTec, Inc.:13.17
 HOLI:Hollysys Automation Technologies Ltd.:13.08
 MTH:Meritage Homes Corporation:11.76
-PNR:Pentair plc:11.69
+PNR:Pentair plc:11.68
 MHO:M/I Homes, Inc.:11.68
 TPH:TRI Pointe Group, Inc.:11.6
-AGX:Argan, Inc.:11.58
+AGX:Argan, Inc.:11.57
 ETN:Eaton Corporation plc:11.46
 MDC:M.D.C. Holdings, Inc.:11.37
 TOL:Toll Brothers, Inc.:10.35
 CVA:Covanta Holding Corporation:7.25
-GFF:Griffon Corporation:6.59
+GFF:Griffon Corporation:6.57
 TPC:Tutor Perini Corporation:6.34
 CYD:China Yuchai International Limited:5.84
 NNBR:NN, Inc.:3.51
@@ -220,8 +220,8 @@ GHM:Graham Corporation:0.0
 XRM:Xerium Technologies, Inc.:0.0
 LYTS:LSI Industries Inc.:0.0
 AP:Ampco-Pittsburgh Corporation:0.0
-XONE:The ExOne Company:0.0
 GFA:Gafisa S.A.:0.0
+XONE:The ExOne Company:0.0
 AMSC:American Superconductor Corporation:0.0
 SCX:The L.S. Starrett Company:0.0
 MOG-A:Moog Inc. Class A:0.0

@@ -1,7 +1,7 @@
 gui
-50000
+25000
 .1
 False
-0
-0
-20
+False
+False
+60
