@@ -116,61 +116,59 @@ class gui:
 
         ### setup frame1 ##########
         frame1 = Frame(self.master)
+        flabel = Label(frame1, text = 'Currently Downloaded')
         self.flistbox = Listbox(frame1, height = 35)
         fButton = Button(frame1, text = 'Graph', command = lambda: self.plot_file(self.flistbox.get(ACTIVE)))#threading.Thread(target = self.plot_file, args =[self.flistbox.get(ACTIVE)]).start())#
+        dButton = Button(frame1, text = 'Remove', command = '')
         
         for file in os.listdir(os.getcwd()):
             if '.csv' in file.lower() and 'combination' not in file.lower():
                 self.flistbox.insert(END, file)
 
+        ### setup frame2 ##########
+        frame2 = Frame(self.master)
+        plabel = Label(frame2, text = 'Current Portfolio')
+        self.plistbox = Listbox(frame2, height = 35)
+
+        handle = open('curr_port.info', 'r')
+        reader = handle.readlines()
+        handle.close()
+
+        handle = open(reader[0].strip(), 'r')
+        reader = handle.readlines()
+        handle.close()
+        for line in reader:
+            self.plistbox.insert(END, line.strip())
+
+        self.plistbox.config(width=0)
+
+        ### Pack the goods
+        flabel.pack()
         self.flistbox.pack()
         fButton.pack()
+        dButton.pack()
         frame1.pack(side = LEFT, anchor = 'n')
-        ######################################
 
-##    def plot_file(self, file):
-##
-##        plt.clf()
-##        
-##        X = []
-##        Y = []
-##        I = []
-##        J = []
-##        K = []
-##
-##        x = 0
-##        handle = open(file, 'r', newline = '')
-##        reader = handle.readlines()
-##        for line in reader:
-##            line = line.strip().split(',')
-##            X.append(x)
-##            Y.append(float(line[1]))
-##            I.append(float(line[2]))
-##            J.append(float(line[3]))
-##            K.append(float(line[4]))
-##            x += 1
-##
-##        min_rng = min(Y) - (min(Y) * .05)
-##        max_rng = max(Y) + (max(Y) * .05)
-##
-##        plt.xlabel('this is x!')
-##        plt.ylabel('this is y!')
-##        plt.plot(Y)
-##        plt.plot(I)
-##        plt.plot(J)
-##        plt.plot(K)
-##        plt.axis([0, len(X), min_rng, max_rng])
-##        
-##        plt.show()
+        plabel.pack()
+        self.plistbox.pack()
+        frame2.pack(side = LEFT, anchor = 'n')
 
     def plot_file(self, file):
+        '''
+           Plots ticker data to tkinter window
+        '''
+
+        ### clear any plots/refresh window
         self.plot_view()
 
+        ### set style
         mpl.pyplot.style.use('ggplot')
-        
+
+        ### creates canvas to load plots onto
         canvas = tk.Canvas(self.master, width=self.width, height=self.height, background = self.mcolor_theme)
         canvas.pack()
-        
+
+        ### Reads in infromation from ticker file
         X = []
         Y = []
         I = []
@@ -189,9 +187,11 @@ class gui:
             K.append(float(line[4]))
             x += 1
 
+        ### determines view range for plot
         min_rng = min(Y) - (min(Y) * .1)
         max_rng = max(Y) + (max(Y) * .1)
 
+        ### creates population plot here
         fig = mpl.figure.Figure(figsize=(10, 8))
         ax = fig.add_subplot(211)
         ax.plot(X, Y)
@@ -204,7 +204,8 @@ class gui:
 
         min_rng = min(Y[-60:]) - (min(Y[-60:]) * .1)
         max_rng = max(Y[-60:]) + (max(Y[-60:]) * .1)
-        
+
+        ### creates sample 60 days plot here
         ax1 = fig.add_subplot(212)
         ax1.plot(Y[-60:])
         ax1.plot(I[-60:], '--')
@@ -217,7 +218,8 @@ class gui:
         fig_x, fig_y = 10, 10
         fig_photo = draw_figure(canvas, fig, loc=(fig_x, fig_y))
 
-        tk.mainloop()        
+        ### returns to mainloop
+        tk.mainloop()
 
     def save_new_port(self):
         x = filedialog.asksaveasfilename(initialdir = os.getcwd())
@@ -237,6 +239,10 @@ class gui:
         self.mlistbox.config(width=0)
 
     def update_mlistbox(self, choices):
+        '''
+           Function to move the selection in tlistbox (ticker listbox)
+           to mlistbox (portfolio listbox)
+        '''
         for item in choices:
             #print(self.tlistbox.get(item), self.mlistbox.get(0, "end"))
             if self.tlistbox.get(item) not in self.mlistbox.get(0, "end"):
@@ -247,8 +253,11 @@ class gui:
         
     
     def update_tlistbox(self, choice):
-        ### handles updating sector specific stocks for the gui
-        # renames the sector to the associated file to draw information
+        '''
+           handles updating sector specific stocks for the gui
+           renames the sector to the associated file to draw information
+        '''
+        
         choice = choice.lower().replace(' ', '_') + '_tickers.txt'
 
         # deletes info in listbox
@@ -270,7 +279,7 @@ class gui:
         for key, value in temp_dict:
             s = max_len - len(value[0])
             s = s * ' '
-            self.tlistbox.insert(END, key + ':' + value[0] + ' (' + str(value[1]) + ')')
+            self.tlistbox.insert(END, key + ':' + value[0] + ' (P/E ratio: ' + str(value[1]) + ')')
 
         #reconfigs window
         self.tlistbox.config(width=0)
@@ -296,7 +305,7 @@ class gui:
 
         ### Views Dropdown
         self.viewsmenu = tk.Menu(self.menubar, tearoff = 0)
-        self.viewsmenu.add_command(label="Sector/Stock (E/P Ratio) View", command = self.stocks_by_sector)
+        self.viewsmenu.add_command(label="Sector/Stock (P/E Ratio) View", command = self.stocks_by_sector)
         self.viewsmenu.add_separator()
         self.viewsmenu.add_command(label="Run Charts View", command = self.plot_view)
         self.menubar.add_cascade(label = "Views", menu = self.viewsmenu)

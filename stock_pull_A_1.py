@@ -14,6 +14,8 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 import threading
 from graphics_A_0 import *
 from operator import *
+import asyncio
+from aiohttp import ClientSession
 
 
 class asset:
@@ -442,6 +444,17 @@ def reg_overlay(function = reg_call):
                 x += 1
     print(new_dict)
 
+def async_handler(nlist, data_set, x):
+    loop = asyncio.get_event_loop()
+    start = time.time()
+    tasks = []
+    for ticker in nlist:
+        task = asyncio.ensure_future(draw_stats(ticker, data_set, x))
+        tasks.append(task)
+    loop.run_until_complete(asyncio.wait(tasks))
+    print('Completed in:', str(time.time() - start))
+    
+
 
 if __name__ == '__main__':
-   update_sector_populations()
+   async_handler(nlist)
