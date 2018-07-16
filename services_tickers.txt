@@ -1,489 +1,489 @@
-SHAK:Shake Shack Inc.:1814.29:4.47:28.15
-BCO:The Brink&#x27;s Company:964.71:1.45:13.48
-GOL:GOL Linhas A\xc3\xa9reas Intel:941.67:0.84:5.55
-MANU:Manchester United plc:805.77:4.68:13.62
-RLH:Red Lion Hotels Corporation:679.41:1.98:15.94
-NCMI:National CineMedia, Inc.:531.88:3.58:8.1
-NEWM:New Media Investment Group Inc:474.0:0.97:8.84
-MCK:McKesson Corporation:418.14:0.16:8.63
-GME:GameStop Corp.:390.79:0.24:3.41
-FTAI:Fortress Transportation and In:379.2:9.02:18.24
-NYT:The New York Times Company:333.86:2.42:15.46
-CMPR:Cimpress N.V.:298.56:2.16:25.38
-NFLX:Netflix, Inc.:274.75:14.59:168.5
-AMZN:Amazon.com, Inc.:224.04:4.48:50.21
-NVGS:Navigator Holdings Ltd.:217.77:5.11:14.09
-WWE:World Wrestling Entertainment,:176.74:7.3:46.83
-QGEN:QIAGEN N.V.:163.17:6.36:19.46
-NATH:Nathan&#x27;s Famous, Inc.:157.02:4.82:17.65
-ENV:Envestnet, Inc.:148.98:4.23:35.89
-IMAX:IMAX Corporation:141.27:3.39:13.04
-GCI:Gannett Co., Inc.:133.68:0.42:4.16
-RCII:Rent-A-Center, Inc.:123.17:0.49:21.18
-DLNG:Dynagas LNG Partners LP:114.23:7.12:10.68
-TAL:TAL Education Group:112.58:12.03:76.97
-XOXO:XO Group Inc.:112.28:4.49:36.28
-BZUN:Baozun Inc.:110.62:4.93:64.93
-SSTK:Shutterstock, Inc.:109.36:2.58:33.41
-RH:RH:103.33:1.69:14.34
-GLOG:GasLog Ltd.:89.9:7.98:11.99
-PLNT:Planet Fitness, Inc.:88.89:10.19:24.58
-MSA:MSA Safety Incorporated:86.84:3.26:15.61
-SFLY:Shutterfly, Inc.:85.39:2.63:18.05
-FORR:Forrester Research, Inc.:77.62:1.92:21.78
-MSG:The Madison Square Garden Comp:72.92:4.24:64.98
-LOCO:El Pollo Loco Holdings, Inc.:71.41:1.29:8.74
-TAST:Carrols Restaurant Group, Inc.:69.37:0.7:8.68
-CMG:Chipotle Mexican Grill, Inc.:68.79:2.71:25.97
-ROL:Rollins, Inc.:67.87:6.84:32.84
-HTHT:Huazhu Group Limited:66.39:9.7:34.91
-PRGX:PRGX Global, Inc.:66.03:1.36:19.14
-BPI:Bridgepoint Education, Inc.:65.57:0.01:0.34
-STRA:Strayer Education, Inc.:64.78:2.45:15.5
-ANF:Abercrombie &amp; Fitch Co.:63.95:0.41:4.62
-LRN:K12 Inc.:62.44:0.55:12.27
-TTS:Tile Shop Holdings, Inc.:62.12:1.38:9.86
-RELL:Richardson Electronics, Ltd.:62.11:0.42:15.02
-HWCC:Houston Wire &amp; Cable Compa:61.94:0.69:21.08
-EXPE:Expedia Group, Inc.:60.6:1.81:17.4
+SHAK:Shake Shack Inc.:1864.0:4.47:28.15
+GOL:GOL Linhas A\xc3\xa9reas Intel:1061.67:0.84:5.55
+BCO:The Brink&#x27;s Company:967.65:1.45:13.48
+MANU:Manchester United plc:817.31:4.68:13.62
+RLH:Red Lion Hotels Corporation:697.06:1.98:15.94
+NCMI:National CineMedia, Inc.:523.12:3.58:8.1
+NEWM:New Media Investment Group Inc:466.25:0.97:8.84
+MCK:McKesson Corporation:422.03:0.16:8.63
+GME:GameStop Corp.:398.95:0.24:3.41
+FTAI:Fortress Transportation and In:379.0:0:0
+NYT:The New York Times Company:325.95:2.42:15.46
+CMPR:Cimpress N.V.:295.48:2.16:25.38
+NFLX:Netflix, Inc.:266.04:14.59:168.5
+AMZN:Amazon.com, Inc.:230.63:4.48:50.21
+NVGS:Navigator Holdings Ltd.:212.29:5.11:14.09
+WWE:World Wrestling Entertainment,:188.61:7.3:46.83
+QGEN:QIAGEN N.V.:160.43:6.36:19.46
+NATH:Nathan&#x27;s Famous, Inc.:158.39:4.82:17.65
+ENV:Envestnet, Inc.:147.96:4.23:35.89
+IMAX:IMAX Corporation:141.87:3.39:13.04
+GCI:Gannett Co., Inc.:133.16:0.42:4.16
+RCII:Rent-A-Center, Inc.:122.75:0.49:21.18
+DLNG:Dynagas LNG Partners LP:114.08:7.12:10.68
+BZUN:Baozun Inc.:113.24:4.93:64.93
+TAL:TAL Education Group:111.77:12.03:76.97
+XOXO:XO Group Inc.:110.42:4.49:36.28
+SSTK:Shutterstock, Inc.:108.93:2.58:33.41
+RH:RH:107.77:1.69:14.34
+PLNT:Planet Fitness, Inc.:94.22:10.19:24.58
+MSA:MSA Safety Incorporated:86.21:3.26:15.61
+GLOG:GasLog Ltd.:86.11:7.98:11.99
+SFLY:Shutterfly, Inc.:84.86:2.63:18.05
+FORR:Forrester Research, Inc.:75.52:1.92:21.78
+MSG:The Madison Square Garden Comp:74.59:4.24:64.98
+LOCO:El Pollo Loco Holdings, Inc.:71.09:1.29:8.74
+BPI:Bridgepoint Education, Inc.:70.32:0.01:0.34
+TAST:Carrols Restaurant Group, Inc.:69.6:0.7:8.68
+CMG:Chipotle Mexican Grill, Inc.:67.75:2.71:25.97
+ROL:Rollins, Inc.:67.43:6.84:32.84
+ANF:Abercrombie &amp; Fitch Co.:66.47:0.41:4.62
+PRGX:PRGX Global, Inc.:65.17:1.36:19.14
+STRA:Strayer Education, Inc.:64.37:2.45:15.5
+HTHT:Huazhu Group Limited:63.23:9.7:34.91
+CATO:The Cato Corporation:62.55:0.46:10.2
+RELL:Richardson Electronics, Ltd.:62.37:0.42:15.02
+LRN:K12 Inc.:61.15:0.55:12.27
+EXPE:Expedia Group, Inc.:60.84:1.81:17.4
+TTS:Tile Shop Holdings, Inc.:60.61:1.38:9.86
 EXPO:Exponent, Inc.:59.58:7.17:28.58
-MED:Medifast, Inc.:58.86:5.75:37.61
-FLY:Fly Leasing Limited:57.44:7.34:0
-CSTR:Capstar Financial Holdings, In:57.19:6.24:0
-WING:Wingstop Inc.:56.4:16.18:41.86
-ETSY:Etsy, Inc.:56.05:9.96:73.49
-ATSG:Air Transport Services Group, :55.65:1.89:7.31
-CONN:Conn&#x27;s, Inc.:54.45:1.37:21.67
-CATO:The Cato Corporation:54.28:0.46:10.2
-EDU:New Oriental Education &amp; T:53.92:5.57:39.0
-FSTR:L.B. Foster Company:53.22:0.63:9.26
-CTRP:Ctrip.com International, Ltd.:53.16:5.93:40.08
-SBLK:Star Bulk Carriers Corp.:52.93:4.27:10.88
-TV:Grupo Televisa, S.A.B.:52.09:3.31:8.92
-BABA:Alibaba Group Holding Limited:51.31:12.6:36.79
-CHEF:The Chefs&#x27; Warehouse, Inc:50.58:0.87:18.64
-HCSG:Healthcare Services Group, Inc:49.71:1.62:30.72
-EHIC:eHi Car Services Limited:48.77:3.96:8.98
-CRAI:CRA International, Inc.:48.03:1.15:16.36
-RBA:Ritchie Bros. Auctioneers Inco:47.99:6.25:20.52
-CPLA:Capella Education Company:47.84:2.36:14.8
-CZR:Caesars Entertainment Corporat:47.77:4.12:17.72
-FIVE:Five Below, Inc.:47.67:3.99:26.19
-WEX:WEX Inc.:46.82:7.93:22.7
-HMSY:HMS Holdings Corp.:46.0:3.84:19.49
-DL:China Distance Education Holdi:45.47:1.87:12.6
-URBN:Urban Outfitters, Inc.:45.35:1.23:10.63
-LFUS:Littelfuse, Inc.:45.02:4.47:17.83
-RRR:Red Rock Resorts, Inc.:44.94:3.04:9.8
-SIRI:Sirius XM Holdings Inc.:44.25:6.92:18.94
-WAGE:WageWorks, Inc.:44.23:3.16:15.92
-NSSC:Napco Security Technologies, I:43.71:3.29:32.89
-BFAM:Bright Horizons Family Solutio:42.7:4.13:23.8
-DPZ:Domino&#x27;s Pizza, Inc.:42.51:5.04:26.28
-DXPE:DXP Enterprises, Inc.:41.84:0.91:15.06
-ECHO:Echo Global Logistics, Inc.:40.78:0.49:18.68
-NSP:Insperity, Inc.:40.45:1.09:23.96
-TRI:Thomson Reuters Corporation:39.97:3.17:14.26
-HAIN:The Hain Celestial Group, Inc.:39.23:1.3:14.81
-TIF:Tiffany &amp; Co.:39.06:3.76:15.29
-EXLS:ExlService Holdings, Inc.:38.92:2.39:16.6
+MED:Medifast, Inc.:59.56:5.75:37.61
+HWCC:Houston Wire &amp; Cable Compa:59.33:0.69:21.08
+FLY:Fly Leasing Limited:57.27:7.34:0
+CSTR:Capstar Financial Holdings, In:56.35:6.24:0
+WING:Wingstop Inc.:56.09:16.18:41.86
+ETSY:Etsy, Inc.:55.92:9.96:73.49
+CONN:Conn&#x27;s, Inc.:55.01:1.37:21.67
+ATSG:Air Transport Services Group, :54.93:1.89:7.31
+FSTR:L.B. Foster Company:53.46:0.63:9.26
+CTRP:Ctrip.com International, Ltd.:52.63:5.93:40.08
+EDU:New Oriental Education &amp; T:52.6:5.57:39.0
+TV:Grupo Televisa, S.A.B.:52.38:3.31:8.92
+SBLK:Star Bulk Carriers Corp.:52.31:4.27:10.88
+BABA:Alibaba Group Holding Limited:51.04:12.6:36.79
+CHEF:The Chefs&#x27; Warehouse, Inc:50.74:0.87:18.64
+FIVE:Five Below, Inc.:49.38:3.99:26.19
+CZR:Caesars Entertainment Corporat:49.04:4.12:17.72
+HCSG:Healthcare Services Group, Inc:48.74:1.62:30.72
+EHIC:eHi Car Services Limited:48.36:3.96:8.98
+RBA:Ritchie Bros. Auctioneers Inco:47.91:6.25:20.52
+CRAI:CRA International, Inc.:47.63:1.15:16.36
+CPLA:Capella Education Company:47.39:2.36:14.8
+HMSY:HMS Holdings Corp.:46.79:3.84:19.49
+WEX:WEX Inc.:46.49:7.93:22.7
+URBN:Urban Outfitters, Inc.:46.3:1.23:10.63
+LFUS:Littelfuse, Inc.:45.68:4.47:17.83
+RRR:Red Rock Resorts, Inc.:44.61:3.04:9.8
+SIRI:Sirius XM Holdings Inc.:44.34:6.92:18.94
+WAGE:WageWorks, Inc.:44.3:3.16:15.92
+DL:China Distance Education Holdi:44.29:1.87:12.6
+NSSC:Napco Security Technologies, I:42.79:3.29:32.89
+DPZ:Domino&#x27;s Pizza, Inc.:42.69:5.04:26.28
+BFAM:Bright Horizons Family Solutio:42.69:4.13:23.8
+DXPE:DXP Enterprises, Inc.:41.94:0.91:15.06
+NSP:Insperity, Inc.:41.11:1.09:23.96
+ECHO:Echo Global Logistics, Inc.:40.92:0.49:18.68
+TRI:Thomson Reuters Corporation:40.28:3.17:14.26
+TIF:Tiffany &amp; Co.:39.22:3.76:15.29
+EXLS:ExlService Holdings, Inc.:39.2:2.39:16.6
+WYNN:Wynn Resorts, Limited:38.68:3.6:13.51
 FINL:The Finish Line, Inc.:38.38:0:0
-WYNN:Wynn Resorts, Limited:38.07:3.6:13.51
-PBY:Prospect Capital Corporation:38.04:17.46:0
-CHH:Choice Hotels International, I:37.94:4.94:16.33
-CPRT:Copart, Inc.:37.3:7.88:19.42
-CORE:Core-Mark Holding Company, Inc:36.79:0.12:16.01
-XPO:XPO Logistics, Inc.:36.67:1.07:12.82
-GPN:Global Payments Inc.:36.01:5.64:18.71
-WAB:Westinghouse Air Brake Technol:35.84:2.85:20.65
-JEC:Jacobs Engineering Group Inc.:35.8:0.92:13.52
-INFO:IHS Markit Ltd.:35.62:6.56:20.3
-ERI:Eldorado Resorts, Inc.:35.5:3.09:13.91
-GOGL:Golden Ocean Group Limited:35.46:4.57:13.07
-FRAN:Francesca&#x27;s Holdings Corp:34.98:0.57:6.55
-MAR:Marriott International, Inc.:34.77:10.44:18.79
-APEI:American Public Education, Inc:34.45:1.84:10.33
-PNK:Pinnacle Entertainment, Inc.:34.22:2.26:8.71
-MCO:Moody&#x27;s Corporation:34.04:8.73:18.54
-LTM:LATAM Airlines Group S.A.:33.7:1.26:7.24
-WNS:WNS (Holdings) Limited:33.26:3.3:22.82
-WTW:Weight Watchers International,:33.2:6.1:23.37
-CASS:Cass Information Systems, Inc.:32.89:4.81:13.39
-VRSK:Verisk Analytics, Inc.:32.68:9.47:20.83
-EXPR:Express, Inc.:31.79:0.28:4.12
-TXRH:Texas Roadhouse, Inc.:31.69:2.03:15.49
-PSMT:PriceSmart, Inc.:31.62:0.79:13.47
-MCRI:Monarch Casino &amp; Resort, I:31.48:3.45:14.27
-TRU:TransUnion:31.46:7.89:21.62
-DSW:DSW Inc.:31.45:0.69:7.61
-KIRK:Kirkland&#x27;s, Inc.:31.27:0.2:3.41
-COST:Costco Wholesale Corporation:31.19:0.66:15.5
-NGVC:Natural Grocers by Vitamin Cot:31.04:0.42:8.02
-WSO:Watsco, Inc.:30.96:1.44:16.85
-EEFT:Euronet Worldwide, Inc.:30.5:1.78:10.27
-CBD:Companhia Brasileira de Distri:30.28:0.54:8.6
-PAYX:Paychex, Inc.:30.19:7.28:17.28
-MTN:Vail Resorts, Inc.:29.21:6.19:19.77
-SYY:Sysco Corporation:28.98:0.77:14.29
-CTAS:Cintas Corporation:28.98:3.65:18.32
-WMT:Walmart Inc.:28.84:0.57:8.78
-HSIC:Henry Schein, Inc.:28.83:1.07:12.6
-RHI:Robert Half International Inc.:28.69:1.44:13.11
-CVGI:Commercial Vehicle Group, Inc.:28.62:0.46:6.33
-RRGB:Red Robin Gourmet Burgers, Inc:28.14:0.61:6.23
-ACM:AECOM:28.11:0.44:11.27
-GWW:W.W. Grainger, Inc.:27.92:1.77:12.69
-ALLE:Allegion plc:27.25:3.54:15.51
-RECN:Resources Connection, Inc.:27.25:0.93:9.04
-PHII:PHI, Inc.:27.25:1.17:16.35
-JAX:J. Alexander&#x27;s Holdings, :27.2:0.75:8.5
-TECD:Tech Data Corporation:27.19:0.12:7.1
-BBSI:Barrett Business Services, Inc:26.79:0.73:17.78
-GPX:GP Strategies Corporation:26.69:0.7:12.44
-KFY:Korn/Ferry International:26.64:1.94:14.29
-RUTH:Ruth&#x27;s Hospitality Group,:26.4:2.09:13.11
-ULTA:Ulta Beauty, Inc.:26.24:2.39:13.72
-ASGN:ASGN Incorporated:26.14:1.78:16.17
-FLT:FleetCor Technologies, Inc.:26.04:9.91:19.24
-TLYS:Tilly&#x27;s, Inc.:25.89:0.59:6.83
-BJRI:BJ&#x27;s Restaurants, Inc.:25.81:1.34:12.0
-HD:The Home Depot, Inc.:25.6:2.42:14.67
-LOPE:Grand Canyon Education, Inc.:25.59:5.25:14.98
-FAST:Fastenal Company:25.52:3.12:13.68
-INWK:InnerWorkings, Inc.:25.03:0.5:12.15
-EXPD:Expeditors International of Wa:24.84:1.58:14.38
-KFRC:Kforce Inc.:24.84:0.73:12.52
-BURL:Burlington Stores, Inc.:24.6:1.77:15.96
-TTEK:Tetra Tech, Inc.:24.32:1.72:15.4
-BID:Sotheby&#x27;s:24.28:3.4:15.2
-PLCE:The Children&#x27;s Place, Inc:24.24:1.05:9.01
-MCD:McDonald&#x27;s Corporation:24.03:6.89:15.61
-STAY:Extended Stay America, Inc. Pa:23.89:4.99:10.53
-ODFL:Old Dominion Freight Line, Inc:23.82:3.51:14.98
-ROST:Ross Stores, Inc.:23.8:2.19:13.13
-DRI:Darden Restaurants, Inc.:23.48:1.79:13.32
-PAC:Grupo Aeroportuario del Pac\xc:23.26:9.62:13.8
-ABM:ABM Industries Incorporated:23.16:0.5:12.21
-FISV:Fiserv, Inc.:23.14:6.12:19.25
-LSTR:Landstar System, Inc.:23.1:1.2:15.23
-CHRW:C.H. Robinson Worldwide, Inc.:23.09:0.83:14.75
-WEN:The Wendy&#x27;s Company:22.9:5.16:16.98
-SJR:Shaw Communications Inc.:22.71:3.48:9.29
-TSCO:Tractor Supply Company:22.54:1.37:11.8
-BYD:Boyd Gaming Corporation:22.54:2.94:12.52
-ABC:AmerisourceBergen Corporation:22.49:0.14:9.32
-BAH:Booz Allen Hamilton Holding Co:22.47:1.32:13.95
-OUT:Outfront Media Inc.:22.27:3.33:13.08
-CTRN:Citi Trends, Inc.:22.18:0.39:7.03
-TNET:TriNet Group, Inc.:22.17:1.19:15.33
-CVG:Convergys Corporation:22.17:0.88:7.06
-FOXA:Twenty-First Century Fox, Inc.:22.06:3.58:16.08
-SIX:Six Flags Entertainment Corpor:22.05:5.86:13.47
-SAIA:Saia, Inc.:22.01:1.52:11.33
-VIPS:Vipshop Holdings Limited:21.97:0.57:12.01
-MYGN:Myriad Genetics, Inc.:21.97:3.27:21.72
-QSR:Restaurant Brands Internationa:21.93:5.52:12.51
-BBY:Best Buy Co., Inc.:21.87:0.46:7.37
-SCVL:Shoe Carnival, Inc.:21.83:0.49:7.52
-ICFI:ICF International, Inc.:21.77:1.29:14.1
-NTRI:Nutrisystem, Inc.:21.77:1.56:11.88
-MDP:Meredith Corporation:21.76:2.76:15.1
-TJX:The TJX Companies, Inc.:21.75:1.6:12.15
-HTLD:Heartland Express, Inc.:21.67:2.36:10.65
-HVT:Haverty Furniture Companies, I:21.57:0.54:6.16
-GPC:Genuine Parts Company:21.45:0.98:13.03
-KAR:KAR Auction Services, Inc.:21.45:3.24:13.51
-BOOT:Boot Barn Holdings, Inc.:21.4:1.24:12.92
-LOW:Lowe&#x27;s Companies, Inc.:21.35:1.34:11.5
-G:Genpact Limited:21.24:2.33:15.69
-ONE:OneSmart International Educati:21.22:1.64:9.66
-CBS:CBS Corporation:21.13:2.24:10.17
-IHG:InterContinental Hotels Group :21.12:7.81:17.22
+HAIN:The Hain Celestial Group, Inc.:38.31:1.3:14.81
+CHH:Choice Hotels International, I:38.04:4.94:16.33
+PBY:Prospect Capital Corporation:37.81:17.46:0
+CPRT:Copart, Inc.:37.23:7.88:19.42
+CORE:Core-Mark Holding Company, Inc:36.6:0.12:16.01
+FRAN:Francesca&#x27;s Holdings Corp:36.34:0.57:6.55
+GPN:Global Payments Inc.:36.25:5.64:18.71
+ERI:Eldorado Resorts, Inc.:36.06:3.09:13.91
+WAB:Westinghouse Air Brake Technol:35.97:2.85:20.65
+JEC:Jacobs Engineering Group Inc.:35.89:0.92:13.52
+XPO:XPO Logistics, Inc.:35.79:1.07:12.82
+GOGL:Golden Ocean Group Limited:35.67:4.57:13.07
+INFO:IHS Markit Ltd.:35.27:6.56:20.3
+MAR:Marriott International, Inc.:34.89:10.44:18.79
+MCO:Moody&#x27;s Corporation:34.47:8.73:18.54
+PNK:Pinnacle Entertainment, Inc.:34.25:2.26:8.71
+APEI:American Public Education, Inc:34.13:1.84:10.33
+LTM:LATAM Airlines Group S.A.:33.8:1.26:7.24
+NGVC:Natural Grocers by Vitamin Cot:33.8:0.42:8.02
+EXPR:Express, Inc.:33.33:0.28:4.12
+WTW:Weight Watchers International,:32.69:6.1:23.37
+VRSK:Verisk Analytics, Inc.:32.67:9.47:20.83
+WNS:WNS (Holdings) Limited:32.56:3.3:22.82
+CASS:Cass Information Systems, Inc.:32.43:4.81:13.39
+MCRI:Monarch Casino &amp; Resort, I:32.1:3.45:14.27
+TXRH:Texas Roadhouse, Inc.:31.76:2.03:15.49
+KIRK:Kirkland&#x27;s, Inc.:31.63:0.2:3.41
+TRU:TransUnion:31.6:7.89:21.62
+PSMT:PriceSmart, Inc.:31.58:0.79:13.47
+DSW:DSW Inc.:31.48:0.69:7.61
+COST:Costco Wholesale Corporation:31.43:0.66:15.5
+CBD:Companhia Brasileira de Distri:31.43:0.54:8.6
+WSO:Watsco, Inc.:30.53:1.44:16.85
+PAYX:Paychex, Inc.:30.34:7.28:17.28
+EEFT:Euronet Worldwide, Inc.:29.93:1.78:10.27
+MTN:Vail Resorts, Inc.:29.52:6.19:19.77
+SYY:Sysco Corporation:29.24:0.77:14.29
+WMT:Walmart Inc.:29.04:0.57:8.78
+CTAS:Cintas Corporation:29.01:3.65:18.32
+RHI:Robert Half International Inc.:28.92:1.44:13.11
+HSIC:Henry Schein, Inc.:28.72:1.07:12.6
+CVGI:Commercial Vehicle Group, Inc.:28.41:0.46:6.33
+GPX:GP Strategies Corporation:28.09:0.7:12.44
+ACM:AECOM:28.02:0.44:11.27
+KFY:Korn/Ferry International:27.6:1.94:14.29
+TECD:Tech Data Corporation:27.45:0.12:7.1
+ALLE:Allegion plc:27.41:3.54:15.51
+RECN:Resources Connection, Inc.:27.37:0.93:9.04
+RRGB:Red Robin Gourmet Burgers, Inc:27.26:0.61:6.23
+GWW:W.W. Grainger, Inc.:27.25:1.77:12.69
+JAX:J. Alexander&#x27;s Holdings, :27.08:0.75:8.5
+TLYS:Tilly&#x27;s, Inc.:27.05:0.59:6.83
+BBSI:Barrett Business Services, Inc:26.78:0.73:17.78
+RUTH:Ruth&#x27;s Hospitality Group,:26.75:2.09:13.11
+ULTA:Ulta Beauty, Inc.:26.69:2.39:13.72
+ASGN:ASGN Incorporated:26.52:1.78:16.17
+BJRI:BJ&#x27;s Restaurants, Inc.:26.39:1.34:12.0
+PHII:PHI, Inc.:26.02:1.17:16.35
+LOPE:Grand Canyon Education, Inc.:25.97:5.25:14.98
+HD:The Home Depot, Inc.:25.74:2.42:14.67
+FLT:FleetCor Technologies, Inc.:25.64:9.91:19.24
+FAST:Fastenal Company:25.64:3.12:13.68
+BURL:Burlington Stores, Inc.:25.02:1.77:15.96
+KFRC:Kforce Inc.:24.93:0.73:12.52
+EXPD:Expeditors International of Wa:24.69:1.58:14.38
+INWK:InnerWorkings, Inc.:24.63:0.5:12.15
+PLCE:The Children&#x27;s Place, Inc:24.49:1.05:9.01
+TTEK:Tetra Tech, Inc.:24.2:1.72:15.4
+BID:Sotheby&#x27;s:24.19:3.4:15.2
+STAY:Extended Stay America, Inc.:23.94:4.99:10.53
+MCD:McDonald&#x27;s Corporation:23.87:6.89:15.61
+ROST:Ross Stores, Inc.:23.83:2.19:13.13
+CHRW:C.H. Robinson Worldwide, Inc.:23.47:0.83:14.75
+DRI:Darden Restaurants, Inc.:23.36:1.79:13.32
+ABM:ABM Industries Incorporated:23.22:0.5:12.21
+FISV:Fiserv, Inc.:23.18:6.12:19.25
+PAC:Grupo Aeroportuario del Pac\xc:23.11:9.62:13.8
+NTRI:Nutrisystem, Inc.:23.09:1.56:11.88
+ODFL:Old Dominion Freight Line, Inc:23.01:3.51:14.98
+TSCO:Tractor Supply Company:22.97:1.37:11.8
+WEN:The Wendy&#x27;s Company:22.93:5.16:16.98
+SJR:Shaw Communications Inc.:22.8:3.48:9.29
+ABC:AmerisourceBergen Corporation:22.64:0.14:9.32
+OUT:Outfront Media Inc.:22.63:3.33:13.08
+BAH:Booz Allen Hamilton Holding Co:22.6:1.32:13.95
+SIX:Six Flags Entertainment Corpor:22.53:5.86:13.47
+BYD:Boyd Gaming Corporation:22.5:2.94:12.52
+LSTR:Landstar System, Inc.:22.33:1.2:15.23
+CTRN:Citi Trends, Inc.:22.26:0.39:7.03
+BBY:Best Buy Co., Inc.:22.19:0.46:7.37
+TNET:TriNet Group, Inc.:22.02:1.19:15.33
+SCVL:Shoe Carnival, Inc.:22.0:0.49:7.52
+CVG:Convergys Corporation:21.91:0.88:7.06
+BOOT:Boot Barn Holdings, Inc.:21.91:1.24:12.92
+TJX:The TJX Companies, Inc.:21.83:1.6:12.15
+VIPS:Vipshop Holdings Limited:21.74:0.57:12.01
+MDP:Meredith Corporation:21.74:2.76:15.1
+LOW:Lowe&#x27;s Companies, Inc.:21.66:1.34:11.5
+FOXA:Twenty-First Century Fox, Inc.:21.65:3.58:16.08
+GPC:Genuine Parts Company:21.65:0.98:13.03
+ICFI:ICF International, Inc.:21.65:1.29:14.1
+QSR:Restaurant Brands Internationa:21.64:5.52:12.51
+HVT:Haverty Furniture Companies, I:21.52:0.54:6.16
+MYGN:Myriad Genetics, Inc.:21.51:3.27:21.72
+KAR:KAR Auction Services, Inc.:21.49:3.24:13.51
+IHG:InterContinental Hotels Group :21.37:7.81:17.22
+G:Genpact Limited:21.25:2.33:15.69
+SAIA:Saia, Inc.:21.19:1.52:11.33
 ORLY:O&#x27;Reilly Automotive, Inc.:21.1:2.95:13.48
-PZZA:Papa John&#x27;s International:21.09:1.25:12.19
-CBZ:CBIZ, Inc.:20.95:1.71:14.88
-TCS:The Container Store Group, Inc:20.92:0.81:8.66
-GSH:Guangshen Railway Company Limi:20.85:1.23:6.95
-STN:Stantec Inc.:20.74:1.35:13.21
-JACK:Jack in the Box Inc.:20.67:2.38:10.68
+CBS:CBS Corporation:20.97:2.26:10.27
+ONE:OneSmart International Educati:20.95:1.64:9.66
+GSH:Guangshen Railway Company Limi:20.88:1.23:6.95
+CBZ:CBIZ, Inc.:20.68:1.71:14.88
 SP:SP Plus Corporation:20.52:1.1:9.44
-AAP:Advance Auto Parts, Inc.:20.36:1.13:11.43
-KMX:CarMax, Inc.:20.06:1.46:20.57
-VVI:Viad Corp:20.0:1.08:11.83
-AXE:Anixter International Inc.:19.84:0.42:9.19
-CHUY:Chuy&#x27;s Holdings, Inc.:19.77:1.41:14.22
-JW-A:John Wiley &amp; Sons, Inc.:19.64:2.18:11.53
-HCKT:The Hackett Group, Inc.:19.62:1.82:11.64
-FWRD:Forward Air Corporation:19.58:1.59:12.14
-ARMK:Aramark:19.57:1.13:13.04
-TGH:Textainer Group Holdings Limit:19.55:7.72:9.98
-JWN:Nordstrom, Inc.:19.28:0.69:6.74
-WSM:Williams-Sonoma, Inc.:19.22:0.94:7.76
-JBHT:J.B. Hunt Transport Services, :19.18:1.95:14.05
-FCN:FTI Consulting, Inc.:19.12:1.4:11.75
-ZUMZ:Zumiez Inc.:19.12:0.51:5.93
-BJ:BJ&#x27;s Wholesale Club Holdi:19.05:0.37:9.77
-HLT:Hilton Worldwide Holdings Inc.:18.99:8.52:17.87
-MMS:MAXIMUS, Inc.:18.97:1.6:10.77
-SONC:Sonic Corp.:18.87:4.52:13.5
-MATW:Matthews International Corpora:18.82:1.86:15.56
-GOLF:Acushnet Holdings Corp.:18.66:1.5:11.88
-UPS:United Parcel Service, Inc.:18.63:1.67:11.53
-AEO:American Eagle Outfitters, Inc:18.56:1.03:7.86
-YUM:YUM! Brands, Inc.:18.48:5.84:17.19
-AIT:Applied Industrial Technologie:18.45:1.34:15.14
-CAKE:The Cheesecake Factory Incorpo:18.45:1.15:10.76
-TBI:TrueBlue, Inc.:18.42:0.47:9.51
-HIL:Hill International, Inc.:18.11:0.84:289.86
-ADT:ADT Inc.:18.06:3.7:7.24
-DNKN:Dunkin&#x27; Brands Group, Inc:18.04:9.92:17.91
-SVU:SUPERVALU INC.:17.95:0.19:6.19
-CMRE:Costamare Inc.:17.9:4.53:7.39
-PATI:Patriot Transportation Holding:17.77:0.52:5.56
-ZAGG:ZAGG Inc:17.73:0.94:6.84
-EAT:Brinker International, Inc.:17.48:1.13:8.35
-FUN:Cedar Fair, L.P.:17.27:4.02:11.61
-BLMN:Bloomin&#x27; Brands, Inc.:17.23:0.68:7.66
-PSO:Pearson plc:17.07:1.73:14.04
-MRT:MedEquities Realty Trust, Inc.:17.0:9.2:11.2
-OMI:Owens &amp; Minor, Inc.:16.99:0.2:9.5
-LABL:Multi-Color Corporation:16.96:2.22:12.38
-ARCO:Arcos Dorados Holdings Inc.:16.82:0.56:9.06
-ADS:Alliance Data Systems Corporat:16.78:4.46:19.88
-IPG:The Interpublic Group of Compa:16.68:1.39:9.72
-SFM:Sprouts Farmers Market, Inc.:16.64:0.73:10.5
-SBUX:Starbucks Corporation:16.55:3.12:14.45
-HZO:MarineMax, Inc.:16.5:0.64:10.56
-WCC:WESCO International, Inc.:16.46:0.51:10.55
-ASR:Grupo Aeroportuario del Surest:16.43:8.02:31.79
-DG:Dollar General Corporation:16.4:1.21:11.81
-H:Hyatt Hotels Corporation:16.39:3.53:13.84
-VLGEA:Village Super Market, Inc.:16.25:0.25:6.57
-PKOH:Park-Ohio Holdings Corp.:16.2:0.66:7.74
-SERV:ServiceMaster Global Holdings,:16.18:3.57:15.72
-OMC:Omnicom Group Inc.:16.16:1.3:8.49
-ARW:Arrow Electronics, Inc.:16.15:0.35:7.97
-CNK:Cinemark Holdings, Inc.:16.04:1.98:9.13
-CNI:Canadian National Railway Comp:15.99:7.21:14.15
-CUK:Carnival plc:15.84:2.72:9.28
-SCI:Service Corporation Internatio:15.71:3.2:11.65
-BBW:Build-A-Bear Workshop, Inc.:15.5:0.26:3.09
-CP:Canadian Pacific Railway Limit:15.49:6.46:12.99
-KEX:Kirby Corporation:15.41:2.65:15.32
-MSM:MSC Industrial Direct Co., Inc:15.41:1.74:11.11
-LVS:Las Vegas Sands Corp.:15.29:4.84:12.9
-ARCB:ArcBest Corporation:15.27:0.43:6.85
-CBRL:Cracker Barrel Old Country Sto:15.19:1.36:10.49
-WBA:Walgreens Boots Alliance, Inc.:15.12:0.6:9.19
-FLWS:1-800-FLOWERS.COM, Inc.:14.95:0.65:10.29
+STN:Stantec Inc.:20.51:1.35:13.21
+AAP:Advance Auto Parts, Inc.:20.47:1.13:11.43
+HTLD:Heartland Express, Inc.:20.44:2.36:10.65
+JACK:Jack in the Box Inc.:20.41:2.38:10.68
+KMX:CarMax, Inc.:20.4:1.46:20.57
+BJ:BJ&#x27;s Wholesale Club Holdi:20.23:0.37:9.77
+TCS:The Container Store Group, Inc:20.17:0.81:8.66
+JW-A:John Wiley &amp; Sons, Inc.:20.14:2.18:11.53
+PZZA:Papa John&#x27;s International:20.12:1.25:12.19
+VVI:Viad Corp:20.1:1.08:11.83
+CHUY:Chuy&#x27;s Holdings, Inc.:19.8:1.41:14.22
+FCN:FTI Consulting, Inc.:19.69:1.4:11.75
+AXE:Anixter International Inc.:19.69:0.42:9.19
+HCKT:The Hackett Group, Inc.:19.63:1.82:11.64
+WSM:Williams-Sonoma, Inc.:19.62:0.94:7.76
+ARMK:Aramark:19.47:1.13:13.04
+FWRD:Forward Air Corporation:19.41:1.59:12.14
+JWN:Nordstrom, Inc.:19.16:0.69:6.74
+AEO:American Eagle Outfitters, Inc:19.11:1.03:7.86
+MATW:Matthews International Corpora:19.07:1.86:15.56
+JBHT:J.B. Hunt Transport Services, :19.06:1.95:14.05
+MMS:MAXIMUS, Inc.:19.04:1.6:10.77
+TGH:Textainer Group Holdings Limit:19.01:7.72:9.98
+UPS:United Parcel Service, Inc.:18.99:1.67:11.53
+SONC:Sonic Corp.:18.98:4.52:13.5
+ZUMZ:Zumiez Inc.:18.89:0.51:5.93
+HLT:Hilton Worldwide Holdings Inc.:18.84:8.52:17.87
+GOLF:Acushnet Holdings Corp.:18.83:1.5:11.88
+SVU:SUPERVALU INC.:18.62:0.19:6.19
+ADT:ADT Inc.:18.56:3.7:7.24
+AIT:Applied Industrial Technologie:18.52:1.34:15.14
+YUM:YUM! Brands, Inc.:18.43:5.84:17.19
+TBI:TrueBlue, Inc.:18.34:0.47:9.51
+DNKN:Dunkin&#x27; Brands Group, Inc:18.27:9.92:17.91
+CAKE:The Cheesecake Factory Incorpo:18.07:1.15:10.76
+HIL:Hill International, Inc.:17.92:0.84:289.86
+CMRE:Costamare Inc.:17.84:4.53:7.39
+PATI:Patriot Transportation Holding:17.83:0.52:5.56
+FUN:Cedar Fair, L.P.:17.52:4.02:11.61
+ARCO:Arcos Dorados Holdings Inc.:17.42:0:0
+LABL:Multi-Color Corporation:17.26:2.22:12.38
+ZAGG:ZAGG Inc:17.22:0.94:6.84
+EAT:Brinker International, Inc.:17.2:1.13:8.35
+OMI:Owens &amp; Minor, Inc.:17.14:0.2:9.5
+IPG:The Interpublic Group of Compa:17.09:1.39:9.72
+HZO:MarineMax, Inc.:17.04:0.64:10.56
+BLMN:Bloomin&#x27; Brands, Inc.:17.03:0.68:7.66
+PSO:Pearson plc:17.0:1.73:14.04
+SFM:Sprouts Farmers Market, Inc.:16.93:0.73:10.5
+MRT:MedEquities Realty Trust, Inc.:16.82:9.2:11.2
+SBUX:Starbucks Corporation:16.75:3.12:14.45
+ASR:Grupo Aeroportuario del Surest:16.69:8.02:31.79
+BBW:Build-A-Bear Workshop, Inc.:16.65:0.26:3.09
+H:Hyatt Hotels Corporation:16.54:3.53:13.84
+DG:Dollar General Corporation:16.53:1.21:11.81
+SERV:ServiceMaster Global Holdings,:16.39:3.57:15.72
+WCC:WESCO International, Inc.:16.39:0.51:10.55
+VLGEA:Village Super Market, Inc.:16.37:0.25:6.57
+OMC:Omnicom Group Inc.:16.33:1.3:8.49
+ARW:Arrow Electronics, Inc.:16.21:0.35:7.97
+PKOH:Park-Ohio Holdings Corp.:16.11:0.66:7.74
+CNI:Canadian National Railway Comp:15.9:7.21:14.15
+CUK:Carnival plc:15.9:2.72:9.28
+SCI:Service Corporation Internatio:15.85:3.2:11.65
+CNK:Cinemark Holdings, Inc.:15.8:1.98:9.13
+CP:Canadian Pacific Railway Limit:15.54:6.46:12.99
+LVS:Las Vegas Sands Corp.:15.51:4.84:12.9
+MSM:MSC Industrial Direct Co., Inc:15.37:1.74:11.11
+WBA:Walgreens Boots Alliance, Inc.:15.29:0.6:9.19
+ADS:Alliance Data Systems Corporat:15.28:4.46:19.88
+KEX:Kirby Corporation:15.27:2.65:15.32
+FLWS:1-800-FLOWERS.COM, Inc.:15.19:0.65:10.29
+ARCB:ArcBest Corporation:15.0:0.43:6.85
+CBRL:Cracker Barrel Old Country Sto:14.96:1.36:10.49
 TWX:Time Warner Inc.:14.88:0:0
-CCL:Carnival Corporation:14.79:2.71:9.24
-CHDN:Churchill Downs Incorporated:14.63:5.51:17.78
-DIS:The Walt Disney Company:14.54:3.1:10.24
-RCL:Royal Caribbean Cruises Ltd.:14.45:3.6:11.74
-MCS:The Marcus Corporation:14.33:2.02:9.87
-SFL:Ship Finance International Lim:14.29:7.24:11.36
-SNX:SYNNEX Corporation:14.19:0.29:7.83
-NCI:Navigant Consulting, Inc.:14.08:1.27:9.74
-TGT:Target Corporation:14.01:0.74:7.88
-VAC:Marriott Vacations Worldwide C:14.01:2.74:14.22
-AZO:AutoZone, Inc.:13.88:2.03:9.24
-BXG:Bluegreen Vacations Corporatio:13.87:3.36:12.31
-FDX:FedEx Corporation:13.86:1.15:9.02
-VSEC:VSE Corporation:13.59:0.97:9.27
-USAK:USA Truck, Inc.:13.58:0.62:8.46
-DLX:Deluxe Corporation:13.53:1.97:7.94
-WMK:Weis Markets, Inc.:13.5:0.39:8.14
-GPS:The Gap, Inc.:13.45:0.73:6.05
-MRTN:Marten Transport, Ltd.:13.4:1.83:9.55
-AMRC:Ameresco, Inc.:13.32:1.46:15.27
-KSS:Kohl&#x27;s Corporation:13.17:0.78:6.18
-CASY:Casey&#x27;s General Stores, I:12.96:0.7:10.78
-CRMT:America&#x27;s Car-Mart, Inc.:12.92:0.98:12.25
-GLOP:GasLog Partners LP:12.82:6.09:8.26
-WERN:Werner Enterprises, Inc.:12.76:1.29:7.76
-UNFI:United Natural Foods, Inc.:12.63:0.26:7.66
-FRSH:Papa Murphy&#x27;s Holdings, I:12.63:1.7:7.11
-HIBB:Hibbett Sports, Inc.:12.59:0.34:4.23
-UEPS:Net 1 UEPS Technologies, Inc.:12.41:0.83:3.92
-BKE:The Buckle, Inc.:12.25:1.17:6.55
-DLTR:Dollar Tree, Inc.:12.09:1.1:9.28
-HUBG:Hub Group, Inc.:12.09:0.48:11.9
+CCL:Carnival Corporation:14.84:2.71:9.24
+CHDN:Churchill Downs Incorporated:14.79:5.51:17.78
+DIS:The Walt Disney Company:14.77:3.1:10.24
+RCL:Royal Caribbean Cruises Ltd.:14.38:3.6:11.74
+MCS:The Marcus Corporation:14.3:2.02:9.87
+TGT:Target Corporation:14.16:0.74:7.88
+SFL:Ship Finance International Lim:14.14:7.24:11.36
+SNX:SYNNEX Corporation:14.0:0.29:7.83
+AZO:AutoZone, Inc.:13.98:2.03:9.24
+VAC:Marriott Vacations Worldwide C:13.92:2.74:14.22
+FDX:FedEx Corporation:13.72:1.15:9.02
+DLX:Deluxe Corporation:13.59:1.97:7.94
+WMK:Weis Markets, Inc.:13.58:0.39:8.14
+NCI:Navigant Consulting, Inc.:13.55:1.27:9.74
+KSS:Kohl&#x27;s Corporation:13.53:0.78:6.18
+VSEC:VSE Corporation:13.52:0.97:9.27
+BXG:Bluegreen Vacations Corporatio:13.51:3.36:12.31
+AMRC:Ameresco, Inc.:13.45:1.46:15.27
+GPS:The Gap, Inc.:13.33:0.73:6.05
+HIBB:Hibbett Sports, Inc.:13.12:0.34:4.23
+FRSH:Papa Murphy&#x27;s Holdings, I:13.07:1.7:7.11
+MRTN:Marten Transport, Ltd.:13.06:1.83:9.55
+CASY:Casey&#x27;s General Stores, I:13.05:0.7:10.78
+UNFI:United Natural Foods, Inc.:13.02:0.26:7.66
+GLOP:GasLog Partners LP:12.84:6.09:8.26
+CRMT:America&#x27;s Car-Mart, Inc.:12.76:0.98:12.25
+USAK:USA Truck, Inc.:12.66:0.62:8.46
+UEPS:Net 1 UEPS Technologies, Inc.:12.4:0.83:3.92
+HEES:H&amp;E Equipment Services, In:12.28:2.14:14.46
+GBX:The Greenbrier Companies, Inc.:12.22:0.67:5.87
+DLTR:Dollar Tree, Inc.:12.15:1.1:9.28
+BKE:The Buckle, Inc.:12.09:1.17:6.55
+WERN:Werner Enterprises, Inc.:12.08:1.29:7.76
 PRAA:PRA Group, Inc.:12.02:4.76:12.92
-GBX:The Greenbrier Companies, Inc.:12.01:0.67:5.87
-USDP:USD Partners LP:11.95:4.32:9.29
-HEES:H&amp;E Equipment Services, In:11.85:2.14:14.46
-CEA:China Eastern Airlines Corpora:11.65:1.21:5.78
-KSU:Kansas City Southern:11.54:5.16:10.75
-HMLP:H\xc3\xb6egh LNG Partners LP:11.33:7.68:9.7
-CSV:Carriage Services, Inc.:11.12:2.87:11.16
-DKS:Dick&#x27;s Sporting Goods, In:11.09:0.43:5.09
-AAN:Aaron&#x27;s, Inc.:10.98:0.94:6.85
-ALGT:Allegiant Travel Company:10.84:1.96:7.98
-CHS:Chico&#x27;s FAS, Inc.:10.55:0.39:3.85
-AN:AutoNation, Inc.:10.52:0.5:11.53
-PDCO:Patterson Companies, Inc.:10.52:0.56:10.17
-MIK:The Michaels Companies, Inc.:10.45:1.13:7.41
-CCRN:Cross Country Healthcare, Inc.:10.3:0.59:12.28
-RUSHB:Rush Enterprises, Inc.:10.24:0.64:9.73
-UNP:Union Pacific Corporation:10.22:5.94:12.29
-BIG:Big Lots, Inc.:10.22:0.33:4.68
-DDS:Dillard&#x27;s, Inc.:10.19:0.48:6.16
-MAN:ManpowerGroup Inc.:10.18:0.28:6.55
-CSX:CSX Corporation:10.16:6.02:12.86
-DAL:Delta Air Lines, Inc.:10.14:1.03:5.5
-KELYA:Kelly Services, Inc.:10.04:0.17:8.8
-LB:L Brands, Inc.:10.02:1.17:6.64
-AAL:American Airlines Group Inc.:10.01:0.88:5.74
-CPA:Copa Holdings, S.A.:10.0:1.7:7.05
-QUAD:Quad/Graphics, Inc.:9.92:0.52:5.28
-GHC:Graham Holdings Company:9.91:1.05:7.76
-AYR:Aircastle Limited:9.88:7.16:0
-LPX:Louisiana-Pacific Corporation:9.68:1.27:5.07
-ABG:Asbury Automotive Group, Inc.:9.68:0.49:9.66
-LAD:Lithia Motors, Inc.:9.65:0.55:11.81
-KNX:Knight-Swift Transportation Ho:9.64:2.21:13.08
-MUSA:Murphy USA Inc.:9.63:0.29:7.82
-MGA:Magna International Inc.:9.6:0.59:5.67
-UAL:United Continental Holdings, I:9.57:0.79:5.34
-TGNA:TEGNA Inc.:9.56:2.93:8.91
-MGRC:McGrath RentCorp:9.52:3.94:16.75
-SAH:Sonic Automotive, Inc.:9.43:0.34:10.85
-CVTI:Covenant Transportation Group,:9.36:1.1:7.4
-CAH:Cardinal Health, Inc.:9.31:0.17:7.14
-UHAL:AMERCO:9.31:2.77:8.88
-GMLP:Golar LNG Partners LP:9.26:5.89:7.65
-TAX:Liberty Tax, Inc.:9.22:0.89:3.87
-URI:United Rentals, Inc.:9.16:3.04:10.38
-KNOP:KNOT Offshore Partners LP:9.1:7.71:10.32
-MGM:MGM Resorts International:8.9:2.66:11.3
-SAB:Saratoga Investment Corp. NT 2:8.77:0:0
-LUV:Southwest Airlines Co.:8.68:1.46:6.99
-CHTR:Charter Communications, Inc.:8.67:3.39:9.26
-GWR:Genesee &amp; Wyoming Inc.:8.66:3.24:10.6
-PRTY:Party City Holdco Inc.:8.56:1.41:9.06
-DTV:DTE Energy Company CORPORATE U:8.54:0:0
-SBH:Sally Beauty Holdings, Inc.:8.52:0.96:6.29
-HDS:HD Supply Holdings, Inc.:8.51:1.89:13.97
-DISH:DISH Network Corporation:8.27:2.16:11.14
-BOJA:Bojangles&#x27;, Inc.:8.26:1.24:9.79
-AER:AerCap Holdings N.V.:8.25:6.97:14.48
-NSC:Norfolk Southern Corporation:8.24:4.97:11.23
-HRB:H&amp;R Block, Inc.:8.21:1.55:5.2
-MIC:Macquarie Infrastructure Corpo:8.16:3.95:11.7
-AMCX:AMC Networks Inc.:8.15:2.2:6.89
-ALK:Alaska Air Group, Inc.:7.95:1.09:5.46
-TRCO:Tribune Media Company:7.93:2.98:12.08
-ISCA:International Speedway Corpora:7.73:2.95:9.34
-TRN:Trinity Industries, Inc.:7.72:2.09:10.2
-AAWW:Atlas Air Worldwide Holdings, :7.67:1.74:8.44
-NXST:Nexstar Media Group, Inc.:7.62:3.1:9.1
-LAWS:Lawson Products, Inc.:7.43:0.78:20.11
+USDP:USD Partners LP:12.02:4.32:9.29
+HUBG:Hub Group, Inc.:11.65:0.48:11.9
+KSU:Kansas City Southern:11.42:5.16:10.75
+CEA:China Eastern Airlines Corpora:11.24:1.21:5.78
+HMLP:H\xc3\xb6egh LNG Partners LP:11.22:7.68:9.7
+CSV:Carriage Services, Inc.:11.19:2.87:11.16
+CHS:Chico&#x27;s FAS, Inc.:11.01:0.39:3.85
+AAN:Aaron&#x27;s, Inc.:10.95:0.94:6.85
+ALGT:Allegiant Travel Company:10.95:1.96:7.98
+DKS:Dick&#x27;s Sporting Goods, In:10.93:0.43:5.09
+AN:AutoNation, Inc.:10.89:0.5:11.53
+RUSHB:Rush Enterprises, Inc.:10.51:0.64:9.73
+PDCO:Patterson Companies, Inc.:10.44:0.56:10.17
+MIK:The Michaels Companies, Inc.:10.39:1.13:7.41
+DDS:Dillard&#x27;s, Inc.:10.39:0.48:6.16
+BIG:Big Lots, Inc.:10.38:0.33:4.68
+CCRN:Cross Country Healthcare, Inc.:10.38:0.59:12.28
+AAL:American Airlines Group Inc.:10.24:0.88:5.74
+DAL:Delta Air Lines, Inc.:10.2:1.03:5.5
+MAN:ManpowerGroup Inc.:10.15:0.28:6.55
+CPA:Copa Holdings, S.A.:10.14:1.7:7.05
+UNP:Union Pacific Corporation:10.06:5.94:12.29
+KELYA:Kelly Services, Inc.:10.06:0.17:8.8
+CSX:CSX Corporation:9.98:6.02:12.86
+UAL:United Continental Holdings, I:9.87:0.79:5.34
+GHC:Graham Holdings Company:9.85:1.05:7.76
+LPX:Louisiana-Pacific Corporation:9.82:1.27:5.07
+QUAD:Quad/Graphics, Inc.:9.82:0.52:5.28
+AYR:Aircastle Limited:9.81:7.16:0
+MUSA:Murphy USA Inc.:9.78:0.29:7.82
+LB:L Brands, Inc.:9.73:1.17:6.64
+LAD:Lithia Motors, Inc.:9.7:0.55:11.81
+MGA:Magna International Inc.:9.62:0.59:5.67
+ABG:Asbury Automotive Group, Inc.:9.59:0.49:9.66
+CAH:Cardinal Health, Inc.:9.49:0.17:7.14
+SAH:Sonic Automotive, Inc.:9.48:0.34:10.85
+MGRC:McGrath RentCorp:9.37:3.94:16.75
+MGM:MGM Resorts International:9.19:2.66:11.3
+UHAL:AMERCO:9.19:2.77:8.88
+URI:United Rentals, Inc.:9.13:3.04:10.38
+KNX:Knight-Swift Transportation Ho:9.13:2.21:13.08
+KNOP:KNOT Offshore Partners LP:9.11:7.71:10.32
+TAX:Liberty Tax, Inc.:9.08:0.89:3.87
+TGNA:TEGNA Inc.:8.98:2.93:8.91
+GMLP:Golar LNG Partners LP:8.95:5.89:7.65
+SAB:Saratoga Investment Corp. NT 2:8.81:0:0
+CVTI:Covenant Transportation Group,:8.8:1.1:7.4
+LUV:Southwest Airlines Co.:8.73:1.46:6.99
+GWR:Genesee &amp; Wyoming Inc.:8.64:3.24:10.6
+CHTR:Charter Communications, Inc.:8.63:3.39:9.26
+PRTY:Party City Holdco Inc.:8.61:0:0
+HDS:HD Supply Holdings, Inc.:8.54:1.89:13.97
+DTV:DTE Energy Company CORPORATE U:8.53:0:0
+DISH:DISH Network Corporation:8.33:2.16:11.14
+AER:AerCap Holdings N.V.:8.24:6.97:14.48
+BOJA:Bojangles&#x27;, Inc.:8.2:1.24:9.79
+HRB:H&amp;R Block, Inc.:8.18:1.55:5.2
+MIC:Macquarie Infrastructure Corpo:8.15:3.95:11.7
+AMCX:AMC Networks Inc.:8.12:2.2:6.89
+NSC:Norfolk Southern Corporation:8.11:4.97:11.23
+ALK:Alaska Air Group, Inc.:8.09:1.09:5.46
+SBH:Sally Beauty Holdings, Inc.:8.05:0.96:6.29
+TRN:Trinity Industries, Inc.:7.73:2.09:10.2
+ISCA:International Speedway Corpora:7.68:2.95:9.34
+AAWW:Atlas Air Worldwide Holdings, :7.56:1.74:8.44
+LAWS:Lawson Products, Inc.:7.51:0.78:20.11
+NXST:Nexstar Media Group, Inc.:7.4:3.1:9.1
+CMCSA:Comcast Corporation:7.15:2.49:7.69
 LBRDK:Liberty Broadband Corporation:7.13:685.61:-1134.15
-ZNH:China Southern Airlines Compan:7.1:1.24:7.53
-IMKTA:Ingles Markets, Incorporated:7.03:0.38:6.35
-BBBY:Bed Bath &amp; Beyond Inc.:7.01:0.29:3.45
-CMCSA:Comcast Corporation:6.99:2.49:7.69
-CAR:Avis Budget Group, Inc.:6.97:1.81:17.3
-KR:The Kroger Co.:6.83:0.29:6.83
-BXC:BlueLinx Holdings Inc.:6.8:0.43:25.69
-M:Macy&#x27;s, Inc.:6.77:0.63:6.01
-MATX:Matson, Inc.:6.74:1.23:11.25
+TRCO:Tribune Media Company:7.09:2.98:12.08
+M:Macy&#x27;s, Inc.:7.06:0.62:5.95
+IMKTA:Ingles Markets, Incorporated:7.04:0.38:6.35
+BXC:BlueLinx Holdings Inc.:6.96:0.43:25.69
+KR:The Kroger Co.:6.86:0.29:6.83
+CAR:Avis Budget Group, Inc.:6.84:1.81:17.3
+BBBY:Bed Bath &amp; Beyond Inc.:6.74:0.29:3.45
+ZNH:China Southern Airlines Compan:6.7:1.24:7.53
+MATX:Matson, Inc.:6.64:1.23:11.25
 PENN:Penn National Gaming, Inc.:6.62:2.46:9.23
-GPI:Group 1 Automotive, Inc.:6.45:0.38:10.19
-PAG:Penske Automotive Group, Inc.:6.44:0.46:13.81
-SKYW:SkyWest, Inc.:6.36:1.54:7.11
-BH:Biglari Holdings Inc.:6.22:0.76:41.44
-GLP:Global Partners LP:6.18:0.2:7.02
-AL:Air Lease Corporation:6.01:9.12:0
-VIAB:Viacom, Inc.:6.0:1.68:7.35
-SBGI:Sinclair Broadcast Group, Inc.:5.76:2.38:8.92
-VEC:Vectrus, Inc.:5.75:0.35:9.58
-ATV:Acorn International, Inc.:5.72:1.55:-10.97
-ARII:American Railcar Industries, I:5.49:2.54:8.79
-JBLU:JetBlue Airways Corporation:5.44:0.92:4.69
-HA:Hawaiian Holdings, Inc.:5.34:0.7:3.17
-CAI:CAI International, Inc.:5.34:5.96:17.57
-TRK:Speedway Motorsports, Inc.:5.01:2.0:7.58
-R:Ryder System, Inc.:4.99:1.28:5.43
-KBR:KBR, Inc.:4.89:0.65:11.14
-GTN:Gray Television, Inc.:4.66:3.11:9.34
-GTN-A:Gray Television, Inc.:4.33:2.95:8.88
-HTZ:Hertz Global Holdings, Inc.:3.46:1.92:35.84
+PAG:Penske Automotive Group, Inc.:6.54:0.46:13.81
+SKYW:SkyWest, Inc.:6.43:1.54:7.11
+GPI:Group 1 Automotive, Inc.:6.32:0.38:10.19
+GLP:Global Partners LP:6.15:0.2:7.02
+BH:Biglari Holdings Inc.:6.12:0.76:41.44
+AL:Air Lease Corporation:5.97:9.12:0
+VEC:Vectrus, Inc.:5.92:0.35:9.58
+VIAB:Viacom, Inc.:5.89:1.68:7.35
+ATV:Acorn International, Inc.:5.75:1.55:-10.97
+JBLU:JetBlue Airways Corporation:5.51:0.92:4.69
+SBGI:Sinclair Broadcast Group, Inc.:5.5:2.38:8.92
+ARII:American Railcar Industries, I:5.44:2.54:8.79
+HA:Hawaiian Holdings, Inc.:5.36:0.7:3.17
+CAI:CAI International, Inc.:5.29:5.96:17.57
+KBR:KBR, Inc.:4.96:0.65:11.14
+TRK:Speedway Motorsports, Inc.:4.94:2.0:7.58
+R:Ryder System, Inc.:4.92:1.28:5.43
+GTN:Gray Television, Inc.:4.38:3.11:9.34
+GTN-A:Gray Television, Inc.:4.23:2.95:8.88
 NL:NL Industries, Inc.:3.44:3.2:40.21
+HTZ:Hertz Global Holdings, Inc.:3.23:1.92:35.84
 ETM:Entercom Communications Corp.:2.73:3.68:25.29
-ASPS:Altisource Portfolio Solutions:1.92:0.92:7.29
-GMTA:GATX Corporation SR NT 2066:1.91:0:0
-MDCA:MDC Partners Inc.:1.67:0.83:7.92
+ASPS:Altisource Portfolio Solutions:1.98:0.92:7.29
+GMTA:GATX Corporation SR NT 2066:1.92:0:0
+MDCA:MDC Partners Inc.:1.63:0.83:7.92
 EBAY:eBay Inc.:0.0:4.28:14.1
-LBTYA:Liberty Global plc:0.0:4.3:9.39
+LBTYA:Liberty Global plc:0.0:4.3:9.38
 DISCA:Discovery, Inc.:0.0:4.43:13.01
 MELI:MercadoLibre, Inc.:0.0:9.49:144.6
-LYV:Live Nation Entertainment, Inc:0.0:0.97:14.77
 W:Wayfair Inc.:0.0:2.06:-49.33
+LYV:Live Nation Entertainment, Inc:0.0:0.97:14.77
 NWSA:News Corporation:0.0:0.86:9.18
 JOBS:51job, Inc.:0.0:11.19:33.92
 AVT:Avnet, Inc.:0.0:0.34:9.06
 IGT:International Game Technology :0.0:2.47:8.39
 SGMS:Scientific Games Corporation:0.0:4.2:13.29
-LILAK:Liberty Latin America Ltd.:0.0:2.68:7.18
-SIG:Signet Jewelers Limited:0.0:0.63:5.58
 MMYT:MakeMyTrip Limited:0.0:4.8:-16.45
+LILAK:Liberty Latin America Ltd.:0.0:2.68:7.18
+SIG:Signet Jewelers Limited:0.0:0.61:5.43
 CHGG:Chegg, Inc.:0.0:11.27:552.56
 GLNG:Golar LNG Limited:0.0:28.32:3715.3
-AMC:AMC Entertainment Holdings, In:0.0:1.31:8.77
 P:Pandora Media, Inc.:0.0:1.25:-6.33
+AMC:AMC Entertainment Holdings, In:0.0:1.31:8.77
 SEAS:SeaWorld Entertainment, Inc.:0.0:2.69:13.17
 GES:Guess&#x27;, Inc.:0.0:0.65:9.78
-SCHL:Scholastic Corporation:0.0:0.79:12.28
 TTEC:TTEC Holdings, Inc.:0.0:1.24:9.96
+SCHL:Scholastic Corporation:0.0:0.79:12.28
 TIVO:TiVo Corporation:0.0:2.9:11.27
-TGP:Teekay LNG Partners L.P.:0.0:9.18:13.98
-SSW:Seaspan Corporation:0.0:6.42:11.19
-EGL:Engility Holdings, Inc.:0.0:1.1:11.91
-DIN:Dine Brands Global, Inc.:0.0:4.37:12.94
 KTOS:Kratos Defense &amp; Security :0.0:1.84:30.45
+TGP:Teekay LNG Partners L.P.:0.0:9.18:13.98
+EGL:Engility Holdings, Inc.:0.0:1.1:11.91
+SSW:Seaspan Corporation:0.0:6.42:11.19
+DIN:Dine Brands Global, Inc.:0.0:4.37:12.94
 CECO:Career Education Corporation:0.0:1.73:12.66
 CATM:Cardtronics plc:0.0:1.4:6.32
 SCOR:comScore, Inc.:0.0:3.17:-8.53
 BEL:Belmond Ltd.:0.0:3.13:19.4
-SSP:The E.W. Scripps Company:0.0:1.88:19.64
 WAIR:Wesco Aircraft Holdings, Inc.:0.0:1.33:14.95
+SSP:The E.W. Scripps Company:0.0:1.88:19.64
 HMHC:Houghton Mifflin Harcourt Comp:0.0:1.21:18.84
-HURN:Huron Consulting Group Inc.:0.0:1.75:14.28
 SPTN:SpartanNash Company:0.0:0.2:7.76
+HURN:Huron Consulting Group Inc.:0.0:1.75:14.28
 FRO:Frontline Ltd.:0.0:4.45:15.59
 EROS:Eros International Plc:0.0:4.28:17.16
 RGS:Regis Corporation:0.0:0.46:8.35
-FRGI:Fiesta Restaurant Group, Inc.:0.0:1.34:18.39
-TK:Teekay Corporation:0.0:2.88:8.75
 GCO:Genesco Inc.:0.0:0.31:5.26
+FRGI:Fiesta Restaurant Group, Inc.:0.0:1.34:18.39
 LL:Lumber Liquidators Holdings, I:0.0:0.72:24.02
+TK:Teekay Corporation:0.0:2.88:8.75
 HSII:Heidrick &amp; Struggles Inter:0.0:0.96:10.01
 INSW:International Seaways, Inc.:0.0:4.57:84.63
-GNK:Genco Shipping &amp; Trading L:0.0:3.48:11.8
-TISI:Team, Inc.:0.0:0.88:71.16
-WBAI:500.com Limited:0.0:21.41:-12.15
 VLRS:Controladora Vuela Compa\xc3\x:0.0:0.33:30.84
+TISI:Team, Inc.:0.0:0.88:71.16
+GNK:Genco Shipping &amp; Trading L:0.0:3.48:11.8
 MG:Mistras Group, Inc.:0.0:1.03:13.25
+WBAI:500.com Limited:0.0:21.41:-12.15
+NDLS:Noodles &amp; Company:0.0:1.23:18.24
 SALT:Scorpio Bulkers Inc.:0.0:6.5:21.15
 RPXC:RPX Corporation:0.0:0:0
-NDLS:Noodles &amp; Company:0.0:1.23:18.24
 ATTO:Atento S.A.:0.0:0.49:5.45
 TEDU:Tarena International, Inc.:0.0:0.94:15.75
-AQ:Aquantia Corp.:0.0:3.25:333.78
 SFS:Smart &amp; Final Stores, Inc.:0.0:0.23:6.73
-EGLE:Eagle Bulk Shipping Inc.:0.0:0:0
+AQ:Aquantia Corp.:0.0:3.25:333.78
 RRD:R.R. Donnelley &amp; Sons Comp:0.0:0.34:5.51
 BKS:Barnes &amp; Noble, Inc.:0.0:0.15:5.05
+EGLE:Eagle Bulk Shipping Inc.:0.0:0:0
 YRCW:YRC Worldwide Inc.:0.0:0.23:4.71
 FC:Franklin Covey Co.:0.0:1.97:45.04
 PBPB:Potbelly Corporation:0.0:0.67:8.41
 TITN:Titan Machinery Inc.:0.0:0.57:16.76
 ERA:Era Group Inc.:0.0:2.01:20.47
 REIS:Reis, Inc.:0.0:5.28:31.91
-ASC:Ardmore Shipping Corporation:0.0:3.54:17.07
 BNED:Barnes &amp; Noble Education, :0.0:0.2:3.44
+ASC:Ardmore Shipping Corporation:0.0:3.54:17.07
 DFRG:Del Frisco&#x27;s Restaurant G:0.0:0.76:7.62
 LQDT:Liquidity Services, Inc.:0.0:0.49:-4.99
 RAIL:FreightCar America, Inc.:0.0:0.26:-3.65

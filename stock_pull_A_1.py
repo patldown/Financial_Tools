@@ -14,8 +14,9 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 import threading
 from graphics_A_0 import *
 from operator import *
+import aiohttp
 import asyncio
-from aiohttp import ClientSession
+import async_timeout
 
 
 class asset:
@@ -333,32 +334,39 @@ def download_data():
     handle.write(portfolio + '\n')
     handle.close()
 
-def draw_stats(ticker, data_set, x):
-    print(ticker)
-    link = os.path.join(r'https://finance.yahoo.com/quote', ticker, 'key-statistics?p=' + ticker)
+async def draw_stats(ticker, data_set, x):
+    with async_timeout.timeout(10):
+        print(ticker)
+        link = os.path.join(r'https://finance.yahoo.com/quote', ticker, 'key-statistics?p=' + ticker)
 
-    response = urllib.request.urlopen(link)
-    html = response.readlines()
-    response.close()
-    for line in html:
-        line = str(line)
-        if 'Enterprise Value/Revenue' in line:
-            EV_rev = str(line.split('Enterprise Value/Revenue')[1].split('>')[9].split('<')[0]).replace(',', '')
-        if 'Enterprise Value/EBITDA' in line:
-            EV_EBITDA = str(line.split('Enterprise Value/EBITDA')[1].split('>')[9].split('<')[0]).replace(',', '')
+        response = urllib.request.urlopen(link)
+        html = response.readlines()
+        response.close()
+        for line in html:
+            line = str(line)
+            if 'Enterprise Value/Revenue' in line:
+                EV_rev = str(line.split('Enterprise Value/Revenue')[1].split('>')[9].split('<')[0]).replace(',', '')
+            if 'Enterprise Value/EBITDA' in line:
+                EV_EBITDA = str(line.split('Enterprise Value/EBITDA')[1].split('>')[9].split('<')[0]).replace(',', '')
 
-    try:
-        EV_rev = float(EV_rev.strip())
-    except:
-        EV_rev = 0
-    try:
-        EV_EBITDA = float(EV_EBITDA.strip())
-    except:
-        EV_EBITDA = 0
-    
-    data_set[x].append(EV_rev)
-    data_set[x].append(EV_EBITDA)
+        try:
+            EV_rev = float(EV_rev.strip())
+        except:
+            EV_rev = 0
+        try:
+            EV_EBITDA = float(EV_EBITDA.strip())
+        except:
+            EV_EBITDA = 0
+        
+        data_set[x].append(EV_rev)
+        data_set[x].append(EV_EBITDA)
 
+async def main(loop, data):
+    x = 0
+    async with aiohttp.ClientSession(loop=loop) as session:
+        tasks = [draw_stats(data[data.index(item)][0], data, data.index(item)) for item in data]
+        await asyncio.gather(*tasks)
+        
 def update_sector_populations():
     
     import urllib.request
@@ -394,18 +402,9 @@ def update_sector_populations():
                             data.append([sobj, name[:30], float(p_e)])
             offset += 100
 
-        size = len(data)
-        x = 0
-        b_thrds = threading.active_count()
-        while x < size:
-            z = threading.Thread(target = draw_stats, args = [data[x][0], data, x])
-            z.start()
-            x += 1
-            while threading.active_count() > 10:
-                0
-
-        while threading.active_count() > b_thrds:
-            0
+        ### asyncio loop to run through tickers and update
+        loop = asyncio.get_event_loop()
+        loop.run_until_complete(main(loop, data))
 
         data.sort(key = itemgetter(2), reverse=True)
 
@@ -444,17 +443,6 @@ def reg_overlay(function = reg_call):
                 x += 1
     print(new_dict)
 
-def async_handler(nlist, data_set, x):
-    loop = asyncio.get_event_loop()
-    start = time.time()
-    tasks = []
-    for ticker in nlist:
-        task = asyncio.ensure_future(draw_stats(ticker, data_set, x))
-        tasks.append(task)
-    loop.run_until_complete(asyncio.wait(tasks))
-    print('Completed in:', str(time.time() - start))
-    
-
 
 if __name__ == '__main__':
-   async_handler(nlist)
+   update_sector_populations()

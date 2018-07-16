@@ -43,8 +43,6 @@ class gui:
 
         self.main_screen()
         
-        
-
     def clear_frame(self):
         for widget in self.master.winfo_children():
             widget.destroy()
@@ -66,9 +64,9 @@ class gui:
                     line = line.strip().split(':')
                     # filename : ticker : [name, E/P]
                     try:
-                        self.mdict[file][line[0]] = [line[1], float(line[2])]
+                        self.mdict[file][line[0]] = [line[1], float(line[2]), float(line[3]), float(line[4])]
                     except:
-                        self.mdict[file] = {line[0] : [line[1], float(line[2])]}
+                        self.mdict[file] = {line[0] : [line[1], float(line[2]), 0, 0]}
                 handle.close()
 
         ### Drawing up listboxes to work with port editor
@@ -85,24 +83,40 @@ class gui:
         frame2 = Frame(self.master, background = self.widget_color)
         ###########################
         tlabel = Label(frame2, text = 'Tickers by E/P', background = self.widget_color, fg = self.wtext_color)
-        self.tlistbox = Listbox(frame2, height = 35, selectmode=MULTIPLE)
-        tButton = Button(frame2, text = 'Add', command = lambda: self.update_mlistbox(self.tlistbox.curselection()))
+        self.tlistbox = Listbox(frame2, height = 35, selectmode=EXTENDED)
+        
 
+        Filter_Frame = Frame(frame2)
+        F1Button = Button(Filter_Frame, text = 'fEPS', command = lambda: self.update_tlistbox(slistbox.get(ACTIVE), Filter = 'EPS'))
+        F2Button = Button(Filter_Frame, text = 'fEV/Revenue', command = lambda: self.update_tlistbox(slistbox.get(ACTIVE), Filter = 'EV_REV'))
+        F3Button = Button(Filter_Frame, text = 'fEV/EBITDA', command = lambda: self.update_tlistbox(slistbox.get(ACTIVE), Filter = 'EV_EBITDA'))
+        tButton = Button(frame2, text = 'Add', command = lambda: self.update_mlistbox(self.tlistbox.curselection()))
+        jButton = Button(frame2, text = 'Difference', command = lambda: self.difference(self.tlistbox.curselection(), self.tlistbox, self.mlistbox))
 
         frame3 = Frame(self.master, background = self.widget_color)
         ###########################
         mlabel = Label(frame3, text = 'Your Picks', background = self.widget_color, fg = self.wtext_color)
-        self.mlistbox = Listbox(frame3, height = 35, selectmode=MULTIPLE)
-        removeButton = Button(frame3, text = 'Remove', command = lambda: self.ritem_mlistbox(self.mlistbox.curselection()))
-        saveButton = Button(frame3, text = 'Export', command = self.save_new_port)
+        self.mlistbox = Listbox(frame3, height = 35, selectmode=EXTENDED)
+        removeButton = Button(frame3, text = 'Remove', command = lambda: self.ritem_listbox(self.mlistbox, self.mlistbox.curselection()))
+        saveButton = Button(frame3, text = 'Export', command = lambda: self.save_new_port(self.mlistbox))
 
+        ### Packing occurs below this
         slabel.pack()
         slistbox.pack()
         sButton.pack()
         frame1.pack(side = LEFT, anchor = 'n')
         tlabel.pack()
         self.tlistbox.pack()
+        
+        F1Button.pack(side = LEFT)
+        F2Button.pack(side = LEFT)
+        F3Button.pack(side = LEFT)
+        
+        Filter_Frame.pack()
+
         tButton.pack()
+        jButton.pack()
+        
         frame2.pack(side = LEFT, anchor = 'n')
         mlabel.pack()
         self.mlistbox.pack()
@@ -111,6 +125,9 @@ class gui:
         frame3.pack(side = LEFT, anchor = 'n')
 
     def plot_view(self):
+        '''
+           Deals with plot window setup
+        '''
         ### clear window
         self.clear_frame()
 
@@ -119,7 +136,7 @@ class gui:
         flabel = Label(frame1, text = 'Currently Downloaded')
         self.flistbox = Listbox(frame1, height = 35)
         fButton = Button(frame1, text = 'Graph', command = lambda: self.plot_file(self.flistbox.get(ACTIVE)))#threading.Thread(target = self.plot_file, args =[self.flistbox.get(ACTIVE)]).start())#
-        dButton = Button(frame1, text = 'Remove', command = '')
+        dButton = Button(frame1, text = 'Remove', command = lambda: self.ritem_listbox2(self.plistbox, self.flistbox.get(ACTIVE)))
         
         for file in os.listdir(os.getcwd()):
             if '.csv' in file.lower() and 'combination' not in file.lower():
@@ -141,6 +158,7 @@ class gui:
             self.plistbox.insert(END, line.strip())
 
         self.plistbox.config(width=0)
+        pbutton = Button(frame2, text = 'Save', command = lambda: self.save_new_port(self.plistbox))
 
         ### Pack the goods
         flabel.pack()
@@ -151,6 +169,7 @@ class gui:
 
         plabel.pack()
         self.plistbox.pack()
+        pbutton.pack()
         frame2.pack(side = LEFT, anchor = 'n')
 
     def plot_file(self, file):
@@ -192,7 +211,7 @@ class gui:
         max_rng = max(Y) + (max(Y) * .1)
 
         ### creates population plot here
-        fig = mpl.figure.Figure(figsize=(10, 8))
+        fig = mpl.figure.Figure(figsize=(7, 8))
         ax = fig.add_subplot(211)
         ax.plot(X, Y)
         ax.plot(X,I, '--')
@@ -221,21 +240,35 @@ class gui:
         ### returns to mainloop
         tk.mainloop()
 
-    def save_new_port(self):
-        x = filedialog.asksaveasfilename(initialdir = os.getcwd())
+    def save_new_port(self, listbox):
+        x = filedialog.asksaveasfilename(initialdir = os.getcwd(),filetypes=(('Text files', '*.txt'), ('All files', '*.*')))
         handle = open(x, 'w')
         handle.close()
-        for i, listbox_entry in enumerate(self.mlistbox.get(0, END)):
+        for i, listbox_entry in enumerate(listbox.get(0, END)):
             handle = open(x, 'a')
             handle.write(listbox_entry + '\n')
             handle.close()
 
-    def ritem_mlistbox(self, choices):
+    def ritem_listbox2(self, listbox, choices):
+        '''
+           listbox = listbox to remove from
+           choices = choices to remove from beforementioned listbox
+           Deals with removing stocks from current portfolio
+        '''
+        if isinstance(choices, (list,)) == False:
+            choices = [choices]
+        for i, listbox_entry in enumerate(listbox.get(0, END)):
+            for choice in choices:
+                if choice.split('.')[0] in listbox_entry:
+                    listbox.delete(i)
+        
+
+    def ritem_listbox(self, listbox, choices):
         choices = list(choices)
         choices.sort(reverse = True)
         print(choices)
         for item in choices:
-            self.mlistbox.delete(item)
+            listbox.delete(item)
         self.mlistbox.config(width=0)
 
     def update_mlistbox(self, choices):
@@ -252,7 +285,7 @@ class gui:
         #self.tlistbox.delete(ANCHOR)
         
     
-    def update_tlistbox(self, choice):
+    def update_tlistbox(self, choice, Filter = 'EPS'):
         '''
            handles updating sector specific stocks for the gui
            renames the sector to the associated file to draw information
@@ -271,7 +304,12 @@ class gui:
 
         #add area to sort tickers
 
-        temp_dict = sorted(self.mdict[choice].items(), key=lambda kv: kv[1][1], reverse = True)
+        if Filter == 'EPS':
+            temp_dict = sorted(self.mdict[choice].items(), key=lambda kv: kv[1][1], reverse = True)
+        elif Filter == 'EV_REV':
+            temp_dict = sorted(self.mdict[choice].items(), key=lambda kv: kv[1][2], reverse = True)
+        elif Filter == 'EV_EBITDA':
+            temp_dict = sorted(self.mdict[choice].items(), key=lambda kv: kv[1][3], reverse = True)
         
         #print(temp_dict)
         
@@ -279,10 +317,29 @@ class gui:
         for key, value in temp_dict:
             s = max_len - len(value[0])
             s = s * ' '
-            self.tlistbox.insert(END, key + ':' + value[0] + ' (P/E ratio: ' + str(value[1]) + ')')
+            
+            if Filter == 'EPS':
+                self.tlistbox.insert(END, key + ':' + value[0] + ' (P/E ratio: ' + str(value[1]) + ')')
+            elif Filter == 'EV_REV':
+                self.tlistbox.insert(END, key + ':' + value[0] + ' (EV/Revenue: ' + str(value[2]) + ')')
+            elif Filter == 'EV_EBITDA':
+                self.tlistbox.insert(END, key + ':' + value[0] + ' (EV/EBITDA: ' + str(value[3]) + ')')
 
         #reconfigs window
         self.tlistbox.config(width=0)
+
+    def difference(self, selection1, listbox1, listbox2):
+        potentials = []
+        for select in selection1:
+            #print(self.tlistbox.get(item), self.mlistbox.get(0, "end"))
+            potentials = [listbox1.get(select).split(':')[0]]
+
+        for i, listbox_entry in enumerate(listbox2.get(0, END)):
+            if listbox_entry.split(':')[0] not in potentials:
+                listbox2.delete(i)
+                
+        self.mlistbox.config(width=0)
+        
                 
     def menu_(self):
         # menu
@@ -308,6 +365,8 @@ class gui:
         self.viewsmenu.add_command(label="Sector/Stock (P/E Ratio) View", command = self.stocks_by_sector)
         self.viewsmenu.add_separator()
         self.viewsmenu.add_command(label="Run Charts View", command = self.plot_view)
+        self.viewsmenu.add_separator()
+        self.viewsmenu.add_command(label="Portfolio Results", command = self.portfolio_view)
         self.menubar.add_cascade(label = "Views", menu = self.viewsmenu)
         
         
@@ -330,8 +389,47 @@ class gui:
         
         self.pbar = ttk.Progressbar(self.master, length = self.width)
         self.pbar.pack(side = BOTTOM)
+
+    def portfolio_view(self):
+        ### splice portfolio data from excel
+
+        self.clear_frame()
+        home = os.getcwd()
+        port_fldr = os.path.join(home, 'Results')
+
+        
+        for file in os.listdir(port_fldr):
+            if 'nfile' not in locals():
+                nfile = file
+            elif os.stat(os.path.join(port_fldr, file)).st_mtime > os.stat(os.path.join(port_fldr, nfile)).st_mtime:
+                nfile = file
+
+        print(nfile)
+
+        handle = open(os.path.join(port_fldr, nfile), 'r', newline = '')
+        reader = handle.readlines()
+        for line in reader:
+            nline = line.strip().split(',')
+            if 'Weights' in nline[0]:
+                loc = reader.index(line) - 1
+                break
+
+        header = reader[loc].split(',')[1:]
+        values = reader[loc+4].split(',')[1:]
+        prices = reader[loc+5].split(',')[1:]
+        ret = float(reader[loc+7].split(',')[1]) * 365 + 1
+
+
+        data = {}
+        x = 0
+        while x < len(header):
+            data[header[x]] = [values[x], prices[x]]
     
     def params_window(self):
+        '''
+           Set parameters for general use
+        '''
+        
         w = Toplevel()
         w.configure(background = self.widget_color2)
 
