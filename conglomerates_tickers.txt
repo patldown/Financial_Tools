@@ -1,8 +1,8 @@
-CODI:Compass Diversified Holdings L:247.08:1.47:11.65
-AGFS:AgroFresh Solutions, Inc.:15.58:4.2:11.95
-REX:REX American Resources Corpora:10.87:0.71:7.12
-HRG:HRG Group, Inc.:6.07:1.46:9.49
-IEP:Icahn Enterprises L.P.:4.88:1.14:9.27
+CODI:Compass Diversified Holdings L:248.47:1.47:11.65
+HRG:Spectrum Brands Holdings, Inc.:37.14:1.46:9.49
+AGFS:AgroFresh Solutions, Inc.:15.69:4.2:11.95
+REX:REX American Resources Corpora:10.88:0.71:7.12
+IEP:Icahn Enterprises L.P.:5.15:1.14:9.27
 SPLP:Steel Partners Holdings L.P.:0.0:0.52:5.08
 PICO:PICO Holdings, Inc.:0.0:162.89:-23.51
 GMRE:Global Medical REIT Inc.:0.0:0:0
